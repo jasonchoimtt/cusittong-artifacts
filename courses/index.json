@@ -1,0 +1,299 @@
+{
+  "info": {
+    "languages": {
+      "ENG": "English",
+      "ZHS": "Simplified Chinese",
+      "ZHT": "Traditional Chinese"
+    }
+  },
+  "terms": {
+    "16M": {
+      "careers": {
+        "PGDE": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - PGDE",
+              "ZHS": "Postgraduate - PGDE",
+              "ZHT": "學位教師教育文憑生"
+            }
+          }
+        },
+        "RPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Research",
+              "ZHS": "Postgraduate - Research",
+              "ZHT": "研究式課程研究生"
+            }
+          }
+        },
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught",
+              "ZHS": "Postgraduate - Taught",
+              "ZHT": "修讀式課程研究生"
+            }
+          }
+        },
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate",
+              "ZHS": "Undergraduate",
+              "ZHT": "本科生"
+            }
+          }
+        }
+      },
+      "file": "1940.json",
+      "info": {
+        "name": {
+          "ENG": "2016-17 Acad Year (Medicine)",
+          "ZHS": "2016-17 Acad Year (Medicine)",
+          "ZHT": "2016-17 學年"
+        }
+      }
+    },
+    "16S": {
+      "careers": {
+        "PGDE": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - PGDE",
+              "ZHS": "Postgraduate - PGDE",
+              "ZHT": "學位教師教育文憑生"
+            }
+          }
+        },
+        "RPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Research",
+              "ZHS": "Postgraduate - Research",
+              "ZHT": "研究式課程研究生"
+            }
+          }
+        },
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught",
+              "ZHS": "Postgraduate - Taught",
+              "ZHT": "修讀式課程研究生"
+            }
+          }
+        },
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate",
+              "ZHS": "Undergraduate",
+              "ZHT": "本科生"
+            }
+          }
+        }
+      },
+      "file": "1990.json",
+      "info": {
+        "name": {
+          "ENG": "2016-17 Summer Session",
+          "ZHS": "2016-17 Summer Session",
+          "ZHT": "2016-17 學年暑期課程"
+        }
+      }
+    },
+    "16T1": {
+      "careers": {
+        "PGDE": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - PGDE",
+              "ZHS": "Postgraduate - PGDE",
+              "ZHT": "學位教師教育文憑生"
+            }
+          }
+        },
+        "RPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Research",
+              "ZHS": "Postgraduate - Research",
+              "ZHT": "研究式課程研究生"
+            }
+          }
+        },
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught",
+              "ZHS": "Postgraduate - Taught",
+              "ZHT": "修讀式課程研究生"
+            }
+          }
+        },
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate",
+              "ZHS": "Undergraduate",
+              "ZHT": "本科生"
+            }
+          }
+        }
+      },
+      "file": "1945.json",
+      "info": {
+        "name": {
+          "ENG": "2016-17 Term 1",
+          "ZHS": "2016-17 Term 1",
+          "ZHT": "2016-17 學年第一學期"
+        }
+      }
+    },
+    "16T2": {
+      "careers": {
+        "PGDE": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - PGDE",
+              "ZHS": "Postgraduate - PGDE",
+              "ZHT": "學位教師教育文憑生"
+            }
+          }
+        },
+        "RPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Research",
+              "ZHS": "Postgraduate - Research",
+              "ZHT": "研究式課程研究生"
+            }
+          }
+        },
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught",
+              "ZHS": "Postgraduate - Taught",
+              "ZHT": "修讀式課程研究生"
+            }
+          }
+        },
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate",
+              "ZHS": "Undergraduate",
+              "ZHT": "本科生"
+            }
+          }
+        }
+      },
+      "file": "1955.json",
+      "info": {
+        "name": {
+          "ENG": "2016-17 Term 2",
+          "ZHS": "2016-17 Term 2",
+          "ZHT": "2016-17 學年第二學期"
+        }
+      }
+    },
+    "16T3": {
+      "careers": {
+        "PGDE": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - PGDE",
+              "ZHS": "Postgraduate - PGDE",
+              "ZHT": "學位教師教育文憑生"
+            }
+          }
+        },
+        "RPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Research",
+              "ZHS": "Postgraduate - Research",
+              "ZHT": "研究式課程研究生"
+            }
+          }
+        },
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught",
+              "ZHS": "Postgraduate - Taught",
+              "ZHT": "修讀式課程研究生"
+            }
+          }
+        },
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate",
+              "ZHS": "Undergraduate",
+              "ZHT": "本科生"
+            }
+          }
+        }
+      },
+      "file": "1965.json",
+      "info": {
+        "name": {
+          "ENG": "2016-17 Term 3",
+          "ZHS": "2016-17 Term 3",
+          "ZHT": "2016-17 學年第三學期"
+        }
+      }
+    },
+    "16T4": {
+      "careers": {
+        "PGDE": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - PGDE",
+              "ZHS": "Postgraduate - PGDE",
+              "ZHT": "學位教師教育文憑生"
+            }
+          }
+        },
+        "RPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Research",
+              "ZHS": "Postgraduate - Research",
+              "ZHT": "研究式課程研究生"
+            }
+          }
+        },
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught",
+              "ZHS": "Postgraduate - Taught",
+              "ZHT": "修讀式課程研究生"
+            }
+          }
+        },
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate",
+              "ZHS": "Undergraduate",
+              "ZHT": "本科生"
+            }
+          }
+        }
+      },
+      "file": "1970.json",
+      "info": {
+        "name": {
+          "ENG": "2016-17 Term 4",
+          "ZHS": "2016-17 Term 4",
+          "ZHT": "2016-17 學年第四學期"
+        }
+      }
+    }
+  }
+}
