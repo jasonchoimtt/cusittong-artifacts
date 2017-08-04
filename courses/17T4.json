@@ -1,0 +1,2742 @@
+{
+  "careers": {
+    "TPG": {
+      "courses": {
+        "ACCT5650": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "19/05/2018 - 19/05/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT5650",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Co Law & Security Law of China 中國公司法與証券法"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "09/06/2018 - 09/06/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT5650",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Co Law & Security Law of China 中國公司法與証券法"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course provides an introduction to the legal system of China’s capital market. Topics covered include: the corporate governance of companies, the process of companies going-public, the information disclosure requirement of listed companies, and security trading regulations in China.",
+              "ZHS": "本科目提供对中国公司法与证券法的简介。主要内容包括公司管治、公司上市程式、资讯披露的有关规定和要求及中国证券交易的有关法规。",
+              "ZHT": "本科目提供對中國公司法與証券法的簡介。主要內容包括公司管治、公司上市程式、資訊披露的有關規定和要求及中國証券交易的有關法規。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Company Law and Security Law of China",
+              "ZHS": "中国公司法和证券法",
+              "ZHT": "中國公司法與証券法"
+            },
+            "units": "1.50"
+          }
+        },
+        "ACCT6140": {
+          "groups": {
+            "C": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "21/05/2018 - 24/07/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT6140",
+              "group": "C",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Acct Info Sys & Internal Contr 會計信息系統和內部控制"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course consists of two related areas. This first part analyzes information systems from a management control perspective, emphasizing organization environment, technology, decision models and performance evaluation as determinants of information processing requirements; cases and design projects explore the management of information processing systems, major functional applications and impacts of information technology on individuals and society. The second part introduces the systems, procedures, and processes management employed to control operating activities, information reporting systems, and compliance with applicable laws, rules and regulations. Topics include design and evaluation perspectives of control environment, risk assessment, control activities , information and communication and monitoring.",
+              "ZHS": "",
+              "ZHT": "本科目由兩個相關的領域組成。第一部分從管理控制的角度分析資訊系統，強調組織環境、技術、決策模型以及績效評估在資訊處理過程中的決定性作用; 以案例和類比專案的形式來探究資訊處理系統的管理、主要功能的應用以及資訊技術對個人和社會的影響。第二部分介紹如何採用資訊系統、資訊程式和流程管理模組來控制作業、控制資訊報告系統、控制相應法律法規的遵守。討論內容包括：設計控制環境、風險評估、控制活動、資訊、溝通、監控，並對之加以評估。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Executive Master of Professional Accountancy; or Master of Accountancy",
+            "title": {
+              "ENG": "Accounting Information Systems and Internal Control",
+              "ZHS": "会计信息系统和内部控制",
+              "ZHT": "會計信息系統和內部控制"
+            },
+            "units": "3.00"
+          }
+        },
+        "DSME6350": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "30/06/2018 - 07/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "DSME6350",
+              "group": "A",
+              "instructors": [
+                "Professor CHONG Tai Leung"
+              ],
+              "short_title": "Financial Data Modeling & Anal 金融數據建模與分析"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/07/2018 - 14/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "DSME6350",
+              "group": "B",
+              "instructors": [
+                "Professor CHONG Tai Leung"
+              ],
+              "short_title": "Financial Data Modeling & Anal 金融數據建模與分析"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course is designed to cover mathematical and statistical/econometric techniques to financial issues, i.e. regression, time-series methods, forecasting models and simulation in financial applications. It shows students how to apply such techniques in the context of finance. For example, discussion of a number of distributions pays special attention to heavy tail, skewness and other distribution features with regard to financial return analysis. Time-series analyses aim to explain the important influence of time-dependence in making economical predictions. Regression models cover CAPM as well as multifactor models to connote the cross-section relations among financial returns. GARCH and other volatility models introduce the related applications in risk management context. The course involves extensive use of real data examples and hands-on examples.",
+              "ZHS": "本科目讲授在金融分析方面如何运用数学，统计学与计量经济学方面的知识。内容包括金融数据的回归与时间序列分析，预测与模拟及其在金融领域的应用。例如，本科目将讲解如何应用概率模型进行投资回报分析，时间性因素对经济预测的影响，回归分析与资本资产定价建模，以及各种风控模型的应用。本科目将广泛采用真实金融数据为例并进行实际分析操作。",
+              "ZHT": "本科目講授在金融分析方面如何運用數學，統計學與計量經濟學方面的知識。內容包括金融數據的回歸與時間序列分析，預測與模擬及其在金融領域的應用。例如，本科目將講解如何應用概率模型進行投資回報分析，時間性因素對經濟預測的影響，回歸分析與資本資產定價建模，以及各種風控模型的應用。本科目將廣泛採用真實金融數據為例並進行實際分析操作。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Financial Data Modeling and Analysis",
+              "ZHS": "金融数据建模与分析",
+              "ZHT": "金融數據建模與分析"
+            },
+            "units": "1.50"
+          }
+        },
+        "EMBA6062": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "EF1": {
+                  "class": "EF1",
+                  "component": "FLD",
+                  "department": "Div of Business Administration",
+                  "language": "C&E&P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "12/05/2018 - 12/05/2018",
+                      "time": {
+                        "begin": 525,
+                        "end": 1125,
+                        "str": "Sa 08:45AM - 06:45PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6062",
+              "group": "AE",
+              "instructors": [
+                "Professor CHAN Chi Bong Dominic"
+              ],
+              "short_title": "Selected Topics in Bus & Magt 商業與管理專題討論"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Field Studies/Field-trip": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to expose our participants to a wide spectrum of global, regional and local business and management issues.  To facilitate effective learning, specific topics will be selected for incorporating in this course: examples include trade, economics, technology, finance, market, ventures, politics, corporate governance, management practices, as well as various societal concerns.  Throughout this course, lectures, talks, and site visits, in the local and/or international arena, will be conducted to enable participants to identify in-depth the gist behind certain selected management and business topics and to come up with insights to help corporations make better decisions in the future. This course consists of an introductory review, followed by an intensive study week in the local and/or international arena. Participants have to report their learning and insights with other students after the study week.",
+              "ZHS": "",
+              "ZHT": "本科目旨在讓學生了解廣泛的環球、地區和本地工商管理議題。為強化學習，本科目特別選取了一系列議題，包括貿易、經濟、科技、金融、市場、創投、政治、企業管治、管理實務以及各種社會議題。學生將在本地和/或國際場合參加講座、演講和實地考察，深入了解科目涉及的工商管理基本概念，並就改善企業未來決策提出建言。內容包括課程簡介，以及隨後開展的本地和/或國際範圍內的深入研究周。學生在研究周後將與其他同學合作，報告學習心得。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Selected Topics in Business and Management",
+              "ZHS": "商业与管理专题讨论",
+              "ZHT": "商業與管理專題討論"
+            },
+            "units": "3.00"
+          }
+        },
+        "EMBA6071": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "EF1": {
+                  "class": "EF1",
+                  "component": "FLD",
+                  "department": "Div of Business Administration",
+                  "language": "C&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "19/05/2018 - 19/05/2018",
+                      "time": {
+                        "begin": 525,
+                        "end": 1125,
+                        "str": "Sa 08:45AM - 06:45PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6071",
+              "group": "AE",
+              "instructors": [
+                "Professor CHAN Chi Fai Andrew"
+              ],
+              "short_title": "Global Bus & Mgt Field Study 環球工商管理考察研究"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Field Studies/Field-trip": "Required",
+              "Lecture": "Optional"
+            },
+            "description": {
+              "ENG": "This course consists of preparatory assignments and a written study plan, followed by a five-day study week in a selected place outside Hong Kong. Students have to submit a written report and make oral presentation of their work. The goal in taking classroom sessions abroad is to expose our participants to a wide spectrum of issues related to global business and management. Students will be exposed to different national environments, advantages and problems associated with various forms of international operations, and management strategies of international firms.",
+              "ZHS": "",
+              "ZHT": "本科目要求學生在做足準備工作，並制定書面研究計劃後，在香港境外的指定地點展開為期五天的考察周。學生需要提交關於考察工作的書面報告，並做口頭報告。將課室教學擴展到香港境外，目的是讓學生探索環球工商管理涉及的諸多議題。學生能藉此接觸到不同的國家環境、多種國際商業經營模式及其各自優劣，以及跨國企業的管理策略。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Global Business and Management Field Study",
+              "ZHS": "环球工商管理考察研究",
+              "ZHT": "環球工商管理考察研究"
+            },
+            "units": "3.00"
+          }
+        },
+        "FINA5010": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "05/05/2018 - 05/05/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA5010",
+              "group": "AE",
+              "instructors": [
+                "Professor Paul Brian MCGUINNESS"
+              ],
+              "short_title": "Financial Management 財務管理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This offering provides an overview and analysis of financial decision-making within the corporate setting. Various facets of financial management are tackled from both theoretical and applied perspectives. Key topic areas include capital budgeting, the concept of risk and expected returns, valuation of stocks and bonds, capital structure theory and its applications, cost of capital, corporate dividend policy, working capital management and equity fund-raising methods.",
+              "ZHS": "",
+              "ZHT": "本學科提供了企業環境中財務決策的概覽及分析。從理論和應用的觀點，去應對各個方面的財務管理。重要課題包括資本預算，風險概念和預期收益，股票和債券估值，資本結構理論及其應用，資本成本，企業股利政策，營運資本管理和股權集資的方法。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese); or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Financial Management",
+              "ZHS": "财务管理",
+              "ZHT": "財務管理"
+            },
+            "units": "3.00"
+          }
+        },
+        "FINA6122": {
+          "groups": {
+            "C": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "21/05/2018 - 24/07/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6122",
+              "group": "C",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Fin Markets & Instruments 金融市場與工具"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "Financial markets play a pivotal and central role in the formation of investment capital and, therefore, societal wealth. This function, in addition to many others, is explored in this course. Attention will also focus on the forms and structures of financial markets (i.e., stock, futures, gold and foreign exchange markets) both locally and internationally. Within this brief, detailed consideration is also given to the various institutions participating in the markets and to the form and functions of instruments quoted.",
+              "ZHS": "",
+              "ZHT": "金融市場在籌集投資資本過程中起著至關重要的作用，從而對社會財富的形成也會產生重要影響。本科目研究金融市場的這一功能，同時也研究其他諸多功能。科目重點關注國際、國內金融市場的特徵和結構（如股票、債券、衍生品、黃金市場及外匯市場）。同時，詳細論述金融市場上的各種參與主體以及金融工具的功能和特徵。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA; or Master of Accountancy; or Executive Master of Professional Accountancy",
+            "title": {
+              "ENG": "Financial Markets and Instruments",
+              "ZHS": "金融市场与工具",
+              "ZHT": "金融市場與工具"
+            },
+            "units": "3.00"
+          }
+        },
+        "FINA6511": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "09/06/2018 - 09/06/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6511",
+              "group": "A",
+              "instructors": [
+                "Professor YEH Jia Hsing"
+              ],
+              "short_title": "Insurance & Risk Management 保險與風險管理"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "30/06/2018 - 07/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6511",
+              "group": "B",
+              "instructors": [
+                "Professor YEH Jia Hsing"
+              ],
+              "short_title": "Insurance & Risk Management 保險與風險管理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course deals with risk management functions in business; the identification and measurement of business loss exposures; major tools of risk management; analysis of insurance contracts and their uses; methods and problems of insurance pricing; operations of insurers and major insurances policies; family property and liability risk management; and government regulation of insurance.",
+              "ZHS": "本科目讲授公司的风险管理职能，界定及衡量亏蚀风险；风险管理的工具；保险合约的分析与功用；保险定价方法；保险公司的运作与主要经营策略，家庭财产与责任风险管理及政府的管理措施。",
+              "ZHT": "本科目講授公司的風險管理職能，界定及衡量虧蝕風險；風險管理的工具；保險合約的分析與功用；保險定價方法；保險公司的運作與主要經營策略，家庭財產與責任風險管理及政府的管理措施。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Insurance and Risk Management",
+              "ZHS": "保险与风险管理",
+              "ZHT": "保險與風險管理"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6512": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/07/2018 - 14/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6512",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Merg, Acq & Recon of Corp Fin 兼併、收購與財務重組"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "19/05/2018 - 19/05/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6512",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Merg, Acq & Recon of Corp Fin 兼併、收購與財務重組"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course integrates areas within financial management and investments to analyse merger and acquisition (takeover) markets. The class will be conducted using both lectures and presentations. The topics covered in lectures will include the overview of takeover markets, legal aspects and restrictions, capital budgeting techniques, the efficient market hypothesis, the market model and computation of abnormal returns, the dividend discount model and the free cash flow model. The topics covered in presentation will include US and Hong Kong cases of mergers, tender offers and leverage buyouts. The class is required to apply the efficient market hypothesis to analyse the stock market responses to takeover announcements. In addition, consideration will be given to welfare gains/losses associated with takeover, the cost of capital for due acquirer and the intrinsic value of the target (using dividend discount and free cashflow models).",
+              "ZHS": "本科目综合财务管理及投资学以分析兼并市场，上课形式采用教师授课和学生做课堂报告。讲授内容包括：兼并市场综览；相关法例；资金预算技巧；效率市场假说；市场回报定价模型及超正常回报率计算；股息折价模型和有关资金模型。课堂报告题目包括：美国、香港和中国大陆地区的兼并个案和以高贷回购股票的兼并。同学将应用有效市场假说来分析收购消息对市价的影响。 还包括分析因兼并而产生的整体社会益处与坏处，收购者的资本成本与被购者的内在价值 ( 可用股息折价及有关资金模型来分析 ) 。",
+              "ZHT": "本科目綜合財務管理及投資學以分析兼併市場，上課形式採用教師授課和學生做課堂報告。講授內容包括：兼併市場綜覽；相關法例；資金預算技巧；效率市場假說；市場回報定價模型及超正常回報率計算；股息折價模型和有關資金模型。課堂報告題目包括：美國、香港和中國大陸地區的兼併個案和以高貸回購股票的兼併。同學將應用有效市場假說來分析收購消息對市價的影響。 還包括分析因兼併而產生的整體社會益處與壞處，收購者的資本成本與被購者的內在價值 ( 可用股息折價及有關資金模型來分析 ) 。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Merger, Acquisition and Reconstruction of Corporate Finance",
+              "ZHS": "兼并、收购与财务重组",
+              "ZHT": "兼併、收購與財務重組"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6514": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "30/06/2018 - 07/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6514",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Finance 財務專題"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/07/2018 - 14/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6514",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Finance 財務專題"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "Topics and issues in subfields of finance are addressed in this course.",
+              "ZHS": "此课程着重探讨当今与财务相关的热门课题。",
+              "ZHT": "此科目著重探討當今與財務相關的熱門課題。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Special Topics in Finance",
+              "ZHS": "财务专题",
+              "ZHT": "財務專題"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6516": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "19/05/2018 - 19/05/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6516",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Security Analysis 証券分析"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "09/06/2018 - 09/06/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6516",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Security Analysis 証券分析"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "The objective of this course is to teach basic equity valuation methods and other security analysis techniques. The approach combines both accounting and finance into a practical framework for valuing firms, debt and equity. The emphasis of the course is on the practical application of finance and accounting to valuation.",
+              "ZHS": "本课程的目标是讲授资产价值评估方法和其他证券分析技术。本课程结合会计学和财务学的理论而形成一个有实际意义的框架，它可以用於评估公司、债务和资本价值。该课程的重点在於会计学和财务学进行评估的实际应用。",
+              "ZHT": "本科目的目標是講授資產價值評估方法和其他証券分析技術。本科目結合會計學和財務學的理論而形成一個有實際意義的框架，它可以用於評估公司、債務和資本價值。該科目的重點在於會計學和財務學進行評估的實際應用。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Security Analysis",
+              "ZHS": "证券分析",
+              "ZHT": "証券分析"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6517": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "09/06/2018 - 09/06/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6517",
+              "group": "A",
+              "instructors": [
+                "Professor LIU Ming"
+              ],
+              "short_title": "Invest Strategies & Practices 投資策略與實踐"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "19/05/2018 - 19/05/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6517",
+              "group": "B",
+              "instructors": [
+                "Professor LIU Ming"
+              ],
+              "short_title": "Invest Strategies & Practices 投資策略與實踐"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "The objective of this course is to teach investment strategies that are based on past price history. Trading strategies such as contrarian strategy and momentum strategy are discussed extensively. The course also covers the many investor behavioral biases as well as major trading principles in technical analysis.",
+              "ZHS": "本课程的目标是讲授基於以历史价格的投资策略，广泛地探讨交易策略，例如逆势交易策略和顺势交易策略。同时，该课程讨论众多投资者的行为偏好及技术分析的主要交易原理。",
+              "ZHT": "本科目的目標是講授基於以歷史價格的投資策略，廣泛地探討交易策略，例如逆勢交易策略和順勢交易策略。同時，該科目討論眾多投資者的行為偏好及技術分析的主要交易原理。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Investment Strategies and Practices",
+              "ZHS": "投资策略与实践",
+              "ZHT": "投資策略與實踐"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6521": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/07/2018 - 21/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6521",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Internet Finance 互聯網金融"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/07/2018 - 21/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6521",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Internet Finance 互聯網金融"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "The course provides the tools necessary to analyze the opportunities and potential competitive threats in commercial web-based organizations. To quantify and apply the analysis, a particular focus is on valuing Internet companies based on a careful examination of their business model and environment. The course also covers the basic theory of financial intermediation as it applies to online financial service firms. It discusses the impact of a migration to online financial services and the competitive changes created.",
+              "ZHS": "The course provides the tools necessary to analyze the opportunities and potential competitive threats in commercial web-based organizations. To quantify and apply the analysis, a particular focus is on valuing Internet companies based on a careful examination of their business model and environment. The course also covers the basic theory of financial intermediation as it applies to online financial service firms. It discusses the impact of a migration to online financial services and the competitive changes created.",
+              "ZHT": "本科目將提供分析互聯網金融領域內機遇和潛在競爭威脅的必要工具，為了量化和應用分析，科目將特別關注通過審慎考察互聯網企業的商業模式和環境來評價它。該科目還包括關於金融仲介機構的基本理論，因為它同樣適用於互聯網金融服務企業。並且討論到金融服務線上遷移和競爭變化的帶來的衝擊。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Internet Finance",
+              "ZHS": "Internet Finance",
+              "ZHT": "互聯網金融"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6534": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/07/2018 - 21/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6534",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Fin-Glb Fin 財務專題—國際金融"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "30/06/2018 - 07/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6534",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Fin-Glb Fin 財務專題—國際金融"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course is to study the current issues of economics and finance with the emphasis on case studies.  It also enables students to understand and grasp the theory and current issues on international finance from the macroeconomic point of view.",
+              "ZHS": "此课程探讨当前世界经济与金融相关课题，并着重于案例学习，让学生从 宏观经济角度了解理论知识和国际金融热点。",
+              "ZHT": "此科目探討當前世界經濟與金融相關課題，並着重於案例學習，讓學生從宏觀經濟角度瞭解理論知識和國際金融熱點。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Special Topics in Finance - Global Finance",
+              "ZHS": "财务专题—国际金融",
+              "ZHT": "財務專題—國際金融"
+            },
+            "units": "1.50"
+          }
+        },
+        "GPEC5015": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "AIT_211"
+                      },
+                      "meeting_date": "17/03/2018 - 24/03/2018",
+                      "time": {
+                        "begin": 600,
+                        "end": 765,
+                        "str": "Sa 10:00AM - 12:45PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 35,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5015",
+              "group": "-",
+              "instructors": [
+                "Professor LAM Wo Lap"
+              ],
+              "short_title": "Greater China in Glb Pol Econ 大中華地區與全球政治經濟"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course analyzes the role of Greater China in the current world system, focusing on China’s rise to power in recent years and examining the phenomenon from a political and economic approach, as well as the current interaction between China, the US and its neighbors.",
+              "ZHS": "This course analyzes the role of Greater China in the current world system, focusing on China’s rise to power in recent years and examining the phenomenon from a political and economic approach, as well as the current interaction between China, the US and its neighbors.",
+              "ZHT": "本科分析大中華地區在當前世界體系中的角色，專注研究近年中國崛起的由來，並以政治及經濟的層面分析中國，美國和亞洲其他國家之間在政治和經濟層面上當前的互動與現象。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only",
+            "title": {
+              "ENG": "Greater China in Global Political Economy",
+              "ZHS": "Greater China in Global Political Economy",
+              "ZHT": "大中華地區與全球政治經濟"
+            },
+            "units": "1.50"
+          }
+        },
+        "GPEC5016": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_304"
+                      },
+                      "meeting_date": "12/03/2018 - 26/03/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1290,
+                        "str": "Mo 06:45PM - 09:30PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5016",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Intro to Comparative Politics 比較政治學導論"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course introduces the concept of Comparative Politics to students, examining the actions, attitudes and policies of states by comparing and contrasting them with their counterparts. The course will focus the actions of the Great Powers in Central and Southeast Asia, and the Middle East, drawing upon current events as references.",
+              "ZHS": "This course introduces the concept of Comparative Politics to students, examining the actions, attitudes and policies of states by comparing and contrasting them with their counterparts. The course will focus the actions of the Great Powers in Central and Southeast Asia, and the Middle East, drawing upon current events as references.",
+              "ZHT": "本科介紹比較政治學，通過比較不同大國在中亞、東南亞及中東等地的行動，態度及政策來認識國與國之間的互動關係，並參考現實例子。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only",
+            "title": {
+              "ENG": "Introduction to Comparative Politics",
+              "ZHS": "Introduction to Comparative Politics",
+              "ZHT": "比較政治學導論"
+            },
+            "units": "1.50"
+          }
+        },
+        "GPEC5018": {
+          "groups": {
+            "-": {
+              "classes": {
+                "M01": {
+                  "class": "M01",
+                  "component": "TMC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "12/03/2018 - 01/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5018",
+              "group": "-",
+              "instructors": [
+                "Dr YUEN Mi Chang",
+                "Mr CHAN Wai Shun",
+                "Mr FANG Hsin Hao Arnold"
+              ],
+              "short_title": "Thesis Writing 論文寫作"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Thesis Monitoring Course": "Required"
+            },
+            "description": {
+              "ENG": "Research on an approved topic under individualized and close supervision of a Programme teaching staff, culminating in a thesis.",
+              "ZHS": "Research on an approved topic under individualized and close supervision of a Programme teaching staff, culminating in a thesis.",
+              "ZHT": "學生須就預先核准的題目在課程老師個別及緊密的監督下完成學術論文。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only",
+            "title": {
+              "ENG": "Thesis Writing",
+              "ZHS": "Thesis Writing",
+              "ZHT": "論文寫作"
+            },
+            "units": "3.00"
+          }
+        },
+        "GPEC5112": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_502"
+                      },
+                      "meeting_date": "16/03/2018 - 23/03/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1290,
+                        "str": "Fr 06:45PM - 09:30PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5112",
+              "group": "-",
+              "instructors": [
+                "Professor CHAN Man Lung"
+              ],
+              "short_title": "App Macroecon & Int'l Fin II 應用宏觀經濟及國際金融學 II"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course applies theories of macroeconomics to the real world, and will examine the roots and causes of recent Global Financial Crises, focusing on analyzing the current state of the Global Financial Market and mitigation measures that have been implemented in recent years.",
+              "ZHS": "This course applies theories of macroeconomics to the real world, and will examine the roots and causes of recent Global Financial Crises, focusing on analyzing the current state of the Global Financial Market and mitigation measures that have been implemented in recent years.",
+              "ZHT": "本科將宏觀經濟學理論應用於現實世界層面上，並將探討國家在全球金融危機的處境及危機的由來，近年對全球金融機構實施的緩解措施亦將作出分析。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only;\r\nPrerequisite: GPEC5111",
+            "title": {
+              "ENG": "Applied Macroeconomics and International Finance II",
+              "ZHS": "Applied Macroeconomics and International Finance II",
+              "ZHT": "應用宏觀經濟及國際金融學 II"
+            },
+            "units": "1.50"
+          }
+        },
+        "GPEC5219": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "AIT_G02"
+                      },
+                      "meeting_date": "17/03/2018 - 24/03/2018",
+                      "time": {
+                        "begin": 600,
+                        "end": 765,
+                        "str": "Sa 10:00AM - 12:45PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5219",
+              "group": "-",
+              "instructors": [
+                "Dr CHOU Kwok Ping"
+              ],
+              "short_title": "Crisis Mgt & Conflict Resolut 危機管理和化決衝突"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course focuses on the study of conflicts on both the state and non-state level with regards to international security, examining the evolution and developments of states and international institutions that have been effected to deal with a new generation of warfare. The course will draw from current events and include them in the curriculum of study.",
+              "ZHS": "This course focuses on the study of conflicts on both the state and non-state level with regards to international security, examining the evolution and developments of states and international institutions that have been effected to deal with a new generation of warfare. The course will draw from current events and include them in the curriculum of study.",
+              "ZHT": "本科專注研究在國家與非國家層面上的國際安全問題，探討各國和國際組織為應付新世代的戰爭與衝突問題而作出的政策演變和發展，並將參考不同實例作為課題研習。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only",
+            "title": {
+              "ENG": "Crisis Management and Conflict Resolution",
+              "ZHS": "Crisis Management and Conflict Resolution",
+              "ZHT": "危機管理和化決衝突"
+            },
+            "units": "1.50"
+          }
+        },
+        "GPEC5225": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "AIT_211"
+                      },
+                      "meeting_date": "15/03/2018 - 29/03/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1290,
+                        "str": "Th 06:45PM - 09:30PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5225",
+              "group": "-",
+              "instructors": [
+                "Dr YUEN Mi Chang"
+              ],
+              "short_title": "Grand Strategy 大戰略：古與今，東與西"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course provides an in-depth examination of the nature of grand strategy and the art of employing national power to achieve national objectives in both peace and war by exploring the theory and practice of grand strategy in historical and contemporary contexts. By examining in comparative perspective the grand strategies of great powers, the course identifies the changing and enduring themes in grand strategy as well as the differences in theories and approaches between the East and West.",
+              "ZHS": "This course provides an in-depth examination of the nature of grand strategy and the art of employing national power to achieve national objectives in both peace and war by exploring the theory and practice of grand strategy in historical and contemporary contexts. By examining in comparative perspective the grand strategies of great powers, the course identifies the changing and enduring themes in grand strategy as well as the differences in theories and approaches between the East and West.",
+              "ZHT": "本科深入研究大戰略的本質，以及透過探討大戰略在古代及當代的理論和實踐，去剖析如何運用國力去達致戰爭與和平的目的。本科又藉比較大國之間的大戰略，從而分析大戰略中變與不變的題目，以及東西方的理論和方法之不同。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only.",
+            "title": {
+              "ENG": "Grand Strategy: Past and Present, East and West",
+              "ZHS": "Grand Strategy: Past and Present, East and West",
+              "ZHT": "大戰略：古與今，東與西"
+            },
+            "units": "1.50"
+          }
+        },
+        "GPEC5313": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "AIT_G01"
+                      },
+                      "meeting_date": "14/03/2018 - 25/04/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1290,
+                        "str": "We 06:45PM - 09:30PM",
+                        "weekday": "We"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5313",
+              "group": "-",
+              "instructors": [
+                "Professor TSAO King Kwun"
+              ],
+              "short_title": "Contemporary Chinese Society 當代中國社會"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course will offer a focused study of China’s societal structure in the 21st Century, examining the culture, demography, economics, and the class structure of Chinese cities in both the Greater China region and in outlying areas as well as urban-rural divide.",
+              "ZHS": "This course will offer a focused study of China’s societal structure in the 21st Century, examining the culture, demography, economics, and the class structure of Chinese cities in both the Greater China region and in outlying areas as well as urban-rural divide.",
+              "ZHT": "本科將介紹21世紀中國社會的結構，如人口、社會階層及城市和邊遠地區的文化與城鄉差距。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only",
+            "title": {
+              "ENG": "Contemporary Chinese Society",
+              "ZHS": "Contemporary Chinese Society",
+              "ZHT": "當代中國社會"
+            },
+            "units": "1.50"
+          }
+        },
+        "GPEC5316": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "AIT_G03"
+                      },
+                      "meeting_date": "15/03/2018 - 29/03/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1290,
+                        "str": "Th 06:45PM - 09:30PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5316",
+              "group": "-",
+              "instructors": [
+                "Mr KEE Wai Man",
+                "Professor SHEN Jianfa"
+              ],
+              "short_title": "Pan Yangtze River Integration 泛長三角一體化"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course will examine the Yangtze River Delta, the competitor to the Pearl River Delta, comparing the two regions and dealing with the feasibility of interregional cooperation as well as the dynamics of their relationship across the Taiwan Strait.",
+              "ZHS": "This course will examine the Yangtze River Delta, the competitor to the Pearl River Delta, comparing the two regions and dealing with the feasibility of interregional cooperation as well as the dynamics of their relationship across the Taiwan Strait.",
+              "ZHT": "本科將探討長江三角洲與競爭對手珠江三角洲的關係，並比較這兩個地區和探討區域間合作的可行性，以及他們兩者的關係如何成為處理海峽兩岸關係的動力。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only",
+            "title": {
+              "ENG": "Pan Yangtze River Integration",
+              "ZHS": "Pan Yangtze River Integration",
+              "ZHT": "泛長三角一體化"
+            },
+            "units": "1.50"
+          }
+        },
+        "GPEC5319": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_504"
+                      },
+                      "meeting_date": "13/03/2018 - 24/04/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1290,
+                        "str": "Tu 06:45PM - 09:30PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5319",
+              "group": "-",
+              "instructors": [
+                "Mr CHAN Wai Shun"
+              ],
+              "short_title": "External Relations of HK 香港涉外關係"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course focuses on the structural role of Hong Kong within the context of its external relations, focusing on its unique relationship with the Chinese mainland and its significance in strengthening Chinese interests overseas. The course will draw upon a wide range of current issues and topics as materials.",
+              "ZHS": "本科著眼於香港的涉外关係及其结构性问题，集中研究香港与中国大陆的互动如何加强中国在海外的利益的独特关係。本科将引用大量时事实例作为教学材料。",
+              "ZHT": "本科著眼於香港的涉外關係及其結構性問題，集中研究香港與中國大陸的互動如何加強中國在海外的利益的獨特關係。本科將引用大量時事實例作為教學材料。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only",
+            "title": {
+              "ENG": "External Relations of Hong Kong",
+              "ZHS": "香港涉外关係",
+              "ZHT": "香港涉外關係"
+            },
+            "units": "1.50"
+          }
+        },
+        "GPEC5411": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "YIA_502"
+                      },
+                      "meeting_date": "14/03/2018 - 25/04/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1290,
+                        "str": "We 06:45PM - 09:30PM",
+                        "weekday": "We"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "GPEC5411",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Political Economy of the US 美國的政治經濟學"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course examines the role of the United States on the world stage, focusing on its current status as the hegemony and its attitudes and influence on international issues such as its stance towards global development and its return to the Southeast Asian region.",
+              "ZHS": "This course examines the role of the United States on the world stage, focusing on its current status as the hegemony and its attitudes and influence on international issues such as its stance towards global development and its return to the Southeast Asian region.",
+              "ZHT": "本科探討美國在世界舞台上的地位，分析其當前的霸權地位，取態和影響力等，以及它對全球議題如全球發展和重返東南亞的立場。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Students of MSSc in Global Political Economy only",
+            "title": {
+              "ENG": "Political Economy of the United States",
+              "ZHS": "Political Economy of the United States",
+              "ZHT": "美國的政治經濟學"
+            },
+            "units": "1.50"
+          }
+        },
+        "MBAC6120": {
+          "groups": {
+            "A": {
+              "classes": {
+                "S01": {
+                  "class": "S01",
+                  "component": "SEM",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/05/2018 - 24/07/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MBAC6120",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Academic  & Prof Seminars 學術及專題講座"
+            },
+            "B": {
+              "classes": {
+                "S01": {
+                  "class": "S01",
+                  "component": "SEM",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/05/2018 - 24/07/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MBAC6120",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Academic  & Prof Seminars 學術及專題講座"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Seminar": "Required"
+            },
+            "description": {
+              "ENG": "This three-credit course is designed to enhance students’ understanding of current issues in business. Guest speakers will be invited to cover various aspects of business and/or industries. The series of five to ten seminars will be conducted on average during the entire academic year. The course will be concluded with a group written report and an oral presentation.",
+              "ZHS": "本科目为一学年的课程，共三学分。旨在帮助学生了解工商业的发展现状。 本课程将安排 5-10 次的专题报告，邀请有关专家作专题讲演。 学生完成本课程时须作小组的口头报告，并提交书面报告。",
+              "ZHT": "本科目為一學年的學科，共三學分。旨在幫助學生瞭解工商業的發展現狀。 本科目將安排 5-10 次的專題報告，邀請有關專家作專題講演。 學生完成本科目時須作小組的口頭報告，並提交書面報告。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Academic and Professional Seminars",
+              "ZHS": "学术讲座",
+              "ZHT": "學術及專題講座"
+            },
+            "units": "3.00"
+          }
+        },
+        "MGNT5021": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "05/05/2018 - 05/05/2018",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MGNT5021",
+              "group": "AE",
+              "instructors": [
+                "Professor Syeda Noorein INAMDAR"
+              ],
+              "short_title": "Managing Human Resources 人力資源管理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course helps students to understand the important human resource management issues and practices which affect organizational performance. In order to explore these issues in depth, the course will enable students to understand human behaviour in organizations. The course provides concepts and theories about the basic social-psychological processes that affect individual, interpersonal, and group behaviour in organizations. Finally, students are challenged to develop a strategic approach for managing human resources.",
+              "ZHS": "",
+              "ZHT": "本學科幫助學生理解影響組織績效的重要人力資源管理和實踐問題。為做深入的探討，學科將使學生了解組織中的人類行為。本學科所提出的概念和理論，針對影響個人、人際交往和組織行為的基本社會心理過程。要求學生開發一套人力資源管理的戰略方法。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Managing Human Resources",
+              "ZHS": "人力资源管理",
+              "ZHT": "人力資源管理"
+            },
+            "units": "3.00"
+          }
+        },
+        "MKTG6021": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "05/05/2018 - 19/05/2018",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MKTG6021",
+              "group": "AE",
+              "instructors": [
+                "Professor FRANKLIN Laurence Craig"
+              ],
+              "short_title": "Business Negotiation 商業談判"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course introduces current research and thought on the negotiation process, and provides opportunities for course participants to apply the concepts and skills in simulations of actual negotiations. Strategic lessons are learned from different actual cases. The objective is to enable course participants to appreciate the art and science of negotiation, to understand how to resolve conflicts and derive the most out of bargaining.",
+              "ZHS": "",
+              "ZHT": "本學科介紹談判過程的目前的研究與思考，並提供機會讓學生在模擬談判中應用學到的概念和技能。從不同的實際案例中能學到談判策略的經驗教訓。本學科的目標是使學生體會到談判的藝術和科學，了解如何解決衝突，並從討價還價中獲得最好結果。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme; or EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Business Negotiation",
+              "ZHS": "商业谈判",
+              "ZHT": "商業談判"
+            },
+            "units": "3.00"
+          }
+        },
+        "NURS6306": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "14/05/2018 - 11/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Mo 09:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L02": {
+                  "class": "L02",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L03": {
+                  "class": "L03",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L04": {
+                  "class": "L04",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L05": {
+                  "class": "L05",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/05/2018 - 26/06/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6306",
+              "group": "-",
+              "instructors": [
+                "Dr. WONG Yuk Shim"
+              ],
+              "short_title": "Care for Cli W/ AcuChro Ill I 急性及慢性疾病護理 III"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Laboratory": "Required",
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course emphasizes on basic nursing knowledge, particularly the pathophysiological changes and pharmacological treatment of clients with acute and chronic illnesses. Students are equipped with principles of therapeutic management and nursing skills to assess, diagnose, and implement evidence-based nursing interventions to promote good health outcomes of these clients.",
+              "ZHS": "本科教导学生基本护理知识，尤其是急性及慢性疾病患者的病理生理变化及药物治疗。学生须掌握治疗管理原理及护理技巧，以便评估、诊断及实施循证护理方案，提升治疗成效，促进患者健康。",
+              "ZHT": "本科教導學生基本護理知識，尤其是急性及慢性疾病患者的病理生理變化及藥物治療。學生須掌握治療管理原理及護理技巧，以便評估、診斷及實施循證護理方案，提升治療成效，促進患者健康。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Care for Clients with Acute and Chronic Illnesses III",
+              "ZHS": "急性及慢性疾病护理 III",
+              "ZHT": "急性及慢性疾病護理 III"
+            },
+            "units": "6.00"
+          }
+        },
+        "NURS6317": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "14/05/2018 - 11/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Mo 01:30PM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6317",
+              "group": "-",
+              "instructors": [
+                "Dr TANG Wing Ki"
+              ],
+              "short_title": "Mental Health Nursing 精神科護理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course provides theoretical basis for comprehensive nursing care to clients with alterations of mental health. It emphasizes on the approach that mental health and illnesses exist on a continuum. Students are equipped with knowledge to examine a variety of mental health disorders and to explore different mental health care settings.",
+              "ZHS": "本科旨在让学生认识为精神病患者提供全面护理的理论基础，强调精神健康与疾病是一个连续的统一体；并教导学生探讨各种精神病及探索不同精神健康护理机构所需的知识。",
+              "ZHT": "本科旨在讓學生認識為精神病患者提供全面護理的理論基礎，強調精神健康與疾病是一個連續的統一體；並教導學生探討各種精神病及探索不同精神健康護理機構所需的知識。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Mental Health Nursing",
+              "ZHS": "精神科护理",
+              "ZHT": "精神科護理"
+            },
+            "units": "2.00"
+          }
+        },
+        "NURS6320": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "18/05/2018 - 29/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L02": {
+                  "class": "L02",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L03": {
+                  "class": "L03",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L04": {
+                  "class": "L04",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L05": {
+                  "class": "L05",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6320",
+              "group": "-",
+              "instructors": [
+                "Ms KWAN Siu Kuen"
+              ],
+              "short_title": "Paed & Adolescent Nursing 兒童及青少年護理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Laboratory": "Required",
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to provide theoretical and practical information on basic and complex health concepts and issues. It is focused on the nursing care of children and adolescents with physical, psychosocial, or developmental problems. It includes the principles of family centered nursing to provide comprehensive assessment and appropriate nursing interventions towards health promotion of clients.",
+              "ZHS": "本科旨在提供与基本及复杂性健康概念与问题有关的理论与实务资料，对象是有身体、心理社会或发展问题的儿童及青少年。课程包括介绍以家庭为中心的护理原则，为患者进行全面评估，制定合适的护理措施，促进健康。",
+              "ZHT": "本科旨在提供與基本及複雜性健康概念與問題有關的理論與實務資料，對象是有身體、心理社會或發展問題的兒童及青少年。課程包括介紹以家庭為中心的護理原則，為患者進行全面評估，制定合適的護理措施，促進健康。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Paediatric and Adolescent Nursing",
+              "ZHS": "儿童及青少年护理",
+              "ZHT": "兒童及青少年護理"
+            },
+            "units": "3.00"
+          }
+        },
+        "NURS6424": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "02/05/2018 - 23/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "We 09:30AM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "30/04/2018 - 22/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6424",
+              "group": "-",
+              "instructors": [
+                "Professor CHAN Wai Kiu"
+              ],
+              "short_title": "Comple & Alt Medicine 補充替代醫學"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Laboratory": "Required",
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to introduce students to the efficacy, choice, use, and explanatory mechanisms of complementary and alternative medicine using a range of selected therapies. The regional focus will be on the health concepts of Traditional Chinese Medicine (including tai chi, qigong, and acupuncture). The scope and responsibilities of the nurse's role within this field in Hong Kong will also be discussed.",
+              "ZHS": "本科旨在透过一系列选定的疗法，介绍补充替代医学的效用、选择、使用及解释机制，重点讲解中医(包括太极、气功及针灸)的健康概念，并讨论本港护士在此范畴所扮演的角色及职责范围。",
+              "ZHT": "本科旨在透過一系列選定的療法，介紹補充替代醫學的效用、選擇、使用及解釋機制，重點講解中醫(包括太極、氣功及針灸)的健康概念，並討論本港護士在此範疇所扮演的角色及職責範圍。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Complementary and Alternative Medicine",
+              "ZHS": "补充替代医学",
+              "ZHT": "補充替代醫學"
+            },
+            "units": "2.00"
+          }
+        },
+        "NURS6501": {
+          "groups": {
+            "-": {
+              "classes": {
+                "P01": {
+                  "class": "P01",
+                  "component": "PRA",
+                  "department": "Div of Nursing",
+                  "language": "C&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "23/04/2018 - 23/07/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "Mo 08:30AM - 04:30PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 90,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6501",
+              "group": "-",
+              "instructors": [
+                "Mr HA Kong Nam"
+              ],
+              "short_title": "Clinical Practice Block I 臨床實習 I"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Practicum": "Required"
+            },
+            "description": {
+              "ENG": "This clinical practice block aims to provide students with a venue to apply and consolidate their knowledge and skills on interpersonal communication, client safety, health assessment, and basic nursing skills. In the process, they are able to promote clients' health and wellness. In addition, this clinical practice block allows students to gain understanding and experiential learning on various matters. These include clinical practice environment, nurses and health care team members' roles, and the health care delivery system in Hong Kong",
+              "ZHS": "本科旨在提供一个场所，供学生练习并加强在人际沟通、病人安全、健康评估及基本护理方面的护理知识与技巧，促进病人健康。课程中学生亦可透过经验了解及学习不同事物，如临床实习环境，护士及医护小组成员的角色，以及本港提供医疗卫生服务的机制。",
+              "ZHT": "本科旨在提供一個場所，供學生練習並加強在人際溝通、病人安全、健康評估及基本護理方面的護理知識與技巧，促進病人健康。課程中學生亦可透過經驗了解及學習不同事物，如臨床實習環境，護士及醫護小組成員的角色，以及本港提供醫療衛生服務的機制。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)\r\nPrerequisite: NURS6201, NURS6202 and NURS6203",
+            "title": {
+              "ENG": "Clinical Practice Block I",
+              "ZHS": "临床实习 I",
+              "ZHT": "臨床實習 I"
+            },
+            "units": "5.00"
+          }
+        }
+      },
+      "info": {
+        "name": {
+          "ENG": "Postgraduate - Taught",
+          "ZHS": "Postgraduate - Taught",
+          "ZHT": "修讀式課程研究生"
+        }
+      },
+      "subjects": {
+        "ACCT": {
+          "info": {
+            "name": {
+              "ENG": "Accountancy",
+              "ZHS": "Accountancy",
+              "ZHT": "Accountancy"
+            }
+          }
+        },
+        "DSME": {
+          "info": {
+            "name": {
+              "ENG": "Decision Sciences & Managerial",
+              "ZHS": "Decision Sciences & Managerial",
+              "ZHT": "Decision Sciences & Managerial"
+            }
+          }
+        },
+        "EMBA": {
+          "info": {
+            "name": {
+              "ENG": "Executive MBA",
+              "ZHS": "Executive MBA",
+              "ZHT": "Executive MBA"
+            }
+          }
+        },
+        "FINA": {
+          "info": {
+            "name": {
+              "ENG": "Finance",
+              "ZHS": "Finance",
+              "ZHT": "Finance"
+            }
+          }
+        },
+        "GPEC": {
+          "info": {
+            "name": {
+              "ENG": "Global Political Economy",
+              "ZHS": "Global Political Economy",
+              "ZHT": "Global Political Economy"
+            }
+          }
+        },
+        "MBAC": {
+          "info": {
+            "name": {
+              "ENG": "MBA Programmes",
+              "ZHS": "MBA Programmes",
+              "ZHT": "MBA Programmes"
+            }
+          }
+        },
+        "MGNT": {
+          "info": {
+            "name": {
+              "ENG": "Management",
+              "ZHS": "Management",
+              "ZHT": "Management"
+            }
+          }
+        },
+        "MKTG": {
+          "info": {
+            "name": {
+              "ENG": "Marketing",
+              "ZHS": "Marketing",
+              "ZHT": "Marketing"
+            }
+          }
+        },
+        "NURS": {
+          "info": {
+            "name": {
+              "ENG": "Nursing",
+              "ZHS": "Nursing",
+              "ZHT": "Nursing"
+            }
+          }
+        }
+      }
+    }
+  }
+}
