@@ -1,0 +1,3201 @@
+{
+  "careers": {
+    "UG": {
+      "courses": {
+        "GPSU2000": {
+          "groups": {
+            "-": {
+              "classes": {
+                "W01": {
+                  "class": "W01",
+                  "component": "WKS",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "04/09/2017 - 08/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": 60
+                  }
+                }
+              },
+              "course": "GPSU2000",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "GPS Leadership Workshop I"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "This series of workshops will focus on leadership in the society. Basic concepts and real-life examples of various types of social leadership will be illustrated. Medical leaders from different aspects will be invited to share with GPS students on topics of social leadership in crisis, humanitarian issues and social service in both local and international settings.",
+              "ZHS": "This series of workshops will focus on leadership in the society. Basic concepts and real-life examples of various types of social leadership will be illustrated. Medical leaders from different aspects will be invited to share with GPS students on topics of social leadership in crisis, humanitarian issues and social service in both local and international settings.",
+              "ZHT": "This series of workshops will focus on leadership in the society. Basic concepts and real-life examples of various types of social leadership will be illustrated. Medical leaders from different aspects will be invited to share with GPS students on topics of social leadership in crisis, humanitarian issues and social service in both local and international settings."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Leadership Workshop Series I",
+              "ZHS": "GPS Leadership Workshop Series I",
+              "ZHT": "GPS Leadership Workshop Series I"
+            },
+            "units": "0.00"
+          }
+        },
+        "GPSU3000": {
+          "groups": {
+            "-": {
+              "classes": {
+                "W01": {
+                  "class": "W01",
+                  "component": "WKS",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "05/09/2017 - 09/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": 60
+                  }
+                }
+              },
+              "course": "GPSU3000",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "GPS Leadership Workshop IIA"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "This series of workshops in seminar format will focus on general concepts and development of skills and capacities that are essential for mentoring, team building and organization. These include principles of servant leadership and positive psychology.",
+              "ZHS": "This series of workshops in seminar format will focus on general concepts and development of skills and capacities that are essential for mentoring, team building and organization. These include principles of servant leadership and positive psychology.",
+              "ZHT": "This series of workshops in seminar format will focus on general concepts and development of skills and capacities that are essential for mentoring, team building and organization. These include principles of servant leadership and positive psychology."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Leadership Workshop Series IIA",
+              "ZHS": "GPS Leadership Workshop Series IIA",
+              "ZHT": "GPS Leadership Workshop Series IIA"
+            },
+            "units": "0.00"
+          }
+        },
+        "GPSU3100": {
+          "groups": {
+            "-": {
+              "classes": {
+                "W01": {
+                  "class": "W01",
+                  "component": "WKS",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "07/09/2017 - 11/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": 58
+                  }
+                }
+              },
+              "course": "GPSU3100",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "GPS Project"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "The student is required to participate actively in a project under supervision of a supervisor in one of the following fields:\r1. Basic Research\r2. Clinical / Translation Research\r3. Health Promotion  / Service programme",
+              "ZHS": "The student is required to participate actively in a project under supervision of a supervisor in one of the following fields:\r1. Basic Research\r2. Clinical / Translation Research\r3. Health Promotion  / Service programme",
+              "ZHT": "The student is required to participate actively in a project under supervision of a supervisor in one of the following fields:\r1. Basic Research\r2. Clinical / Translation Research\r3. Health Promotion  / Service programme"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Project",
+              "ZHS": "GPS Project",
+              "ZHT": "GPS Project"
+            },
+            "units": "0.00"
+          }
+        },
+        "GPSU4000": {
+          "groups": {
+            "-": {
+              "classes": {
+                "W01": {
+                  "class": "W01",
+                  "component": "WKS",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "09/09/2017 - 15/04/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": 60
+                  }
+                }
+              },
+              "course": "GPSU4000",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "GPS Leadership Workshop IIB"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "This series of workshops in seminar format will focus on of general concepts and development of skills and capacities that are essential for team management. These include public communication, conflict management and mediation.",
+              "ZHS": "This series of workshops in seminar format will focus on of general concepts and development of skills and capacities that are essential for team management. These include public communication, conflict management and mediation.",
+              "ZHT": "This series of workshops in seminar format will focus on of general concepts and development of skills and capacities that are essential for team management. These include public communication, conflict management and mediation."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Leadership Workshop Series  IIB",
+              "ZHS": "GPS Leadership Workshop Series  IIB",
+              "ZHT": "GPS Leadership Workshop Series  IIB"
+            },
+            "units": "0.00"
+          }
+        },
+        "GPSU4100": {
+          "groups": {
+            "-": {
+              "classes": {
+                "P01": {
+                  "class": "P01",
+                  "component": "PRA",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "06/09/2017 - 10/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": 60
+                  }
+                }
+              },
+              "course": "GPSU4100",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "GPS Internship"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Practicum": "Required"
+            },
+            "description": {
+              "ENG": "Students will be offered opportunities of a 4-6 weeks summer internship in a local or overseas institution that is affiliated with CUHK through collaboration agreement. \r\rStudents may attach to a unit of clinical service or research, basic or translational research, public health, health care service provider or industry, pharmaceutical or medical device industry, governmental organization or non-governmental organizations.",
+              "ZHS": "Students will be offered opportunities of a 4-6 weeks summer internship in a local or overseas institution that is affiliated with CUHK through collaboration agreement. \r\rStudents may attach to a unit of clinical service or research, basic or translational research, public health, health care service provider or industry, pharmaceutical or medical device industry, governmental organization or non-governmental organizations.",
+              "ZHT": "Students will be offered opportunities of a 4-6 weeks summer internship in a local or overseas institution that is affiliated with CUHK through collaboration agreement. \r\rStudents may attach to a unit of clinical service or research, basic or translational research, public health, health care service provider or industry, pharmaceutical or medical device industry, governmental organization or non-governmental organizations."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Internship",
+              "ZHS": "GPS Internship",
+              "ZHT": "GPS Internship"
+            },
+            "units": "0.00"
+          }
+        },
+        "GPSU4200": {
+          "groups": {
+            "-": {
+              "classes": {
+                "W01": {
+                  "class": "W01",
+                  "component": "WKS",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "04/09/2017 - 06/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": 60
+                  }
+                }
+              },
+              "course": "GPSU4200",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "GPS Leadership Workshop III"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "This series of workshops will focus on leadership in the healthcare profession. Basic concepts and real-life examples of various types of medical leadership will be illustrated. These include stress management, healthcare policy and administration, multidisciplinary team management and academic research leadership.",
+              "ZHS": "This series of workshops will focus on leadership in the healthcare profession. Basic concepts and real-life examples of various types of medical leadership will be illustrated. These include stress management, healthcare policy and administration, multidisciplinary team management and academic research leadership.",
+              "ZHT": "This series of workshops will focus on leadership in the healthcare profession. Basic concepts and real-life examples of various types of medical leadership will be illustrated. These include stress management, healthcare policy and administration, multidisciplinary team management and academic research leadership."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Leadership Workshop Series III",
+              "ZHS": "GPS Leadership Workshop Series III",
+              "ZHT": "GPS Leadership Workshop Series III"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU1140": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "16/10/2017 - 16/10/2017",
+                      "time": {
+                        "begin": 990,
+                        "end": 1095,
+                        "str": "Mo 04:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": 120
+                  }
+                }
+              },
+              "course": "MEDU1140",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Bioethics and Humanities I"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NAH_115"
+                      },
+                      "meeting_date": "19/10/2017 - 19/10/2017",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Th 09:30AM - 11:15AM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": 120
+                  }
+                }
+              },
+              "course": "MEDU1140",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Bioethics and Humanities I"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course will introduce students to the requisite critical thinking skills needed to analyze and reconcile a variety of ethical questions in biomedicine.  By way of an interdisciplinary teaching team, cases and questions will be presented to students in conjunction with insights drawn from history, philosophy, health policy, medicine and beyond.  The curriculum introduces core ethical principles including autonomy, beneficence and justice and the utilitarian and deontological concerns related to these principles.  The course addresses three key areas of bioethics—clinical ethics, public health ethics and research ethics and the specific ethical constructs in each field.  The first unit will also serve to acquaint students with the features of the online learning platform.",
+              "ZHS": "This course will introduce students to the requisite critical thinking skills needed to analyze and reconcile a variety of ethical questions in biomedicine.  By way of an interdisciplinary teaching team, cases and questions will be presented to students in conjunction with insights drawn from history, philosophy, health policy, medicine and beyond.  The curriculum introduces core ethical principles including autonomy, beneficence and justice and the utilitarian and deontological concerns related to these principles.  The course addresses three key areas of bioethics—clinical ethics, public health ethics and research ethics and the specific ethical constructs in each field.  The first unit will also serve to acquaint students with the features of the online learning platform.",
+              "ZHT": "This course will introduce students to the requisite critical thinking skills needed to analyze and reconcile a variety of ethical questions in biomedicine.  By way of an interdisciplinary teaching team, cases and questions will be presented to students in conjunction with insights drawn from history, philosophy, health policy, medicine and beyond.  The curriculum introduces core ethical principles including autonomy, beneficence and justice and the utilitarian and deontological concerns related to these principles.  The course addresses three key areas of bioethics—clinical ethics, public health ethics and research ethics and the specific ethical constructs in each field.  The first unit will also serve to acquaint students with the features of the online learning platform."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 1 (MYR1)",
+            "title": {
+              "ENG": "Bioethics and Humanities I",
+              "ZHS": "Bioethics and Humanities I",
+              "ZHT": "Bioethics and Humanities I"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU1150": {
+          "groups": {
+            "-": {
+              "classes": {
+                "W01": {
+                  "class": "W01",
+                  "component": "WKS",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "10/09/2017 - 04/12/2017",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 250,
+                    "vacancy": 250
+                  }
+                }
+              },
+              "course": "MEDU1150",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Persp.of Med. in Real Life"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Visit": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "Apart from knowledge in textbooks, students are encouraged to learn medicine in real life including the basic concept and practice of emergency medicine in action, the history and evolution of healthcare system in Hong Kong, and to make full use of the medical library during their medical studies and future career development.",
+              "ZHS": "Apart from knowledge in textbooks, students are encouraged to learn medicine in real life including the basic concept and practice of emergency medicine in action, the history and evolution of healthcare system in Hong Kong, and to make full use of the medical library during their medical studies and future career development.",
+              "ZHT": "Apart from knowledge in textbooks, students are encouraged to learn medicine in real life including the basic concept and practice of emergency medicine in action, the history and evolution of healthcare system in Hong Kong, and to make full use of the medical library during their medical studies and future career development."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "Perspectives of Medicine in Real Life",
+              "ZHS": "Perspectives of Medicine in Real Life",
+              "ZHT": "Perspectives of Medicine in Real Life"
+            },
+            "units": "1.00"
+          }
+        },
+        "MEDU2001": {
+          "groups": {
+            "-": {
+              "classes": {
+                "O01": {
+                  "class": "O01",
+                  "component": "OTH",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "19/03/2018 - 20/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 250,
+                    "vacancy": 29
+                  }
+                }
+              },
+              "course": "MEDU2001",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "First Professional Exam"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Others": "Required"
+            },
+            "description": {
+              "ENG": "Students are required to pass the First Professional Examination in order to be eligible for promotion to the next year.",
+              "ZHS": "Students are required to pass the First Professional Examination in order to be eligible for promotion to the next year.",
+              "ZHT": "Students are required to pass the First Professional Examination in order to be eligible for promotion to the next year."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "",
+            "title": {
+              "ENG": "First Professional Examination",
+              "ZHS": "First Professional Examination",
+              "ZHT": "First Professional Examination"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU2140": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "23/10/2017 - 23/10/2017",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Mo 09:30AM - 11:15AM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 130,
+                    "vacancy": 22
+                  }
+                }
+              },
+              "course": "MEDU2140",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Bioethics and Humanities II"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "27/10/2017 - 27/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 675,
+                        "str": "Fr 08:30AM - 11:15AM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 130,
+                    "vacancy": 130
+                  }
+                }
+              },
+              "course": "MEDU2140",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Bioethics and Humanities II"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required",
+              "Seminar": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "This course will introduce students to foundational theories, concepts and historical developments in the field of bioethics.  Topics covered in the course include the responsibilities of physicians and researchers and the rights of patients and research participants; controversies when physician duties conflict with patient or family preferences; justice in the allocation of health care resources and fair delivery of healthcare in a modern metropolitan setting; ethical considerations at the beginning and the end of life; concerns for balancing individual liberties and state interest in public health and public safety; and controversies that accompany the development, introduction and distribution of new technologies.",
+              "ZHS": "This course will introduce students to foundational theories, concepts and historical developments in the field of bioethics.  Topics covered in the course include the responsibilities of physicians and researchers and the rights of patients and research participants; controversies when physician duties conflict with patient or family preferences; justice in the allocation of health care resources and fair delivery of healthcare in a modern metropolitan setting; ethical considerations at the beginning and the end of life; concerns for balancing individual liberties and state interest in public health and public safety; and controversies that accompany the development, introduction and distribution of new technologies.",
+              "ZHT": "This course will introduce students to foundational theories, concepts and historical developments in the field of bioethics.  Topics covered in the course include the responsibilities of physicians and researchers and the rights of patients and research participants; controversies when physician duties conflict with patient or family preferences; justice in the allocation of health care resources and fair delivery of healthcare in a modern metropolitan setting; ethical considerations at the beginning and the end of life; concerns for balancing individual liberties and state interest in public health and public safety; and controversies that accompany the development, introduction and distribution of new technologies."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Bioethics and Humanities II",
+              "ZHS": "Bioethics and Humanities II",
+              "ZHT": "Bioethics and Humanities II"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU2300": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "05/09/2017 - 28/11/2017",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Tu 09:30AM - 01:15PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 50
+                  }
+                }
+              },
+              "course": "MEDU2300",
+              "group": "-",
+              "instructors": [
+                "Dr POON Hong Kit",
+                "Professor LEE Ka Ho Kenneth"
+              ],
+              "short_title": "Human Structure I"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Laboratory": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Practicum": "Required"
+            },
+            "description": {
+              "ENG": "This course introduces students to the gross anatomical structures in the human body, which laid the foundation for further study in medicine. Students will learn the organization of the body through lectures and interactive practical in the Dissecting Laboratory. Clinically relevance anatomical knowledge will be demonstrated in the Clinical Skill sessions. Topics include: gross organization of the thorax, abdomen, digestive system, urogenital system and musculoskeletal system.",
+              "ZHS": "This course introduces students to the gross anatomical structures in the human body, which laid the foundation for further study in medicine. Students will learn the organization of the body through lectures and interactive practical in the Dissecting Laboratory. Clinically relevance anatomical knowledge will be demonstrated in the Clinical Skill sessions. Topics include: gross organization of the thorax, abdomen, digestive system, urogenital system and musculoskeletal system.",
+              "ZHT": "This course introduces students to the gross anatomical structures in the human body, which laid the foundation for further study in medicine. Students will learn the organization of the body through lectures and interactive practical in the Dissecting Laboratory. Clinically relevance anatomical knowledge will be demonstrated in the Clinical Skill sessions. Topics include: gross organization of the thorax, abdomen, digestive system, urogenital system and musculoskeletal system."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Human Structure I",
+              "ZHS": "Human Structure I",
+              "ZHT": "Human Structure I"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU2400": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "04/09/2017 - 27/11/2017",
+                      "time": {
+                        "begin": 930,
+                        "end": 1095,
+                        "str": "Mo 03:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 50
+                  }
+                }
+              },
+              "course": "MEDU2400",
+              "group": "-",
+              "instructors": [
+                "Professor KO Wing Hung",
+                "Professor LAU Hang Yung Alaster"
+              ],
+              "short_title": "Human Function I"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Interactive Tutorial": "Required",
+              "Laboratory": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "This course introduces basic principles of physiological control and pharmacological regulation of various body tissues and systems. It is taught through lectures, practicals, case discussion, demonstrations, and small group tutorials. The areas covered include: physiology of excitable cells, muscles, cardiovascular, gastrointestinal and renal systems, mechanisms of drug actions and pharmacokinetics, and drug actions on peripheral nervous system, cardiovascular system and gut.",
+              "ZHS": "This course introduces basic principles of physiological control and pharmacological regulation of various body tissues and systems. It is taught through lectures, practicals, case discussion, demonstrations, and small group tutorials. The areas covered include: physiology of excitable cells, muscles, cardiovascular, gastrointestinal and renal systems, mechanisms of drug actions and pharmacokinetics, and drug actions on peripheral nervous system, cardiovascular system and gut.",
+              "ZHT": "This course introduces basic principles of physiological control and pharmacological regulation of various body tissues and systems. It is taught through lectures, practicals, case discussion, demonstrations, and small group tutorials. The areas covered include: physiology of excitable cells, muscles, cardiovascular, gastrointestinal and renal systems, mechanisms of drug actions and pharmacokinetics, and drug actions on peripheral nervous system, cardiovascular system and gut."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Human Function I",
+              "ZHS": "Human Function I",
+              "ZHT": "Human Function I"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU2500": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "11/01/2018 - 19/04/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Th 02:30PM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 50
+                  }
+                }
+              },
+              "course": "MEDU2500",
+              "group": "-",
+              "instructors": [
+                "Dr. WONG Carmen"
+              ],
+              "short_title": "Doctor and Patient I"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Project": "Required",
+              "Seminar": "Required",
+              "Visit": "Required"
+            },
+            "description": {
+              "ENG": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  The therapeutic relationship enables the health professional and the patient to engage and effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  Whilst early medical studies seeks to equip students with essential basic fundamentals to cells and interactions, this course provides a platform to understanding doctor and patient behaviour and takes a humanistic and holistic approach to the doctor and patient relationship by direct observation and participation. To understand the complexities of the therapeutic relationship, the course spans three years and explores the therapeutic relationship from both the doctor’s and patient’s perspective, at both the beginning and the end of life. \r\rThe course in its first year has two components: \rPart A is a series of clinical visits with a doctor which allows understanding of the role of the doctor in the community and its challenges and provides insight into the doctor-patient relationship and the variety of medical conditions seen\rPart B is a longitudinal follow up of a family with a new born baby to appreciate the influences of the socio-economic background of the family, the health beliefs and practices, and social support on child care, family adjustment and child development milestones. This course is taught by a series of lectures, small group tutorials and presentations. There are also clinical visits to family doctors in the community and interviews with a family on wards and at home/in the community.",
+              "ZHS": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  The therapeutic relationship enables the health professional and the patient to engage and effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  Whilst early medical studies seeks to equip students with essential basic fundamentals to cells and interactions, this course provides a platform to understanding doctor and patient behaviour and takes a humanistic and holistic approach to the doctor and patient relationship by direct observation and participation. To understand the complexities of the therapeutic relationship, the course spans three years and explores the therapeutic relationship from both the doctor’s and patient’s perspective, at both the beginning and the end of life. \r\rThe course in its first year has two components: \rPart A is a series of clinical visits with a doctor which allows understanding of the role of the doctor in the community and its challenges and provides insight into the doctor-patient relationship and the variety of medical conditions seen\rPart B is a longitudinal follow up of a family with a new born baby to appreciate the influences of the socio-economic background of the family, the health beliefs and practices, and social support on child care, family adjustment and child development milestones. This course is taught by a series of lectures, small group tutorials and presentations. There are also clinical visits to family doctors in the community and interviews with a family on wards and at home/in the community.",
+              "ZHT": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  The therapeutic relationship enables the health professional and the patient to engage and effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  Whilst early medical studies seeks to equip students with essential basic fundamentals to cells and interactions, this course provides a platform to understanding doctor and patient behaviour and takes a humanistic and holistic approach to the doctor and patient relationship by direct observation and participation. To understand the complexities of the therapeutic relationship, the course spans three years and explores the therapeutic relationship from both the doctor’s and patient’s perspective, at both the beginning and the end of life. \r\rThe course in its first year has two components: \rPart A is a series of clinical visits with a doctor which allows understanding of the role of the doctor in the community and its challenges and provides insight into the doctor-patient relationship and the variety of medical conditions seen\rPart B is a longitudinal follow up of a family with a new born baby to appreciate the influences of the socio-economic background of the family, the health beliefs and practices, and social support on child care, family adjustment and child development milestones. This course is taught by a series of lectures, small group tutorials and presentations. There are also clinical visits to family doctors in the community and interviews with a family on wards and at home/in the community."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Doctor and Patient I",
+              "ZHS": "Doctor and Patient I",
+              "ZHT": "Doctor and Patient I"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU2600": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "07/09/2017 - 30/11/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Th 08:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 50
+                  }
+                }
+              },
+              "course": "MEDU2600",
+              "group": "-",
+              "instructors": [
+                "Dr LEE Kit Ying Rebecca",
+                "Professor TSUI Kwok Wing"
+              ],
+              "short_title": "Molecular Medicine & Genetics"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course discusses the basic principles of cellular structure, cell division and death, cellular metabolism and molecular genetics and genomics. It aims to provide scientific basis on biochemical and molecular control of various cell functions, and on recent advances in genomic and personalized medicine. Topics include: cell cycle control, stem cells, enzymology, metabolism of carbohydrates, proteins, lipids and nucleotides, and extended topics on gene expression and genetics, and their applications in diagnosis, screening and patient care.",
+              "ZHS": "This course discusses the basic principles of cellular structure, cell division and death, cellular metabolism and molecular genetics and genomics. It aims to provide scientific basis on biochemical and molecular control of various cell functions, and on recent advances in genomic and personalized medicine. Topics include: cell cycle control, stem cells, enzymology, metabolism of carbohydrates, proteins, lipids and nucleotides, and extended topics on gene expression and genetics, and their applications in diagnosis, screening and patient care.",
+              "ZHT": "This course discusses the basic principles of cellular structure, cell division and death, cellular metabolism and molecular genetics and genomics. It aims to provide scientific basis on biochemical and molecular control of various cell functions, and on recent advances in genomic and personalized medicine. Topics include: cell cycle control, stem cells, enzymology, metabolism of carbohydrates, proteins, lipids and nucleotides, and extended topics on gene expression and genetics, and their applications in diagnosis, screening and patient care."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Molecular Medicine and Genetics",
+              "ZHS": "Molecular Medicine and Genetics",
+              "ZHT": "Molecular Medicine and Genetics"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3001": {
+          "groups": {
+            "-": {
+              "classes": {
+                "O01": {
+                  "class": "O01",
+                  "component": "OTH",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "27/04/2018 - 19/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3001",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Second Professional Exam"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Others": "Required"
+            },
+            "description": {
+              "ENG": "The Second Professional Examination will be held at the end of the academic year and cover all the contents in the Medicine Year 4.  Students are required to pass the Second Professional Examination in order to be eligible for promotion to the next year.",
+              "ZHS": "The Second Professional Examination will be held at the end of the academic year and cover all the contents in the Medicine Year 4.  Students are required to pass the Second Professional Examination in order to be eligible for promotion to the next year.",
+              "ZHT": "The Second Professional Examination will be held at the end of the academic year and cover all the contents in the Medicine Year 4.  Students are required to pass the Second Professional Examination in order to be eligible for promotion to the next year."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "",
+            "title": {
+              "ENG": "Second Professional Examination",
+              "ZHS": "Second Professional Examination",
+              "ZHT": "Second Professional Examination"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3110": {
+          "groups": {
+            "-": {
+              "classes": {
+                "D01": {
+                  "class": "D01",
+                  "component": "DIS",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "04/09/2017 - 04/09/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3110",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Junior Medical Clerkship"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Interactive Tutorial": "Required",
+              "Others": "Required"
+            },
+            "description": {
+              "ENG": "Students will be allocated to medical wards in various hospitals and will be taught to take histories and examine patients. They will also learn how to manage patients with different medical problems.",
+              "ZHS": "Students will be allocated to medical wards in various hospitals and will be taught to take histories and examine patients. They will also learn how to manage patients with different medical problems.",
+              "ZHT": "Students will be allocated to medical wards in various hospitals and will be taught to take histories and examine patients. They will also learn how to manage patients with different medical problems."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Junior Medical Clerkship",
+              "ZHS": "Junior Medical Clerkship",
+              "ZHT": "Junior Medical Clerkship"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3200": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "11/09/2017 - 16/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3200",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Skills Module for Medicine Yr4"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Practicum": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "This course is designed to help students to gain requisite competencies in \r1) Skills of basic life support through practicing on simulators 2) clerking history from surrogate/real Medical or Surgical patients followed by writing up and presenting to teachers. 3) performing physical examination skills which have not been covered in Med 2 and Med 3 practical sessions – neuro-observation and peripheral vascular examination 4) performing a simple ward procedure - nasogastric tube insertion  5) interpretation of ECG, brain imaging and arterial blood gas results",
+              "ZHS": "This course is designed to help students to gain requisite competencies in \r1) Skills of basic life support through practicing on simulators 2) clerking history from surrogate/real Medical or Surgical patients followed by writing up and presenting to teachers. 3) performing physical examination skills which have not been covered in Med 2 and Med 3 practical sessions – neuro-observation and peripheral vascular examination 4) performing a simple ward procedure - nasogastric tube insertion  5) interpretation of ECG, brain imaging and arterial blood gas results",
+              "ZHT": "This course is designed to help students to gain requisite competencies in \r1) Skills of basic life support through practicing on simulators 2) clerking history from surrogate/real Medical or Surgical patients followed by writing up and presenting to teachers. 3) performing physical examination skills which have not been covered in Med 2 and Med 3 practical sessions – neuro-observation and peripheral vascular examination 4) performing a simple ward procedure - nasogastric tube insertion  5) interpretation of ECG, brain imaging and arterial blood gas results"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Skills Module for Medicine Year 4",
+              "ZHS": "Skills Module for Medicine Year 4",
+              "ZHT": "Skills Module for Medicine Year 4"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3210": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 04/09/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3210",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Junior Surgical Dressership"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Project": "Required"
+            },
+            "description": {
+              "ENG": "Students will be allocated to surgical wards in various hospitals and will be taught how to take a surgical history and to perform a surgical examination on patients. They will also learn how to manage patients with different surgical problems. In the surgical rotations, they will have the opportunity to participate in operative procedures in the operating theatre.",
+              "ZHS": "Students will be allocated to surgical wards in various hospitals and will be taught how to take a surgical history and to perform a surgical examination on patients. They will also learn how to manage patients with different surgical problems. In the surgical rotations, they will have the opportunity to participate in operative procedures in the operating theatre.",
+              "ZHT": "Students will be allocated to surgical wards in various hospitals and will be taught how to take a surgical history and to perform a surgical examination on patients. They will also learn how to manage patients with different surgical problems. In the surgical rotations, they will have the opportunity to participate in operative procedures in the operating theatre."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Junior Surgical Dressership",
+              "ZHS": "Junior Surgical Dressership",
+              "ZHT": "Junior Surgical Dressership"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3293": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "16/10/2017 - 16/10/2017",
+                      "time": {
+                        "begin": 690,
+                        "end": 735,
+                        "str": "Mo 11:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3293",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Doctor and Patient III"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Visit": "Required"
+            },
+            "description": {
+              "ENG": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  The therapeutic relationship enables the health professional and the patient to engage and effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  The student should already have a deep understanding of the challenges from the doctor’s perspective and the range and variety of medical conditions of patient presentation.   \r\rThis course is a continuation of Doctor and Patient I and II and revisits the child in the family in the second and third year of life. The course aims to give students insights into the biological, social, psychological and medical context of care in the child's second and third year of life.  This course is taught by a series of lectures and small group tutorials. There are family visits and interviews. The course ends after community and family medicine, paediatrics, obstetrics and gynaecology and psychiatry rotations so that the student has a comprehensive overview of the medical, developmental and social aspects to the family and child and the role of health and the community in health. Case presentations in the interdisciplinary seminar will discuss salient learning points in the course.",
+              "ZHS": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  The therapeutic relationship enables the health professional and the patient to engage and effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  The student should already have a deep understanding of the challenges from the doctor’s perspective and the range and variety of medical conditions of patient presentation.   \r\rThis course is a continuation of Doctor and Patient I and II and revisits the child in the family in the second and third year of life. The course aims to give students insights into the biological, social, psychological and medical context of care in the child's second and third year of life.  This course is taught by a series of lectures and small group tutorials. There are family visits and interviews. The course ends after community and family medicine, paediatrics, obstetrics and gynaecology and psychiatry rotations so that the student has a comprehensive overview of the medical, developmental and social aspects to the family and child and the role of health and the community in health. Case presentations in the interdisciplinary seminar will discuss salient learning points in the course.",
+              "ZHT": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  The therapeutic relationship enables the health professional and the patient to engage and effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  The student should already have a deep understanding of the challenges from the doctor’s perspective and the range and variety of medical conditions of patient presentation.   \r\rThis course is a continuation of Doctor and Patient I and II and revisits the child in the family in the second and third year of life. The course aims to give students insights into the biological, social, psychological and medical context of care in the child's second and third year of life.  This course is taught by a series of lectures and small group tutorials. There are family visits and interviews. The course ends after community and family medicine, paediatrics, obstetrics and gynaecology and psychiatry rotations so that the student has a comprehensive overview of the medical, developmental and social aspects to the family and child and the role of health and the community in health. Case presentations in the interdisciplinary seminar will discuss salient learning points in the course."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Doctor and Patient III",
+              "ZHS": "Doctor and Patient III",
+              "ZHT": "Doctor and Patient III"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3300": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT7"
+                      },
+                      "meeting_date": "04/09/2017 - 27/11/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Mo 02:30PM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 229,
+                    "vacancy": 8
+                  }
+                }
+              },
+              "course": "MEDU3300",
+              "group": "-",
+              "instructors": [
+                "Professor CHO Yu Pang Eric"
+              ],
+              "short_title": "Human Structure II"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required",
+              "Others": "Required",
+              "Practicum": "Required"
+            },
+            "description": {
+              "ENG": "This course looks at the anatomy of the head and neck in human body. First part introduces organization of the extra-cranial structures; second part focuses on the organization of the central nervous system. The course is taught through lectures, supplemented with experiential learning in dissecting laboratory and other practical sessions. Different regions of the head and neck, including the bony components and associated organ systems will be examined. The detailed blood supply and cranial nerve innervation will be emphasized. This will be followed by the study of the organization of the brain and spinal cord, and their control of the structures of the head and neck. Lastly, the embryonic development of the head and central nervous system including sense organs like the eye and ear will be followed to allow students to appreciate how the overall complexity of this body region becomes established.",
+              "ZHS": "This course looks at the anatomy of the head and neck in human body. First part introduces organization of the extra-cranial structures; second part focuses on the organization of the central nervous system. The course is taught through lectures, supplemented with experiential learning in dissecting laboratory and other practical sessions. Different regions of the head and neck, including the bony components and associated organ systems will be examined. The detailed blood supply and cranial nerve innervation will be emphasized. This will be followed by the study of the organization of the brain and spinal cord, and their control of the structures of the head and neck. Lastly, the embryonic development of the head and central nervous system including sense organs like the eye and ear will be followed to allow students to appreciate how the overall complexity of this body region becomes established.",
+              "ZHT": "This course looks at the anatomy of the head and neck in human body. First part introduces organization of the extra-cranial structures; second part focuses on the organization of the central nervous system. The course is taught through lectures, supplemented with experiential learning in dissecting laboratory and other practical sessions. Different regions of the head and neck, including the bony components and associated organ systems will be examined. The detailed blood supply and cranial nerve innervation will be emphasized. This will be followed by the study of the organization of the brain and spinal cord, and their control of the structures of the head and neck. Lastly, the embryonic development of the head and central nervous system including sense organs like the eye and ear will be followed to allow students to appreciate how the overall complexity of this body region becomes established."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Human Structure II",
+              "ZHS": "Human Structure II",
+              "ZHT": "Human Structure II"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3310": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "11/09/2017 - 16/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3310",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "ACP and Clinical Hematology"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Laboratory": "Required",
+              "Lecture": "Required",
+              "Web-enhanced Teaching": "Required"
+            },
+            "description": {
+              "ENG": "In continuation with MEDU3600 Basic Pathology, this course enables students to understand further the mechanisms of laboratory medicine, with emphasis on genomics and personalized medicine.\r\rThe course aims to provide medical students with the understanding of principles of diseases in an organ system approach. Emphases are placed on common diseases of Histopathology and Hematology. Diagnostic approach and case management of both disciplines are discussed. Methods used in laboratories in the hospital are also introduced in the laboratory/tutorial format.",
+              "ZHS": "In continuation with MEDU3600 Basic Pathology, this course enables students to understand further the mechanisms of laboratory medicine, with emphasis on genomics and personalized medicine.\r\rThe course aims to provide medical students with the understanding of principles of diseases in an organ system approach. Emphases are placed on common diseases of Histopathology and Hematology. Diagnostic approach and case management of both disciplines are discussed. Methods used in laboratories in the hospital are also introduced in the laboratory/tutorial format.",
+              "ZHT": "In continuation with MEDU3600 Basic Pathology, this course enables students to understand further the mechanisms of laboratory medicine, with emphasis on genomics and personalized medicine.\r\rThe course aims to provide medical students with the understanding of principles of diseases in an organ system approach. Emphases are placed on common diseases of Histopathology and Hematology. Diagnostic approach and case management of both disciplines are discussed. Methods used in laboratories in the hospital are also introduced in the laboratory/tutorial format."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Anatomical Pathology and Clinical Hematology",
+              "ZHS": "Anatomical Pathology and Clinical Hematology",
+              "ZHT": "Anatomical Pathology and Clinical Hematology"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3320": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "11/09/2017 - 16/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3320",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Chemical Pathology"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Laboratory": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Practicum": "Required"
+            },
+            "description": {
+              "ENG": "This course is designed to teach the pathophysiological basis of diseases and associated biochemical changes. Building on this knowledge, the students will learn about the investigation and interpretation of laboratory results in Chemical Pathology and Clinical Immunology. Students will learn about how disease presentations and laboratory results correlate with pathophysiology. The course places emphasis on how clinical laboratory investigations play in role in the diagnosis and management of diseases.  The course also covers modern developments in laboratory genomic medicine. Students are expected to be competent in interpretation of laboratory results after completion of the course. This course includes lectures, laboratory sessions, tutorials and case discussions.",
+              "ZHS": "This course is designed to teach the pathophysiological basis of diseases and associated biochemical changes. Building on this knowledge, the students will learn about the investigation and interpretation of laboratory results in Chemical Pathology and Clinical Immunology. Students will learn about how disease presentations and laboratory results correlate with pathophysiology. The course places emphasis on how clinical laboratory investigations play in role in the diagnosis and management of diseases.  The course also covers modern developments in laboratory genomic medicine. Students are expected to be competent in interpretation of laboratory results after completion of the course. This course includes lectures, laboratory sessions, tutorials and case discussions.",
+              "ZHT": "This course is designed to teach the pathophysiological basis of diseases and associated biochemical changes. Building on this knowledge, the students will learn about the investigation and interpretation of laboratory results in Chemical Pathology and Clinical Immunology. Students will learn about how disease presentations and laboratory results correlate with pathophysiology. The course places emphasis on how clinical laboratory investigations play in role in the diagnosis and management of diseases.  The course also covers modern developments in laboratory genomic medicine. Students are expected to be competent in interpretation of laboratory results after completion of the course. This course includes lectures, laboratory sessions, tutorials and case discussions."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Chemical Pathology",
+              "ZHS": "Chemical Pathology",
+              "ZHT": "Chemical Pathology"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3330": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "11/09/2017 - 16/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3330",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Clinical Microbiology"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Laboratory": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Practicum": "Required",
+              "Web-enhanced Teaching": "Required"
+            },
+            "description": {
+              "ENG": "The course aims to provide medical students with the understanding of microbiological infections relevant to human. Emphases are placed on commonly encountered micro-organism, including bacteria, viruses, fungi and parasitic organisms, and those that are pathogenic. Diagnostic approach and case management of infectious diseases are discussed. The impact of antimicrobial resistance and the mechanisms of its spread will be explored. Methods for infection prevention and control measures in the hospital are also introduced in the form of Basic Infection Control Module. N95 respirator qualitative fit-test will be conducted within the module.",
+              "ZHS": "The course aims to provide medical students with the understanding of microbiological infections relevant to human. Emphases are placed on commonly encountered micro-organism, including bacteria, viruses, fungi and parasitic organisms, and those that are pathogenic. Diagnostic approach and case management of infectious diseases are discussed. The impact of antimicrobial resistance and the mechanisms of its spread will be explored. Methods for infection prevention and control measures in the hospital are also introduced in the form of Basic Infection Control Module. N95 respirator qualitative fit-test will be conducted within the module.",
+              "ZHT": "The course aims to provide medical students with the understanding of microbiological infections relevant to human. Emphases are placed on commonly encountered micro-organism, including bacteria, viruses, fungi and parasitic organisms, and those that are pathogenic. Diagnostic approach and case management of infectious diseases are discussed. The impact of antimicrobial resistance and the mechanisms of its spread will be explored. Methods for infection prevention and control measures in the hospital are also introduced in the form of Basic Infection Control Module. N95 respirator qualitative fit-test will be conducted within the module."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Clinical Microbiology",
+              "ZHS": "Clinical Microbiology",
+              "ZHT": "Clinical Microbiology"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3340": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "11/09/2017 - 16/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3340",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Integ. Clinical Comm. Skills I"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "Communication skills are core clinical skills which are essential in the medical consultation for effective diagnosis, management planning and teamwork coordination. As students are now interacting with patients, this course has been designed to run alongside the clinical curriculum and to enhance communications skills as students learn to take histories, perform examinations and clinical tasks.\r\rTeaching modalities combines e-learning with experiential learning, self reflection and peer review and tutor feedback.",
+              "ZHS": "Communication skills are core clinical skills which are essential in the medical consultation for effective diagnosis, management planning and teamwork coordination. As students are now interacting with patients, this course has been designed to run alongside the clinical curriculum and to enhance communications skills as students learn to take histories, perform examinations and clinical tasks.\r\rTeaching modalities combines e-learning with experiential learning, self reflection and peer review and tutor feedback.",
+              "ZHT": "Communication skills are core clinical skills which are essential in the medical consultation for effective diagnosis, management planning and teamwork coordination. As students are now interacting with patients, this course has been designed to run alongside the clinical curriculum and to enhance communications skills as students learn to take histories, perform examinations and clinical tasks.\r\rTeaching modalities combines e-learning with experiential learning, self reflection and peer review and tutor feedback."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Integrated Clinical Communication Skills I",
+              "ZHS": "Integrated Clinical Communication Skills I",
+              "ZHT": "Integrated Clinical Communication Skills I"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3400": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LKC_LT1"
+                      },
+                      "meeting_date": "05/09/2017 - 28/11/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Tu 02:30PM - 06:15PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 229,
+                    "vacancy": 8
+                  }
+                }
+              },
+              "course": "MEDU3400",
+              "group": "-",
+              "instructors": [
+                "Professor YUNG Wing Ho"
+              ],
+              "short_title": "Human Function II"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Interactive Tutorial": "Required",
+              "Laboratory": "Required",
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course focuses on the physiological function of respiratory and reproductive systems, and the integrated control of various body functions, that involves hormonal, neural and immunological mechanisms. It is taught by lectures, practical and small group tutorials. Topics include: respiratory physiology, endocrinology, reproductive physiology, nervous system function, drugs action in pain control and CNS function, haemostasis, basic immunology and inflammation.",
+              "ZHS": "This course focuses on the physiological function of respiratory and reproductive systems, and the integrated control of various body functions, that involves hormonal, neural and immunological mechanisms. It is taught by lectures, practical and small group tutorials. Topics include: respiratory physiology, endocrinology, reproductive physiology, nervous system function, drugs action in pain control and CNS function, haemostasis, basic immunology and inflammation.",
+              "ZHT": "This course focuses on the physiological function of respiratory and reproductive systems, and the integrated control of various body functions, that involves hormonal, neural and immunological mechanisms. It is taught by lectures, practical and small group tutorials. Topics include: respiratory physiology, endocrinology, reproductive physiology, nervous system function, drugs action in pain control and CNS function, haemostasis, basic immunology and inflammation."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Human Function II",
+              "ZHS": "Human Function II",
+              "ZHT": "Human Function II"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3500": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT6"
+                      },
+                      "meeting_date": "07/09/2017 - 30/11/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Th 02:30PM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 229,
+                    "vacancy": 8
+                  }
+                }
+              },
+              "course": "MEDU3500",
+              "group": "-",
+              "instructors": [
+                "Dr. WONG Carmen",
+                "Professor WONG Yeung Shan Samuel"
+              ],
+              "short_title": "Doctor and Patient II"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required",
+              "Practicum": "Required",
+              "Project": "Required",
+              "Seminar": "Required",
+              "Visit": "Required"
+            },
+            "description": {
+              "ENG": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  The therapeutic relationship enables the health professional and the patient to engage and effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  The student should already have a deep understanding of the challenges from the doctor’s perspective and the range and variety of medical conditions of patient presentation.   \rThis course is a continuation of Doctor and Patient I and takes a deeper exploration of the patient’s perspective and person centred care and how this impacts the therapeutic consultation.  Meanwhile, the student continues to engage with the family and the child is reaching one year old.\r\rThe course has two components:\rPart A continues the clinical visits with a doctor.  During these visits, the attention is now drawn to the patient’s perspective in dissecting the \rbiopsychosocial components of the clinical presentation, the illness trajectory, and the communication and the interaction and exchange between the doctor and the patient. Meanwhile, issues relating to caring for those in decline and dying will be discussed. \rPart B is the continuation of the family follow up project and gives the students insight into the biological, social, psychological and medical context of care in the  child's first year of life.  . This course is taught by a series of lectures and small group tutorials. There are clinical visits to family doctors and family visits and interviews.",
+              "ZHS": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  The therapeutic relationship enables the health professional and the patient to engage and effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  The student should already have a deep understanding of the challenges from the doctor’s perspective and the range and variety of medical conditions of patient presentation.   \rThis course is a continuation of Doctor and Patient I and takes a deeper exploration of the patient’s perspective and person centred care and how this impacts the therapeutic consultation.  Meanwhile, the student continues to engage with the family and the child is reaching one year old.\r\rThe course has two components:\rPart A continues the clinical visits with a doctor.  During these visits, the attention is now drawn to the patient’s perspective in dissecting the \rbiopsychosocial components of the clinical presentation, the illness trajectory, and the communication and the interaction and exchange between the doctor and the patient. Meanwhile, issues relating to caring for those in decline and dying will be discussed. \rPart B is the continuation of the family follow up project and gives the students insight into the biological, social, psychological and medical context of care in the  child's first year of life.  . This course is taught by a series of lectures and small group tutorials. There are clinical visits to family doctors and family visits and interviews.",
+              "ZHT": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  The therapeutic relationship enables the health professional and the patient to engage and effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  The student should already have a deep understanding of the challenges from the doctor’s perspective and the range and variety of medical conditions of patient presentation.   \rThis course is a continuation of Doctor and Patient I and takes a deeper exploration of the patient’s perspective and person centred care and how this impacts the therapeutic consultation.  Meanwhile, the student continues to engage with the family and the child is reaching one year old.\r\rThe course has two components:\rPart A continues the clinical visits with a doctor.  During these visits, the attention is now drawn to the patient’s perspective in dissecting the \rbiopsychosocial components of the clinical presentation, the illness trajectory, and the communication and the interaction and exchange between the doctor and the patient. Meanwhile, issues relating to caring for those in decline and dying will be discussed. \rPart B is the continuation of the family follow up project and gives the students insight into the biological, social, psychological and medical context of care in the  child's first year of life.  . This course is taught by a series of lectures and small group tutorials. There are clinical visits to family doctors and family visits and interviews."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Doctor and Patient II",
+              "ZHS": "Doctor and Patient II",
+              "ZHT": "Doctor and Patient II"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3510": {
+          "groups": {
+            "-": {
+              "classes": {
+                "O01": {
+                  "class": "O01",
+                  "component": "OTH",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "21/04/2018 - 13/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3510",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Combined Clinical Examination"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Others": "Required"
+            },
+            "description": {
+              "ENG": "At the end of the year, students will be assessed on their clinical skills through a Combined Clinical Examination which constitutes part of their Second Professional Examination.",
+              "ZHS": "At the end of the year, students will be assessed on their clinical skills through a Combined Clinical Examination which constitutes part of their Second Professional Examination.",
+              "ZHT": "At the end of the year, students will be assessed on their clinical skills through a Combined Clinical Examination which constitutes part of their Second Professional Examination."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Combined Clinical Examination",
+              "ZHS": "Combined Clinical Examination",
+              "ZHT": "Combined Clinical Examination"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3520": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "28/05/2018 - 11/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 250,
+                    "vacancy": 29
+                  }
+                }
+              },
+              "course": "MEDU3520",
+              "group": "-",
+              "instructors": [
+                "Professor CHAN Sun On"
+              ],
+              "short_title": "Clinical Anatomy & Skills"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Practicum": "Required",
+              "Web-enhanced Teaching": "Required"
+            },
+            "description": {
+              "ENG": "This course is a 3-weeks bridging course taught at the end of Year 3, the final year of preclinical education of the MBChB programme. It is aimed to help student to revise anatomy of all body regions and appreciate their relevance in basic skills in clinical examination on a human body. It is an intensive course taught by basic and clinical lectures, e-lectures, interactive radiology sessions and small group clinical skill practical involving real patients.",
+              "ZHS": "This course is a 3-weeks bridging course taught at the end of Year 3, the final year of preclinical education of the MBChB programme. It is aimed to help student to revise anatomy of all body regions and appreciate their relevance in basic skills in clinical examination on a human body. It is an intensive course taught by basic and clinical lectures, e-lectures, interactive radiology sessions and small group clinical skill practical involving real patients.",
+              "ZHT": "This course is a 3-weeks bridging course taught at the end of Year 3, the final year of preclinical education of the MBChB programme. It is aimed to help student to revise anatomy of all body regions and appreciate their relevance in basic skills in clinical examination on a human body. It is an intensive course taught by basic and clinical lectures, e-lectures, interactive radiology sessions and small group clinical skill practical involving real patients."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Clinical Anatomy and Clinical Skills",
+              "ZHS": "Clinical Anatomy and Clinical Skills",
+              "ZHT": "Clinical Anatomy and Clinical Skills"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3600": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/05/2018 - 21/05/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 250,
+                    "vacancy": 29
+                  }
+                }
+              },
+              "course": "MEDU3600",
+              "group": "-",
+              "instructors": [
+                "Professor TO Ka Fai"
+              ],
+              "short_title": "Basic Pathology"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Web-enhanced Teaching": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to introduce basic principles underlying pathological changes in various body systems. It is a 3-week bridging course for students before they start clinical training, providing them with relevant basic knowledge in pathology that is essential for their clinical practice. It is taught as an intensive course through lectures, practical and small group tutorials. Topics include: anatomical general pathology, microbiology and forensic pathology.",
+              "ZHS": "This course aims to introduce basic principles underlying pathological changes in various body systems. It is a 3-week bridging course for students before they start clinical training, providing them with relevant basic knowledge in pathology that is essential for their clinical practice. It is taught as an intensive course through lectures, practical and small group tutorials. Topics include: anatomical general pathology, microbiology and forensic pathology.",
+              "ZHT": "This course aims to introduce basic principles underlying pathological changes in various body systems. It is a 3-week bridging course for students before they start clinical training, providing them with relevant basic knowledge in pathology that is essential for their clinical practice. It is taught as an intensive course through lectures, practical and small group tutorials. Topics include: anatomical general pathology, microbiology and forensic pathology."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Basic Pathology",
+              "ZHS": "Basic Pathology",
+              "ZHT": "Basic Pathology"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3700": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT7"
+                      },
+                      "meeting_date": "25/09/2017 - 25/09/2017",
+                      "time": {
+                        "begin": 690,
+                        "end": 795,
+                        "str": "Mo 11:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 229,
+                    "vacancy": 8
+                  }
+                }
+              },
+              "course": "MEDU3700",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Ethics and Society"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "Year 3 is last of pre-clinical years’ curriculum. It builds on the foundational subject areas introduced during years 1 and 2, while preparing students for the clinical years’ ethics curriculum. Topics addressed are in policy, public health, and research ethics, grounded in philosophical considerations and empirical research in the field.\r\rYear 3 is presented in a three-part mini-course format comprised of:\r•\tMajor philosophical issues in bioethics of significance in clinical practice and      health policy\r•\tPublic Health Ethics of global and Hong Kong relevance\r•\tResearch Ethics: the essentials for future clinicians, physician-researchers, and physician administrators",
+              "ZHS": "Year 3 is last of pre-clinical years’ curriculum. It builds on the foundational subject areas introduced during years 1 and 2, while preparing students for the clinical years’ ethics curriculum. Topics addressed are in policy, public health, and research ethics, grounded in philosophical considerations and empirical research in the field.\r\rYear 3 is presented in a three-part mini-course format comprised of:\r•\tMajor philosophical issues in bioethics of significance in clinical practice and      health policy\r•\tPublic Health Ethics of global and Hong Kong relevance\r•\tResearch Ethics: the essentials for future clinicians, physician-researchers, and physician administrators",
+              "ZHT": "Year 3 is last of pre-clinical years’ curriculum. It builds on the foundational subject areas introduced during years 1 and 2, while preparing students for the clinical years’ ethics curriculum. Topics addressed are in policy, public health, and research ethics, grounded in philosophical considerations and empirical research in the field.\r\rYear 3 is presented in a three-part mini-course format comprised of:\r•\tMajor philosophical issues in bioethics of significance in clinical practice and      health policy\r•\tPublic Health Ethics of global and Hong Kong relevance\r•\tResearch Ethics: the essentials for future clinicians, physician-researchers, and physician administrators"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Ethics and Society",
+              "ZHS": "Ethics and Society",
+              "ZHT": "Ethics and Society"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3800": {
+          "groups": {
+            "-": {
+              "classes": {
+                "S01": {
+                  "class": "S01",
+                  "component": "SEM",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/09/2017 - 09/04/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                }
+              },
+              "course": "MEDU3800",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Law, Society and Medicine"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Seminar": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "Ethical issues and the delivery of health care in a modern metropolis society.",
+              "ZHS": "Ethical issues and the delivery of health care in a modern metropolis society.",
+              "ZHT": "Ethical issues and the delivery of health care in a modern metropolis society."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Law, Society and Medicine",
+              "ZHS": "Law, Society and Medicine",
+              "ZHT": "Law, Society and Medicine"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU3900": {
+          "groups": {
+            "-": {
+              "classes": {
+                "O01": {
+                  "class": "O01",
+                  "component": "OTH",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/09/2017 - 21/04/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 5,
+                    "vacancy": 5
+                  }
+                }
+              },
+              "course": "MEDU3900",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Elective"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Others": "Required"
+            },
+            "description": {
+              "ENG": "This elective course aims to enhance the diversity of experiential learning of MBChB students, and to foster their lifelong interest in medical related practice.  Students will be required to conduct a self-initiated educational activity of not less than 26 weeks.  A proposal should be submitted to the Course Committee for endorsement before commencement of the activity and a written report should be submitted for assessment upon completion.\r\rGrade Descriptor:\rA   -   Outstanding performance on all learning outcomes.\rB   -    Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC   -    Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD   -    Barely satisfactory performance on a number of learning outcomes\rF   -    Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "This elective course aims to enhance the diversity of experiential learning of MBChB students, and to foster their lifelong interest in medical related practice.  Students will be required to conduct a self-initiated educational activity of not less than 26 weeks.  A proposal should be submitted to the Course Committee for endorsement before commencement of the activity and a written report should be submitted for assessment upon completion.\r\rGrade Descriptor:\rA   -   Outstanding performance on all learning outcomes.\rB   -    Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC   -    Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD   -    Barely satisfactory performance on a number of learning outcomes\rF   -    Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHT": "This elective course aims to enhance the diversity of experiential learning of MBChB students, and to foster their lifelong interest in medical related practice.  Students will be required to conduct a self-initiated educational activity of not less than 26 weeks.  A proposal should be submitted to the Course Committee for endorsement before commencement of the activity and a written report should be submitted for assessment upon completion.\r\rGrade Descriptor:\rA   -   Outstanding performance on all learning outcomes.\rB   -    Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC   -    Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD   -    Barely satisfactory performance on a number of learning outcomes\rF   -    Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "",
+            "title": {
+              "ENG": "Elective",
+              "ZHS": "Elective",
+              "ZHT": "Elective"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4001": {
+          "groups": {
+            "-": {
+              "classes": {
+                "O01": {
+                  "class": "O01",
+                  "component": "OTH",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "12/03/2018 - 27/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 46
+                  }
+                }
+              },
+              "course": "MEDU4001",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "(Part I) Third Prof Exam"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Seminar": "Required",
+              "Visit": "Required"
+            },
+            "description": {
+              "ENG": "Students are required to pass the four module examinations (namely, Community & Family Medicine, Obstetrics & Gynaecology, Paediatrics, and Psychiatry) as well as the End-of-year Combined Clinical Examination to achieve a pass in the Part I of the Third Professional Examination in order to be eligible for promotion to the next year.",
+              "ZHS": "Students are required to pass the four module examinations (namely, Community & Family Medicine, Obstetrics & Gynaecology, Paediatrics, and Psychiatry) as well as the End-of-year Combined Clinical Examination to achieve a pass in the Part I of the Third Professional Examination in order to be eligible for promotion to the next year.",
+              "ZHT": "Students are required to pass the four module examinations (namely, Community & Family Medicine, Obstetrics & Gynaecology, Paediatrics, and Psychiatry) as well as the End-of-year Combined Clinical Examination to achieve a pass in the Part I of the Third Professional Examination in order to be eligible for promotion to the next year."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "",
+            "title": {
+              "ENG": "(Part I) Third Professional Examination",
+              "ZHS": "(Part I) Third Professional Examination",
+              "ZHT": "(Part I) Third Professional Examination"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4002": {
+          "groups": {
+            "-": {
+              "classes": {
+                "O01": {
+                  "class": "O01",
+                  "component": "OTH",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "26/02/2018 - 20/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 24
+                  }
+                }
+              },
+              "course": "MEDU4002",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "(Part II) Third Prof Exam"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Others": "Required"
+            },
+            "description": {
+              "ENG": "Students are required to pass the Part II of the Third Professional Examination in Medicine and Surgery for conferment of the MBChB Degrees.",
+              "ZHS": "Students are required to pass the Part II of the Third Professional Examination in Medicine and Surgery for conferment of the MBChB Degrees.",
+              "ZHT": "Students are required to pass the Part II of the Third Professional Examination in Medicine and Surgery for conferment of the MBChB Degrees."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "(Part II) Third Professional Examination",
+              "ZHS": "(Part II) Third Professional Examination",
+              "ZHT": "(Part II) Third Professional Examination"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4010": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 06/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 46
+                  }
+                }
+              },
+              "course": "MEDU4010",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Community and Family Med"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Practicum": "Required",
+              "Project": "Required",
+              "Visit": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "This course provides 9 weeks of integrated teaching in Community and Family Medicine. \r\rIn Community Medicine, three major areas are covered: Epidemiology, Public Health Practice, and Occupation and Environmental Health. Students will be introduced to the principles and practice of public health, the application of epidemiological methods, and the prevention and control of communicable diseases, non-communicable diseases and occupational diseases.  In addition to didactic lectures, students will learn the subject areas through active participation in problem-solving exercises, field visits and presentations in seminars and tutorials.\r\rThe clinical clerkship in Family Medicine aims at teach practical family medicine skills and to equip students with the understanding and ability to diagnose and manage common medical conditions that present to primary care.   Throughout the clerkship, the students will be taught skills in diagnoses formation of undifferentiated symptoms, prioritisation of multiple medical conditions and first line investigations and management of common medical problems in the community.  Students will also gain exposure to the basic principles and practice of family medicine in providing primary, comprehensive, holistic approach and continuing person centred care.  The clinical clerkship will consist of online teaching, case based seminars and tutorial, clinical attachments to private family medicine providers as well as the public Hospital Authority clinics and community hospitals and health care providers for vulnerable populations. Teaching will also involve roleplay in skills workshops and facilitated clinical enhanced skills training.  Clinical teaching will involve University Family Medicine Clinics, and at Family Medicine clinics run by Hospital Authority and private practitioners, both in public and private settings across the whole territory.",
+              "ZHS": "This course provides 9 weeks of integrated teaching in Community and Family Medicine. \r\rIn Community Medicine, three major areas are covered: Epidemiology, Public Health Practice, and Occupation and Environmental Health. Students will be introduced to the principles and practice of public health, the application of epidemiological methods, and the prevention and control of communicable diseases, non-communicable diseases and occupational diseases.  In addition to didactic lectures, students will learn the subject areas through active participation in problem-solving exercises, field visits and presentations in seminars and tutorials.\r\rThe clinical clerkship in Family Medicine aims at teach practical family medicine skills and to equip students with the understanding and ability to diagnose and manage common medical conditions that present to primary care.   Throughout the clerkship, the students will be taught skills in diagnoses formation of undifferentiated symptoms, prioritisation of multiple medical conditions and first line investigations and management of common medical problems in the community.  Students will also gain exposure to the basic principles and practice of family medicine in providing primary, comprehensive, holistic approach and continuing person centred care.  The clinical clerkship will consist of online teaching, case based seminars and tutorial, clinical attachments to private family medicine providers as well as the public Hospital Authority clinics and community hospitals and health care providers for vulnerable populations. Teaching will also involve roleplay in skills workshops and facilitated clinical enhanced skills training.  Clinical teaching will involve University Family Medicine Clinics, and at Family Medicine clinics run by Hospital Authority and private practitioners, both in public and private settings across the whole territory.",
+              "ZHT": "This course provides 9 weeks of integrated teaching in Community and Family Medicine. \r\rIn Community Medicine, three major areas are covered: Epidemiology, Public Health Practice, and Occupation and Environmental Health. Students will be introduced to the principles and practice of public health, the application of epidemiological methods, and the prevention and control of communicable diseases, non-communicable diseases and occupational diseases.  In addition to didactic lectures, students will learn the subject areas through active participation in problem-solving exercises, field visits and presentations in seminars and tutorials.\r\rThe clinical clerkship in Family Medicine aims at teach practical family medicine skills and to equip students with the understanding and ability to diagnose and manage common medical conditions that present to primary care.   Throughout the clerkship, the students will be taught skills in diagnoses formation of undifferentiated symptoms, prioritisation of multiple medical conditions and first line investigations and management of common medical problems in the community.  Students will also gain exposure to the basic principles and practice of family medicine in providing primary, comprehensive, holistic approach and continuing person centred care.  The clinical clerkship will consist of online teaching, case based seminars and tutorial, clinical attachments to private family medicine providers as well as the public Hospital Authority clinics and community hospitals and health care providers for vulnerable populations. Teaching will also involve roleplay in skills workshops and facilitated clinical enhanced skills training.  Clinical teaching will involve University Family Medicine Clinics, and at Family Medicine clinics run by Hospital Authority and private practitioners, both in public and private settings across the whole territory."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Community and Family Medicine Module",
+              "ZHS": "Community and Family Medicine Module",
+              "ZHT": "Community and Family Medicine Module"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4110": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 06/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 46
+                  }
+                }
+              },
+              "course": "MEDU4110",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Obstetrics and Gynaecology"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Debate": "Required",
+              "Discussion": "Required",
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Practicum": "Required",
+              "Seminar": "Required",
+              "Visit": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "Within this 9-week module, students will undergo 4 clinical rotations which are mainly based at the Prince of Wales Hospital: (1) antenatal clinic and ward; (2) gynaecology clinic and ward; (3) labour ward; and (4) O&G services in affiliated hospitals. Core materials will be covered in online lectures, tutorials and bedside teaching. \r\rDuring their antenatal attachment, students will gain understanding of normal pregnancy, the development and growth of the unborn child, and will acquire the skill in performing obstetrics examinations. \r\rIn the labour ward attachment, students will participate in the care and delivery of normal pregnancies, as well as observe operative deliveries. They will learn common problems and emergencies in childbirth and the postpartum period.\r\rWithin the gynaecology rotation, students will learn common gynaecological conditions and neoplasm of the female reproductive tract. They will also acquire the skill in gynaecological examination. Communication skills in taking history and conducting discussions on issues regarding sexuality and reproduction will be emphasized.\r\rStudents will also have the opportunity to attach to the O&G unit of one of the following affiliated hospitals: Princess Margaret Hospital, Tuen Mun Hospital, United Christian Hospital and Queen Elizabeth Hospital.",
+              "ZHS": "Within this 9-week module, students will undergo 4 clinical rotations which are mainly based at the Prince of Wales Hospital: (1) antenatal clinic and ward; (2) gynaecology clinic and ward; (3) labour ward; and (4) O&G services in affiliated hospitals. Core materials will be covered in online lectures, tutorials and bedside teaching. \r\rDuring their antenatal attachment, students will gain understanding of normal pregnancy, the development and growth of the unborn child, and will acquire the skill in performing obstetrics examinations. \r\rIn the labour ward attachment, students will participate in the care and delivery of normal pregnancies, as well as observe operative deliveries. They will learn common problems and emergencies in childbirth and the postpartum period.\r\rWithin the gynaecology rotation, students will learn common gynaecological conditions and neoplasm of the female reproductive tract. They will also acquire the skill in gynaecological examination. Communication skills in taking history and conducting discussions on issues regarding sexuality and reproduction will be emphasized.\r\rStudents will also have the opportunity to attach to the O&G unit of one of the following affiliated hospitals: Princess Margaret Hospital, Tuen Mun Hospital, United Christian Hospital and Queen Elizabeth Hospital.",
+              "ZHT": "Within this 9-week module, students will undergo 4 clinical rotations which are mainly based at the Prince of Wales Hospital: (1) antenatal clinic and ward; (2) gynaecology clinic and ward; (3) labour ward; and (4) O&G services in affiliated hospitals. Core materials will be covered in online lectures, tutorials and bedside teaching. \r\rDuring their antenatal attachment, students will gain understanding of normal pregnancy, the development and growth of the unborn child, and will acquire the skill in performing obstetrics examinations. \r\rIn the labour ward attachment, students will participate in the care and delivery of normal pregnancies, as well as observe operative deliveries. They will learn common problems and emergencies in childbirth and the postpartum period.\r\rWithin the gynaecology rotation, students will learn common gynaecological conditions and neoplasm of the female reproductive tract. They will also acquire the skill in gynaecological examination. Communication skills in taking history and conducting discussions on issues regarding sexuality and reproduction will be emphasized.\r\rStudents will also have the opportunity to attach to the O&G unit of one of the following affiliated hospitals: Princess Margaret Hospital, Tuen Mun Hospital, United Christian Hospital and Queen Elizabeth Hospital."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Obstetrics and Gynaecology Module",
+              "ZHS": "Obstetrics and Gynaecology Module",
+              "ZHT": "Obstetrics and Gynaecology Module"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4201": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 06/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 46
+                  }
+                }
+              },
+              "course": "MEDU4201",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Skills Module for Medicine Yr5"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Seminar": "Required",
+              "Visit": "Required"
+            },
+            "description": {
+              "ENG": "Clinical Methods\rThis course aims to further consolidate students’ ability in history taking and physical examination to gather relevant clinical information to reach a working diagnosis by rotating in the four disciplines (Obstetrics & Gynaecology, Paediatrics, Psychiatry and Community & Family Medicine). \r\rCommunication Skills\rStudent’s skills in case presentation and discussion will be reinforced through practice and feedback in small groups and under guidance.",
+              "ZHS": "Clinical Methods\rThis course aims to further consolidate students’ ability in history taking and physical examination to gather relevant clinical information to reach a working diagnosis by rotating in the four disciplines (Obstetrics & Gynaecology, Paediatrics, Psychiatry and Community & Family Medicine). \r\rCommunication Skills\rStudent’s skills in case presentation and discussion will be reinforced through practice and feedback in small groups and under guidance.",
+              "ZHT": "Clinical Methods\rThis course aims to further consolidate students’ ability in history taking and physical examination to gather relevant clinical information to reach a working diagnosis by rotating in the four disciplines (Obstetrics & Gynaecology, Paediatrics, Psychiatry and Community & Family Medicine). \r\rCommunication Skills\rStudent’s skills in case presentation and discussion will be reinforced through practice and feedback in small groups and under guidance."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Skills Module for Medicine Year 5",
+              "ZHS": "Skills Module for Medicine Year 5",
+              "ZHT": "Skills Module for Medicine Year 5"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4202": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 20/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 24
+                  }
+                }
+              },
+              "course": "MEDU4202",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Skills Module for Medicine Yr6"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This Skills Modules will be embedded in the medical and surgical modules teaching.\rLife Long Learning Skills additionally provides a Medical Professionalism teaching module. Medical professionalism is primarily concerned with the attributes and behaviours of physicians in the context of medicine as a profession. The Medical Professionalism teaching module builds on the introductory lectures of prior years and informal \"role modeling\" that occur from time to time in current curriculum. The teaching module expands the students' cognitive base for professionalism, and also provides an opportunity for the internalization of values and behaviours through problem solving and group collaboration. The module takes the form of an integrated teaching session, combining short lectures with exploratory workshops to simulate situated learning, and active participatory feedback by small groups to the class provides a reflective component. Exploratory workshops involve the analysis and development of moral solutions for simulated ethical dilemmas.",
+              "ZHS": "This Skills Modules will be embedded in the medical and surgical modules teaching.\rLife Long Learning Skills additionally provides a Medical Professionalism teaching module. Medical professionalism is primarily concerned with the attributes and behaviours of physicians in the context of medicine as a profession. The Medical Professionalism teaching module builds on the introductory lectures of prior years and informal \"role modeling\" that occur from time to time in current curriculum. The teaching module expands the students' cognitive base for professionalism, and also provides an opportunity for the internalization of values and behaviours through problem solving and group collaboration. The module takes the form of an integrated teaching session, combining short lectures with exploratory workshops to simulate situated learning, and active participatory feedback by small groups to the class provides a reflective component. Exploratory workshops involve the analysis and development of moral solutions for simulated ethical dilemmas.",
+              "ZHT": "This Skills Modules will be embedded in the medical and surgical modules teaching.\rLife Long Learning Skills additionally provides a Medical Professionalism teaching module. Medical professionalism is primarily concerned with the attributes and behaviours of physicians in the context of medicine as a profession. The Medical Professionalism teaching module builds on the introductory lectures of prior years and informal \"role modeling\" that occur from time to time in current curriculum. The teaching module expands the students' cognitive base for professionalism, and also provides an opportunity for the internalization of values and behaviours through problem solving and group collaboration. The module takes the form of an integrated teaching session, combining short lectures with exploratory workshops to simulate situated learning, and active participatory feedback by small groups to the class provides a reflective component. Exploratory workshops involve the analysis and development of moral solutions for simulated ethical dilemmas."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "Skills Module for Medicine Year 6",
+              "ZHS": "Skills Module for Medicine Year 6",
+              "ZHT": "Skills Module for Medicine Year 6"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4210": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 06/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 46
+                  }
+                }
+              },
+              "course": "MEDU4210",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Paediatrics"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Practicum": "Required",
+              "Seminar": "Required",
+              "Visit": "Required"
+            },
+            "description": {
+              "ENG": "During this 9-week clinical module in paediatrics, students will participate in a range of learning activities both in the hospital and in the community. Hospital-based learning will include the wards and outpatient clinics of the Prince of Wales Hospital and other regional hospitals. Students will be exposed to primary care paediatrics in community-based centres, including the Maternal and Child Health Centres, Child Assessment Centres, Hong Chi Pinehill School and primary care private paediatric clinics. Lectures will be combined with bedside and tutorial teaching. As part of the mentorship programme, students will also attend interactive teaching on bioethics and communication skills.",
+              "ZHS": "During this 9-week clinical module in paediatrics, students will participate in a range of learning activities both in the hospital and in the community. Hospital-based learning will include the wards and outpatient clinics of the Prince of Wales Hospital and other regional hospitals. Students will be exposed to primary care paediatrics in community-based centres, including the Maternal and Child Health Centres, Child Assessment Centres, Hong Chi Pinehill School and primary care private paediatric clinics. Lectures will be combined with bedside and tutorial teaching. As part of the mentorship programme, students will also attend interactive teaching on bioethics and communication skills.",
+              "ZHT": "During this 9-week clinical module in paediatrics, students will participate in a range of learning activities both in the hospital and in the community. Hospital-based learning will include the wards and outpatient clinics of the Prince of Wales Hospital and other regional hospitals. Students will be exposed to primary care paediatrics in community-based centres, including the Maternal and Child Health Centres, Child Assessment Centres, Hong Chi Pinehill School and primary care private paediatric clinics. Lectures will be combined with bedside and tutorial teaching. As part of the mentorship programme, students will also attend interactive teaching on bioethics and communication skills."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Paediatrics Module",
+              "ZHS": "Paediatrics Module",
+              "ZHT": "Paediatrics Module"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4300": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 02/12/2017",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 240,
+                    "vacancy": 26
+                  }
+                }
+              },
+              "course": "MEDU4300",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "BioEthics in Relation to MED"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "This course will discuss genetic testing, child abuse, compulsory treatment, mental health, guardianship and abortion & reproduction.  Matters in relation to confidentiality, euthanasia, patient right, consent and resource allocation in public health will also be covered.",
+              "ZHS": "This course will discuss genetic testing, child abuse, compulsory treatment, mental health, guardianship and abortion & reproduction.  Matters in relation to confidentiality, euthanasia, patient right, consent and resource allocation in public health will also be covered.",
+              "ZHT": "This course will discuss genetic testing, child abuse, compulsory treatment, mental health, guardianship and abortion & reproduction.  Matters in relation to confidentiality, euthanasia, patient right, consent and resource allocation in public health will also be covered."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Bioethics in Relation to Paediatrics, Family Medicine, Obstetrics and Gynaecology and Psychiatry",
+              "ZHS": "Bioethics in Relation to Paediatrics, Family Medicine, Obstetrics and Gynaecology and Psychiatry",
+              "ZHT": "Bioethics in Relation to Paediatrics, Family Medicine, Obstetrics and Gynaecology and Psychiatry"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4310": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 06/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 46
+                  }
+                }
+              },
+              "course": "MEDU4310",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Psychiatry Module"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Optional",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Practicum": "Optional",
+              "Visit": "Required"
+            },
+            "description": {
+              "ENG": "Core objectives of this 9-week course in psychiatry are to enable students to:\r1.\tunderstand the relationships between the psychological, biological and social determinants of psychiatric disorders;\r2.\tacquire basic practical knowledge in diagnosing and managing psychiatric disorders of major public health concerns;\r3.\tget acquainted with the organization of psychiatric services in Hong Kong. To this end, a variety of teaching methods are employed including seminars, small-group tutorials, attendance of ward rounds, case conferences, academic lectures and outpatient clinics and visits to several psychiatric facilities (hospitals and community facilities).",
+              "ZHS": "Core objectives of this 9-week course in psychiatry are to enable students to:\r1.\tunderstand the relationships between the psychological, biological and social determinants of psychiatric disorders;\r2.\tacquire basic practical knowledge in diagnosing and managing psychiatric disorders of major public health concerns;\r3.\tget acquainted with the organization of psychiatric services in Hong Kong. To this end, a variety of teaching methods are employed including seminars, small-group tutorials, attendance of ward rounds, case conferences, academic lectures and outpatient clinics and visits to several psychiatric facilities (hospitals and community facilities).",
+              "ZHT": "Core objectives of this 9-week course in psychiatry are to enable students to:\r1.\tunderstand the relationships between the psychological, biological and social determinants of psychiatric disorders;\r2.\tacquire basic practical knowledge in diagnosing and managing psychiatric disorders of major public health concerns;\r3.\tget acquainted with the organization of psychiatric services in Hong Kong. To this end, a variety of teaching methods are employed including seminars, small-group tutorials, attendance of ward rounds, case conferences, academic lectures and outpatient clinics and visits to several psychiatric facilities (hospitals and community facilities)."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Psychiatry Module",
+              "ZHS": "Psychiatry Module",
+              "ZHT": "Psychiatry Module"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4340": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 09/03/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 240,
+                    "vacancy": 26
+                  }
+                }
+              },
+              "course": "MEDU4340",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Integ Clinical Comm Skills II"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "Communication skills are core clinical skills which are essential in the medical consultation for effective diagnosis, management planning and teamwork coordination. This is a continuation of Integrated Clinical Communication Skills I.  By now, students have had the theoretical basis for interacting with the all ages and culture of patients.  Additional skills are taught to equip students to communicate effectively with the breadth of patients seen in the community and family module, paediatrics, obstetrics and gynaecology and psychiatry modules and to enhance their skill mix.  Enhanced skills specific to each specialty are now given within the modules and supplemented by e-learning. \rTeaching modalities combines e-learning with experiential learning workshops, clinical tutor feedback and feedback from patients\r\rGrade Descriptor\rPass -  Satisfactory performance on all learning outcomes.\rFail - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "Communication skills are core clinical skills which are essential in the medical consultation for effective diagnosis, management planning and teamwork coordination. This is a continuation of Integrated Clinical Communication Skills I.  By now, students have had the theoretical basis for interacting with the all ages and culture of patients.  Additional skills are taught to equip students to communicate effectively with the breadth of patients seen in the community and family module, paediatrics, obstetrics and gynaecology and psychiatry modules and to enhance their skill mix.  Enhanced skills specific to each specialty are now given within the modules and supplemented by e-learning. \rTeaching modalities combines e-learning with experiential learning workshops, clinical tutor feedback and feedback from patients\r\rGrade Descriptor\rPass -  Satisfactory performance on all learning outcomes.\rFail - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHT": "Communication skills are core clinical skills which are essential in the medical consultation for effective diagnosis, management planning and teamwork coordination. This is a continuation of Integrated Clinical Communication Skills I.  By now, students have had the theoretical basis for interacting with the all ages and culture of patients.  Additional skills are taught to equip students to communicate effectively with the breadth of patients seen in the community and family module, paediatrics, obstetrics and gynaecology and psychiatry modules and to enhance their skill mix.  Enhanced skills specific to each specialty are now given within the modules and supplemented by e-learning. \rTeaching modalities combines e-learning with experiential learning workshops, clinical tutor feedback and feedback from patients\r\rGrade Descriptor\rPass -  Satisfactory performance on all learning outcomes.\rFail - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Integrated Clinical Communication Skills II",
+              "ZHS": "Integrated Clinical Communication Skills II",
+              "ZHT": "Integrated Clinical Communication Skills II"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4400": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "04/09/2017 - 03/04/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 240,
+                    "vacancy": 4
+                  }
+                },
+                "S01": {
+                  "class": "S01",
+                  "component": "SEM",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 03/04/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 240,
+                    "vacancy": 240
+                  }
+                }
+              },
+              "course": "MEDU4400",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Ethics and Society for Yr 6"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Seminar": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "We believe that good doctors are defined not by what they know of diseases but by how well they care for people suffering from diseases. we teach moral principles to empower our students with a strong sense of ethical values. The expectation is that future doctors must, above all, be ethical persons, which is not only a local but a global view. We have discussions with tutors from the faculty and practicing doctors. Through this programme, our students develop strong analytical capabilities enabling them to think through ethical dilemmas clearly, morally and humanely.\r\rGrade Descriptor:\rPass    -\tSatisfactory performance on all learning outcomes.\rFail      -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "We believe that good doctors are defined not by what they know of diseases but by how well they care for people suffering from diseases. we teach moral principles to empower our students with a strong sense of ethical values. The expectation is that future doctors must, above all, be ethical persons, which is not only a local but a global view. We have discussions with tutors from the faculty and practicing doctors. Through this programme, our students develop strong analytical capabilities enabling them to think through ethical dilemmas clearly, morally and humanely.\r\rGrade Descriptor:\rPass    -\tSatisfactory performance on all learning outcomes.\rFail      -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHT": "We believe that good doctors are defined not by what they know of diseases but by how well they care for people suffering from diseases. we teach moral principles to empower our students with a strong sense of ethical values. The expectation is that future doctors must, above all, be ethical persons, which is not only a local but a global view. We have discussions with tutors from the faculty and practicing doctors. Through this programme, our students develop strong analytical capabilities enabling them to think through ethical dilemmas clearly, morally and humanely.\r\rGrade Descriptor:\rPass    -\tSatisfactory performance on all learning outcomes.\rFail      -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "Ethics and Society for final year students",
+              "ZHS": "Ethics and Society for final year students",
+              "ZHT": "Ethics and Society for final year students"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4410": {
+          "groups": {
+            "-": {
+              "classes": {
+                "O01": {
+                  "class": "O01",
+                  "component": "OTH",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "02/04/2018 - 08/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 46
+                  }
+                }
+              },
+              "course": "MEDU4410",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Clinical Elective"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Others": "Required"
+            },
+            "description": {
+              "ENG": "Under the guidance of, and with the approval of, the Coordinator of Clinical Elective, each student will arrange an attachment of the student's choice in Hong Kong or overseas, in order to broaden the student's medical horizons.",
+              "ZHS": "Under the guidance of, and with the approval of, the Coordinator of Clinical Elective, each student will arrange an attachment of the student's choice in Hong Kong or overseas, in order to broaden the student's medical horizons.",
+              "ZHT": "Under the guidance of, and with the approval of, the Coordinator of Clinical Elective, each student will arrange an attachment of the student's choice in Hong Kong or overseas, in order to broaden the student's medical horizons."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Clinical Elective",
+              "ZHS": "Clinical Elective",
+              "ZHT": "Clinical Elective"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4510": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "12/03/2018 - 27/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 46
+                  }
+                },
+                "O01": {
+                  "class": "O01",
+                  "component": "OTH",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "12/03/2018 - 27/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 260
+                  }
+                }
+              },
+              "course": "MEDU4510",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Combined Clinical Examination"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Seminar": "Required",
+              "Visit": "Required"
+            },
+            "description": {
+              "ENG": "This examination, held at the end of the academic year, is coordinated by the Departments of Obstetrics & Gynaecology, Paediatrics and Psychiatry and the School of Public Health and Primary Care. The examination consists of an integrated short answer written paper and a structured clinical examination.",
+              "ZHS": "This examination, held at the end of the academic year, is coordinated by the Departments of Obstetrics & Gynaecology, Paediatrics and Psychiatry and the School of Public Health and Primary Care. The examination consists of an integrated short answer written paper and a structured clinical examination.",
+              "ZHT": "This examination, held at the end of the academic year, is coordinated by the Departments of Obstetrics & Gynaecology, Paediatrics and Psychiatry and the School of Public Health and Primary Care. The examination consists of an integrated short answer written paper and a structured clinical examination."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Combined Clinical Examination",
+              "ZHS": "Combined Clinical Examination",
+              "ZHT": "Combined Clinical Examination"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4610": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 20/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 24
+                  }
+                }
+              },
+              "course": "MEDU4610",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Senior Medical Clerkship -"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Field Studies/Field-trip": "Required",
+              "Independent Study": "Required",
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Practicum": "Required",
+              "Seminar": "Required"
+            },
+            "description": {
+              "ENG": "The Senior Medical Clerkship will consist of two 9-week modules, designed as Medicine 1 and Medicine 2. Medicine 1 consists of 9-week attachment to the medical wards in Princess Margaret Hospital, North District Hospital, Shatin Hospital, Our Lady of Maryknoll Hospital and Prince of Wales Hospital. Students will be attached to each of the above hospitals in rotation. Medicine 2 involves small group attachments to medical wards under the supervision of Department of Medicine and Therapeutics, Department of Clinical Oncology, and Accident and Emergency Medicine Academic Unit in the Prince of Wales Hospital. Students will attach to each of the above Departments in rotation to learn from patients in the wards through daily clinical activities. Students are encouraged to clerk patients and present during subspecialty rounds, and to follow patient progress during their hospital stay.  Subspecialty teaching sessions will be held on every Wednesday throughout the two modules.  Students will attach to subspecialty activities and outpatient clinics at their respective rotations.  Bedside teaching on clinical skills will be arranged in small groups twice weekly.  All students at medical rotations will attend medical grand round every Wednesday.\rA one-week Resident Mentorship Programme (RMP) is integrated into Medicine 2.  Students will shadow resident mentors to learn and experience daily clinical work for both inpatients and outpatients.  Through active participation of clinical activities under close supervision by frontline doctors, the programme helps develop the students’ core competencies of medical professionalism.  The RMP aims to nurture self-initiatives, sense of responsibility, stress coping, communication skills and social responsibility through experiential learning in the real-life clinical setting.\rCommunications skills in clinical settings. There will be small group tutorials during both clerkships as well as during Resident Mentorship Programme period for developing communication skills in a clinical and professional setting. This includes presentations in medical rounds, writing patients' scripts and referrals, communications with lay public on medical matters, handling complaints and bad news, organizing and presenting literature or decision making in clinical conferences. These skills are also assessed formally at end-of-module examinations and are also an obligatory component of final year graduating examinations. Multidisciplinary integrative sessions will be maintained.",
+              "ZHS": "The Senior Medical Clerkship will consist of two 10-week modules involving small group attachments to wards under the supervision of Department of Medicine and Therapeutics, Department of Clinical Oncology, Accident and Emergency Medicine Academic Unit, Intensive Care Unit, and Department of Imaging and Interventional Radiology. The attachments will include a total of 17 weeks at Prince of Wales Hospital and 3 weeks at Alice Ho Miu Ling Nethersole Hospital. Students will work alongside with qualified colleagues to gain direct hands-on clinical experience in the form of apprenticeship. They will also receive small group bedside teaching on each ward. In the afternoons subspecialty teaching will be given on three to four days per week and will cover all 13 major medical specialties. \r\rAdditional activities will include short courses in critical care medicine and in evidence-based medicine, and multidisciplinary sessions which will liaise both with Surgery and with basic sciences to cover important revision topics prior to the final examinations.",
+              "ZHT": "-"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "Senior Medical Clerkship",
+              "ZHS": "Senior Medical Clerkship",
+              "ZHT": "-"
+            },
+            "units": "0.00"
+          }
+        },
+        "MEDU4710": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 20/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 24
+                  }
+                }
+              },
+              "course": "MEDU4710",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Senior Surgical Dressership -"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Lecture": "Required",
+              "Others": "Required",
+              "Workshop": "Required"
+            },
+            "description": {
+              "ENG": "The Senior Surgical Dressership consists of two 9-week modules involving small group attachments to wards under the supervision of Department of Surgery, Department of Orthopaedics and Traumatology, Department of Ophthalmology and Visual Sciences, Department of Anaesthesia and Intensive Care, Department of Imaging and Interventional Radiology and Department of Otorhinolaryngology, Head and Neck Surgery.\r\rThe attachments will include professional rounds, outpatient clinics and operating room attachment in the Prince of Wales Hospital, North District Hospital, Alice Ho Miu Ling Nethersole Hospital, United Christian Hospital, Pamela Youde Nethersole Eastern Hospital, and Hong Kong Eye Hospital. Students will work alongside with qualified professionals to gain direct hands-on clinical experience in the form of apprenticeship. They will also receive small group bedside teaching on each ward. Clinical management of patients in various specialties and essential clinical skills for junior doctors are the main highlights in this programme.\r\rCommunications skills in clinical settings. There will be small group tutorials during  the clerkships as well as during the Assistant Internship period for developing communication skills in a clinical and professional setting. This includes presentations in medical rounds, writing patients' scripts and referrals, communications with lay public on medical matters, handling complaints and bad news, organizing and presenting literature or decision making in clinical conferences. These skills are also assessed formally at end-of-module examinations and are also an obligatory component of final year graduating examinations. Multidisciplinary integrative sessions will be maintained.",
+              "ZHS": "The Senior Surgical Clerkship will consist of two 10-week modules involving small group attachments to wards under the supervision of Department of Surgery, Department of Orthopaedics and Traumatology, Department of Ophthalmology and Visual Sciences, Department of Anaesthesia and Intensive Care, Department of Imaging and Interventional Radiology, Department of Otorhinolaryngology, Head and Neck Surgery and the Accident and Emergency Medicine Academic Unit.\r\rThe attachments will include rotations in the Prince of Wales Hospital, North District Hospital, Alice Ho Miu Ling Nethersole Hospital, United Christian Hospital, Pamela Youde Nethersole Eastern Hospital, and Hong Kong Eye Hospital. Students will work alongside with qualified professionals to gain direct hands-on clinical experience in the form of apprenticeship. They will also receive small group bedside teaching on each ward. Clinical management of patients in various specialties and essential clinical skills for junior doctors are the main highlights in this programme.",
+              "ZHT": "-"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "Senior Surgical Dressership",
+              "ZHS": "Senior Surgical Clerkship",
+              "ZHT": "-"
+            },
+            "units": "0.00"
+          }
+        },
+        "SSMU3000": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "04/09/2017 - 04/09/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 30
+                  }
+                },
+                "D01": {
+                  "class": "D01",
+                  "component": "DIS",
+                  "department": "MB ChB Pgm Comm",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 04/09/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Mo 02:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 260,
+                    "vacancy": 260
+                  }
+                }
+              },
+              "course": "SSMU3000",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Selected Study Modules"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Discussion": "Required",
+              "Lecture": "Required",
+              "Others": "Required"
+            },
+            "description": {
+              "ENG": "Students will undertake the Selected Study Module (SSM) throughout the academic year. The aim of SSM is to provide an experiential opportunity for students for research, critique of scientific literature, topical analysis and systematic reviews, as well as acquiring skills set to conduct scientific research. Free choice of project areas will enable students to explore critically and pursue subjects and topics that excite them.",
+              "ZHS": "Students will undertake the Selected Study Module (SSM) throughout the academic year. The aim of SSM is to provide an experiential opportunity for students for research, critique of scientific literature, topical analysis and systematic reviews, as well as acquiring skills set to conduct scientific research. Free choice of project areas will enable students to explore critically and pursue subjects and topics that excite them.",
+              "ZHT": "Students will undertake the Selected Study Module (SSM) throughout the academic year. The aim of SSM is to provide an experiential opportunity for students for research, critique of scientific literature, topical analysis and systematic reviews, as well as acquiring skills set to conduct scientific research. Free choice of project areas will enable students to explore critically and pursue subjects and topics that excite them."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Selected Study Modules",
+              "ZHS": "Selected Study Modules",
+              "ZHT": "Selected Study Modules"
+            },
+            "units": "0.00"
+          }
+        }
+      },
+      "info": {
+        "name": {
+          "ENG": "Undergraduate",
+          "ZHS": "Undergraduate",
+          "ZHT": "本科生"
+        }
+      },
+      "subjects": {
+        "GPSU": {
+          "info": {
+            "name": {
+              "ENG": "Global Physician-Leadership St",
+              "ZHS": "Global Physician-Leadership St",
+              "ZHT": "Global Physician-Leadership St"
+            }
+          }
+        },
+        "MEDU": {
+          "info": {
+            "name": {
+              "ENG": "Medicine",
+              "ZHS": "Medicine",
+              "ZHT": "Medicine"
+            }
+          }
+        },
+        "SSMU": {
+          "info": {
+            "name": {
+              "ENG": "Selected Study Modules",
+              "ZHS": "Selected Study Modules",
+              "ZHT": "Selected Study Modules"
+            }
+          }
+        }
+      }
+    }
+  }
+}
