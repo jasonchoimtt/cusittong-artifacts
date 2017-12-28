@@ -2,6 +2,66 @@
   "careers": {
     "RPG": {
       "courses": {
+        "FINA6242": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "14/05/2018 - 26/06/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 20,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6242",
+              "group": "-",
+              "instructors": [
+                "Professor Sudipto DASGUPTA"
+              ],
+              "short_title": "Seminar in Corporate Finance 公司金融專題研討"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "It focuses on financial decisions of the firm. It provides advanced theory and empirical investigations of dividends, capital structure, mergers and takeovers.",
+              "ZHS": "本门课程侧重于公司的融资财务决策，围绕公司股利、资本结构、收购和兼并等内容展开深入的理论和实证分析。",
+              "ZHT": "本門課程側重於公司的融資財務決策，圍繞公司股利、資本結構、收購和兼併等內容展開深入的理論和實證分析。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MPhil-PhD Finance",
+            "title": {
+              "ENG": "Seminar in Corporate Finance",
+              "ZHS": "公司金融专题研讨",
+              "ZHT": "公司金融專題研討"
+            },
+            "units": "3.00"
+          }
+        },
         "FINA6272": {
           "groups": {
             "-": {
@@ -18,7 +78,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -427,6 +487,22 @@
                         "str": "Sa 09:30AM - 12:30PM",
                         "weekday": "Sa"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "CYT_LT6"
+                      },
+                      "meeting_date": "23/06/2018 - 28/07/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1050,
+                        "str": "Sa 02:30PM - 05:30PM",
+                        "weekday": "Sa"
+                      }
                     }
                   ],
                   "quota": {
@@ -486,6 +562,38 @@
                         "end": 1290,
                         "str": "Th 06:30PM - 09:30PM",
                         "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "CYT_LT7"
+                      },
+                      "meeting_date": "25/06/2018 - 25/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1290,
+                        "str": "Mo 06:30PM - 09:30PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "CYT_LT7"
+                      },
+                      "meeting_date": "09/07/2018 - 23/07/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1290,
+                        "str": "Mo 06:30PM - 09:30PM",
+                        "weekday": "Mo"
                       }
                     }
                   ],
@@ -658,34 +766,6 @@
               "classes": {
                 "P01": {
                   "class": "P01",
-                  "component": "PRA",
-                  "department": "Div of Chinese Medicine (MED)",
-                  "language": "P&C",
-                  "meets": [
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "14/05/2018 - 31/07/2018",
-                      "time": {
-                        "begin": -1,
-                        "end": -1,
-                        "str": "TBA",
-                        "weekday": "TBA"
-                      }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 50,
-                    "vacancy": null
-                  }
-                },
-                "T01": {
-                  "class": "T01",
                   "component": "TUT",
                   "department": "Div of Chinese Medicine (MED)",
                   "language": "P&C",
@@ -696,7 +776,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 31/07/2018",
                       "time": {
@@ -760,9 +840,41 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "15/05/2018 - 15/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 990,
+                        "str": "Tu 09:30AM - 04:30PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "19/05/2018 - 30/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 990,
+                        "str": "Sa 09:30AM - 04:30PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "29/05/2018 - 26/06/2018",
                       "time": {
                         "begin": 570,
                         "end": 990,
@@ -830,6 +942,22 @@
                         "str": "We 06:30PM - 09:15PM",
                         "weekday": "We"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_502"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Th 06:30PM - 09:15PM",
+                        "weekday": "Th"
+                      }
                     }
                   ],
                   "quota": {
@@ -884,6 +1012,54 @@
                         "slug": "WMY_402"
                       },
                       "meeting_date": "14/05/2018 - 11/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Mo 06:30PM - 09:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_402"
+                      },
+                      "meeting_date": "15/05/2018 - 15/05/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Tu 06:30PM - 09:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_402"
+                      },
+                      "meeting_date": "29/05/2018 - 26/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Tu 06:30PM - 09:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_402"
+                      },
+                      "meeting_date": "25/06/2018 - 25/06/2018",
                       "time": {
                         "begin": 1110,
                         "end": 1275,
@@ -1002,7 +1178,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -1068,7 +1244,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -1143,6 +1319,54 @@
                         "str": "Tu 06:45PM - 09:45PM",
                         "weekday": "Tu"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "20/06/2018 - 04/07/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1305,
+                        "str": "We 06:45PM - 09:45PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "21/06/2018 - 05/07/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1305,
+                        "str": "Th 06:45PM - 09:45PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "22/06/2018 - 06/07/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1305,
+                        "str": "Fr 06:45PM - 09:45PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
@@ -1154,7 +1378,7 @@
               "course": "FINA6222",
               "group": "E",
               "instructors": [
-                "Mr. Christopher Michael LOBELLO"
+                "Staff"
               ],
               "short_title": "Selected Topics in Finance 金融專題"
             }
@@ -1201,6 +1425,22 @@
                         "begin": 870,
                         "end": 1035,
                         "str": "Sa 02:30PM - 05:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "CYT_201"
+                      },
+                      "meeting_date": "23/06/2018 - 28/07/2018",
+                      "time": {
+                        "begin": 600,
+                        "end": 780,
+                        "str": "Sa 10:00AM - 01:00PM",
                         "weekday": "Sa"
                       }
                     }
@@ -1422,8 +1662,8 @@
           "groups": {
             "-": {
               "classes": {
-                "": {
-                  "class": "",
+                "L01": {
+                  "class": "L01",
                   "component": "LEC",
                   "department": "Div of Geo & Resource Mgt",
                   "language": "P&E",
@@ -1443,32 +1683,20 @@
                         "str": "Mo 06:30PM - 08:30PM",
                         "weekday": "Mo"
                       }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 50,
-                    "vacancy": null
-                  }
-                },
-                "L01": {
-                  "class": "L01",
-                  "component": "LAB",
-                  "department": "Div of Geo & Resource Mgt",
-                  "language": "P&E",
-                  "meets": [
+                    },
                     {
                       "consent": {
                         "add": false,
                         "drop": false
                       },
                       "location": {
-                        "slug": "CKB_222"
+                        "slug": "CKB_108"
                       },
-                      "meeting_date": "14/05/2018 - 25/06/2018",
+                      "meeting_date": "25/06/2018 - 25/06/2018",
                       "time": {
-                        "begin": 1230,
-                        "end": 1290,
-                        "str": "Mo 08:30PM - 09:30PM",
+                        "begin": 1110,
+                        "end": 1230,
+                        "str": "Mo 06:30PM - 08:30PM",
                         "weekday": "Mo"
                       }
                     }
@@ -1482,7 +1710,8 @@
               "course": "GISM5060",
               "group": "-",
               "instructors": [
-                "Dr HUANG Yefang"
+                "Dr HUANG Yefang",
+                "Professor MEI Changlin"
               ],
               "short_title": "Statistical Analysis of Geo Da 地理數據的統計分析"
             }
@@ -1577,34 +1806,6 @@
               "classes": {
                 "": {
                   "class": "",
-                  "component": "LEC",
-                  "department": "Div of History",
-                  "language": "C",
-                  "meets": [
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "slug": "YIA_201"
-                      },
-                      "meeting_date": "19/05/2018 - 30/06/2018",
-                      "time": {
-                        "begin": 630,
-                        "end": 795,
-                        "str": "Sa 10:30AM - 01:15PM",
-                        "weekday": "Sa"
-                      }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 70,
-                    "vacancy": null
-                  }
-                },
-                "T01": {
-                  "class": "T01",
                   "component": "TUT",
                   "department": "Div of History",
                   "language": "C",
@@ -1627,7 +1828,7 @@
                     }
                   ],
                   "quota": {
-                    "seats": 70,
+                    "seats": 30,
                     "vacancy": null
                   }
                 }
@@ -1874,6 +2075,38 @@
                         "str": "Tu 07:00PM - 09:30PM",
                         "weekday": "Tu"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "YIA_402"
+                      },
+                      "meeting_date": "07/06/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 1140,
+                        "end": 1290,
+                        "str": "Th 07:00PM - 09:30PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "YIA_402"
+                      },
+                      "meeting_date": "09/06/2018 - 30/06/2018",
+                      "time": {
+                        "begin": 630,
+                        "end": 780,
+                        "str": "Sa 10:30AM - 01:00PM",
+                        "weekday": "Sa"
+                      }
                     }
                   ],
                   "quota": {
@@ -1998,6 +2231,22 @@
                         "str": "We 02:30PM - 05:15PM",
                         "weekday": "We"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "18/05/2018 - 29/06/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Fr 02:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
@@ -2036,6 +2285,22 @@
                         "str": "Mo 02:30PM - 05:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Th 02:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
                     }
                   ],
                   "quota": {
@@ -2073,6 +2338,22 @@
                         "end": 1275,
                         "str": "Mo 06:30PM - 09:15PM",
                         "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Th 06:30PM - 09:15PM",
+                        "weekday": "Th"
                       }
                     }
                   ],
@@ -2134,6 +2415,22 @@
                         "str": "Tu 02:30PM - 05:15PM",
                         "weekday": "Tu"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "18/05/2018 - 29/06/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Fr 02:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
@@ -2172,6 +2469,22 @@
                         "str": "Mo 02:30PM - 05:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Th 02:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
                     }
                   ],
                   "quota": {
@@ -2209,6 +2522,22 @@
                         "end": 1275,
                         "str": "Mo 06:30PM - 09:15PM",
                         "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Th 06:30PM - 09:15PM",
+                        "weekday": "Th"
                       }
                     }
                   ],
@@ -2270,6 +2599,22 @@
                         "str": "Mo 09:30AM - 12:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
                     }
                   ],
                   "quota": {
@@ -2329,6 +2674,22 @@
                         "end": 1275,
                         "str": "Mo 06:30PM - 09:15PM",
                         "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Th 06:30PM - 09:15PM",
+                        "weekday": "Th"
                       }
                     }
                   ],
@@ -2390,6 +2751,22 @@
                         "str": "Tu 06:30PM - 09:15PM",
                         "weekday": "Tu"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "16/05/2018 - 27/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "We 06:30PM - 09:15PM",
+                        "weekday": "We"
+                      }
                     }
                   ],
                   "quota": {
@@ -2449,6 +2826,22 @@
                         "end": 735,
                         "str": "Tu 09:30AM - 12:15PM",
                         "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "18/05/2018 - 29/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Fr 09:30AM - 12:15PM",
+                        "weekday": "Fr"
                       }
                     }
                   ],
@@ -2510,6 +2903,22 @@
                         "str": "Mo 06:30PM - 09:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Th 06:30PM - 09:15PM",
+                        "weekday": "Th"
+                      }
                     }
                   ],
                   "quota": {
@@ -2569,6 +2978,22 @@
                         "end": 735,
                         "str": "Mo 09:30AM - 12:15PM",
                         "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
+                        "weekday": "Th"
                       }
                     }
                   ],
@@ -2630,6 +3055,22 @@
                         "str": "Tu 06:30PM - 09:15PM",
                         "weekday": "Tu"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "GLC"
+                      },
+                      "meeting_date": "16/05/2018 - 27/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "We 06:30PM - 09:15PM",
+                        "weekday": "We"
+                      }
                     }
                   ],
                   "quota": {
@@ -2641,7 +3082,7 @@
               "course": "LAWS6334",
               "group": "-",
               "instructors": [
-                "Professor MARCO COLINO Sandra"
+                "Professor Sandra MARCO COLINO"
               ],
               "short_title": "Merger Control"
             }
@@ -2681,7 +3122,7 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "GLC"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -2741,7 +3182,7 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "GLC"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -2810,6 +3251,38 @@
                         "str": "Mo 06:30PM - 09:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT4"
+                      },
+                      "meeting_date": "16/05/2018 - 27/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "We 06:30PM - 09:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "25/06/2018 - 25/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Mo 06:30PM - 09:15PM",
+                        "weekday": "Mo"
+                      }
                     }
                   ],
                   "quota": {
@@ -2861,7 +3334,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -2972,66 +3445,6 @@
             "units": "3.00"
           }
         },
-        "MBAC6081": {
-          "groups": {
-            "FF": {
-              "classes": {
-                "FF1": {
-                  "class": "FF1",
-                  "component": "FLD",
-                  "department": "Div of Business Administration",
-                  "language": "E",
-                  "meets": [
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "11/06/2018 - 12/06/2018",
-                      "time": {
-                        "begin": -1,
-                        "end": -1,
-                        "str": "TBA",
-                        "weekday": "TBA"
-                      }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 36,
-                    "vacancy": null
-                  }
-                }
-              },
-              "course": "MBAC6081",
-              "group": "FF",
-              "instructors": [
-                "Professor CHAU Chi Wai"
-              ],
-              "short_title": "Business Field Study – Asia 實地考察－亞洲商務"
-            }
-          },
-          "info": {
-            "course_components": {
-              "Field Studies/Field-trip": "Required"
-            },
-            "description": {
-              "ENG": "The course consists of preparatory reading assignments followed by a week-long residential program in Asia, concluding with a written report and oral presentation or other assignments. The goal in taking classroom sessions in Asia is to provide MBA students first-hand exposure to some of the issues related to doing business in dynamic Asian market economies such as trade rules, economics, finance, marketing, management practices, politics, as well as geographic and social issues. Course learning activities include lectures provided by top academic partner schools, seminars and discussions with local government officials, business professionals, and visits to multi-national companies, state enterprises, joint ventures and manufacturing facilities. Students will be offered the opportunity to interact with executives and leaders of industry, financial institutions and government organizations in the region.\r\rThe trip is highly structured to provide intellectual and social experiences with other cultures for students learning to lead in a booming Asian market. Trips may embrace a theme or focus on a particular business topic of relevance to the location such as marketing, entrepreneurship, or globalization, to leverage learning throughout the in-country experience. \r\r(Eligible for recognition toward concentration requirements depending on course content)",
-              "ZHS": "The course consists of preparatory reading assignments followed by a week-long residential program in Asia, concluding with a written report and oral presentation or other assignments. The goal in taking classroom sessions in Asia is to provide MBA students first-hand exposure to some of the issues related to doing business in dynamic Asian market economies such as trade rules, economics, finance, marketing, management practices, politics, as well as geographic and social issues. Course learning activities include lectures provided by top academic partner schools, seminars and discussions with local government officials, business professionals, and visits to multi-national companies, state enterprises, joint ventures and manufacturing facilities. Students will be offered the opportunity to interact with executives and leaders of industry, financial institutions and government organizations in the region.\r\rThe trip is highly structured to provide intellectual and social experiences with other cultures for students learning to lead in a booming Asian market. Trips may embrace a theme or focus on a particular business topic of relevance to the location such as marketing, entrepreneurship, or globalization, to leverage learning throughout the in-country experience. \r\r(Eligible for recognition toward concentration requirements depending on course content)",
-              "ZHT": "本科目包含考察前的閱讀作業，其後於亞洲國家住讀一周，及撰寫報告、口頭簡報或其他作業作總結。本科目以亞洲為上課地點，目的是讓工商管理碩士課程學生親身體驗，在瞬息萬變的亞洲市場經濟中經商有關的議題，例如貿易條例、經濟、金融、市場策劃、管理手法、政治、地區以至社會題目等。學習活動包括於頂尖學府上課、與當地政府機構及商界專業人士座談、參觀跨國企業、國有企業、合資公司及製造廠房等，讓學生有機會與行業、金融和政府機構的領袖交流。\r\r考察結構緊密，旨在提供接觸其他文化的知識及社會經驗，讓學生領略在發展迅速的亞洲市場中領導之道。考察或會以一個與目的地相關的商業題材為主題或重點，例如市場推廣、創業研究、全球一體化等，以增強當地體驗對學習的效益。\r\r(將按科目內容釐定此科可納入的專科項目)"
-            },
-            "grading_basis": "Graded",
-            "requirement": "For students in Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
-            "title": {
-              "ENG": "Business Field Study – Asia",
-              "ZHS": "Business Field Study – Asia",
-              "ZHT": "實地考察－亞洲商務"
-            },
-            "units": "3.00"
-          }
-        },
         "MBAC6082": {
           "groups": {
             "E": {
@@ -3131,6 +3544,44 @@
                 "Ms. Stephanie VILLEMAGNE"
               ],
               "short_title": "Selected Topics in Business 商業專題"
+            },
+            "Y": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "11/06/2018 - 16/06/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 36,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MBAC6090",
+              "group": "Y",
+              "instructors": [
+                "Professor CHAU Chi Wai"
+              ],
+              "short_title": "Selected Topics in Business 商業專題"
             }
           },
           "info": {
@@ -3177,6 +3628,70 @@
                         "str": "Tu 06:45PM - 09:45PM",
                         "weekday": "Tu"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "11/07/2018 - 11/07/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1305,
+                        "str": "We 06:45PM - 09:45PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "12/07/2018 - 12/07/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1305,
+                        "str": "Th 06:45PM - 09:45PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "13/07/2018 - 13/07/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1305,
+                        "str": "Fr 06:45PM - 09:45PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "16/07/2018 - 16/07/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1305,
+                        "str": "Mo 06:45PM - 09:45PM",
+                        "weekday": "Mo"
+                      }
                     }
                   ],
                   "quota": {
@@ -3214,6 +3729,22 @@
                         "end": 1305,
                         "str": "Tu 06:45PM - 09:45PM",
                         "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "28/06/2018 - 05/07/2018",
+                      "time": {
+                        "begin": 1125,
+                        "end": 1305,
+                        "str": "Th 06:45PM - 09:45PM",
+                        "weekday": "Th"
                       }
                     }
                   ],
@@ -3346,7 +3877,14 @@
               "course": "MCNS5103",
               "group": "-",
               "instructors": [
-                "Staff"
+                "Professor FU Yat Pang Michael",
+                "Professor IP Hing Lung",
+                "Professor LEUNG Ho Wan",
+                "Professor MOK Chung Tong Vincent",
+                "Professor WONG Adrian",
+                "Professor WONG Ho Chung Edward",
+                "Professor YEUNG Hon Ming Jonas",
+                "Professor ZHU Xian Lun Cannon"
               ],
               "short_title": "Practical Management 互動工作坊-常見神經性疾病的實踐管理"
             }
@@ -3395,6 +3933,22 @@
                         "str": "Sa 03:30PM - 07:30PM",
                         "weekday": "Sa"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "14/07/2018 - 14/07/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1170,
+                        "str": "Sa 03:30PM - 07:30PM",
+                        "weekday": "Sa"
+                      }
                     }
                   ],
                   "quota": {
@@ -3406,7 +3960,9 @@
               "course": "MCNS5202",
               "group": "-",
               "instructors": [
-                "Staff"
+                "Dr. AU Wing Chi Lisa",
+                "MS MAK Po Kit",
+                "Professor MOK Chung Tong Vincent"
               ],
               "short_title": "Specialty Stroke Nursing 中風專科護理"
             }
@@ -3576,6 +4132,22 @@
                         "str": "Sa 09:30AM - 12:30PM",
                         "weekday": "Sa"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "23/06/2018 - 28/07/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1050,
+                        "str": "Sa 02:30PM - 05:30PM",
+                        "weekday": "Sa"
+                      }
                     }
                   ],
                   "quota": {
@@ -3587,7 +4159,7 @@
               "course": "MGNT6020",
               "group": "K",
               "instructors": [
-                "Professor AU Yuk Fai Kevin"
+                "Staff"
               ],
               "short_title": "Selected Topics in Management 管理學專題研討"
             }
@@ -3634,6 +4206,22 @@
                         "begin": 870,
                         "end": 1050,
                         "str": "Sa 02:30PM - 05:30PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "CYT_LT7"
+                      },
+                      "meeting_date": "23/06/2018 - 28/07/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 750,
+                        "str": "Sa 09:30AM - 12:30PM",
                         "weekday": "Sa"
                       }
                     }
@@ -3689,11 +4277,27 @@
                       "location": {
                         "slug": "TBA"
                       },
-                      "meeting_date": "24/06/2018 - 29/07/2018",
+                      "meeting_date": "08/07/2018 - 29/07/2018",
                       "time": {
                         "begin": 870,
-                        "end": 1050,
-                        "str": "Su 02:30PM - 05:30PM",
+                        "end": 1170,
+                        "str": "Su 02:30PM - 07:30PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/07/2018 - 29/07/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 750,
+                        "str": "Su 09:30AM - 12:30PM",
                         "weekday": "Su"
                       }
                     }
@@ -3707,7 +4311,7 @@
               "course": "MKTG6021",
               "group": "K",
               "instructors": [
-                "Professor Syeda Noorein INAMDAR"
+                "Mr. NIXON Peter Andrew"
               ],
               "short_title": "Business Negotiation 商業談判"
             }
@@ -3750,6 +4354,86 @@
                         "slug": "TBA"
                       },
                       "meeting_date": "24/06/2018 - 24/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 750,
+                        "str": "Su 09:30AM - 12:30PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "24/06/2018 - 24/06/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1050,
+                        "str": "Su 02:30PM - 05:30PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/07/2018 - 08/07/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 750,
+                        "str": "Su 09:30AM - 12:30PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/07/2018 - 08/07/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1050,
+                        "str": "Su 02:30PM - 05:30PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "29/07/2018 - 29/07/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1050,
+                        "str": "Su 02:30PM - 05:30PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "29/07/2018 - 29/07/2018",
                       "time": {
                         "begin": 570,
                         "end": 750,
@@ -3876,6 +4560,70 @@
                         "str": "Mo 09:30AM - 05:00PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "10/07/2018 - 10/07/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1020,
+                        "str": "Tu 09:30AM - 05:00PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "11/07/2018 - 11/07/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1020,
+                        "str": "We 09:30AM - 05:00PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "12/07/2018 - 12/07/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1020,
+                        "str": "Th 09:30AM - 05:00PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "13/07/2018 - 13/07/2018",
+                      "time": {
+                        "begin": 630,
+                        "end": 750,
+                        "str": "Fr 10:30AM - 12:30PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
@@ -3887,7 +4635,8 @@
               "course": "OENV5006",
               "group": "-",
               "instructors": [
-                "Professor HO Kin Fai"
+                "Professor HO Kin Fai",
+                "Professor LAO Xiangqian"
               ],
               "short_title": "Air Pollution 空氣污染與健康"
             }
@@ -3935,6 +4684,54 @@
                         "end": 1080,
                         "str": "Tu 09:00AM - 06:00PM",
                         "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "04/07/2018 - 04/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "We 09:00AM - 06:00PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "05/07/2018 - 05/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Th 09:00AM - 06:00PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "06/07/2018 - 06/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Fr 09:00AM - 06:00PM",
+                        "weekday": "Fr"
                       }
                     }
                   ],
@@ -4049,12 +4846,60 @@
                       "location": {
                         "slug": "WMY_505"
                       },
-                      "meeting_date": "05/06/2018 - 19/06/2018",
+                      "meeting_date": "05/06/2018 - 07/08/2018",
                       "time": {
                         "begin": 1110,
                         "end": 1275,
                         "str": "Tu 06:30PM - 09:15PM",
                         "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "09/06/2018 - 09/06/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Sa 02:30PM - 06:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "14/06/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Th 06:30PM - 09:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "07/07/2018 - 04/08/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Sa 02:30PM - 06:15PM",
+                        "weekday": "Sa"
                       }
                     }
                   ],
@@ -4117,6 +4962,54 @@
                         "str": "Th 06:30PM - 09:15PM",
                         "weekday": "Th"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "26/06/2018 - 24/07/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Tu 06:30PM - 09:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "05/07/2018 - 05/07/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Th 06:30PM - 09:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "07/07/2018 - 04/08/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Sa 02:30PM - 06:15PM",
+                        "weekday": "Sa"
+                      }
                     }
                   ],
                   "quota": {
@@ -4178,6 +5071,54 @@
                         "str": "Th 06:30PM - 09:15PM",
                         "weekday": "Th"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "19/05/2018 - 02/06/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Sa 02:30PM - 06:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "29/05/2018 - 29/05/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Tu 06:30PM - 09:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "16/06/2018 - 30/06/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Sa 02:30PM - 06:15PM",
+                        "weekday": "Sa"
+                      }
                     }
                   ],
                   "quota": {
@@ -4212,6 +5153,66 @@
               "ZHT": "藥物治療:癌症篇"
             },
             "units": "1.50"
+          }
+        },
+        "PHAR5924": {
+          "groups": {
+            "-": {
+              "classes": {
+                "J01": {
+                  "class": "J01",
+                  "component": "PRJ",
+                  "department": "Div of Pharmacy",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "WMY_505"
+                      },
+                      "meeting_date": "05/07/2018 - 05/07/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Th 06:30PM - 09:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "PHAR5924",
+              "group": "-",
+              "instructors": [
+                "Dr LEE Chui Ping"
+              ],
+              "short_title": "Graduation Project II 畢業專題研究二"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Project": "Required"
+            },
+            "description": {
+              "ENG": "This course consists of independent and teamwork with supervision. Students are required to implement a predetermined practice-based project of interest in their work settings. The project should demonstrate pharmacists' impact on patient care, pharmaceutical research and development or administrative management. Students are expected to be involved in project implementation, outcome measurement, result analysis, report writing and presentation. Pre-requisite: PHA5824.",
+              "ZHS": "本科要求学生在导师指导下提交个人及小组报告。毕业专题研究将会结合学生的兴趣、专长、及其工作的药房特点来设计，并会在学生工作中的药房或医院中进行。专题研究项目要求学生演示药剂师在病人护理、药物研究及发展或相关之行政处理上的影响。学生须参与专题研究项目的执行、数据计量及结果分析，并提交写作及发表报告。先修科目: PHA5824。",
+              "ZHT": "本科要求學生在導師指導下提交個人及小組報告。畢業專題研究將會結合學生的興趣、專長、及其工作的藥房特點來設計，並會在學生工作中的藥房或醫院中進行。專題研究項目要求學生演示藥劑師在病人護理、藥物研究及發展或相關之行政處理上的影響。學生須參與專題研究項目的執行、數據計量及結果分析，並提交寫作及發表報告。先修科目: PHA5824。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Clinical Pharmacy; \r\nPrerequisite: PHAR5824",
+            "title": {
+              "ENG": "Graduation Project II",
+              "ZHS": "毕业专题研究二",
+              "ZHT": "畢業專題研究二"
+            },
+            "units": "5.00"
           }
         },
         "POPG5006": {
@@ -4290,7 +5291,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "15/05/2018 - 26/06/2018",
                       "time": {
@@ -4298,6 +5299,22 @@
                         "end": 1275,
                         "str": "Tu 06:15PM - 09:15PM",
                         "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "18/05/2018 - 29/06/2018",
+                      "time": {
+                        "begin": 1095,
+                        "end": 1275,
+                        "str": "Fr 06:15PM - 09:15PM",
+                        "weekday": "Fr"
                       }
                     }
                   ],
@@ -4350,7 +5367,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "16/05/2018 - 27/06/2018",
                       "time": {
@@ -4358,6 +5375,22 @@
                         "end": 1275,
                         "str": "We 06:15PM - 09:15PM",
                         "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 1095,
+                        "end": 1275,
+                        "str": "Th 06:15PM - 09:15PM",
+                        "weekday": "Th"
                       }
                     }
                   ],
@@ -4406,13 +5439,45 @@
                   "meets": [
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "slug": "CKB_LT3"
                       },
                       "meeting_date": "15/05/2018 - 15/05/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1290,
+                        "str": "Tu 06:30PM - 09:30PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "CKB_LT3"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1290,
+                        "str": "Th 06:30PM - 09:30PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "CKB_LT3"
+                      },
+                      "meeting_date": "29/05/2018 - 26/06/2018",
                       "time": {
                         "begin": 1110,
                         "end": 1290,
@@ -4466,13 +5531,45 @@
                   "meets": [
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "slug": "CKB_109"
                       },
                       "meeting_date": "14/05/2018 - 11/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1290,
+                        "str": "Mo 06:30PM - 09:30PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "CKB_109"
+                      },
+                      "meeting_date": "16/05/2018 - 27/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1290,
+                        "str": "We 06:30PM - 09:30PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "CKB_109"
+                      },
+                      "meeting_date": "25/06/2018 - 25/06/2018",
                       "time": {
                         "begin": 1110,
                         "end": 1290,
@@ -4530,7 +5627,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "07/05/2018 - 07/08/2018",
                       "time": {
@@ -4550,7 +5647,12 @@
               "course": "PSYC6231",
               "group": "-",
               "instructors": [
-                "Staff"
+                "Professor CHAN Sui Yin Agnes",
+                "Professor CHIU Chui De",
+                "Professor HO Yan Yee Fiona",
+                "Professor LEUNG Wing Leung Patrick",
+                "Professor MAK Wing Sze Winnie",
+                "Professor SO Ho Wai"
               ],
               "short_title": "Thesis II 碩士論文(二)"
             }
@@ -4590,7 +5692,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "07/05/2018 - 07/08/2018",
                       "time": {
@@ -4781,6 +5883,22 @@
                         "str": "Tu 06:30PM - 09:30PM",
                         "weekday": "Tu"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "CKB_UG05"
+                      },
+                      "meeting_date": "29/05/2018 - 26/06/2018",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1290,
+                        "str": "Tu 06:30PM - 09:30PM",
+                        "weekday": "Tu"
+                      }
                     }
                   ],
                   "quota": {
@@ -4897,7 +6015,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -4959,7 +6077,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -5032,6 +6150,38 @@
                         "str": "Mo 06:00PM - 09:00PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "CKB_122"
+                      },
+                      "meeting_date": "17/05/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 1080,
+                        "end": 1260,
+                        "str": "Th 06:00PM - 09:00PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "CKB_122"
+                      },
+                      "meeting_date": "25/06/2018 - 25/06/2018",
+                      "time": {
+                        "begin": 1080,
+                        "end": 1260,
+                        "str": "Mo 06:00PM - 09:00PM",
+                        "weekday": "Mo"
+                      }
                     }
                   ],
                   "quota": {
@@ -5083,7 +6233,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -5203,7 +6353,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -5263,7 +6413,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -5324,7 +6474,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -5385,7 +6535,7 @@
                         "drop": false
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
                       "time": {
@@ -5436,62 +6586,6 @@
               "classes": {
                 "": {
                   "class": "",
-                  "component": "LEC",
-                  "department": "Div of Architecture",
-                  "language": "E",
-                  "meets": [
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "slug": "AIT_501"
-                      },
-                      "meeting_date": "14/05/2018 - 26/06/2018",
-                      "time": {
-                        "begin": -1,
-                        "end": -1,
-                        "str": "TBA",
-                        "weekday": "TBA"
-                      }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 30,
-                    "vacancy": null
-                  }
-                },
-                "F01": {
-                  "class": "F01",
-                  "component": "FLD",
-                  "department": "Div of Architecture",
-                  "language": "E",
-                  "meets": [
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "slug": "AIT_501"
-                      },
-                      "meeting_date": "14/05/2018 - 26/06/2018",
-                      "time": {
-                        "begin": -1,
-                        "end": -1,
-                        "str": "TBA",
-                        "weekday": "TBA"
-                      }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 30,
-                    "vacancy": null
-                  }
-                },
-                "U01": {
-                  "class": "U01",
                   "component": "STD",
                   "department": "Div of Architecture",
                   "language": "E",
