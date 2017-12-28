@@ -138,9 +138,9 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
-                      "meeting_date": "07/09/2017 - 11/05/2018",
+                      "meeting_date": "04/09/2017 - 08/05/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -198,9 +198,73 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
-                      "meeting_date": "09/09/2017 - 15/04/2018",
+                      "meeting_date": "30/09/2017 - 01/10/2017",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "14/10/2017 - 15/10/2017",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "04/11/2017 - 05/11/2017",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "27/01/2018 - 28/01/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "10/03/2018 - 11/03/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -258,9 +322,9 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
-                      "meeting_date": "06/09/2017 - 10/05/2018",
+                      "meeting_date": "04/09/2017 - 08/05/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -271,7 +335,7 @@
                   ],
                   "quota": {
                     "seats": 60,
-                    "vacancy": 60
+                    "vacancy": 33
                   }
                 }
               },
@@ -318,20 +382,36 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "PWH"
                       },
-                      "meeting_date": "04/09/2017 - 06/03/2018",
+                      "meeting_date": "04/09/2017 - 05/03/2018",
                       "time": {
-                        "begin": -1,
-                        "end": -1,
-                        "str": "TBA",
-                        "weekday": "TBA"
+                        "begin": 1140,
+                        "end": 1230,
+                        "str": "Mo 07:00PM - 08:30PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 07/03/2018",
+                      "time": {
+                        "begin": 1140,
+                        "end": 1230,
+                        "str": "We 07:00PM - 08:30PM",
+                        "weekday": "We"
                       }
                     }
                   ],
                   "quota": {
                     "seats": 60,
-                    "vacancy": 60
+                    "vacancy": 59
                   }
                 }
               },
@@ -387,11 +467,107 @@
                         "str": "Mo 04:30PM - 06:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "30/10/2017 - 30/10/2017",
+                      "time": {
+                        "begin": 990,
+                        "end": 1095,
+                        "str": "Mo 04:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "13/11/2017 - 13/11/2017",
+                      "time": {
+                        "begin": 990,
+                        "end": 1095,
+                        "str": "Mo 04:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "15/01/2018 - 15/01/2018",
+                      "time": {
+                        "begin": 690,
+                        "end": 795,
+                        "str": "Mo 11:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "29/01/2018 - 29/01/2018",
+                      "time": {
+                        "begin": 690,
+                        "end": 795,
+                        "str": "Mo 11:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "12/02/2018 - 12/02/2018",
+                      "time": {
+                        "begin": 690,
+                        "end": 795,
+                        "str": "Mo 11:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "26/02/2018 - 26/02/2018",
+                      "time": {
+                        "begin": 690,
+                        "end": 795,
+                        "str": "Mo 11:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 120,
-                    "vacancy": 120
+                    "vacancy": 24
                   }
                 }
               },
@@ -425,11 +601,107 @@
                         "str": "Th 09:30AM - 11:15AM",
                         "weekday": "Th"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NAH_115"
+                      },
+                      "meeting_date": "02/11/2017 - 02/11/2017",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Th 09:30AM - 11:15AM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NAH_115"
+                      },
+                      "meeting_date": "16/11/2017 - 16/11/2017",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Th 09:30AM - 11:15AM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NAH_115"
+                      },
+                      "meeting_date": "18/01/2018 - 18/01/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Th 09:30AM - 11:15AM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NAH_115"
+                      },
+                      "meeting_date": "01/02/2018 - 01/02/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Th 09:30AM - 11:15AM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NAH_115"
+                      },
+                      "meeting_date": "15/02/2018 - 15/02/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Th 09:30AM - 11:15AM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NAH_115"
+                      },
+                      "meeting_date": "01/03/2018 - 01/03/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Th 09:30AM - 11:15AM",
+                        "weekday": "Th"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 120,
-                    "vacancy": 120
+                    "vacancy": 26
                   }
                 }
               },
@@ -478,9 +750,25 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
-                      "meeting_date": "10/09/2017 - 04/12/2017",
+                      "meeting_date": "04/09/2017 - 28/11/2017",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "08/01/2018 - 17/04/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -491,7 +779,7 @@
                   ],
                   "quota": {
                     "seats": 250,
-                    "vacancy": 250
+                    "vacancy": 9
                   }
                 }
               },
@@ -552,7 +840,7 @@
                   ],
                   "quota": {
                     "seats": 250,
-                    "vacancy": 29
+                    "vacancy": 28
                   }
                 }
               },
@@ -608,11 +896,107 @@
                         "str": "Mo 09:30AM - 11:15AM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "06/11/2017 - 06/11/2017",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Mo 09:30AM - 11:15AM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "20/11/2017 - 20/11/2017",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Mo 09:30AM - 11:15AM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "22/01/2018 - 22/01/2018",
+                      "time": {
+                        "begin": 690,
+                        "end": 795,
+                        "str": "Mo 11:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "05/02/2018 - 05/02/2018",
+                      "time": {
+                        "begin": 690,
+                        "end": 795,
+                        "str": "Mo 11:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "05/03/2018 - 05/03/2018",
+                      "time": {
+                        "begin": 690,
+                        "end": 795,
+                        "str": "Mo 11:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "19/03/2018 - 19/03/2018",
+                      "time": {
+                        "begin": 690,
+                        "end": 795,
+                        "str": "Mo 11:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 130,
-                    "vacancy": 22
+                    "vacancy": 0
                   }
                 }
               },
@@ -646,11 +1030,123 @@
                         "str": "Fr 08:30AM - 11:15AM",
                         "weekday": "Fr"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "10/11/2017 - 10/11/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 675,
+                        "str": "Fr 08:30AM - 11:15AM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "24/11/2017 - 24/11/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 675,
+                        "str": "Fr 08:30AM - 11:15AM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "26/01/2018 - 26/01/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 675,
+                        "str": "Fr 08:30AM - 11:15AM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "09/02/2018 - 09/02/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 675,
+                        "str": "Fr 08:30AM - 11:15AM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "23/02/2018 - 23/02/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 675,
+                        "str": "Fr 08:30AM - 11:15AM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "09/03/2018 - 09/03/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 675,
+                        "str": "Fr 08:30AM - 11:15AM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMS_G18"
+                      },
+                      "meeting_date": "23/03/2018 - 23/03/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 675,
+                        "str": "Fr 08:30AM - 11:15AM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 130,
-                    "vacancy": 130
+                    "vacancy": 6
                   }
                 }
               },
@@ -708,11 +1204,59 @@
                         "str": "Tu 09:30AM - 01:15PM",
                         "weekday": "Tu"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "05/09/2017 - 28/11/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Tu 02:30PM - 06:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "09/01/2018 - 17/04/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Tu 02:30PM - 06:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "09/01/2018 - 17/04/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Tu 09:30AM - 01:15PM",
+                        "weekday": "Tu"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 260,
-                    "vacancy": 50
+                    "vacancy": 0
                   }
                 }
               },
@@ -772,11 +1316,75 @@
                         "str": "Mo 03:30PM - 06:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "06/09/2017 - 29/11/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "We 08:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "07/09/2017 - 30/11/2017",
+                      "time": {
+                        "begin": 930,
+                        "end": 1095,
+                        "str": "Th 03:30PM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "08/01/2018 - 16/04/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1095,
+                        "str": "Mo 03:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "10/01/2018 - 18/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "We 08:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 260,
-                    "vacancy": 50
+                    "vacancy": 0
                   }
                 }
               },
@@ -842,7 +1450,7 @@
                   ],
                   "quota": {
                     "seats": 260,
-                    "vacancy": 50
+                    "vacancy": 0
                   }
                 }
               },
@@ -902,11 +1510,27 @@
                         "str": "Th 08:30AM - 12:15PM",
                         "weekday": "Th"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT5"
+                      },
+                      "meeting_date": "11/01/2018 - 19/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Th 08:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 260,
-                    "vacancy": 50
+                    "vacancy": 0
                   }
                 }
               },
@@ -1015,7 +1639,23 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 04/09/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
                       },
                       "meeting_date": "04/09/2017 - 04/09/2017",
                       "time": {
@@ -1023,6 +1663,198 @@
                         "end": 735,
                         "str": "Mo 08:30AM - 12:15PM",
                         "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 03/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Tu 08:30AM - 12:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "05/09/2017 - 03/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Tu 01:30PM - 06:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/09/2017 - 04/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "We 01:30PM - 06:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 04/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "We 08:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/09/2017 - 05/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Th 01:30PM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/09/2017 - 05/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Th 08:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 08/09/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 08/09/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "23/10/2017 - 30/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "23/10/2017 - 30/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "27/10/2017 - 03/11/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "27/10/2017 - 03/11/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
                       }
                     }
                   ],
@@ -1080,6 +1912,22 @@
                         "slug": "PWH"
                       },
                       "meeting_date": "11/09/2017 - 16/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/11/2017 - 02/04/2018",
                       "time": {
                         "begin": 510,
                         "end": 735,
@@ -1144,10 +1992,218 @@
                       },
                       "meeting_date": "04/09/2017 - 04/09/2017",
                       "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "04/09/2017 - 04/09/2017",
+                      "time": {
                         "begin": 810,
                         "end": 1095,
                         "str": "Mo 01:30PM - 06:15PM",
                         "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 03/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Tu 01:30PM - 06:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 03/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Tu 08:30AM - 12:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 04/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "We 08:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 04/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "We 01:30PM - 06:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 05/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Th 01:30PM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 05/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Th 08:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 08/09/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 08/09/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "23/10/2017 - 30/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "23/10/2017 - 30/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "27/10/2017 - 03/11/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "27/10/2017 - 03/11/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
                       }
                     }
                   ],
@@ -1212,6 +2268,38 @@
                         "str": "Mo 11:30AM - 12:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "27/11/2017 - 27/11/2017",
+                      "time": {
+                        "begin": 1050,
+                        "end": 1155,
+                        "str": "Mo 05:30PM - 07:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/12/2017 - 08/12/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 915,
+                        "str": "Fr 02:30PM - 03:15PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
@@ -1274,11 +2362,91 @@
                         "str": "Mo 02:30PM - 05:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LKC_LT1"
+                      },
+                      "meeting_date": "06/09/2017 - 29/11/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "We 02:30PM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT7"
+                      },
+                      "meeting_date": "06/09/2017 - 29/11/2017",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "We 09:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT7"
+                      },
+                      "meeting_date": "08/01/2018 - 26/03/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Mo 02:30PM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LKC_LT1"
+                      },
+                      "meeting_date": "10/01/2018 - 28/03/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "We 02:30PM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT7"
+                      },
+                      "meeting_date": "10/01/2018 - 28/03/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "We 09:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 229,
-                    "vacancy": 8
+                    "vacancy": 7
                   }
                 }
               },
@@ -1335,6 +2503,86 @@
                         "end": 1095,
                         "str": "Mo 01:30PM - 06:15PM",
                         "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "15/09/2017 - 20/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "15/09/2017 - 20/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/11/2017 - 02/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/11/2017 - 06/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/11/2017 - 06/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
                       }
                     }
                   ],
@@ -1399,6 +2647,86 @@
                         "str": "Mo 01:30PM - 06:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "15/09/2017 - 20/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "15/09/2017 - 20/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/11/2017 - 02/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/11/2017 - 06/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/11/2017 - 06/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
@@ -1462,6 +2790,86 @@
                         "end": 1095,
                         "str": "Mo 01:30PM - 06:15PM",
                         "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "15/09/2017 - 20/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "15/09/2017 - 20/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/11/2017 - 02/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/11/2017 - 06/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/11/2017 - 06/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
                       }
                     }
                   ],
@@ -1528,6 +2936,86 @@
                         "str": "Mo 01:30PM - 06:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "15/09/2017 - 20/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "15/09/2017 - 20/10/2017",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/11/2017 - 02/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/11/2017 - 06/04/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/11/2017 - 06/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
@@ -1590,11 +3078,75 @@
                         "str": "Tu 02:30PM - 06:15PM",
                         "weekday": "Tu"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "CYT_LT1"
+                      },
+                      "meeting_date": "05/09/2017 - 28/11/2017",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Tu 09:30AM - 12:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT7"
+                      },
+                      "meeting_date": "07/09/2017 - 30/11/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Th 08:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "CYT_LT1"
+                      },
+                      "meeting_date": "09/01/2018 - 27/03/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Tu 09:30AM - 12:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT7"
+                      },
+                      "meeting_date": "09/01/2018 - 27/03/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Tu 02:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 229,
-                    "vacancy": 8
+                    "vacancy": 7
                   }
                 }
               },
@@ -1653,11 +3205,27 @@
                         "str": "Th 02:30PM - 06:15PM",
                         "weekday": "Th"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LSK_LT7"
+                      },
+                      "meeting_date": "11/01/2018 - 29/03/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Th 02:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 229,
-                    "vacancy": 8
+                    "vacancy": 7
                   }
                 }
               },
@@ -1709,7 +3277,7 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "21/04/2018 - 13/05/2018",
                       "time": {
@@ -1773,16 +3341,160 @@
                       },
                       "meeting_date": "28/05/2018 - 11/06/2018",
                       "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Mo 08:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "28/05/2018 - 11/06/2018",
+                      "time": {
                         "begin": 810,
                         "end": 1095,
                         "str": "Mo 01:30PM - 06:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "29/05/2018 - 12/06/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Tu 08:30AM - 01:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "29/05/2018 - 12/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Tu 01:30PM - 06:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "30/05/2018 - 13/06/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "We 08:30AM - 01:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "30/05/2018 - 13/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "We 01:30PM - 06:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "31/05/2018 - 14/06/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Th 08:30AM - 01:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "31/05/2018 - 14/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Th 01:30PM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "01/06/2018 - 15/06/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Fr 08:30AM - 01:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "01/06/2018 - 15/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 250,
-                    "vacancy": 29
+                    "vacancy": 28
                   }
                 }
               },
@@ -1836,16 +3548,160 @@
                       },
                       "meeting_date": "07/05/2018 - 21/05/2018",
                       "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Mo 01:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/05/2018 - 21/05/2018",
+                      "time": {
                         "begin": 510,
                         "end": 735,
                         "str": "Mo 08:30AM - 12:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/05/2018 - 22/05/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Tu 08:30AM - 12:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/05/2018 - 22/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Tu 01:30PM - 06:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "09/05/2018 - 23/05/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "We 08:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "09/05/2018 - 23/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "We 01:30PM - 06:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/05/2018 - 24/05/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Th 08:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "10/05/2018 - 24/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Th 01:30PM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "11/05/2018 - 25/05/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "11/05/2018 - 25/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1095,
+                        "str": "Fr 01:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 250,
-                    "vacancy": 29
+                    "vacancy": 28
                   }
                 }
               },
@@ -1903,11 +3759,219 @@
                         "str": "Mo 11:30AM - 01:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "LKC_LT1"
+                      },
+                      "meeting_date": "04/10/2017 - 04/10/2017",
+                      "time": {
+                        "begin": 1050,
+                        "end": 1095,
+                        "str": "We 05:30PM - 06:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "09/10/2017 - 09/10/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Mo 02:30PM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "10/10/2017 - 10/10/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Tu 02:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "11/10/2017 - 11/10/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "We 02:30PM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "20/11/2017 - 20/11/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Mo 02:30PM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "21/11/2017 - 21/11/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "Tu 02:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "22/11/2017 - 22/11/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "We 02:30PM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "02/05/2018 - 02/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "We 09:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "02/05/2018 - 02/05/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "We 02:30PM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "02/05/2018 - 02/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "We 09:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "02/05/2018 - 02/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "We 09:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "02/05/2018 - 02/05/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "We 02:30PM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "BMSB"
+                      },
+                      "meeting_date": "02/05/2018 - 02/05/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1035,
+                        "str": "We 02:30PM - 05:15PM",
+                        "weekday": "We"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 229,
-                    "vacancy": 8
+                    "vacancy": 7
                   }
                 }
               },
@@ -2015,9 +4079,9 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
-                      "meeting_date": "08/09/2017 - 21/04/2018",
+                      "meeting_date": "04/09/2017 - 17/04/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -2028,7 +4092,7 @@
                   ],
                   "quota": {
                     "seats": 5,
-                    "vacancy": 5
+                    "vacancy": 4
                   }
                 }
               },
@@ -2209,6 +4273,70 @@
                         "str": "TBA",
                         "weekday": "TBA"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 07/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 08/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 09/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 10/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
                     }
                   ],
                   "quota": {
@@ -2268,6 +4396,70 @@
                         "slug": "PWH"
                       },
                       "meeting_date": "04/09/2017 - 06/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 07/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 08/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 09/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 10/03/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -2342,6 +4534,70 @@
                         "str": "TBA",
                         "weekday": "TBA"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 07/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 08/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 09/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 10/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
                     }
                   ],
                   "quota": {
@@ -2407,6 +4663,150 @@
                         "str": "TBA",
                         "weekday": "TBA"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 21/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 22/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 23/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 24/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "26/03/2018 - 01/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "27/03/2018 - 02/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "28/03/2018 - 03/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "29/03/2018 - 04/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "30/03/2018 - 05/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
                     }
                   ],
                   "quota": {
@@ -2461,6 +4861,70 @@
                         "slug": "PWH"
                       },
                       "meeting_date": "04/09/2017 - 06/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 07/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 08/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 09/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 10/03/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -2592,6 +5056,70 @@
                         "str": "TBA",
                         "weekday": "TBA"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 07/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 08/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 09/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 10/03/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
                     }
                   ],
                   "quota": {
@@ -2711,7 +5239,7 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "04/09/2017 - 03/04/2018",
                       "time": {
@@ -2725,34 +5253,6 @@
                   "quota": {
                     "seats": 240,
                     "vacancy": 4
-                  }
-                },
-                "S01": {
-                  "class": "S01",
-                  "component": "SEM",
-                  "department": "MB ChB Pgm Comm",
-                  "language": "E",
-                  "meets": [
-                    {
-                      "consent": {
-                        "add": true,
-                        "drop": true
-                      },
-                      "location": {
-                        "slug": "PWH"
-                      },
-                      "meeting_date": "04/09/2017 - 03/04/2018",
-                      "time": {
-                        "begin": -1,
-                        "end": -1,
-                        "str": "TBA",
-                        "weekday": "TBA"
-                      }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 240,
-                    "vacancy": 240
                   }
                 }
               },
@@ -2802,9 +5302,25 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
-                      "meeting_date": "02/04/2018 - 08/05/2018",
+                      "meeting_date": "04/04/2018 - 10/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "08/04/2018 - 14/05/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -2862,9 +5378,9 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
-                      "meeting_date": "12/03/2018 - 27/03/2018",
+                      "meeting_date": "13/03/2018 - 28/03/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -2876,34 +5392,6 @@
                   "quota": {
                     "seats": 260,
                     "vacancy": 46
-                  }
-                },
-                "O01": {
-                  "class": "O01",
-                  "component": "OTH",
-                  "department": "MB ChB Pgm Comm",
-                  "language": "E",
-                  "meets": [
-                    {
-                      "consent": {
-                        "add": true,
-                        "drop": true
-                      },
-                      "location": {
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "12/03/2018 - 27/03/2018",
-                      "time": {
-                        "begin": -1,
-                        "end": -1,
-                        "str": "TBA",
-                        "weekday": "TBA"
-                      }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 260,
-                    "vacancy": 260
                   }
                 }
               },
@@ -2958,6 +5446,150 @@
                         "slug": "PWH"
                       },
                       "meeting_date": "04/09/2017 - 20/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 21/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 22/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 23/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 24/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "26/03/2018 - 01/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "27/03/2018 - 02/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "28/03/2018 - 03/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "29/03/2018 - 04/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "30/03/2018 - 05/05/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -3031,6 +5663,150 @@
                         "str": "TBA",
                         "weekday": "TBA"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "05/09/2017 - 21/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "06/09/2017 - 22/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "07/09/2017 - 23/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "08/09/2017 - 24/02/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "26/03/2018 - 01/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "27/03/2018 - 02/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "28/03/2018 - 03/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "29/03/2018 - 04/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "30/03/2018 - 05/05/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
                     }
                   ],
                   "quota": {
@@ -3085,7 +5861,7 @@
                         "drop": true
                       },
                       "location": {
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "04/09/2017 - 04/09/2017",
                       "time": {
@@ -3094,26 +5870,14 @@
                         "str": "Mo 08:30AM - 12:15PM",
                         "weekday": "Mo"
                       }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 260,
-                    "vacancy": 30
-                  }
-                },
-                "D01": {
-                  "class": "D01",
-                  "component": "DIS",
-                  "department": "MB ChB Pgm Comm",
-                  "language": "E",
-                  "meets": [
+                    },
                     {
                       "consent": {
                         "add": true,
                         "drop": true
                       },
                       "location": {
-                        "slug": "PWH"
+                        "slug": "NRR"
                       },
                       "meeting_date": "04/09/2017 - 04/09/2017",
                       "time": {
@@ -3122,11 +5886,203 @@
                         "str": "Mo 02:30PM - 06:15PM",
                         "weekday": "Mo"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "05/09/2017 - 03/04/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Tu 02:30PM - 06:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "05/09/2017 - 03/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Tu 08:30AM - 12:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/09/2017 - 04/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "We 08:30AM - 12:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/09/2017 - 04/04/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "We 02:30PM - 06:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/09/2017 - 05/04/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Th 08:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/09/2017 - 05/04/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Th 02:30PM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "08/09/2017 - 08/09/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "08/09/2017 - 08/09/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Fr 02:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/10/2017 - 30/10/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/10/2017 - 30/10/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Mo 02:30PM - 06:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "27/10/2017 - 03/11/2017",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "27/10/2017 - 03/11/2017",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Fr 02:30PM - 06:15PM",
+                        "weekday": "Fr"
+                      }
                     }
                   ],
                   "quota": {
                     "seats": 260,
-                    "vacancy": 260
+                    "vacancy": 30
                   }
                 }
               },
