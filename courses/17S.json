@@ -766,6 +766,34 @@
               "classes": {
                 "P01": {
                   "class": "P01",
+                  "component": "PRA",
+                  "department": "Div of Chinese Medicine (MED)",
+                  "language": "P&C",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "14/05/2018 - 31/07/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 50,
+                    "vacancy": null
+                  }
+                },
+                "T01": {
+                  "class": "T01",
                   "component": "TUT",
                   "department": "Div of Chinese Medicine (MED)",
                   "language": "P&C",
@@ -1662,8 +1690,8 @@
           "groups": {
             "-": {
               "classes": {
-                "L01": {
-                  "class": "L01",
+                "": {
+                  "class": "",
                   "component": "LEC",
                   "department": "Div of Geo & Resource Mgt",
                   "language": "P&E",
@@ -1697,6 +1725,34 @@
                         "begin": 1110,
                         "end": 1230,
                         "str": "Mo 06:30PM - 08:30PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 50,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Geo & Resource Mgt",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "CKB_222"
+                      },
+                      "meeting_date": "14/05/2018 - 25/06/2018",
+                      "time": {
+                        "begin": 1230,
+                        "end": 1290,
+                        "str": "Mo 08:30PM - 09:30PM",
                         "weekday": "Mo"
                       }
                     }
@@ -1806,6 +1862,34 @@
               "classes": {
                 "": {
                   "class": "",
+                  "component": "LEC",
+                  "department": "Div of History",
+                  "language": "C",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "YIA_201"
+                      },
+                      "meeting_date": "19/05/2018 - 30/06/2018",
+                      "time": {
+                        "begin": 630,
+                        "end": 795,
+                        "str": "Sa 10:30AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "T01": {
+                  "class": "T01",
                   "component": "TUT",
                   "department": "Div of History",
                   "language": "C",
@@ -6586,6 +6670,62 @@
               "classes": {
                 "": {
                   "class": "",
+                  "component": "LEC",
+                  "department": "Div of Architecture",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "AIT_501"
+                      },
+                      "meeting_date": "14/05/2018 - 26/06/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "F01": {
+                  "class": "F01",
+                  "component": "FLD",
+                  "department": "Div of Architecture",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "AIT_501"
+                      },
+                      "meeting_date": "14/05/2018 - 26/06/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "U01": {
+                  "class": "U01",
                   "component": "STD",
                   "department": "Div of Architecture",
                   "language": "E",
