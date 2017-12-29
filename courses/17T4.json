@@ -3180,6 +3180,590 @@
               "classes": {
                 "": {
                   "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "14/05/2018 - 11/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Mo 09:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "16/05/2018 - 27/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "We 09:30AM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 855,
+                        "str": "Th 09:30AM - 02:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "24/05/2018 - 24/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Th 09:30AM - 01:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 915,
+                        "str": "Th 09:30AM - 03:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "07/06/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Th 09:30AM - 01:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_302"
+                      },
+                      "meeting_date": "11/06/2018 - 11/06/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "11/06/2018 - 11/06/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "25/06/2018 - 25/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Mo 09:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "28/06/2018 - 28/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 915,
+                        "str": "Th 09:30AM - 03:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_401"
+                      },
+                      "meeting_date": "09/07/2018 - 09/07/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Mo 08:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_403"
+                      },
+                      "meeting_date": "09/07/2018 - 09/07/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Mo 08:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 975,
+                        "str": "Th 02:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "24/05/2018 - 24/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "07/06/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L02": {
+                  "class": "L02",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 975,
+                        "str": "Th 02:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "24/05/2018 - 24/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "07/06/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L03": {
+                  "class": "L03",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 975,
+                        "str": "Th 02:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "24/05/2018 - 24/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "07/06/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L04": {
+                  "class": "L04",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 975,
+                        "str": "Th 02:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "24/05/2018 - 24/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "07/06/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L05": {
+                  "class": "L05",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 870,
+                        "end": 975,
+                        "str": "Th 02:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "24/05/2018 - 24/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "07/06/2018 - 21/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Th 01:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "T01": {
+                  "class": "T01",
                   "component": "TUT",
                   "department": "Div of Nursing",
                   "language": "E",
@@ -3368,7 +3952,7 @@
               "course": "NURS6317",
               "group": "-",
               "instructors": [
-                "Dr TANG Wing Ki"
+                "Dr. TANG Wing Ki"
               ],
               "short_title": "Mental Health Nursing 精神科護理"
             }
@@ -3398,6 +3982,306 @@
               "classes": {
                 "": {
                   "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "18/05/2018 - 01/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "08/06/2018 - 08/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 915,
+                        "str": "Fr 09:30AM - 03:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "15/06/2018 - 15/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Fr 09:30AM - 11:15AM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "22/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Fr 09:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "29/06/2018 - 29/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_401"
+                      },
+                      "meeting_date": "16/07/2018 - 16/07/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 1035,
+                        "str": "Mo 08:30AM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_403"
+                      },
+                      "meeting_date": "16/07/2018 - 16/07/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 1035,
+                        "str": "Mo 08:30AM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/06/2018 - 08/06/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "15/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L02": {
+                  "class": "L02",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/06/2018 - 08/06/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "15/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L03": {
+                  "class": "L03",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/06/2018 - 08/06/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "15/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L04": {
+                  "class": "L04",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/06/2018 - 08/06/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "15/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L05": {
+                  "class": "L05",
                   "component": "LAB",
                   "department": "Div of Nursing",
                   "language": "E",
@@ -3475,6 +4359,98 @@
               "classes": {
                 "": {
                   "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "02/05/2018 - 23/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "We 09:30AM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "03/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Th 09:30AM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "04/05/2018 - 18/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "07/05/2018 - 21/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Mo 09:30AM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "08/05/2018 - 15/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Tu 09:30AM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
                   "component": "LAB",
                   "department": "Div of Nursing",
                   "language": "E",
