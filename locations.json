@@ -498,7 +498,8 @@
       "name": {
         "ENG": "Li Wai Chun Building",
         "ZHT": "李慧珍樓"
-      }
+      },
+      "slug": "LWC"
     },
     {
       "code": "C3a",
@@ -1506,7 +1507,8 @@
       "name": {
         "ENG": "President Chi-tung Yung Memorial Building",
         "ZHT": "容啟東校長紀念樓"
-      }
+      },
+      "slug": "YCT"
     },
     {
       "code": "E13",
@@ -1528,7 +1530,8 @@
       "name": {
         "ENG": "Fok Ying Tung Remote Sensing Science Building",
         "ZHT": "霍英東遙感科學館"
-      }
+      },
+      "slug": "FYT"
     },
     {
       "code": "A8",
@@ -1539,7 +1542,8 @@
       "name": {
         "ENG": "Lo Kwee-Seong Integrated Biomedical Sciences Building",
         "ZHT": "羅桂祥綜合生物醫學大樓"
-      }
+      },
+      "slug": "IBSB"
     },
     {
       "code": "C39a",
@@ -1953,12 +1957,14 @@
     {
       "category": {
         "ENG": "Meeting & Activity Venues / Classrooms & Lectures Theatres",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "會議及活動場地／課室及講堂"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "3/F, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓三樓"
+          },
           "latlng": [
             22.418323398302963,
             114.20517951250076
@@ -1966,9 +1972,17 @@
           "name": {
             "ENG": "Benjamin Franklin Centre Activity Room",
             "ZHT": "范克廉樓活動室"
+          },
+          "opening_hours": {
+            "ENG": "<span><a href=\"https://fbsweb.itsc.cuhk.edu.hk/frs/osalogin.aspx\" target=\"_blank\">Details</a></span>",
+            "ZHT": "<span><a href=\"https://fbsweb.itsc.cuhk.edu.hk/frs/osalogin.aspx\" target=\"_blank\">詳情</a></span>"
           }
         },
         {
+          "address": {
+            "ENG": "1/F and 2/F, John Fulton Centre",
+            "ZHT": "富爾敦樓一樓及二樓"
+          },
           "latlng": [
             22.418144874281502,
             114.20453578233719
@@ -1976,9 +1990,17 @@
           "name": {
             "ENG": "John Fulton Centre Activity Rooms",
             "ZHT": "富爾敦樓活動室"
+          },
+          "opening_hours": {
+            "ENG": "<span><a href=\"https://fbsweb.itsc.cuhk.edu.hk/frs/osalogin.aspx\" target=\"_blank\">Details</a></span>",
+            "ZHT": "<span><a href=\"https://fbsweb.itsc.cuhk.edu.hk/frs/osalogin.aspx\" target=\"_blank\">詳情</a></span>"
           }
         },
         {
+          "address": {
+            "ENG": "1/F, Staff Student Centre - Leung Hung Kee Building",
+            "ZHT": "樂群館－梁雄姬樓一樓"
+          },
           "latlng": [
             22.42096155986691,
             114.2093476653099
@@ -1986,9 +2008,17 @@
           "name": {
             "ENG": "Mrs David Lam Hall",
             "ZHT": "林耀明夫人堂"
+          },
+          "opening_hours": {
+            "ENG": "9:00 am–10:30 pm (Mon–Sat)\r\n9:00 am–9:00 pm (Sun)",
+            "ZHT": "上午9:00至下午10:30（星期一至六）\r\n上午9:00至下午9:00（星期日）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Cheng Ming Building",
+            "ZHT": "誠明館地下"
+          },
           "latlng": [
             22.421288847092786,
             114.20805752277374
@@ -1996,9 +2026,17 @@
           "name": {
             "ENG": "Staff Common Room, New Asia College",
             "ZHT": "新亞教職員活動室"
+          },
+          "opening_hours": {
+            "ENG": "8:45 am–5:30 pm (Mon–Thur)\r\n8:45 am–5:45 pm (Fri)",
+            "ZHT": "上午8:45至下午5:30（星期一至四）\r\n上午8:45至下午5:45（星期五）"
           }
         },
         {
+          "address": {
+            "ENG": "1/F, Staff Student Centre - Leung Hung Kee Building",
+            "ZHT": "樂群館－梁雄姬樓一樓"
+          },
           "latlng": [
             22.420902053015684,
             114.20915186405182
@@ -2006,9 +2044,17 @@
           "name": {
             "ENG": "Yale-in-China Hall",
             "ZHT": "雅禮舍"
+          },
+          "opening_hours": {
+            "ENG": "11:00 am–10:30 pm (Mon–Fri)",
+            "ZHT": "上午11:00至下午10:30（星期一至五）"
           }
         },
         {
+          "address": {
+            "ENG": "Top Floor, Cheung Chuk Shan Amenities Building",
+            "ZHT": "張祝珊師生康樂中心頂樓"
+          },
           "latlng": [
             22.4209813954783,
             114.20598685741425
@@ -2016,9 +2062,17 @@
           "name": {
             "ENG": "Staff Common Room, United College",
             "ZHT": "文怡閣"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "Podium next to the cover foyer of Kuo Mou Hall",
+            "ZHT": "國楙樓有蓋平台"
+          },
           "latlng": [
             22.422550879249137,
             114.20091211795807
@@ -2026,9 +2080,17 @@
           "name": {
             "ENG": "Dr. Tan Siu-lin Terrace",
             "ZHT": "守仁雅座"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Kuo Mou Hall",
+            "ZHT": "國楙樓地下"
+          },
           "latlng": [
             22.422751712385093,
             114.2013493180275
@@ -2036,6 +2098,10 @@
           "name": {
             "ENG": "Fu Zung Centre",
             "ZHT": "輔仁中心"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         }
       ],
@@ -2047,12 +2113,14 @@
     {
       "category": {
         "ENG": "Meeting & Activity Venues / Classrooms & Lectures Theatres",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "會議及活動場地／課室及講堂"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Lower Lounge, Chung Chi College Chapel",
+            "ZHT": "崇基學院禮拜堂地下"
+          },
           "latlng": [
             22.415975293180914,
             114.20705437660217
@@ -2060,9 +2128,17 @@
           "name": {
             "ENG": "Chung Chi College Chapel Lounge",
             "ZHT": "崇基學生休息室"
+          },
+          "opening_hours": {
+            "ENG": "9:00 am–5:30 pm (Mon–Fri)",
+            "ZHT": "上午9:00至下午5:30（星期一至五）"
           }
         },
         {
+          "address": {
+            "ENG": "LG, T.C. Cheng Building",
+            "ZHT": "鄭棟材樓地庫"
+          },
           "latlng": [
             22.4216285307463,
             114.20494079589844
@@ -2070,6 +2146,10 @@
           "name": {
             "ENG": "Si Yuan Amenities Centre",
             "ZHT": "思源館"
+          },
+          "opening_hours": {
+            "ENG": "<span><a href=\"http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=93&Itemid=136&lang=en\" target=\"_blank\">Details</a></span>",
+            "ZHT": "<span><a href=\"http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=93&Itemid=136&lang=zh\" target=\"_blank\">詳情</a></span>"
           }
         }
       ],
@@ -2081,12 +2161,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "G/F, John Fulton Centre",
+            "ZHT": "富爾敦樓地下"
+          },
           "latlng": [
             22.4183481932878,
             114.20469403266907
@@ -2097,6 +2179,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓地下"
+          },
           "latlng": [
             22.418489524616817,
             114.20525193214417
@@ -2107,6 +2193,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "Room 108, 1/F, Pommerenke Student Centre, Pond Crescent",
+            "ZHT": "池旁路龐萬倫學生中心一樓108室"
+          },
           "latlng": [
             22.417048930121357,
             114.20876026153564
@@ -2117,6 +2207,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "Rm 101, John Fulton Centre",
+            "ZHT": "富爾敦樓101室"
+          },
           "latlng": [
             22.418278767319123,
             114.20470476150513
@@ -2127,6 +2221,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Staff Student Centre - Leung Hung Kee Building",
+            "ZHT": "樂群館－梁雄姬樓地下室"
+          },
           "latlng": [
             22.42083758723143,
             114.20928597450256
@@ -2134,9 +2232,17 @@
           "name": {
             "ENG": "ATM (JETCO)",
             "ZHT": "自動櫃員機（銀通）"
+          },
+          "opening_hours": {
+            "ENG": "8:00 am–10:45 pm (Mon–Sat)\r\n9:00 am–9:00 pm (Sun & Public holidays)",
+            "ZHT": "上午8:00至下午10:45（星期一至六）\r\n上午9:00至下午9:00（星期日及公眾假期）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Lee Woo Sing College North Block",
+            "ZHT": "和聲書院北座地下"
+          },
           "latlng": [
             22.422402113775984,
             114.20440435409546
@@ -2155,12 +2261,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "1/F, John Fulton Centre",
+            "ZHT": "富爾敦樓一樓"
+          },
           "latlng": [
             22.418246533821858,
             114.20453578233719
@@ -2168,9 +2276,17 @@
           "name": {
             "ENG": "Hang Seng Bank Ltd",
             "ZHT": "恒生銀行"
+          },
+          "opening_hours": {
+            "ENG": "9:00 am–5:00 pm (Mon–Fri)",
+            "ZHT": "上午9:00至下午5:00（星期一至五）"
           }
         },
         {
+          "address": {
+            "ENG": "Room 108, 1/F, Pommerenke Student Centre, Pond Crescent",
+            "ZHT": "池旁路龐萬倫學生中心一樓108室"
+          },
           "latlng": [
             22.417048930121357,
             114.20876026153564
@@ -2178,6 +2294,10 @@
           "name": {
             "ENG": "The Bank of East Asia",
             "ZHT": "東亞銀行"
+          },
+          "opening_hours": {
+            "ENG": "9:00 am–5:00 pm (Mon–Fri)",
+            "ZHT": "上午9:00至下午5:00（星期一至五）"
           }
         }
       ],
@@ -2189,12 +2309,14 @@
     {
       "category": {
         "ENG": "Sports Facilities & Amenities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "康體設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Lingnan Stadium",
+            "ZHT": "嶺南運動場廣泰園"
+          },
           "latlng": [
             22.414532193041808,
             114.20865565538406
@@ -2202,9 +2324,17 @@
           "name": {
             "ENG": "Chung Chi College Barbecue Site",
             "ZHT": "崇基燒烤場"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "Next to Yun Chi Hsien",
+            "ZHT": "雲起軒旁"
+          },
           "latlng": [
             22.420626833497113,
             114.20931547880173
@@ -2212,9 +2342,17 @@
           "name": {
             "ENG": "New Asia College Barbecue Site",
             "ZHT": "新亞燒烤場"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "At one end of HERBSnSENSES Chinese Medicinal Plants Garden",
+            "ZHT": "草苓香中草藥園側"
+          },
           "latlng": [
             22.423842652740255,
             114.20168995857239
@@ -2222,9 +2360,17 @@
           "name": {
             "ENG": "Shaw College Barbecue Site",
             "ZHT": "逸夫燒烤場"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "Between Grace Tien Hall and Daisy Li Hall",
+            "ZHT": "志文樓與紫霞樓之間"
+          },
           "latlng": [
             22.42135827155668,
             114.21088993549347
@@ -2232,9 +2378,17 @@
           "name": {
             "ENG": "New Asia College Barbecue Site",
             "ZHT": "新亞燒烤場"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "8/F Outdoor Terrace, Dorothy and Ti-Hua KOO Building",
+            "ZHT": "顧鐵華費肇芬伉儷樓八樓露天平台"
+          },
           "latlng": [
             22.422216156710473,
             114.20411467552185
@@ -2242,6 +2396,10 @@
           "name": {
             "ENG": "Lee Woo Sing College Barbecue Site",
             "ZHT": "和聲燒烤場"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         }
       ],
@@ -2253,12 +2411,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "1/F, Yasumoto International Academic Park",
+            "ZHT": "康本國際學術園一樓"
+          },
           "latlng": [
             22.416374498647595,
             114.21098113059998
@@ -2266,6 +2426,10 @@
           "name": {
             "ENG": "The Commercial Press",
             "ZHT": "商務印書館"
+          },
+          "opening_hours": {
+            "ENG": "10:00 am–8:00 pm (Mon–Fri)\r\n10:00 am–5:00 pm (Sat)",
+            "ZHT": "上午10:00至下午8:00（星期一至五）\r\n上午10:00至下午5:00（星期六）"
           }
         }
       ],
@@ -2277,12 +2441,14 @@
     {
       "category": {
         "ENG": "Transport",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "交通"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418033296651544,
             114.20292377471924
@@ -2293,6 +2459,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413049404430595,
             114.20863419771194
@@ -2303,6 +2473,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42220623899324,
             114.21394228935242
@@ -2321,12 +2495,14 @@
     {
       "category": {
         "ENG": "Car Parks",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "停車場"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413309761435958,
             114.20962393283844
@@ -2337,6 +2513,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.415233908555976,
             114.20727968215942
@@ -2347,6 +2527,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41736630850525,
             114.20752108097076
@@ -2357,6 +2541,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418080407217353,
             114.20733869075775
@@ -2367,6 +2555,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418863927968697,
             114.20810043811798
@@ -2377,6 +2569,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418710199562256,
             114.20685052871704
@@ -2387,6 +2583,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419716869584185,
             114.20718312263489
@@ -2397,6 +2597,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418908558764514,
             114.20494079589844
@@ -2407,6 +2611,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419414373447946,
             114.20312225818634
@@ -2417,6 +2625,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419761500105878,
             114.20359969139099
@@ -2427,6 +2639,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419444127195476,
             114.2045545578003
@@ -2437,6 +2653,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419146589433254,
             114.20458406209946
@@ -2447,6 +2667,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41969703379216,
             114.20807093381882
@@ -2457,6 +2681,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413322159376435,
             114.20926719903946
@@ -2467,6 +2695,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41535788619354,
             114.20786440372467
@@ -2477,6 +2709,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418105202245563,
             114.207923412323
@@ -2495,12 +2731,14 @@
     {
       "category": {
         "ENG": "Car Parks",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "停車場"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413567638369805,
             114.20855641365051
@@ -2511,6 +2749,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.414643773484265,
             114.20755326747894
@@ -2521,6 +2763,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.4157298184423,
             114.20748889446259
@@ -2531,6 +2777,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.415843877465704,
             114.20701682567596
@@ -2541,6 +2791,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416711714793827,
             114.20608341693878
@@ -2551,6 +2805,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41729688204575,
             114.2065018415451
@@ -2561,6 +2819,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418149833285188,
             114.20807898044586
@@ -2571,6 +2833,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41897798441837,
             114.20612096786499
@@ -2581,6 +2847,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418139915277635,
             114.20471012592316
@@ -2591,6 +2861,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41850688108591,
             114.2043024301529
@@ -2601,6 +2875,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418670527687798,
             114.20388400554657
@@ -2611,6 +2889,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419860678991643,
             114.20268774032593
@@ -2621,6 +2903,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.4204755865024,
             114.20403957366943
@@ -2631,6 +2917,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420654107527806,
             114.20492470264435
@@ -2641,6 +2931,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421070655694578,
             114.20627653598785
@@ -2651,6 +2945,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421338435999115,
             114.20735478401184
@@ -2661,6 +2959,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420897094110263,
             114.20814335346222
@@ -2671,6 +2973,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421730187736554,
             114.20810043811798
@@ -2681,6 +2987,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42142769598588,
             114.2089694738388
@@ -2691,6 +3001,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41981604850182,
             114.20982241630554
@@ -2701,6 +3015,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419612731644442,
             114.21032667160034
@@ -2711,6 +3029,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419488757804825,
             114.20995652675629
@@ -2721,6 +3043,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418918476717185,
             114.20940399169922
@@ -2731,6 +3057,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41800106309732,
             114.20930743217468
@@ -2741,6 +3071,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418323398302963,
             114.21070754528046
@@ -2751,6 +3085,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42017805095009,
             114.21232759952545
@@ -2761,6 +3099,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42001440612459,
             114.21238124370575
@@ -2771,6 +3113,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417321677213838,
             114.21088457107544
@@ -2781,6 +3127,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416805936806,
             114.20920550823212
@@ -2791,6 +3141,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41611662692454,
             114.21156585216522
@@ -2801,6 +3155,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41583891837969,
             114.21117424964905
@@ -2811,6 +3169,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.415506659212546,
             114.21088993549347
@@ -2821,6 +3183,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41561575932521,
             114.21231687068939
@@ -2831,6 +3197,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422250868714883,
             114.21338975429535
@@ -2841,6 +3211,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42299469529705,
             114.21363651752472
@@ -2851,6 +3225,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.4237484355023,
             114.20841693878174
@@ -2861,6 +3239,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.424581512021316,
             114.20819699764252
@@ -2871,6 +3253,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.424100510117214,
             114.20757472515106
@@ -2881,6 +3267,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.424348449451138,
             114.20717239379883
@@ -2891,6 +3281,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42369884745664,
             114.2073118686676
@@ -2901,6 +3295,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423212883671976,
             114.20689880847931
@@ -2911,6 +3309,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423991416670013,
             114.20478522777557
@@ -2921,6 +3323,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421313641548164,
             114.202880859375
@@ -2931,6 +3337,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421422737099224,
             114.20241415500641
@@ -2941,6 +3351,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422032678828277,
             114.2026287317276
@@ -2951,6 +3365,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422474017107913,
             114.20185089111328
@@ -2961,6 +3379,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423356689458906,
             114.20137882232666
@@ -2971,6 +3393,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422553358672346,
             114.20059025287628
@@ -2981,6 +3407,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419637526399082,
             114.20942544937134
@@ -2991,6 +3421,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41865813022471,
             114.20561134815216
@@ -3001,6 +3435,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419191220138238,
             114.2068961262703
@@ -3011,6 +3449,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419079643348912,
             114.20837134122849
@@ -3021,6 +3463,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418556470985628,
             114.21425074338913
@@ -3031,6 +3477,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421953336966325,
             114.21455651521683
@@ -3041,6 +3491,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.424943502046098,
             114.20672714710236
@@ -3051,6 +3505,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419855720049036,
             114.20606195926666
@@ -3061,6 +3519,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418095284234802,
             114.21008259057999
@@ -3071,6 +3533,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416071995231555,
             114.20834720134735
@@ -3081,6 +3547,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420478065962666,
             114.20674055814743
@@ -3091,6 +3561,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421065696795175,
             114.21058148145676
@@ -3101,6 +3575,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421757461550538,
             114.2060324549675
@@ -3111,6 +3589,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42292279223474,
             114.20495957136154
@@ -3121,6 +3603,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416890240657445,
             114.20272260904312
@@ -3131,6 +3617,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42346578340482,
             114.2045545578003
@@ -3141,6 +3631,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.4245170479453,
             114.20472890138626
@@ -3151,6 +3645,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423468262811678,
             114.20535922050476
@@ -3161,6 +3659,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416724112430664,
             114.20746743679047
@@ -3171,6 +3673,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417197701329115,
             114.20812994241714
@@ -3181,6 +3687,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417691124694088,
             114.20809239149094
@@ -3191,6 +3701,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417239853142334,
             114.20984923839569
@@ -3201,6 +3715,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416528229639333,
             114.2104098200798
@@ -3211,6 +3729,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413339516491217,
             114.20761227607727
@@ -3221,6 +3743,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421127683024928,
             114.2055469751358
@@ -3239,12 +3765,14 @@
     {
       "category": {
         "ENG": "Libraries / Museum & Galleries / Cultural Facilities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "圖書館／博物館及展覽館／文化設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Sir Run Run Shaw Hall",
+            "ZHT": "邵逸夫堂"
+          },
           "latlng": [
             22.42014333842745,
             114.20718848705292
@@ -3255,6 +3783,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.420125982162897,
             114.2071133852005
@@ -3262,9 +3794,17 @@
           "name": {
             "ENG": "Sir Run Run Shaw Hall",
             "ZHT": "邵逸夫堂"
+          },
+          "opening_hours": {
+            "ENG": "http://www.srrsh.cuhk.edu.hk/en/about_us",
+            "ZHT": "http://www.srrsh.cuhk.edu.hk/tc/about_us/"
           }
         },
         {
+          "address": {
+            "ENG": "Chung Chi College",
+            "ZHT": "崇基學院"
+          },
           "latlng": [
             22.415977772721522,
             114.20693099498749
@@ -3272,9 +3812,17 @@
           "name": {
             "ENG": "Chung Chi College Chapel",
             "ZHT": "崇基禮拜堂"
+          },
+          "opening_hours": {
+            "ENG": "http://www.cco.cuhk.edu.hk/chaplaincy/",
+            "ZHT": "http://www.cco.cuhk.edu.hk/chaplaincy/"
           }
         },
         {
+          "address": {
+            "ENG": "LG, Esther Lee Building",
+            "ZHT": "利黃瑤璧樓低層地下"
+          },
           "latlng": [
             22.4139296571038,
             114.20863687992096
@@ -3285,6 +3833,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": null,
           "name": {
             "ENG": "CU Culture Trail",
@@ -3300,12 +3852,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "G/F, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓地下"
+          },
           "latlng": [
             22.4185490325018,
             114.2053672671318
@@ -3313,9 +3867,17 @@
           "name": {
             "ENG": "Benjamin Franklin Centre Staff Canteen",
             "ZHT": "范克廉樓教職員餐廳"
+          },
+          "opening_hours": {
+            "ENG": "11:00 am–3:00 pm\r\n5:00 pm–9:00 pm (Mon–Fri & Sun)",
+            "ZHT": "上午11:00至下午3:00\r\n下午5:00至下午9:00\r\n（星期一至五、日）"
           }
         },
         {
+          "address": {
+            "ENG": "Opposite the Chung Chi College Chapel",
+            "ZHT": "崇基學院禮拜堂對面"
+          },
           "latlng": [
             22.415975293180914,
             114.20756667852402
@@ -3323,9 +3885,17 @@
           "name": {
             "ENG": "Chung Chi College Staff Club",
             "ZHT": "崇基學院教職員聯誼會會所"
+          },
+          "opening_hours": {
+            "ENG": "http://www.cuhk.edu.hk/ccc/staffclub/public/benefits/benefits.htm",
+            "ZHT": "http://www.cuhk.edu.hk/ccc/staffclub/chinese/public/benefits/benefits.htm"
           }
         },
         {
+          "address": {
+            "ENG": "LG/F, Staff Student Centre - Leung Hung Kee Building",
+            "ZHT": "樂群館－梁雄姬樓地下低層"
+          },
           "latlng": [
             22.4209442037046,
             114.20933693647385
@@ -3333,9 +3903,17 @@
           "name": {
             "ENG": "New Asia College Staff Canteen",
             "ZHT": "新亞書院教職員餐廳"
+          },
+          "opening_hours": {
+            "ENG": "12:00 nn–2:00 pm (Mon–Fri)",
+            "ZHT": "中午12:00至下午2:00（星期一至五）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Staff Student Centre - Leung Hung Kee Building",
+            "ZHT": "樂群館－梁雄姬樓地下"
+          },
           "latlng": [
             22.420780559781935,
             114.20930206775665
@@ -3343,9 +3921,17 @@
           "name": {
             "ENG": "New Asia College Yun Chi Hsien",
             "ZHT": "新亞書院雲起軒"
+          },
+          "opening_hours": {
+            "ENG": "12:00 nn–2:00 pm (Mon–Fri)",
+            "ZHT": "中午12:00至下午2:00（星期一至五）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Cheung Chuk Shan Amenities Building",
+            "ZHT": "張祝珊師生康樂中心地下"
+          },
           "latlng": [
             22.421013628340805,
             114.20582056045532
@@ -3353,9 +3939,17 @@
           "name": {
             "ENG": "United College Staff Canteen",
             "ZHT": "聯合書院教職員膳堂聚賢軒"
+          },
+          "opening_hours": {
+            "ENG": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=en",
+            "ZHT": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=zh"
           }
         },
         {
+          "address": {
+            "ENG": "3/F, Cheung Chuk Shan Amenities Building",
+            "ZHT": "張祝珊師生康樂大樓三樓"
+          },
           "latlng": [
             22.421016107791456,
             114.20587420463562
@@ -3363,9 +3957,17 @@
           "name": {
             "ENG": "United College Staff Common Room",
             "ZHT": "聯合書院教職員會所文怡閣"
+          },
+          "opening_hours": {
+            "ENG": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=en",
+            "ZHT": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=zh"
           }
         },
         {
+          "address": {
+            "ENG": "1/F, Chan Chun Ha Hall",
+            "ZHT": "陳震夏館一樓"
+          },
           "latlng": [
             22.41813247677148,
             114.21006113290787
@@ -3373,9 +3975,17 @@
           "name": {
             "ENG": "Connexion, S.H. Ho College Staff Common Room",
             "ZHT": "善衡書院教職員會所「雅薈」"
+          },
+          "opening_hours": {
+            "ENG": "11:30 am–2:30 pm (Mon–Fri)",
+            "ZHT": "上午11:30至下午2:30（星期一至五）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Pentecostal Mission Hall Complex (High Block)",
+            "ZHT": "五旬節會樓高座地下"
+          },
           "latlng": [
             22.41853167603799,
             114.20931816101074
@@ -3383,6 +3993,10 @@
           "name": {
             "ENG": "Staff Common Room Clubhouse",
             "ZHT": "大學教職員會所"
+          },
+          "opening_hours": {
+            "ENG": "http://www.cuhk.edu.hk/ugh/",
+            "ZHT": "http://www.cuhk.edu.hk/ugh/"
           }
         }
       ],
@@ -3394,12 +4008,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "1/F, Chan Chun Ha Hall",
+            "ZHT": "陳震夏館一樓"
+          },
           "latlng": [
             22.418112640753165,
             114.2101576924324
@@ -3407,9 +4023,17 @@
           "name": {
             "ENG": "Canteen of S.H. Ho College (with Café)",
             "ZHT": "善衡書院餐廳（附設咖啡閣）"
+          },
+          "opening_hours": {
+            "ENG": "7:30 am–9:00 pm (Mon–Sun)\r\n6:30 pm–9:00 pm (Tue–Thu, Takeaway only)\r\n11:30 am–3:30 pm, 5:00 pm–8:00 pm (Public Holidays)",
+            "ZHT": "上午7:30至下午9:00（星期一至日）\r\n下午6:30至下午9:00（逢星期二至四此時段只設外賣）\r\n上午11:30至下午3:30、下午5:00至下午8:00（公眾假期）"
           }
         },
         {
+          "address": {
+            "ENG": "LG1, Maurice R. Greenberg Building",
+            "ZHT": "格林伯格樓低層地下"
+          },
           "latlng": [
             22.41906228695141,
             114.2103910446167
@@ -3417,9 +4041,17 @@
           "name": {
             "ENG": "Morningside College Dining Hall",
             "ZHT": "晨興書院宴會廳"
+          },
+          "opening_hours": {
+            "ENG": "http://www.morningside.cuhk.edu.hk/student-life/dining",
+            "ZHT": "http://www.morningside.cuhk.edu.hk/tc/student-life/dining"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Tower Block, Morningside College",
+            "ZHT": "晨興書院高座地下"
+          },
           "latlng": [
             22.41882425613817,
             114.21026766300201
@@ -3427,9 +4059,17 @@
           "name": {
             "ENG": "Morningside College Café",
             "ZHT": "晨興書院咖啡閣"
+          },
+          "opening_hours": {
+            "ENG": "http://www.morningside.cuhk.edu.hk/student-life/dining",
+            "ZHT": "http://www.morningside.cuhk.edu.hk/tc/student-life/dining"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Basic Medical Sciences Building",
+            "ZHT": "基本醫學大樓地下"
+          },
           "latlng": [
             22.419506114149037,
             114.2084813117981
@@ -3437,9 +4077,17 @@
           "name": {
             "ENG": "Basic Medical Sciences Building Snack Bar",
             "ZHT": "李卓敏基本醫學大樓小食店"
+          },
+          "opening_hours": {
+            "ENG": "7:45 am–6:00 pm (Mon–Sat)",
+            "ZHT": "上午7:45至下午6:00（星期一至六）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓地下"
+          },
           "latlng": [
             22.41834075479282,
             114.20556575059891
@@ -3447,9 +4095,17 @@
           "name": {
             "ENG": "Benjamin Franklin Centre Coffee Corner",
             "ZHT": "范克廉樓咖啡閣"
+          },
+          "opening_hours": {
+            "ENG": "7:30 am–7:30 pm (Mon–Sat)",
+            "ZHT": "上午7:30至下午7:30（星期一至六）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓地下"
+          },
           "latlng": [
             22.418323398302963,
             114.20514732599258
@@ -3457,9 +4113,17 @@
           "name": {
             "ENG": "Benjamin Franklin Centre Student Canteen",
             "ZHT": "范克廉樓學生膳堂"
+          },
+          "opening_hours": {
+            "ENG": "11:00 am–9:00 pm (Mon–Fri)\r\n8:30 am–9:00 pm (Sun)",
+            "ZHT": "上午11:00至下午9:00（星期一至五）\r\n上午8:30至下午9:00（星期日）"
           }
         },
         {
+          "address": {
+            "ENG": "LG, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓低層地下"
+          },
           "latlng": [
             22.418273808320016,
             114.20554965734482
@@ -3467,9 +4131,17 @@
           "name": {
             "ENG": "Women Cooperative Store",
             "ZHT": "女工合作社"
+          },
+          "opening_hours": {
+            "ENG": "Mon–Sat\r\n7:30 am–1:30 am (During Term Time)\r\n7:30 am–11:00 pm (Outside Term Time)",
+            "ZHT": "星期一至六\r\n上午7:30至凌晨1:30（教學日）\r\n上午7:30至下午11:00（非教學日）"
           }
         },
         {
+          "address": {
+            "ENG": "Next to Ho Tim Building",
+            "ZHT": "何添樓側"
+          },
           "latlng": [
             22.415536413797238,
             114.2076525092125
@@ -3477,9 +4149,17 @@
           "name": {
             "ENG": "Orchid Lodge",
             "ZHT": "蘭苑"
+          },
+          "opening_hours": {
+            "ENG": "http://www.cuhk.edu.hk/ccc/staffclub/public/benefits/benefits.htm",
+            "ZHT": "http://www.cuhk.edu.hk/ccc/staffclub/public/benefits/benefits.htm"
           }
         },
         {
+          "address": {
+            "ENG": "Chung Chi Tang",
+            "ZHT": "眾志堂"
+          },
           "latlng": [
             22.416610054130075,
             114.20970439910889
@@ -3487,9 +4167,17 @@
           "name": {
             "ENG": "Chung Chi College Student Canteen",
             "ZHT": "崇基學院學生膳堂"
+          },
+          "opening_hours": {
+            "ENG": "7:30 am–9:00 pm (Mon–Sun)",
+            "ZHT": "上午7:30至下午9:00（星期一至日）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Li Wai Chun Building",
+            "ZHT": "李慧珍樓地下"
+          },
           "latlng": [
             22.415008268971658,
             114.20708924531937
@@ -3497,9 +4185,17 @@
           "name": {
             "ENG": "Li Wai Chun Building Coffee Shop",
             "ZHT": "李慧珍樓咖啡室"
+          },
+          "opening_hours": {
+            "ENG": "8:00 am–8:00 pm (Mon–Fri)\r\n8:00 am–5:00 pm (Sat)",
+            "ZHT": "上午8:00至下午8:00（星期一至五）\r\n上午8:00至下午5:00（星期六）"
           }
         },
         {
+          "address": {
+            "ENG": "LG/F, Staff Student Centre - Leung Hung Kee Building",
+            "ZHT": "樂群館－梁雄姬樓地下低層"
+          },
           "latlng": [
             22.42087725848682,
             114.20913845300674
@@ -3507,9 +4203,17 @@
           "name": {
             "ENG": "New Asia College Student Canteen",
             "ZHT": "新亞書院學生餐廳"
+          },
+          "opening_hours": {
+            "ENG": "8:00 am–9:00 pm (Mon–Sat)\r\n11:00 am–9:00 pm (Sun)",
+            "ZHT": "上午8:00至下午9:00（星期一至六）\r\n上午11:00至下午9:00（星期日）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Cheung Chuk Shan Amenities Building",
+            "ZHT": "張祝珊師生康樂中心地下"
+          },
           "latlng": [
             22.421068176244894,
             114.20600831508636
@@ -3517,9 +4221,17 @@
           "name": {
             "ENG": "United College Student Canteen",
             "ZHT": "聯合書院學生膳堂"
+          },
+          "opening_hours": {
+            "ENG": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=en",
+            "ZHT": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=zh"
           }
         },
         {
+          "address": {
+            "ENG": "3/F, Cheng Yu Tung Building",
+            "ZHT": "鄭裕彤樓三樓"
+          },
           "latlng": [
             22.412238575202117,
             114.21060562133789
@@ -3527,9 +4239,17 @@
           "name": {
             "ENG": "The Stage",
             "ZHT": "The Stage"
+          },
+          "opening_hours": {
+            "ENG": "8:15 am–5:15 pm (Mon–Fri)",
+            "ZHT": "上午8:15至下午5:15（星期一至五）"
           }
         },
         {
+          "address": {
+            "ENG": "LG, T.C. Cheng Building",
+            "ZHT": "鄭棟材樓地庫"
+          },
           "latlng": [
             22.421383065999667,
             114.2044472694397
@@ -3537,9 +4257,17 @@
           "name": {
             "ENG": "United College Si Yuan Amenities Centre",
             "ZHT": "聯合書院思源館"
+          },
+          "opening_hours": {
+            "ENG": "<span><a href=\"http://www.uc.cuhk.edu.hk/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=41&amp;lang=en\" target=\"_blank\">Details</a></span>",
+            "ZHT": "<span><a href=\"http://www.uc.cuhk.edu.hk/index.php?option=com_content&amp;view=article&amp;id=69&amp;Itemid=41&amp;lang=zh\" target=\"_blank\">詳情</a></span>"
           }
         },
         {
+          "address": {
+            "ENG": "101A, 1/F, Yasumoto International Academic Park",
+            "ZHT": "康本國際學術園一樓101A"
+          },
           "latlng": [
             22.41635466237821,
             114.21083092689514
@@ -3547,9 +4275,17 @@
           "name": {
             "ENG": "Café 330",
             "ZHT": "Café 330"
+          },
+          "opening_hours": {
+            "ENG": "8:00 am–8:00 pm (Mon–Sat)",
+            "ZHT": "上午8:00至下午8:00（星期一至六）"
           }
         },
         {
+          "address": {
+            "ENG": "LG2, Lee Woo Sing College",
+            "ZHT": "和聲書院低層二樓"
+          },
           "latlng": [
             22.422196321275372,
             114.2042326927185
@@ -3557,9 +4293,17 @@
           "name": {
             "ENG": "Lee Woo Sing College - WS Pavilion",
             "ZHT": "和聲書院WS Pavilion"
+          },
+          "opening_hours": {
+            "ENG": "http://www.ws.cuhk.edu.hk/campus-and-hostel/catering?lang=en",
+            "ZHT": "http://www.ws.cuhk.edu.hk/campus-and-hostel/catering?lang=zh"
           }
         },
         {
+          "address": {
+            "ENG": "LG, Lee Shau Kee Building",
+            "ZHT": "李兆基樓低層地下"
+          },
           "latlng": [
             22.419637526399082,
             114.2038893699646
@@ -3567,9 +4311,17 @@
           "name": {
             "ENG": "Lee Shau Kee Building Coffee Shop",
             "ZHT": "李兆基樓咖啡室"
+          },
+          "opening_hours": {
+            "ENG": "8:00 am–5:00 pm (Mon–Fri)",
+            "ZHT": "上午8:00至下午5:00（星期一至五）"
           }
         },
         {
+          "address": {
+            "ENG": "LG2, Lee Woo Sing College",
+            "ZHT": "和聲書院低層二樓"
+          },
           "latlng": [
             22.422216156710395,
             114.20412540435791
@@ -3577,9 +4329,17 @@
           "name": {
             "ENG": "Lee Woo Sing College - The Harmony",
             "ZHT": "和聲滬軒"
+          },
+          "opening_hours": {
+            "ENG": "http://www.ws.cuhk.edu.hk/campus-and-hostel/catering?lang=en",
+            "ZHT": "http://www.ws.cuhk.edu.hk/campus-and-hostel/catering?lang=zh"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Lee Woo Sing College (besides Courtyard)",
+            "ZHT": "和聲書院地下（綠化庭園側）"
+          },
           "latlng": [
             22.42215665039681,
             114.20406103134155
@@ -3587,9 +4347,17 @@
           "name": {
             "ENG": "Lee Woo Sing College - Cafe Tolo",
             "ZHT": "和聲書院Cafe Tolo"
+          },
+          "opening_hours": {
+            "ENG": "http://www.ws.cuhk.edu.hk/campus-and-hostel/catering?lang=en",
+            "ZHT": "http://www.ws.cuhk.edu.hk/campus-and-hostel/catering?lang=zh"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, C.W. Chu College",
+            "ZHT": "敬文書院地下"
+          },
           "latlng": [
             22.425003007165333,
             114.2062497138977
@@ -3597,9 +4365,17 @@
           "name": {
             "ENG": "Canteen of C.W. Chu College",
             "ZHT": "敬文書院餐廳"
+          },
+          "opening_hours": {
+            "ENG": "8:00 am–9:00 pm (Mon–Fri)\r\n9:00 am–9:00 am (Sat)",
+            "ZHT": "上午8:00至下午9:00（星期一至五）\r\n上午9:00至下午9:00（星期六）"
           }
         },
         {
+          "address": {
+            "ENG": "Room G05, Li Wai Chun Building",
+            "ZHT": "李慧珍樓地下G05室"
+          },
           "latlng": [
             22.414889250142163,
             114.20719653367996
@@ -3607,9 +4383,17 @@
           "name": {
             "ENG": "Ebeneezer's Kebabs & Pizzeria",
             "ZHT": "清真快餐店"
+          },
+          "opening_hours": {
+            "ENG": "10:00 am–8:00 pm (Mon–Sat)",
+            "ZHT": "上午10:00至下午8:00（星期一至六）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Kuo Mou Hall",
+            "ZHT": "國楙樓地下"
+          },
           "latlng": [
             22.422459140559532,
             114.20081824064255
@@ -3617,9 +4401,17 @@
           "name": {
             "ENG": "SeeYou@Shaw (with Café)",
             "ZHT": "逸夫書院餐廳（附設咖啡閣）"
+          },
+          "opening_hours": {
+            "ENG": "http://www.shaw.cuhk.edu.hk/images/stories/pub/canteens.pdf",
+            "ZHT": "http://www.shaw.cuhk.edu.hk/images/stories/pub/canteens.pdf"
           }
         },
         {
+          "address": {
+            "ENG": "LG14, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓LG14"
+          },
           "latlng": [
             22.418323398302967,
             114.20497566461563
@@ -3627,9 +4419,17 @@
           "name": {
             "ENG": "Benjamin Franklin Centre Vegetarian Food Shop",
             "ZHT": "范克廉樓素食餐廳"
+          },
+          "opening_hours": {
+            "ENG": "8:00 am–9:00 pm (Mon–Sat)",
+            "ZHT": "上午8:00至下午9:00（星期一至六）"
           }
         },
         {
+          "address": {
+            "ENG": "LG2, Lee Woo Sing College",
+            "ZHT": "和聲書院低層二樓"
+          },
           "latlng": [
             22.422226074426842,
             114.20395374298096
@@ -3637,9 +4437,17 @@
           "name": {
             "ENG": "Lee Woo Sing College - The Green",
             "ZHT": "和聲書院綠茵廊"
+          },
+          "opening_hours": {
+            "ENG": "http://www.ws.cuhk.edu.hk/campus-and-hostel/catering?lang=en",
+            "ZHT": "http://www.ws.cuhk.edu.hk/campus-and-hostel/catering?lang=zh"
           }
         },
         {
+          "address": {
+            "ENG": "Room G06, West Block, Wu Yee Sun College",
+            "ZHT": "伍宜孫書院西座地下G06室"
+          },
           "latlng": [
             22.422136814953337,
             114.20241951942444
@@ -3647,9 +4455,17 @@
           "name": {
             "ENG": "Wu Yee Sun College Staff Dining Room",
             "ZHT": "伍宜孫書院教職員飯堂"
+          },
+          "opening_hours": {
+            "ENG": "http://www.wys.cuhk.edu.hk/campus.php",
+            "ZHT": "http://www.wys.cuhk.edu.hk/campus.php"
           }
         },
         {
+          "address": {
+            "ENG": "LG/F, West Block, Wu Yee Sun College",
+            "ZHT": "伍宜孫書院西座地面下層"
+          },
           "latlng": [
             22.42203267882843,
             114.20269846916199
@@ -3657,6 +4473,10 @@
           "name": {
             "ENG": "Wu Yee Sun College Student Canteen",
             "ZHT": "伍宜孫書院學生飯堂"
+          },
+          "opening_hours": {
+            "ENG": "http://www.wys.cuhk.edu.hk/campus.php",
+            "ZHT": "http://www.wys.cuhk.edu.hk/campus.php"
           }
         }
       ],
@@ -3668,12 +4488,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "LG, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓低層地下"
+          },
           "latlng": [
             22.4182812468186,
             114.205402135849
@@ -3681,9 +4503,17 @@
           "name": {
             "ENG": "Local",
             "ZHT": "本地"
+          },
+          "opening_hours": {
+            "ENG": "9:15 am - 5:45 pm (Mon–Fri)",
+            "ZHT": "上午9:15至下午5:45（星期一至五）"
           }
         },
         {
+          "address": {
+            "ENG": "B1, University Administration Building",
+            "ZHT": "大學行政樓低層地下"
+          },
           "latlng": [
             22.418933353644878,
             114.20528411865234
@@ -3691,6 +4521,10 @@
           "name": {
             "ENG": "Mainland and Overseas (At a charge)",
             "ZHT": "國內或海外（收費服務）"
+          },
+          "opening_hours": {
+            "ENG": "8:45 am–5:30 pm (Mon–Thur)\r\n8:45 am–5:45 pm (Fri)",
+            "ZHT": "上午8:45至下午5:30（星期一至四）\r\n上午8:45至下午5:45（星期五）"
           }
         }
       ],
@@ -3702,12 +4536,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "G/F, John Fulton Centre",
+            "ZHT": "富爾敦樓地下"
+          },
           "latlng": [
             22.418363070276577,
             114.20474231243134
@@ -3715,6 +4551,10 @@
           "name": {
             "ENG": "COMER Hair Salon",
             "ZHT": "COMER Hair Salon"
+          },
+          "opening_hours": {
+            "ENG": "10:00 am–8:00 pm (Mon–Sat)",
+            "ZHT": "上午10:00至下午8:00（星期一至六）"
           }
         }
       ],
@@ -3726,12 +4566,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "G/F, John Fulton Centre",
+            "ZHT": "富爾敦樓地下"
+          },
           "latlng": [
             22.418350672786048,
             114.20460283756256
@@ -3739,9 +4581,17 @@
           "name": {
             "ENG": "Mail Room",
             "ZHT": "收發室"
+          },
+          "opening_hours": {
+            "ENG": "8:45 am - 5:30 pm (Mon - Thur)\r\n8:45 am - 5:45 pm (Fri)",
+            "ZHT": "上午8:45至下午5:30（星期一至四）\r\n上午8:45至下午5:45（星期五）"
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": null,
           "name": {
             "ENG": "Surface/Air Parcels or Speedpost",
@@ -3749,6 +4599,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "G/F, John Fulton Centre",
+            "ZHT": "富爾敦樓地下"
+          },
           "latlng": [
             22.418350672786048,
             114.20460283756256
@@ -3759,6 +4613,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "Chung Chi College Bus Stop (Tai Po Road)",
+            "ZHT": "崇基學院巴士站（大埔道）"
+          },
           "latlng": [
             22.41342878161875,
             114.20817017555237
@@ -3769,6 +4627,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "MTR University Station (near bus terminal)",
+            "ZHT": "港鐵大學站外（近巴士總站）"
+          },
           "latlng": [
             22.413369271540105,
             114.21032667160034
@@ -3787,12 +4649,14 @@
     {
       "category": {
         "ENG": "Libraries / Museum & Galleries / Cultural Facilities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "圖書館／博物館及展覽館／文化設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.419498675716074,
             114.20491129159927
@@ -3800,9 +4664,17 @@
           "name": {
             "ENG": "University Library",
             "ZHT": "大學圖書館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.lib.cuhk.edu.hk/en/use/hours",
+            "ZHT": "http://www.lib.cuhk.edu.hk/tc/use/hours"
           }
         },
         {
+          "address": {
+            "ENG": "Chung Chi College",
+            "ZHT": "崇基學院"
+          },
           "latlng": [
             22.41653566823139,
             114.20866370201111
@@ -3810,9 +4682,17 @@
           "name": {
             "ENG": "Chung Chi College Elisabeth Luce Moore Library",
             "ZHT": "崇基學院牟路思怡圖書館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.lib.cuhk.edu.hk/en/use/hours",
+            "ZHT": "http://www.lib.cuhk.edu.hk/tc/use/hours"
           }
         },
         {
+          "address": {
+            "ENG": "New Asia College",
+            "ZHT": "新亞書院"
+          },
           "latlng": [
             22.42143017542914,
             114.20852690935135
@@ -3820,9 +4700,17 @@
           "name": {
             "ENG": "New Asia College Ch'ien Mu Library",
             "ZHT": "新亞書院錢穆圖書館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.lib.cuhk.edu.hk/en/use/hours",
+            "ZHT": "http://www.lib.cuhk.edu.hk/tc/use/hours"
           }
         },
         {
+          "address": {
+            "ENG": "United College",
+            "ZHT": "聯合書院"
+          },
           "latlng": [
             22.42090453246833,
             114.20480400323868
@@ -3830,9 +4718,17 @@
           "name": {
             "ENG": "United College Wu Chung Multimedia Library",
             "ZHT": "聯合書院胡忠多媒體圖書館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.lib.cuhk.edu.hk/en/use/hours",
+            "ZHT": "http://www.lib.cuhk.edu.hk/tc/use/hours"
           }
         },
         {
+          "address": {
+            "ENG": "3/F and 4/F, An Integrated Teaching Building (AITB)",
+            "ZHT": "綜合教學大樓三樓及四樓"
+          },
           "latlng": [
             22.41624556284591,
             114.2116329073906
@@ -3840,9 +4736,17 @@
           "name": {
             "ENG": "Architecture Library",
             "ZHT": "建築學圖書館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.lib.cuhk.edu.hk/en/use/hours",
+            "ZHT": "http://www.lib.cuhk.edu.hk/tc/use/hours"
           }
         },
         {
+          "address": {
+            "ENG": "Housed in the University Library on 3/F and 4/F of the Tin Ka Ping Building",
+            "ZHT": "大學圖書館田家炳樓三樓及四樓"
+          },
           "latlng": [
             22.419483798848937,
             114.2045545578003
@@ -3850,9 +4754,17 @@
           "name": {
             "ENG": "Lee Quo Wei Law Library",
             "ZHT": "利國偉法律圖書館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.lib.cuhk.edu.hk/en/use/hours",
+            "ZHT": "http://www.lib.cuhk.edu.hk/tc/use/hours"
           }
         },
         {
+          "address": {
+            "ENG": "8/F, Tin Ka Ping Building",
+            "ZHT": "田家炳樓八樓"
+          },
           "latlng": [
             22.419483798848937,
             114.20461893081665
@@ -3860,9 +4772,17 @@
           "name": {
             "ENG": "Universities Service Centre for China Studies",
             "ZHT": "中國研究服務中心"
+          },
+          "opening_hours": {
+            "ENG": "http://www.usc.cuhk.edu.hk/Eng/OpeningHours.aspx",
+            "ZHT": "http://www.usc.cuhk.edu.hk/Chs/OpeningHours.aspx"
           }
         },
         {
+          "address": {
+            "ENG": "2/F, Clinical Sciences Building, Prince of Wales Hospital, Shatin",
+            "ZHT": "沙田威爾斯親王醫院臨床醫學大樓二樓"
+          },
           "latlng": [
             22.379129394962067,
             114.20096576213837
@@ -3870,9 +4790,17 @@
           "name": {
             "ENG": "Li Ping Medical Library",
             "ZHT": "李炳醫學圖書館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.lib.cuhk.edu.hk/en/use/hours",
+            "ZHT": "http://www.lib.cuhk.edu.hk/tc/use/hours"
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": null,
           "name": {
             "ENG": "The Chinese University of Hong Kong Library",
@@ -3888,12 +4816,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Clinic Road",
+            "ZHT": "保健路"
+          },
           "latlng": [
             22.419297837875376,
             114.21027302742004
@@ -3901,9 +4831,17 @@
           "name": {
             "ENG": "University Health Service (Medical Service)",
             "ZHT": "大學保健處－診所"
+          },
+          "opening_hours": {
+            "ENG": "https://www.uhs.cuhk.edu.hk/Internet-Booking/Login",
+            "ZHT": "https://www.uhs.cuhk.edu.hk/Internet-Booking/Login"
           }
         },
         {
+          "address": {
+            "ENG": "Clinic Road",
+            "ZHT": "保健路"
+          },
           "latlng": [
             22.419307755800258,
             114.21015232801437
@@ -3911,9 +4849,17 @@
           "name": {
             "ENG": "University Health Service (Dental Service)",
             "ZHT": "大學保健處－牙醫"
+          },
+          "opening_hours": {
+            "ENG": "http://www.cuhk.edu.hk/uhs/",
+            "ZHT": "http://www.cuhk.edu.hk/uhs/"
           }
         },
         {
+          "address": {
+            "ENG": "1/F, Sino Building",
+            "ZHT": "信和樓一樓"
+          },
           "latlng": [
             22.415630636606675,
             114.20707583427429
@@ -3921,6 +4867,10 @@
           "name": {
             "ENG": "Chinese Medicine Specialty Clinic cum Clinical Teaching and Research Centre",
             "ZHT": "中醫專科診所暨臨床教硏中心"
+          },
+          "opening_hours": {
+            "ENG": "http://www.scm.cuhk.edu.hk/en-GB/clinic/information",
+            "ZHT": "http://www.scm.cuhk.edu.hk/zh-TW/clinic/information"
           }
         }
       ],
@@ -3932,12 +4882,14 @@
     {
       "category": {
         "ENG": "Meeting & Activity Venues / Classrooms & Lectures Theatres",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "會議及活動場地／課室及講堂"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "G/F, University Administration Building",
+            "ZHT": "行政樓地下"
+          },
           "latlng": [
             22.419054848494667,
             114.2049515247345
@@ -3945,6 +4897,10 @@
           "name": {
             "ENG": "Cho Yiu Conference Hall",
             "ZHT": "祖堯堂"
+          },
+          "opening_hours": {
+            "ENG": "<a href=\"http://www.cuhk.edu.hk/itsc/network/app/videoconference/cyh-form.pdf\" target=\"_blank\">Details</a><p><strong>Not open to public</strong></p>",
+            "ZHT": "<a href=\"http://www.cuhk.edu.hk/itsc/network/app/videoconference/cyh-form.pdf\" target=\"_blank\">詳情</a><p><strong>只供校內人士使用</strong></p>"
           }
         }
       ],
@@ -3956,12 +4912,14 @@
     {
       "category": {
         "ENG": "Libraries / Museum & Galleries / Cultural Facilities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "圖書館／博物館及展覽館／文化設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.419312714762434,
             114.20580446720123
@@ -3969,9 +4927,17 @@
           "name": {
             "ENG": "Art Museum",
             "ZHT": "文物館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.cuhk.edu.hk/ics/amm/",
+            "ZHT": "http://www.cuhk.edu.hk/ics/amm/index_c.htm"
           }
         },
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.419982173030174,
             114.20713484287262
@@ -3979,9 +4945,17 @@
           "name": {
             "ENG": "Foyer Gallery, Sir Run Run Shaw Hall",
             "ZHT": "邵逸夫堂留足展覽廳"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Chung Chi College Administration Building",
+            "ZHT": "崇基學院行政樓地下"
+          },
           "latlng": [
             22.41454707043931,
             114.20808970928192
@@ -3989,9 +4963,17 @@
           "name": {
             "ENG": "Chung Chi Administration Building Lobbies",
             "ZHT": "崇基行政樓大堂"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "2/F, Elizabeth Luce Moore Library",
+            "ZHT": "牟路思怡圖書館三樓"
+          },
           "latlng": [
             22.416468720888528,
             114.20870661735535
@@ -3999,9 +4981,17 @@
           "name": {
             "ENG": "Chung Chi College Archive",
             "ZHT": "崇基學院校史檔案館"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "G/F and 1/F lobbies, Esther Lee Building",
+            "ZHT": "利黃瑤璧樓地下及一樓大堂"
+          },
           "latlng": [
             22.413959412026276,
             114.20856177806854
@@ -4009,9 +4999,17 @@
           "name": {
             "ENG": "Esther Lee Building Lobbies",
             "ZHT": "利黃瑤璧樓大堂"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Cheng Ming Building",
+            "ZHT": "誠明館地下"
+          },
           "latlng": [
             22.421303723766545,
             114.20811116695404
@@ -4019,9 +5017,17 @@
           "name": {
             "ENG": "Hui Gallery",
             "ZHT": "許氏文化館"
+          },
+          "opening_hours": {
+            "ENG": "Subject to exhibition arrangements.",
+            "ZHT": "視乎展覽安排"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, T.C. Cheng Building",
+            "ZHT": "鄭棟材樓地下"
+          },
           "latlng": [
             22.421244217061954,
             114.20468330383301
@@ -4029,9 +5035,17 @@
           "name": {
             "ENG": "Shum Choi Sang United College Archives",
             "ZHT": "岑才生聯合書院校史文物館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=en",
+            "ZHT": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=zh"
           }
         },
         {
+          "address": {
+            "ENG": "2/F, Shaw College Lecture Theatre",
+            "ZHT": "逸夫書院大講堂二樓"
+          },
           "latlng": [
             22.42239963435008,
             114.2017114162445
@@ -4039,9 +5053,17 @@
           "name": {
             "ENG": "Yueh Chiao Art Gallery",
             "ZHT": "越喬藝廊"
+          },
+          "opening_hours": {
+            "ENG": "Subject to exhibition arrangements.",
+            "ZHT": "視乎展覽安排"
           }
         },
         {
+          "address": {
+            "ENG": "University Library Main Entrance",
+            "ZHT": "大學圖書館正門入口"
+          },
           "latlng": [
             22.419439168238075,
             114.20505881309509
@@ -4049,9 +5071,17 @@
           "name": {
             "ENG": "University Gallery",
             "ZHT": "大學展覽廳"
+          },
+          "opening_hours": {
+            "ENG": "10:00 am–5:00 pm (Mon, Tue, Thu, Fri & Sat)\r\n(Closed on Wed, Sun & Public Holidays)",
+            "ZHT": "上午10:00至下午5:00（星期一、二、四、五、六）\r\n（星期三、日及公眾假期休館）"
           }
         },
         {
+          "address": {
+            "ENG": "G/F, Cheng Ming Building",
+            "ZHT": "誠明館地下"
+          },
           "latlng": [
             22.421303723766698,
             114.20815944671631
@@ -4059,9 +5089,17 @@
           "name": {
             "ENG": "New Asia History Gallery",
             "ZHT": "新亞校史館"
+          },
+          "opening_hours": {
+            "ENG": "9:30 am–4:30 pm (Mon–Fri)\r\n9:30 am–12:00 pm (Sat)",
+            "ZHT": "上午9:30至下午4:30（星期一至五）\r\n上午9:30至下午12:00（星期六）"
           }
         },
         {
+          "address": {
+            "ENG": "8/F, Yasumoto International Academic Park",
+            "ZHT": "康本國際學術園八樓"
+          },
           "latlng": [
             22.41634474424252,
             114.21086311340332
@@ -4069,9 +5107,17 @@
           "name": {
             "ENG": "Jockey Club Museum of Climate Change",
             "ZHT": "賽馬會氣候變化博物館"
+          },
+          "opening_hours": {
+            "ENG": "http://www.gaia.cuhk.edu.hk/index.php/en/mocc",
+            "ZHT": "http://www.gaia.cuhk.edu.hk/mocc"
           }
         },
         {
+          "address": {
+            "ENG": "Room E104, Science Centre",
+            "ZHT": "科學館E104室"
+          },
           "latlng": [
             22.419280481505147,
             114.2084276676178
@@ -4079,9 +5125,17 @@
           "name": {
             "ENG": "The Shiu-Ying Hu Herbarium",
             "ZHT": "胡秀英植物標本館"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         },
         {
+          "address": {
+            "ENG": "Exhibition Gallery, G/F, Chan Chun Ha Hall, S.H. Ho College",
+            "ZHT": "善衡書院陳震夏館地下展覽廊"
+          },
           "latlng": [
             22.41810024324035,
             114.21014428138733
@@ -4089,6 +5143,10 @@
           "name": {
             "ENG": "S.H. Ho College Exhibition Gallery",
             "ZHT": "善衡書院展覽廊"
+          },
+          "opening_hours": {
+            "ENG": "7:30 am–9:30 pm (Mon - Fri)\r\n(Closed on Sat, Sun & Public Holidays)",
+            "ZHT": "上午7:30至下午9:30（星期一至五）\r\n（星期六、日及公眾假期休館）"
           }
         }
       ],
@@ -4100,12 +5158,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "LG, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓低層地下"
+          },
           "latlng": [
             22.4182812468186,
             114.205402135849
@@ -4113,6 +5173,10 @@
           "name": {
             "ENG": "Benjamin Franklin Centre Printing Service Office",
             "ZHT": "學生會影印服務中心"
+          },
+          "opening_hours": {
+            "ENG": "9:15 am–5:45 pm (Mon–Fri)",
+            "ZHT": "上午9:15至下午5:45（星期一至五）"
           }
         }
       ],
@@ -4124,12 +5188,14 @@
     {
       "category": {
         "ENG": "Transport",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "交通"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.412917985947335,
             114.21080678701401
@@ -4140,6 +5206,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418335795795937,
             114.20160412788391
@@ -4150,6 +5220,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41768120665376,
             114.20368820428848
@@ -4160,6 +5234,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413391587822588,
             114.20783221721649
@@ -4170,6 +5248,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413299843082793,
             114.20825600624084
@@ -4180,6 +5262,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422474017107913,
             114.21389937400818
@@ -4190,6 +5276,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422404593201836,
             114.21414613723755
@@ -4200,6 +5290,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41872507651224,
             114.21394228935242
@@ -4210,6 +5304,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41927056357833,
             114.21438217163086
@@ -4228,12 +5326,14 @@
     {
       "category": {
         "ENG": "Transport",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "交通"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413081639133914,
             114.21090066432953
@@ -4244,6 +5344,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418129997269357,
             114.20188844203949
@@ -4254,6 +5358,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417782866533496,
             114.20344948768616
@@ -4264,6 +5372,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41320065951216,
             114.20799314975739
@@ -4274,6 +5386,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41339654699599,
             114.2082130908966
@@ -4284,6 +5400,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422407072627653,
             114.21395033597946
@@ -4294,6 +5414,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422461619984368,
             114.21414613723755
@@ -4304,6 +5428,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418645732760517,
             114.21392351388931
@@ -4314,6 +5442,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418499442599423,
             114.21419709920883
@@ -4332,12 +5464,14 @@
     {
       "category": {
         "ENG": "Transport",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "交通"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413421342860318,
             114.21019524335861
@@ -4348,6 +5482,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.415471945522366,
             114.2109489440918
@@ -4366,12 +5504,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "G/F, John Fulton Centre",
+            "ZHT": "富爾敦樓地下"
+          },
           "latlng": [
             22.418335795795937,
             114.20460283756256
@@ -4379,6 +5519,10 @@
           "name": {
             "ENG": "Souvenir Counter",
             "ZHT": "紀念品銷售處"
+          },
+          "opening_hours": {
+            "ENG": "http://www.cuhk.edu.hk/bursary/eng/public/purchase_guides/souvenir_counter.html",
+            "ZHT": "http://www.cuhk.edu.hk/bursary/eng/public/purchase_guides/souvenir_counter.html"
           }
         }
       ],
@@ -4390,12 +5534,14 @@
     {
       "category": {
         "ENG": "Sports Facilities & Amenities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "康體設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Next to Sir Philip Haddon-Cave Sports Field",
+            "ZHT": "夏鼎基運動場側"
+          },
           "latlng": [
             22.418529196542977,
             114.21105086803436
@@ -4404,9 +5550,17 @@
             "ENG": "University Gymnasium",
             "ZHT": "中大體育館"
           },
+          "opening_hours": {
+            "ENG": "http://www.peu.cuhk.edu.hk/en-gb/facilities/opening-hours",
+            "ZHT": "http://www.peu.cuhk.edu.hk/zh-tw/facilities/opening-hours"
+          },
           "short_name": "UG"
         },
         {
+          "address": {
+            "ENG": "2/F, Staff Student Centre - Leung Hung Kee Building",
+            "ZHT": "樂群館－梁雄姬樓二樓"
+          },
           "latlng": [
             22.420931806444482,
             114.20935571193695
@@ -4415,9 +5569,17 @@
             "ENG": "New Asia College Gymnasium",
             "ZHT": "新亞體育館"
           },
+          "opening_hours": {
+            "ENG": "http://www.peu.cuhk.edu.hk/en-gb/facilities/opening-hours",
+            "ZHT": "http://www.peu.cuhk.edu.hk/zh-tw/facilities/opening-hours"
+          },
           "short_name": "NAG"
         },
         {
+          "address": {
+            "ENG": "1/F, Cheung Chuk Shan Amenities Building",
+            "ZHT": "張祝珊師生康樂中心一樓"
+          },
           "latlng": [
             22.420991313282947,
             114.20607268810272
@@ -4426,9 +5588,17 @@
             "ENG": "Thomas HC Cheung Gymnasium",
             "ZHT": "張煊昌體育館"
           },
+          "opening_hours": {
+            "ENG": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=en",
+            "ZHT": "http://www.uc.cuhk.edu.hk/index.php?option=com_content&view=article&id=69&Itemid=41&lang=zh"
+          },
           "short_name": "UCG"
         },
         {
+          "address": {
+            "ENG": "LG2, Kuo Mou Hall",
+            "ZHT": "國楙樓低層地下"
+          },
           "latlng": [
             22.422627741347828,
             114.20118033885956
@@ -4436,16 +5606,32 @@
           "name": {
             "ENG": "Shaw College PE Unit",
             "ZHT": "逸夫體育部"
+          },
+          "opening_hours": {
+            "ENG": "http://www.shaw.cuhk.edu.hk/index.php?option=com_content&view=article&id=81&Itemid=139&lang=en",
+            "ZHT": "http://www.shaw.cuhk.edu.hk/index.php?option=com_content&view=article&id=81&Itemid=139&lang=zh-TW"
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": null,
           "name": {
             "ENG": "Stadiums, Gymnasia, Weight Training Room, Tennis and Squash Courts",
             "ZHT": "運動場、體育館、健身室、網球場及\r\n壁球室"
+          },
+          "opening_hours": {
+            "ENG": "http://www.peu.cuhk.edu.hk/en-gb/facilities/opening-hours",
+            "ZHT": "http://www.peu.cuhk.edu.hk/zh-tw/facilities/opening-hours"
           }
         },
         {
+          "address": {
+            "ENG": "LG101, North Block, Lee Woo Sing College",
+            "ZHT": "和聲書院北座低層101室"
+          },
           "latlng": [
             22.422602947127174,
             114.2044472694397
@@ -4453,6 +5639,10 @@
           "name": {
             "ENG": "Lee Woo Sing College Fitness Room",
             "ZHT": "和聲書院健身室"
+          },
+          "opening_hours": {
+            "ENG": "http://www.ws.cuhk.edu.hk/campus-and-hostel/facilities/fitness?lang=zh",
+            "ZHT": "http://www.ws.cuhk.edu.hk/campus-and-hostel/facilities/fitness?lang=zh"
           }
         }
       ],
@@ -4464,12 +5654,14 @@
     {
       "category": {
         "ENG": "Sports Facilities & Amenities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "康體設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Opposite the University Station",
+            "ZHT": "港鐵大學站對面"
+          },
           "latlng": [
             22.414911566180457,
             114.20936644077301
@@ -4477,9 +5669,17 @@
           "name": {
             "ENG": "Lingnan Stadium and Chung Chi College PE Unit",
             "ZHT": "嶺南運動場及崇基體育部"
+          },
+          "opening_hours": {
+            "ENG": "http://www.peu.cuhk.edu.hk/en-gb/facilities/opening-hours",
+            "ZHT": "http://www.peu.cuhk.edu.hk/zh-tw/facilities/opening-hours"
           }
         },
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.418789543277146,
             114.21193063259125
@@ -4487,6 +5687,10 @@
           "name": {
             "ENG": "Sir Philip Haddon-Cave Sports Field",
             "ZHT": "夏鼎基運動場"
+          },
+          "opening_hours": {
+            "ENG": "http://www.peu.cuhk.edu.hk/en-gb/facilities/opening-hours",
+            "ZHT": "http://www.peu.cuhk.edu.hk/zh-tw/facilities/opening-hours"
           },
           "short_name": "HCF"
         }
@@ -4499,12 +5703,14 @@
     {
       "category": {
         "ENG": "Sports Facilities & Amenities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "康體設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Next to Benjamin Franklin Centre",
+            "ZHT": "范克廉樓側"
+          },
           "latlng": [
             22.417996104088314,
             114.20539677143097
@@ -4512,6 +5718,10 @@
           "name": {
             "ENG": "Swimming pool",
             "ZHT": "游泳池"
+          },
+          "opening_hours": {
+            "ENG": "http://www.cuhk.edu.hk/osa/stu_ame.htm",
+            "ZHT": "http://www.cuhk.edu.hk/osa/stu_ame.htm"
           },
           "short_name": "SP"
         }
@@ -4524,12 +5734,14 @@
     {
       "category": {
         "ENG": "Sports Facilities & Amenities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "康體設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.418863927968697,
             114.21268701553345
@@ -4540,6 +5752,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.418060571191596,
             114.21077728271484
@@ -4551,6 +5767,10 @@
           "short_name": "TC"
         },
         {
+          "address": {
+            "ENG": "New Asia College",
+            "ZHT": "新亞書院"
+          },
           "latlng": [
             22.420331777731725,
             114.20873880386353
@@ -4561,6 +5781,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "United College",
+            "ZHT": "聯合書院"
+          },
           "latlng": [
             22.420173092018818,
             114.20336365699768
@@ -4571,6 +5795,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42421952105275,
             114.20594930648804
@@ -4581,6 +5809,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42521127488178,
             114.20633554458618
@@ -4591,6 +5823,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423892240734542,
             114.20939326286316
@@ -4601,6 +5837,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41664228800712,
             114.20258045196533
@@ -4619,12 +5859,14 @@
     {
       "category": {
         "ENG": "Sports Facilities & Amenities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "康體設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Eastern Campus",
+            "ZHT": "校園東區"
+          },
           "latlng": [
             22.41850688108591,
             114.2143365740776
@@ -4632,6 +5874,10 @@
           "name": {
             "ENG": "Water Sports Centre",
             "ZHT": "水上活動中心"
+          },
+          "opening_hours": {
+            "ENG": "https://www.peu.cuhk.edu.hk/en-gb/facilities/water-sports-centre/wsc-info/wsc-opening-hour",
+            "ZHT": "https://www.peu.cuhk.edu.hk/zh-tw/facilities/water-sports-centre/wsc-info/wsc-opening-hour"
           }
         }
       ],
@@ -4643,12 +5889,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "LG, John Fulton Centre",
+            "ZHT": "富爾敦樓低層地下"
+          },
           "latlng": [
             22.418137435775627,
             114.20453578233719
@@ -4656,6 +5904,10 @@
           "name": {
             "ENG": "Fusion Supermarket",
             "ZHT": "Fusion 超級市場"
+          },
+          "opening_hours": {
+            "ENG": "8:30 am–10:00 pm (Mon–Fri)\r\n8:30 am–9:00 pm (Sat, Sun and public holidays)",
+            "ZHT": "上午8:30至下午10:00（星期一至五）\r\n上午8:30至下午9:00（星期六、日及公眾假期）"
           }
         }
       ],
@@ -4668,6 +5920,10 @@
       "category": null,
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": null,
           "name": {
             "ENG": "CUHK SIR",
@@ -4675,6 +5931,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": null,
           "name": {
             "ENG": "Easy Search",
@@ -4682,6 +5942,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": null,
           "name": {
             "ENG": "FindIt@CUHK",
@@ -4698,6 +5962,10 @@
       "category": null,
       "locations": [
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.419493716760538,
             114.2052412033081
@@ -4705,9 +5973,17 @@
           "name": {
             "ENG": "The Beacon",
             "ZHT": "大學廣場"
+          },
+          "opening_hours": {
+            "ENG": "https://fbsweb.itsc.cuhk.edu.hk/frs/osalogin.aspx",
+            "ZHT": "https://fbsweb.itsc.cuhk.edu.hk/frs/osalogin.aspx"
           }
         },
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.41854407351236,
             114.20559257268906
@@ -4718,6 +5994,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "Central Campus",
+            "ZHT": "中央校園"
+          },
           "latlng": [
             22.4194565245884,
             114.20635163784027
@@ -4725,9 +6005,17 @@
           "name": {
             "ENG": "University Mall",
             "ZHT": "林蔭大道"
+          },
+          "opening_hours": {
+            "ENG": "https://fbsweb.itsc.cuhk.edu.hk/frs/osalogin.aspx",
+            "ZHT": "https://fbsweb.itsc.cuhk.edu.hk/frs/osalogin.aspx"
           }
         },
         {
+          "address": {
+            "ENG": "New Asia College",
+            "ZHT": "新亞書院"
+          },
           "latlng": [
             22.420983874929536,
             114.20820772647858
@@ -4735,6 +6023,10 @@
           "name": {
             "ENG": "New Asia Amphitheatre",
             "ZHT": "新亞書院圓形廣場"
+          },
+          "opening_hours": {
+            "ENG": "Please enquire at unit in charge.",
+            "ZHT": "請向相關單位查詢"
           }
         }
       ],
@@ -4746,12 +6038,14 @@
     {
       "category": {
         "ENG": "Meeting & Activity Venues / Classrooms & Lectures Theatres",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "會議及活動場地／課室及講堂"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "Elisabeth Luce Moore Library",
+            "ZHT": "牟路思怡圖書館"
+          },
           "latlng": [
             22.41653566823139,
             114.20866370201111
@@ -4763,6 +6057,10 @@
           "short_name": "CK TSE"
         },
         {
+          "address": {
+            "ENG": "Sino Building",
+            "ZHT": "信和樓"
+          },
           "latlng": [
             22.415588484305086,
             114.20720994472504
@@ -4774,6 +6072,10 @@
           "short_name": "LKC"
         },
         {
+          "address": {
+            "ENG": "Y.C. Liang Hall",
+            "ZHT": "潤昌堂"
+          },
           "latlng": [
             22.420051598147317,
             114.20652061700821
@@ -4785,6 +6087,10 @@
           "short_name": "LPN LT"
         },
         {
+          "address": {
+            "ENG": "Fung King Hey Building",
+            "ZHT": "馮景禧樓"
+          },
           "latlng": [
             22.41952099101377,
             114.20321613550186
@@ -4796,6 +6102,10 @@
           "short_name": "SWH"
         },
         {
+          "address": {
+            "ENG": "Ho Sin-Hang Engineering Building",
+            "ZHT": "何善衡工程學大樓"
+          },
           "latlng": [
             22.417968829535603,
             114.20725554227829
@@ -4807,13 +6117,25 @@
           "short_name": "TYW LT"
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": null,
           "name": {
             "ENG": "Classrooms and Lecture Theatres",
             "ZHT": "課室及講堂"
+          },
+          "opening_hours": {
+            "ENG": "http://www.res.cuhk.edu.hk/en-gb/teaching-timetable-classroom-booking",
+            "ZHT": "http://www.res.cuhk.edu.hk/zh-tw/teaching-timetable-classroom-booking"
           }
         },
         {
+          "address": {
+            "ENG": "Choh-Ming Li Basic Medical Sciences Building",
+            "ZHT": "李卓敏基本醫學大樓"
+          },
           "latlng": [
             22.41926808409651,
             114.20899361371994
@@ -4833,12 +6155,14 @@
     {
       "category": {
         "ENG": "Sports Facilities & Amenities",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "康體設施"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420966518770015,
             114.2055094242096
@@ -4858,12 +6182,14 @@
     {
       "category": {
         "ENG": "Car Parks",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "停車場"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41525374498543,
             114.2114531993866
@@ -4874,6 +6200,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416612533659332,
             114.21208620071411
@@ -4884,6 +6214,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.427472447121723,
             114.2048978805542
@@ -4902,12 +6236,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422441784584407,
             114.20085579156876
@@ -4918,6 +6254,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42095164206014,
             114.2060136795044
@@ -4928,6 +6268,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421050820095918,
             114.2060136795044
@@ -4938,6 +6282,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420812792691052,
             114.20919209718704
@@ -4948,6 +6296,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41951355258162,
             114.20854568481445
@@ -4958,6 +6310,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41660757460075,
             114.20969098806381
@@ -4968,6 +6324,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418313480307816,
             114.2048978805542
@@ -4978,6 +6338,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41830356231194,
             114.20553088188171
@@ -4988,6 +6352,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41812255876268,
             114.21016305685043
@@ -4998,6 +6366,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418375467766,
             114.21106964349747
@@ -5008,6 +6380,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41850440159045,
             114.21071022748947
@@ -5018,6 +6394,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416587738364644,
             114.20865297317505
@@ -5028,6 +6408,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41489172970215,
             114.2087173461914
@@ -5038,6 +6422,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41955818316864,
             114.20484155416489
@@ -5048,6 +6436,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41980365114098,
             114.20486837625504
@@ -5058,6 +6450,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419654882724693,
             114.20450091362
@@ -5068,6 +6464,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421450010973587,
             114.20859932899475
@@ -5078,6 +6478,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420978916027043,
             114.2092913389206
@@ -5088,6 +6492,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420959080415265,
             114.20481473207474
@@ -5098,6 +6506,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421241737615375,
             114.20467525720596
@@ -5108,6 +6520,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423232718961803,
             114.20172214508057
@@ -5118,6 +6534,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41953834735396,
             114.20345485210419
@@ -5128,6 +6548,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419144109949222,
             114.20873612165451
@@ -5138,6 +6562,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41972926695276,
             114.20672714710236
@@ -5148,6 +6576,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420106146429305,
             114.20644283294678
@@ -5158,6 +6590,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.414980993832238,
             114.20745134353638
@@ -5168,6 +6604,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.415434752273256,
             114.20716166496277
@@ -5178,6 +6618,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417450612016566,
             114.2064106464386
@@ -5188,6 +6632,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418013460619058,
             114.20721799135208
@@ -5198,6 +6646,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41813247677148,
             114.20787513256073
@@ -5208,6 +6660,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419749102740177,
             114.20351654291153
@@ -5218,6 +6674,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.412201381087286,
             114.21073168516159
@@ -5228,6 +6688,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421695475601894,
             114.20828551054001
@@ -5238,6 +6702,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.414093309098575,
             114.20840084552765
@@ -5248,6 +6716,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416322428434395,
             114.2109489440918
@@ -5258,6 +6730,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41658525883494,
             114.21148538589478
@@ -5268,6 +6744,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416297633087915,
             114.21171069145203
@@ -5278,6 +6758,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418663089210078,
             114.21241879463196
@@ -5288,6 +6772,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419816048494198,
             114.20922696590424
@@ -5298,6 +6786,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42235500467625,
             114.20274138450623
@@ -5308,6 +6800,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418278767319304,
             114.20521974563599
@@ -5318,6 +6814,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42199548733649,
             114.20270383358002
@@ -5328,6 +6828,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417039012035247,
             114.20862078666687
@@ -5338,6 +6842,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.425007965924184,
             114.20626044273376
@@ -5356,12 +6864,14 @@
     {
       "category": {
         "ENG": "Living Essentials",
-        "ZHT": [
-          "facilities_cate_xb5"
-        ]
+        "ZHT": "生活所需"
       },
       "locations": [
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41709852054153,
             114.20940399169922
@@ -5372,6 +6882,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41697330469665,
             114.20909956097603
@@ -5382,6 +6896,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41737498681025,
             114.2064817249775
@@ -5392,6 +6910,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418556470985514,
             114.21428561210632
@@ -5402,6 +6924,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422656254696193,
             114.21295657753944
@@ -5412,6 +6938,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419265604614782,
             114.2125716805458
@@ -5422,6 +6952,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420187968812254,
             114.21219080686569
@@ -5432,6 +6966,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418216779818852,
             114.21115547418594
@@ -5442,6 +6980,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418788303531958,
             114.21018585562706
@@ -5452,6 +6994,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419047410037965,
             114.21005174517632
@@ -5462,6 +7008,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418558950480183,
             114.20954614877701
@@ -5472,6 +7022,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41997349488805,
             114.2105533182621
@@ -5482,6 +7036,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420325579074536,
             114.21023681759834
@@ -5492,6 +7050,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419884233966684,
             114.2098505795002
@@ -5502,6 +7064,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.420453271359204,
             114.20923233032227
@@ -5512,6 +7078,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419512312842944,
             114.20798376202583
@@ -5522,6 +7092,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41820314256377,
             114.20726761221886
@@ -5532,6 +7106,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417409700024898,
             114.20739904046059
@@ -5542,6 +7120,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41810396249449,
             114.20716568827629
@@ -5552,6 +7134,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.418663089211183,
             114.20543968677521
@@ -5562,6 +7148,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41972926695387,
             114.2069149017334
@@ -5572,6 +7162,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419606532955115,
             114.20661315321922
@@ -5582,6 +7176,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419732986163154,
             114.20589968562126
@@ -5592,6 +7190,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419611491906632,
             114.20557513833046
@@ -5602,6 +7204,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419321392945843,
             114.20451298356056
@@ -5612,6 +7218,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41974290405716,
             114.20279636979103
@@ -5622,6 +7232,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421363230446072,
             114.21053990721703
@@ -5632,6 +7246,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42101114889009,
             114.20944154262543
@@ -5642,6 +7260,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421083052942294,
             114.20928597450256
@@ -5652,6 +7274,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421705393355552,
             114.20837938785553
@@ -5662,6 +7288,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421452490416453,
             114.20748621225357
@@ -5672,6 +7302,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421590099425764,
             114.20600697398186
@@ -5682,6 +7316,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.414431770567035,
             114.21027168631554
@@ -5692,6 +7330,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41409454888575,
             114.20814201235771
@@ -5702,6 +7344,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41532317246621,
             114.20704364776611
@@ -5712,6 +7358,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.415615759325252,
             114.21093821525574
@@ -5722,6 +7372,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416014965825255,
             114.21143710613251
@@ -5732,6 +7386,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416065796384512,
             114.21072229743004
@@ -5742,6 +7400,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416587738364687,
             114.209363758564
@@ -5752,6 +7414,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.416518311515865,
             114.21069145202637
@@ -5762,6 +7428,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.4175175588862,
             114.2107692360878
@@ -5772,6 +7442,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417351431409596,
             114.21043932437897
@@ -5782,6 +7456,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42056980596107,
             114.20476108789444
@@ -5792,6 +7470,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42052765515852,
             114.20416563749313
@@ -5802,6 +7484,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422912874568027,
             114.20480400323868
@@ -5812,6 +7498,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423532727374603,
             114.2053297162056
@@ -5822,6 +7512,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423590993396257,
             114.20814871788025
@@ -5832,6 +7526,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42429514253178,
             114.20818626880646
@@ -5842,6 +7540,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.424820772657217,
             114.20799314975739
@@ -5852,6 +7554,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42436456549258,
             114.20734941959381
@@ -5862,6 +7568,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423511652424732,
             114.2069149017334
@@ -5872,6 +7582,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.42403232672284,
             114.2071133852005
@@ -5882,6 +7596,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.424483576201787,
             114.20709729194641
@@ -5892,6 +7610,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.424399276959974,
             114.20474231243134
@@ -5902,6 +7624,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423856289440526,
             114.20479595661163
@@ -5912,6 +7638,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.423578596372433,
             114.20444190502167
@@ -5922,6 +7652,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.421445052087645,
             114.20278161764145
@@ -5932,6 +7666,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422425668319853,
             114.20114815235138
@@ -5942,6 +7680,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.422676090065778,
             114.2014043033123
@@ -5952,6 +7694,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.419570580552495,
             114.20811653137207
@@ -5962,6 +7708,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.413651944187745,
             114.2093476653099
@@ -5972,6 +7722,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41787336859689,
             114.20993184990948
@@ -5982,6 +7736,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41570328731603,
             114.20805859490429
@@ -5992,6 +7750,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.415647745501328,
             114.20751356983601
@@ -6002,6 +7764,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.4185304362671,
             114.20653724579552
@@ -6012,6 +7778,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41802461834538,
             114.20805001167992
@@ -6022,6 +7792,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.41852448547517,
             114.20479917431294
@@ -6032,6 +7806,10 @@
           }
         },
         {
+          "address": {
+            "ENG": "",
+            "ZHT": ""
+          },
           "latlng": [
             22.417086693501258,
             114.2086271426706
