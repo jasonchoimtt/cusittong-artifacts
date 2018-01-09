@@ -18,6 +18,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -78,6 +79,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -138,6 +140,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "16/05/2018 - 27/06/2018",
@@ -198,6 +201,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "ELB",
                         "slug": "ELB_421"
                       },
                       "meeting_date": "30/04/2018 - 28/08/2018",
@@ -258,6 +262,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "ELB",
                         "slug": "ELB_421"
                       },
                       "meeting_date": "30/04/2018 - 28/08/2018",
@@ -318,6 +323,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "ELB",
                         "slug": "ELB_421"
                       },
                       "meeting_date": "30/04/2018 - 28/08/2018",
@@ -378,6 +384,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "ELB",
                         "slug": "ELB_421"
                       },
                       "meeting_date": "30/04/2018 - 28/08/2018",
@@ -478,6 +485,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CYT",
                         "slug": "CYT_LT6"
                       },
                       "meeting_date": "23/06/2018 - 28/07/2018",
@@ -494,6 +502,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CYT",
                         "slug": "CYT_LT6"
                       },
                       "meeting_date": "23/06/2018 - 28/07/2018",
@@ -554,6 +563,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CYT",
                         "slug": "CYT_LT7"
                       },
                       "meeting_date": "21/06/2018 - 26/07/2018",
@@ -570,6 +580,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CYT",
                         "slug": "CYT_LT7"
                       },
                       "meeting_date": "25/06/2018 - 25/06/2018",
@@ -586,6 +597,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CYT",
                         "slug": "CYT_LT7"
                       },
                       "meeting_date": "09/07/2018 - 23/07/2018",
@@ -647,6 +659,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -707,6 +720,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -776,6 +790,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 31/07/2018",
@@ -804,6 +819,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 31/07/2018",
@@ -868,6 +884,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "15/05/2018 - 15/05/2018",
@@ -884,6 +901,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "19/05/2018 - 30/06/2018",
@@ -900,6 +918,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "29/05/2018 - 26/06/2018",
@@ -961,6 +980,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_502"
                       },
                       "meeting_date": "16/05/2018 - 27/06/2018",
@@ -977,6 +997,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_502"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -1037,6 +1058,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_402"
                       },
                       "meeting_date": "14/05/2018 - 11/06/2018",
@@ -1053,6 +1075,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_402"
                       },
                       "meeting_date": "15/05/2018 - 15/05/2018",
@@ -1069,6 +1092,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_402"
                       },
                       "meeting_date": "29/05/2018 - 26/06/2018",
@@ -1085,6 +1109,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_402"
                       },
                       "meeting_date": "25/06/2018 - 25/06/2018",
@@ -1145,6 +1170,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "18/06/2018 - 24/07/2018",
@@ -1206,6 +1232,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -1272,6 +1299,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -1338,6 +1366,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "19/06/2018 - 03/07/2018",
@@ -1354,6 +1383,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "20/06/2018 - 04/07/2018",
@@ -1370,6 +1400,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "21/06/2018 - 05/07/2018",
@@ -1386,6 +1417,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "22/06/2018 - 06/07/2018",
@@ -1446,6 +1478,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CYT",
                         "slug": "CYT_201"
                       },
                       "meeting_date": "23/06/2018 - 28/07/2018",
@@ -1462,6 +1495,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CYT",
                         "slug": "CYT_201"
                       },
                       "meeting_date": "23/06/2018 - 28/07/2018",
@@ -1522,6 +1556,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "14/05/2018 - 28/08/2018",
@@ -1582,6 +1617,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "14/05/2018 - 28/08/2018",
@@ -1642,6 +1678,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "14/05/2018 - 28/08/2018",
@@ -1702,6 +1739,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_108"
                       },
                       "meeting_date": "14/05/2018 - 11/06/2018",
@@ -1718,6 +1756,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_108"
                       },
                       "meeting_date": "25/06/2018 - 25/06/2018",
@@ -1746,6 +1785,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_222"
                       },
                       "meeting_date": "14/05/2018 - 25/06/2018",
@@ -1808,6 +1848,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -1872,6 +1913,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "YIA",
                         "slug": "YIA_201"
                       },
                       "meeting_date": "19/05/2018 - 30/06/2018",
@@ -1900,6 +1942,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -1961,6 +2004,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "25/06/2018 - 25/06/2018",
@@ -2021,6 +2065,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -2082,6 +2127,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -2150,6 +2196,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "YIA",
                         "slug": "YIA_402"
                       },
                       "meeting_date": "05/06/2018 - 03/07/2018",
@@ -2166,6 +2213,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "YIA",
                         "slug": "YIA_402"
                       },
                       "meeting_date": "07/06/2018 - 28/06/2018",
@@ -2182,6 +2230,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "YIA",
                         "slug": "YIA_402"
                       },
                       "meeting_date": "09/06/2018 - 30/06/2018",
@@ -2242,6 +2291,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "07/05/2018 - 22/05/2018",
@@ -2306,6 +2356,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "16/05/2018 - 27/06/2018",
@@ -2322,6 +2373,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "18/05/2018 - 29/06/2018",
@@ -2360,6 +2412,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "14/05/2018 - 25/06/2018",
@@ -2376,6 +2429,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -2414,6 +2468,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "14/05/2018 - 25/06/2018",
@@ -2430,6 +2485,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -2490,6 +2546,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "15/05/2018 - 26/06/2018",
@@ -2506,6 +2563,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "18/05/2018 - 29/06/2018",
@@ -2544,6 +2602,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "14/05/2018 - 25/06/2018",
@@ -2560,6 +2619,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -2598,6 +2658,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "14/05/2018 - 25/06/2018",
@@ -2614,6 +2675,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -2674,6 +2736,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "14/05/2018 - 25/06/2018",
@@ -2690,6 +2753,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -2750,6 +2814,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "14/05/2018 - 25/06/2018",
@@ -2766,6 +2831,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -2826,6 +2892,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "15/05/2018 - 26/06/2018",
@@ -2842,6 +2909,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "16/05/2018 - 27/06/2018",
@@ -2902,6 +2970,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "15/05/2018 - 26/06/2018",
@@ -2918,6 +2987,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "18/05/2018 - 29/06/2018",
@@ -2978,6 +3048,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "14/05/2018 - 25/06/2018",
@@ -2994,6 +3065,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -3054,6 +3126,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "14/05/2018 - 25/06/2018",
@@ -3070,6 +3143,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -3130,6 +3204,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "15/05/2018 - 26/06/2018",
@@ -3146,6 +3221,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "GLC"
                       },
                       "meeting_date": "16/05/2018 - 27/06/2018",
@@ -3206,6 +3282,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -3266,6 +3343,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -3326,6 +3404,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "ELB",
                         "slug": "ELB_LT3"
                       },
                       "meeting_date": "14/05/2018 - 11/06/2018",
@@ -3342,6 +3421,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "ELB",
                         "slug": "ELB_LT4"
                       },
                       "meeting_date": "16/05/2018 - 27/06/2018",
@@ -3358,6 +3438,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "ELB",
                         "slug": "ELB_LT3"
                       },
                       "meeting_date": "25/06/2018 - 25/06/2018",
@@ -3418,6 +3499,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -3484,6 +3566,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "04/06/2018 - 12/06/2018",
@@ -3545,6 +3628,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "04/06/2018 - 12/06/2018",
@@ -3605,6 +3689,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "04/06/2018 - 12/06/2018",
@@ -3643,6 +3728,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "11/06/2018 - 16/06/2018",
@@ -3703,6 +3789,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "10/07/2018 - 17/07/2018",
@@ -3719,6 +3806,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "11/07/2018 - 11/07/2018",
@@ -3735,6 +3823,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "12/07/2018 - 12/07/2018",
@@ -3751,6 +3840,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "13/07/2018 - 13/07/2018",
@@ -3767,6 +3857,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "16/07/2018 - 16/07/2018",
@@ -3805,6 +3896,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "26/06/2018 - 03/07/2018",
@@ -3821,6 +3913,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "28/06/2018 - 05/07/2018",
@@ -3881,6 +3974,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "26/05/2018 - 07/07/2018",
@@ -3941,6 +4035,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "21/04/2018 - 19/05/2018",
@@ -4008,6 +4103,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "21/04/2018 - 12/05/2018",
@@ -4024,6 +4120,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "14/07/2018 - 14/07/2018",
@@ -4086,6 +4183,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "26/05/2018 - 30/06/2018",
@@ -4146,6 +4244,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "02/06/2018 - 04/08/2018",
@@ -4207,6 +4306,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "23/06/2018 - 28/07/2018",
@@ -4223,6 +4323,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "23/06/2018 - 28/07/2018",
@@ -4283,6 +4384,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CYT",
                         "slug": "CYT_LT7"
                       },
                       "meeting_date": "23/06/2018 - 28/07/2018",
@@ -4299,6 +4401,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CYT",
                         "slug": "CYT_LT7"
                       },
                       "meeting_date": "23/06/2018 - 28/07/2018",
@@ -4359,6 +4462,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "08/07/2018 - 29/07/2018",
@@ -4375,6 +4479,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "08/07/2018 - 29/07/2018",
@@ -4435,6 +4540,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "24/06/2018 - 24/06/2018",
@@ -4451,6 +4557,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "24/06/2018 - 24/06/2018",
@@ -4467,6 +4574,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "08/07/2018 - 08/07/2018",
@@ -4483,6 +4591,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "08/07/2018 - 08/07/2018",
@@ -4499,6 +4608,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "29/07/2018 - 29/07/2018",
@@ -4515,6 +4625,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "29/07/2018 - 29/07/2018",
@@ -4575,6 +4686,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "18/05/2018 - 30/06/2018",
@@ -4635,6 +4747,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "09/07/2018 - 09/07/2018",
@@ -4651,6 +4764,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "10/07/2018 - 10/07/2018",
@@ -4667,6 +4781,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "11/07/2018 - 11/07/2018",
@@ -4683,6 +4798,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "12/07/2018 - 12/07/2018",
@@ -4699,6 +4815,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "13/07/2018 - 13/07/2018",
@@ -4760,6 +4877,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
                       "meeting_date": "03/07/2018 - 03/07/2018",
@@ -4776,6 +4894,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "04/07/2018 - 04/07/2018",
@@ -4792,6 +4911,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "05/07/2018 - 05/07/2018",
@@ -4808,6 +4928,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "06/07/2018 - 06/07/2018",
@@ -4868,6 +4989,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "09/07/2018 - 28/08/2018",
@@ -4928,6 +5050,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "05/06/2018 - 07/08/2018",
@@ -4944,6 +5067,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "09/06/2018 - 09/06/2018",
@@ -4960,6 +5084,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "14/06/2018 - 21/06/2018",
@@ -4976,6 +5101,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "07/07/2018 - 04/08/2018",
@@ -5037,6 +5163,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "21/06/2018 - 21/06/2018",
@@ -5053,6 +5180,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "26/06/2018 - 24/07/2018",
@@ -5069,6 +5197,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "05/07/2018 - 05/07/2018",
@@ -5085,6 +5214,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "07/07/2018 - 04/08/2018",
@@ -5146,6 +5276,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "17/05/2018 - 17/05/2018",
@@ -5162,6 +5293,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "19/05/2018 - 02/06/2018",
@@ -5178,6 +5310,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "29/05/2018 - 29/05/2018",
@@ -5194,6 +5327,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "16/06/2018 - 30/06/2018",
@@ -5255,6 +5389,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "WMY",
                         "slug": "WMY_505"
                       },
                       "meeting_date": "05/07/2018 - 05/07/2018",
@@ -5315,9 +5450,10 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "PWH"
                       },
-                      "meeting_date": "09/07/2018 - 28/08/2018",
+                      "meeting_date": "25/06/2018 - 10/07/2018",
                       "time": {
                         "begin": -1,
                         "end": -1,
@@ -5327,7 +5463,7 @@
                     }
                   ],
                   "quota": {
-                    "seats": 1,
+                    "seats": 99,
                     "vacancy": null
                   }
                 }
@@ -5359,6 +5495,128 @@
             "units": "2.00"
           }
         },
+        "POPG5013": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Public Health",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "25/06/2018 - 10/07/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 99,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "POPG5013",
+              "group": "-",
+              "instructors": [
+                "Professor CHAN Ying Yang Emily"
+              ],
+              "short_title": "Global Health Perspectives 全球衞生視野下的人道危機及人類安全"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course aims at providing an overview of the interconnections between health and human security in the context of globalization and forced migration from many causes. Specifically, the course will examine how the changing of the humanitarian and human security landscape, for instance the current context of conflict,\rbrought the two fields closer together and the challenges presented for human security and global health. On top of classroom tutorials and lectures, this course provides series of seminars offer by speakers in the field of disaster and humanitarian crisis to allow students to follow contemporary topics in this area.",
+              "ZHS": "This course aims at providing an overview of the interconnections between health and human security in the context of globalization and forced migration from many causes. Specifically, the course will examine how the changing of the humanitarian and human security landscape, for instance the current context of conflict,\rbrought the two fields closer together and the challenges presented for human security and global health. On top of classroom tutorials and lectures, this course provides series of seminars offer by speakers in the field of disaster and humanitarian crisis to allow students to follow contemporary topics in this area.",
+              "ZHT": "本課程闡述健康與人類安全的相交點，檢視人道危機及人類安全在全球化及強迫遷徙這些挑戰上的現況及轉變。除基本課堂外，本科亦邀請校外災害及人道救援的講者，利用不同的例子(如武裝衝突)說明兩者的關係及於全球衞生下的挑戰。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "",
+            "title": {
+              "ENG": "Global Health Perspectives of Humanitarian Crisis & Human Security",
+              "ZHS": "Global Health Perspectives of Humanitarian Crisis & Human Security",
+              "ZHT": "全球衞生視野下的人道危機及人類安全"
+            },
+            "units": "2.00"
+          }
+        },
+        "POPG5014": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Public Health",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "PWH"
+                      },
+                      "meeting_date": "25/06/2018 - 10/07/2018",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 99,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "POPG5014",
+              "group": "-",
+              "instructors": [
+                "Professor YEUNG Pui Shan"
+              ],
+              "short_title": "Research Methodology 災害及醫療人道救援研究方法"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "Participants will receive technical training in research study to address public health needs of populations affected by catastrophic events and in resourcepoor settings. On completing the course, the participants will understand the principles of planning, implementing, and disseminating research in the context of disaster and humanitarian settings. It aims to show how public health and research principles can be applied.",
+              "ZHS": "Participants will receive technical training in research study to address public health needs of populations affected by catastrophic events and in resourcepoor settings. On completing the course, the participants will understand the principles of planning, implementing, and disseminating research in the context of disaster and humanitarian settings. It aims to show how public health and research principles can be applied.",
+              "ZHT": "修讀此課程的學生將會學習使用不同的研究方法，去了解在資源貧乏環境人口受災後對公共衛生服務的需求。完成課程後，學生將能夠明白相關研究的設計、實施和傳播的理論。課程旨在展示公共衛生和研究理論如何應用在救災和與健康相關的人道行動。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "Pre-requisite: EPID5001",
+            "title": {
+              "ENG": "Research Methodology for Disaster and Medical Humanitarian Response",
+              "ZHS": "Research Methodology for Disaster and Medical Humanitarian Response",
+              "ZHT": "災害及醫療人道救援研究方法"
+            },
+            "units": "2.00"
+          }
+        },
         "POPN5103": {
           "groups": {
             "-": {
@@ -5375,6 +5633,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "15/05/2018 - 26/06/2018",
@@ -5391,6 +5650,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "18/05/2018 - 29/06/2018",
@@ -5451,6 +5711,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "16/05/2018 - 27/06/2018",
@@ -5467,6 +5728,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -5527,6 +5789,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_LT3"
                       },
                       "meeting_date": "15/05/2018 - 15/05/2018",
@@ -5543,6 +5806,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_LT3"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -5559,6 +5823,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_LT3"
                       },
                       "meeting_date": "29/05/2018 - 26/06/2018",
@@ -5619,6 +5884,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_109"
                       },
                       "meeting_date": "14/05/2018 - 11/06/2018",
@@ -5635,6 +5901,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_109"
                       },
                       "meeting_date": "16/05/2018 - 27/06/2018",
@@ -5651,6 +5918,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_109"
                       },
                       "meeting_date": "25/06/2018 - 25/06/2018",
@@ -5711,6 +5979,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "07/05/2018 - 07/08/2018",
@@ -5776,6 +6045,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "07/05/2018 - 07/08/2018",
@@ -5836,6 +6106,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -5896,6 +6167,7 @@
                         "drop": true
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -5958,6 +6230,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_UG05"
                       },
                       "meeting_date": "15/05/2018 - 15/05/2018",
@@ -5974,6 +6247,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_UG05"
                       },
                       "meeting_date": "29/05/2018 - 26/06/2018",
@@ -6034,6 +6308,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6099,6 +6374,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6161,6 +6437,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6225,6 +6502,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_122"
                       },
                       "meeting_date": "14/05/2018 - 11/06/2018",
@@ -6241,6 +6519,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_122"
                       },
                       "meeting_date": "17/05/2018 - 28/06/2018",
@@ -6257,6 +6536,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CKB",
                         "slug": "CKB_122"
                       },
                       "meeting_date": "25/06/2018 - 25/06/2018",
@@ -6317,6 +6597,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6377,6 +6658,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "TBA"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6437,6 +6719,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6497,6 +6780,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6558,6 +6842,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6619,6 +6904,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": null,
                         "slug": "NRR"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6680,6 +6966,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "AIT",
                         "slug": "AIT_501"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6708,6 +6995,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "AIT",
                         "slug": "AIT_501"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6736,6 +7024,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "AIT",
                         "slug": "AIT_501"
                       },
                       "meeting_date": "14/05/2018 - 26/06/2018",
@@ -6798,6 +7087,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "AIT",
                         "slug": "AIT_501"
                       },
                       "meeting_date": "23/04/2018 - 28/08/2018",
@@ -6836,6 +7126,7 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "AIT",
                         "slug": "AIT_501"
                       },
                       "meeting_date": "23/04/2018 - 28/08/2018",
