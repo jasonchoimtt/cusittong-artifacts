@@ -1,0 +1,6051 @@
+{
+  "buildings": [
+    {
+      "code": "H1",
+      "latlng": [
+        22.41841513972474,
+        114.20518487691879
+      ],
+      "name": {
+        "ENG": "Benjamin Franklin Centre",
+        "ZHT": "范克廉樓"
+      }
+    },
+    {
+      "code": "H2",
+      "latlng": [
+        22.418995340826406,
+        114.20523852109909
+      ],
+      "name": {
+        "ENG": "University Administration Building",
+        "ZHT": "大學行政樓"
+      }
+    },
+    {
+      "code": "H2a",
+      "latlng": [
+        22.419054848494667,
+        114.2049515247345
+      ],
+      "name": {
+        "ENG": "Cho Yiu Conference Hall",
+        "ZHT": "祖堯堂"
+      }
+    },
+    {
+      "code": "H3",
+      "latlng": [
+        22.419498675716074,
+        114.20491129159927
+      ],
+      "name": {
+        "ENG": "University Library",
+        "ZHT": "大學圖書館"
+      }
+    },
+    {
+      "code": "H3a",
+      "latlng": [
+        22.419483798848937,
+        114.2045545578003
+      ],
+      "name": {
+        "ENG": "Tin Ka Ping Building",
+        "ZHT": "田家炳樓"
+      }
+    },
+    {
+      "code": "H4",
+      "latlng": [
+        22.41918626117171,
+        114.20578300952911
+      ],
+      "name": {
+        "ENG": "Institute of Chinese Studies",
+        "ZHT": "中國文化研究所"
+      },
+      "short_name": "ICS"
+    },
+    {
+      "code": "H4",
+      "latlng": [
+        22.419312714762434,
+        114.20580446720123
+      ],
+      "name": {
+        "ENG": "Art Museum",
+        "ZHT": "文物館"
+      }
+    },
+    {
+      "code": "H5",
+      "latlng": [
+        22.418834174096872,
+        114.20628190040588
+      ],
+      "name": {
+        "ENG": "Art Museum Conservation Annex",
+        "ZHT": "文物館工作處"
+      }
+    },
+    {
+      "code": "H6",
+      "latlng": [
+        22.41971439011033,
+        114.20575082302094
+      ],
+      "name": {
+        "ENG": "Sui Loong Pao Building",
+        "ZHT": "兆龍樓"
+      }
+    },
+    {
+      "code": "H7",
+      "latlng": [
+        22.419711910636437,
+        114.20639723539352
+      ],
+      "name": {
+        "ENG": "Pi Ch'iu Building",
+        "ZHT": "碧秋樓"
+      },
+      "short_name": "HCA"
+    },
+    {
+      "code": "H8",
+      "latlng": [
+        22.420051598147317,
+        114.20652061700821
+      ],
+      "name": {
+        "ENG": "Y.C. Liang Hall",
+        "ZHT": "潤昌堂"
+      },
+      "short_name": "LHC"
+    },
+    {
+      "code": "H9",
+      "latlng": [
+        22.420125982162897,
+        114.2071133852005
+      ],
+      "name": {
+        "ENG": "Sir Run Run Shaw Hall",
+        "ZHT": "邵逸夫堂"
+      },
+      "short_name": "RRS"
+    },
+    {
+      "code": "H10",
+      "latlng": [
+        22.41946396302363,
+        114.20792877674103
+      ],
+      "name": {
+        "ENG": "University Science Centre",
+        "ZHT": "科學館"
+      },
+      "short_name": "SC"
+    },
+    {
+      "code": "H10a",
+      "latlng": [
+        22.419121794590968,
+        114.20876026153564
+      ],
+      "name": {
+        "ENG": "Science Centre East Block",
+        "ZHT": "科學館東座"
+      },
+      "short_name": "SCE"
+    },
+    {
+      "code": "H11",
+      "latlng": [
+        22.419446606674143,
+        114.20875757932663
+      ],
+      "name": {
+        "ENG": "Choh-Ming Li Basic Medical Sciences Building",
+        "ZHT": "李卓敏基本醫學大樓"
+      },
+      "short_name": "BMS"
+    },
+    {
+      "code": "H11a",
+      "latlng": [
+        22.41926808409651,
+        114.20899361371994
+      ],
+      "name": {
+        "ENG": "Basic Medical Sciences Building Teaching Annex",
+        "ZHT": "基本醫學大樓新翼"
+      }
+    },
+    {
+      "code": "H12",
+      "latlng": [
+        22.418556470985628,
+        114.20904457569122
+      ],
+      "name": {
+        "ENG": "Lady Ho Tung Hall",
+        "ZHT": "何東夫人堂"
+      }
+    },
+    {
+      "code": "H15",
+      "latlng": [
+        22.418112640753165,
+        114.2101576924324
+      ],
+      "name": {
+        "ENG": "Chan Chun Ha Hall",
+        "ZHT": "陳震夏館"
+      }
+    },
+    {
+      "code": "H15a",
+      "latlng": [
+        22.41794899349392,
+        114.20944154262543
+      ],
+      "name": {
+        "ENG": "Estates and Maintenance Building Annex",
+        "ZHT": "營修樓偏樓"
+      }
+    },
+    {
+      "code": "H16",
+      "latlng": [
+        22.419307755800258,
+        114.21014159917831
+      ],
+      "name": {
+        "ENG": "University Health Centre",
+        "ZHT": "大學保健醫療中心"
+      }
+    },
+    {
+      "code": "H17",
+      "latlng": [
+        22.419689595369427,
+        114.21072900295258
+      ],
+      "name": {
+        "ENG": "Yali Guest House",
+        "ZHT": "雅禮賓館"
+      }
+    },
+    {
+      "code": "H17a",
+      "latlng": [
+        22.419878035289365,
+        114.21068340539932
+      ],
+      "name": {
+        "ENG": "Chan Kwan Tung Inter-University Hall",
+        "ZHT": "昆棟樓"
+      }
+    },
+    {
+      "code": "H17b (PGH2)",
+      "latlng": [
+        22.420073913356173,
+        114.21061366796494
+      ],
+      "name": {
+        "ENG": "Chiangs Building (Postgraduate Hall No. 2)",
+        "ZHT": "曙光樓（研究生宿舍二座）"
+      }
+    },
+    {
+      "code": "H18",
+      "latlng": [
+        22.41967967747182,
+        114.20951932668686
+      ],
+      "name": {
+        "ENG": "Minor Staff Quarters 1",
+        "ZHT": "職工宿舍第一座"
+      }
+    },
+    {
+      "code": "H19",
+      "latlng": [
+        22.419751582213408,
+        114.2097070813179
+      ],
+      "name": {
+        "ENG": "Minor Staff Quarters 2",
+        "ZHT": "職工宿舍第二座"
+      }
+    },
+    {
+      "code": "H20a",
+      "latlng": [
+        22.420294585784024,
+        114.21022742986679
+      ],
+      "name": {
+        "ENG": "Panacea Lodge",
+        "ZHT": "芝苑"
+      }
+    },
+    {
+      "code": "H21",
+      "latlng": [
+        22.418529196542977,
+        114.21105086803436
+      ],
+      "name": {
+        "ENG": "University Sports Centre",
+        "ZHT": "大學體育中心"
+      }
+    },
+    {
+      "code": "H22",
+      "latlng": [
+        22.418521758057686,
+        114.2106968164444
+      ],
+      "name": {
+        "ENG": "Kwok Sports Building",
+        "ZHT": "汾陽體育館"
+      },
+      "short_name": "KSB"
+    },
+    {
+      "code": "H23a",
+      "latlng": [
+        22.41955818316864,
+        114.20393496751785
+      ],
+      "name": {
+        "ENG": "Lee Shau Kee Building",
+        "ZHT": "李兆基樓"
+      },
+      "short_name": "LSK"
+    },
+    {
+      "code": "H24",
+      "latlng": [
+        22.41887880490223,
+        114.20685321092606
+      ],
+      "name": {
+        "ENG": "Lady Shaw Building",
+        "ZHT": "邵逸夫夫人樓"
+      },
+      "short_name": "LSB"
+    },
+    {
+      "code": "H25",
+      "latlng": [
+        22.417968829535603,
+        114.20725554227829
+      ],
+      "name": {
+        "ENG": "Ho Sin-Hang Engineering Building",
+        "ZHT": "何善衡工程學大樓"
+      },
+      "short_name": "SHB"
+    },
+    {
+      "code": "H26",
+      "latlng": [
+        22.418519278562496,
+        114.20391082763672
+      ],
+      "name": {
+        "ENG": "Security and Transport Building",
+        "ZHT": "保安交通中心"
+      }
+    },
+    {
+      "code": "H27",
+      "latlng": [
+        22.41952099101377,
+        114.20321613550186
+      ],
+      "name": {
+        "ENG": "Fung King Hey Building",
+        "ZHT": "馮景禧樓"
+      },
+      "short_name": "KHB"
+    },
+    {
+      "code": "H28",
+      "latlng": [
+        22.42000944718748,
+        114.20278161764145
+      ],
+      "name": {
+        "ENG": "Leung Kau Kui Building",
+        "ZHT": "梁銶琚樓"
+      },
+      "short_name": "KKB"
+    },
+    {
+      "code": "H29",
+      "latlng": [
+        22.41823165682059,
+        114.20453578233719
+      ],
+      "name": {
+        "ENG": "John Fulton Centre",
+        "ZHT": "富爾敦樓"
+      }
+    },
+    {
+      "code": "H30",
+      "latlng": [
+        22.420051598147317,
+        114.20919746160507
+      ],
+      "name": {
+        "ENG": "Mong Man Wai Building",
+        "ZHT": "蒙民偉樓"
+      },
+      "short_name": "MMW"
+    },
+    {
+      "code": "H32",
+      "latlng": [
+        22.418050653177655,
+        114.2078697681427
+      ],
+      "name": {
+        "ENG": "William M.W. Mong Engineering Building",
+        "ZHT": "蒙民偉工程學大樓"
+      },
+      "short_name": "ERB"
+    },
+    {
+      "code": "H33",
+      "latlng": [
+        22.417386144630164,
+        114.20731455087662
+      ],
+      "name": {
+        "ENG": "Academic Building No. 1",
+        "ZHT": "教研樓一座"
+      }
+    },
+    {
+      "code": "H34",
+      "latlng": [
+        22.418888722857037,
+        114.20799851417542
+      ],
+      "name": {
+        "ENG": "Run Run Shaw Science Building",
+        "ZHT": "逸夫科學大樓"
+      }
+    },
+    {
+      "code": "H40",
+      "latlng": [
+        22.421132641922103,
+        114.20664668083191
+      ],
+      "name": {
+        "ENG": "Satellite Remote Sensing Receiving Station",
+        "ZHT": "衛星遙感地面接收站"
+      }
+    },
+    {
+      "code": "C1",
+      "latlng": [
+        22.413984207790147,
+        114.20844376087189
+      ],
+      "name": {
+        "ENG": "Esther Lee Building",
+        "ZHT": "利黃瑤璧樓"
+      },
+      "short_name": "ELB"
+    },
+    {
+      "code": "C1a",
+      "latlng": [
+        22.4139296571038,
+        114.20863687992096
+      ],
+      "name": {
+        "ENG": "Lee Hysan Concert Hall",
+        "ZHT": "利希慎音樂廳"
+      }
+    },
+    {
+      "code": "C2",
+      "latlng": [
+        22.41450987694256,
+        114.20810848474503
+      ],
+      "name": {
+        "ENG": "Chung Chi College Administration Building",
+        "ZHT": "崇基學院行政樓"
+      }
+    },
+    {
+      "code": "C3",
+      "latlng": [
+        22.415080176131717,
+        114.20701146125793
+      ],
+      "name": {
+        "ENG": "Li Wai Chun Building",
+        "ZHT": "李慧珍樓"
+      }
+    },
+    {
+      "code": "C3a",
+      "latlng": [
+        22.41468344650886,
+        114.20769810676575
+      ],
+      "name": {
+        "ENG": "Hui Yeung Shing Building",
+        "ZHT": "許讓成樓"
+      },
+      "short_name": "HYS"
+    },
+    {
+      "code": "C3b",
+      "latlng": [
+        22.4150008302978,
+        114.20755326747894
+      ],
+      "name": {
+        "ENG": "Wong Foo Yuan Building",
+        "ZHT": "王福元樓"
+      },
+      "short_name": "FYB"
+    },
+    {
+      "code": "C3c",
+      "latlng": [
+        22.415345488434763,
+        114.20739769935608
+      ],
+      "name": {
+        "ENG": "Chen Kou Bun Building",
+        "ZHT": "陳國本樓"
+      },
+      "short_name": "CKB"
+    },
+    {
+      "code": "C3d",
+      "latlng": [
+        22.415588484305086,
+        114.20720994472504
+      ],
+      "name": {
+        "ENG": "Sino Building",
+        "ZHT": "信和樓"
+      },
+      "short_name": "SB"
+    },
+    {
+      "code": "C4",
+      "latlng": [
+        22.415977772721522,
+        114.20693099498749
+      ],
+      "name": {
+        "ENG": "Chung Chi College Chapel",
+        "ZHT": "崇基教堂"
+      },
+      "short_name": "CCCC"
+    },
+    {
+      "code": "C5",
+      "latlng": [
+        22.417346472377503,
+        114.20632481575012
+      ],
+      "name": {
+        "ENG": "Theology Building",
+        "ZHT": "神學樓"
+      },
+      "short_name": "CCT"
+    },
+    {
+      "code": "C6",
+      "latlng": [
+        22.41489172970215,
+        114.20870661735535
+      ],
+      "name": {
+        "ENG": "Lingnan Stadium",
+        "ZHT": "嶺南體育館"
+      },
+      "short_name": "LN"
+    },
+    {
+      "code": "C8",
+      "latlng": [
+        22.41528597917724,
+        114.20778125524521
+      ],
+      "name": {
+        "ENG": "Ho Tim Building",
+        "ZHT": "何添樓"
+      },
+      "short_name": "HTB"
+    },
+    {
+      "code": "C9",
+      "latlng": [
+        22.41554881153897,
+        114.20762300491333
+      ],
+      "name": {
+        "ENG": "Orchid Lodge",
+        "ZHT": "蘭苑"
+      }
+    },
+    {
+      "code": "C10",
+      "latlng": [
+        22.415965375018075,
+        114.20760959386826
+      ],
+      "name": {
+        "ENG": "Staff Club",
+        "ZHT": "聯誼會"
+      }
+    },
+    {
+      "code": "C11",
+      "latlng": [
+        22.41653566823139,
+        114.20866370201111
+      ],
+      "name": {
+        "ENG": "Elisabeth Luce Moore Library",
+        "ZHT": "牟路思怡圖書館"
+      }
+    },
+    {
+      "code": "C12",
+      "latlng": [
+        22.416657165178627,
+        114.20969903469086
+      ],
+      "name": {
+        "ENG": "Chung Chi Tang",
+        "ZHT": "眾志堂"
+      }
+    },
+    {
+      "code": "C13",
+      "latlng": [
+        22.41563063660667,
+        114.21056807041168
+      ],
+      "name": {
+        "ENG": "Fong Yun Wah Hall",
+        "ZHT": "方潤華堂"
+      }
+    },
+    {
+      "code": "C14",
+      "latlng": [
+        22.41536284529674,
+        114.21036690473557
+      ],
+      "name": {
+        "ENG": "Fong Shu Chuen Building",
+        "ZHT": "方樹泉樓"
+      }
+    },
+    {
+      "code": "C15",
+      "latlng": [
+        22.416840650162797,
+        114.20731723308563
+      ],
+      "name": {
+        "ENG": "Staff Quarters A",
+        "ZHT": "崇基教職員宿舍A座"
+      }
+    },
+    {
+      "code": "C16",
+      "latlng": [
+        22.416840650162797,
+        114.20767933130264
+      ],
+      "name": {
+        "ENG": "Staff Quarters B",
+        "ZHT": "崇基教職員宿舍B座"
+      }
+    },
+    {
+      "code": "C17",
+      "latlng": [
+        22.417021655382648,
+        114.20801192522049
+      ],
+      "name": {
+        "ENG": "Staff Quarters C",
+        "ZHT": "崇基教職員宿舍C座"
+      }
+    },
+    {
+      "code": "C18",
+      "latlng": [
+        22.41787956732568,
+        114.20823991298676
+      ],
+      "name": {
+        "ENG": "Staff Quarters D",
+        "ZHT": "崇基教職員宿舍D座"
+      }
+    },
+    {
+      "code": "C19",
+      "latlng": [
+        22.417356390441732,
+        114.20855641365051
+      ],
+      "name": {
+        "ENG": "Staff Quarters G",
+        "ZHT": "崇基教職員宿舍G座"
+      }
+    },
+    {
+      "code": "C20",
+      "latlng": [
+        22.417140672384964,
+        114.2095622420311
+      ],
+      "name": {
+        "ENG": "Hua Lien Tang",
+        "ZHT": "華連堂"
+      }
+    },
+    {
+      "code": "C21",
+      "latlng": [
+        22.417398542206797,
+        114.21036422252655
+      ],
+      "name": {
+        "ENG": "Ming Hua Tang",
+        "ZHT": "明華堂"
+      }
+    },
+    {
+      "code": "C22",
+      "latlng": [
+        22.41658525883494,
+        114.21065926551819
+      ],
+      "name": {
+        "ENG": "Ying Lin Tang",
+        "ZHT": "應林堂"
+      }
+    },
+    {
+      "code": "C23",
+      "latlng": [
+        22.417467968615487,
+        114.21118766069412
+      ],
+      "name": {
+        "ENG": "Madam S.H. Ho Hall",
+        "ZHT": "何善衡夫人宿舍"
+      }
+    },
+    {
+      "code": "C24",
+      "latlng": [
+        22.417361349473573,
+        114.21164631843567
+      ],
+      "name": {
+        "ENG": "Wen Chih Tang",
+        "ZHT": "文質堂"
+      }
+    },
+    {
+      "code": "C25",
+      "latlng": [
+        22.416934872087488,
+        114.21132981777191
+      ],
+      "name": {
+        "ENG": "Staff Quarters S",
+        "ZHT": "崇基教職員宿舍S座"
+      }
+    },
+    {
+      "code": "C29",
+      "latlng": [
+        22.413389108235812,
+        114.20924574136734
+      ],
+      "name": {
+        "ENG": "Staff Quarters E",
+        "ZHT": "崇基教職員宿舍E座"
+      }
+    },
+    {
+      "code": "C30 (PGH3)",
+      "latlng": [
+        22.413136190153267,
+        114.2094549536705
+      ],
+      "name": {
+        "ENG": "Inter-University Hall (Postgraduate Hall No.3)",
+        "ZHT": "博文苑（研究生宿舍三座）"
+      }
+    },
+    {
+      "code": "C31",
+      "latlng": [
+        22.413309761435958,
+        114.2076712846756
+      ],
+      "name": {
+        "ENG": "Wen Lin Tang",
+        "ZHT": "文林堂"
+      }
+    },
+    {
+      "code": "C32",
+      "latlng": [
+        22.417031573470073,
+        114.21096503734589
+      ],
+      "name": {
+        "ENG": "Lee Shu Pui Hall",
+        "ZHT": "利樹培堂"
+      }
+    },
+    {
+      "code": "C34a",
+      "latlng": [
+        22.41853167603799,
+        114.20931816101074
+      ],
+      "name": {
+        "ENG": "Pentecostal Mission Hall Complex (High Block)",
+        "ZHT": "五旬節會樓（高座）"
+      }
+    },
+    {
+      "code": "C34b",
+      "latlng": [
+        22.418796981748102,
+        114.20977413654327
+      ],
+      "name": {
+        "ENG": "Pentecostal Mission Hall Complex (Low Block)",
+        "ZHT": "五旬節會樓（低座）"
+      }
+    },
+    {
+      "code": "N1",
+      "latlng": [
+        22.421271490971378,
+        114.20799046754837
+      ],
+      "name": {
+        "ENG": "Cheng Ming Building",
+        "ZHT": "誠明館"
+      },
+      "short_name": "NAA"
+    },
+    {
+      "code": "N2",
+      "latlng": [
+        22.42165084570177,
+        114.20811116695404
+      ],
+      "name": {
+        "ENG": "Humanities Building",
+        "ZHT": "人文館"
+      },
+      "short_name": "NAH"
+    },
+    {
+      "code": "N3",
+      "latlng": [
+        22.42143017542914,
+        114.20852690935135
+      ],
+      "name": {
+        "ENG": "Ch'ien Mu Library",
+        "ZHT": "錢穆圖書館"
+      },
+      "short_name": "CML"
+    },
+    {
+      "code": "N4",
+      "latlng": [
+        22.42088221739294,
+        114.20925915241241
+      ],
+      "name": {
+        "ENG": "Staff Student Centre - Leung Hung Kee Building",
+        "ZHT": "樂群館—梁雄姬樓"
+      }
+    },
+    {
+      "code": "N5",
+      "latlng": [
+        22.421174792541024,
+        114.21012282371521
+      ],
+      "name": {
+        "ENG": "Chih Hsing Hall",
+        "ZHT": "知行樓"
+      }
+    },
+    {
+      "code": "N6",
+      "latlng": [
+        22.42185168013945,
+        114.20878440141678
+      ],
+      "name": {
+        "ENG": "Friendship Lodge",
+        "ZHT": "會友樓"
+      }
+    },
+    {
+      "code": "N7",
+      "latlng": [
+        22.421524394240123,
+        114.20959711074829
+      ],
+      "name": {
+        "ENG": "Xuesi Hall",
+        "ZHT": "學思樓"
+      }
+    },
+    {
+      "code": "N8",
+      "latlng": [
+        22.42153927088864,
+        114.21057343482971
+      ],
+      "name": {
+        "ENG": "Grace Tien Hall",
+        "ZHT": "志文樓"
+      }
+    },
+    {
+      "code": "N9",
+      "latlng": [
+        22.421110326883383,
+        114.21067267656326
+      ],
+      "name": {
+        "ENG": "Daisy Li Hall",
+        "ZHT": "紫霞樓"
+      }
+    },
+    {
+      "code": "U1",
+      "latlng": [
+        22.42049790164313,
+        114.20458942651749
+      ],
+      "name": {
+        "ENG": "Tsang Shiu Tim Building",
+        "ZHT": "曾肇添樓"
+      },
+      "short_name": "UCA"
+    },
+    {
+      "code": "U2",
+      "latlng": [
+        22.42090453246833,
+        114.20480400323868
+      ],
+      "name": {
+        "ENG": "United College Wu Chung Multimedia Library",
+        "ZHT": "聯合書院胡忠多媒體圖書館"
+      }
+    },
+    {
+      "code": "U3",
+      "latlng": [
+        22.42121942259417,
+        114.2045733332634
+      ],
+      "name": {
+        "ENG": "T.C. Cheng Building",
+        "ZHT": "鄭棟材樓"
+      },
+      "short_name": "UCC"
+    },
+    {
+      "code": "U4",
+      "latlng": [
+        22.42095164206014,
+        114.20589029788971
+      ],
+      "name": {
+        "ENG": "Cheung Chuk Shan Amenities Building",
+        "ZHT": "張祝珊師生康樂大樓"
+      }
+    },
+    {
+      "code": "U5",
+      "latlng": [
+        22.42180705028952,
+        114.20565158128738
+      ],
+      "name": {
+        "ENG": "Adam Schall Residence",
+        "ZHT": "湯若望宿舍"
+      }
+    },
+    {
+      "code": "U6",
+      "latlng": [
+        22.421469846515237,
+        114.20617192983627
+      ],
+      "name": {
+        "ENG": "Bethlehem Hall",
+        "ZHT": "伯利衡宿舍"
+      }
+    },
+    {
+      "code": "U7",
+      "latlng": [
+        22.423289745404215,
+        114.20544505119324
+      ],
+      "name": {
+        "ENG": "U.C. Staff Residence",
+        "ZHT": "聯合苑"
+      }
+    },
+    {
+      "code": "U8",
+      "latlng": [
+        22.42282857437261,
+        114.20504003763199
+      ],
+      "name": {
+        "ENG": "Hang Seng Hall",
+        "ZHT": "恒生樓"
+      }
+    },
+    {
+      "code": "U11",
+      "latlng": [
+        22.422032678828277,
+        114.20488983392715
+      ],
+      "name": {
+        "ENG": "Chan Chun Ha Hostel",
+        "ZHT": "陳震夏宿舍"
+      }
+    },
+    {
+      "code": "S1",
+      "latlng": [
+        22.422476496532482,
+        114.20089602470398
+      ],
+      "name": {
+        "ENG": "Kuo Mou Hall (High Block)",
+        "ZHT": "國楙樓（高座）"
+      }
+    },
+    {
+      "code": "S2",
+      "latlng": [
+        22.42269716514233,
+        114.20130908489227
+      ],
+      "name": {
+        "ENG": "Kuo Mou Hall (Low Block)",
+        "ZHT": "國楙樓（低座）"
+      }
+    },
+    {
+      "code": "S3",
+      "latlng": [
+        22.42316577484733,
+        114.20177310705185
+      ],
+      "name": {
+        "ENG": "Wen Lan Tang",
+        "ZHT": "文瀾堂"
+      },
+      "short_name": "WLS"
+    },
+    {
+      "code": "S4",
+      "latlng": [
+        22.422890559815414,
+        114.20191526412964
+      ],
+      "name": {
+        "ENG": "Ya Qun Lodge",
+        "ZHT": "雅群樓"
+      }
+    },
+    {
+      "code": "S5",
+      "latlng": [
+        22.422337648688117,
+        114.20163363218307
+      ],
+      "name": {
+        "ENG": "Shaw College Lecture Theatre",
+        "ZHT": "大講堂"
+      },
+      "short_name": "SWC LT"
+    },
+    {
+      "code": "S6",
+      "latlng": [
+        22.4232475954273,
+        114.2012232542038
+      ],
+      "name": {
+        "ENG": "Yat Sen Hall",
+        "ZHT": "逸仙樓"
+      }
+    },
+    {
+      "code": "S8",
+      "latlng": [
+        22.423740997296566,
+        114.2010971903801
+      ],
+      "name": {
+        "ENG": "Shaw College Student Hostel 2 (Low Block)",
+        "ZHT": "逸夫書院第二學生宿舍（低座）"
+      }
+    },
+    {
+      "code": "IH1",
+      "latlng": [
+        22.42319304837934,
+        114.20435070991516
+      ],
+      "name": {
+        "ENG": "International House 1",
+        "ZHT": "國際生舍堂一座"
+      }
+    },
+    {
+      "code": "IH2",
+      "latlng": [
+        22.423639341778465,
+        114.20446068048477
+      ],
+      "name": {
+        "ENG": "International House 2",
+        "ZHT": "國際生舍堂二座"
+      }
+    },
+    {
+      "code": "PGH1",
+      "latlng": [
+        22.42032185987997,
+        114.21197891235352
+      ],
+      "name": {
+        "ENG": "Jockey Club Postgraduate Hall",
+        "ZHT": "賽馬會研究生宿舍"
+      }
+    },
+    {
+      "code": "PGH4",
+      "latlng": [
+        22.42380298233206,
+        114.2049166560173
+      ],
+      "name": {
+        "ENG": "Postgraduate Hall No. 4",
+        "ZHT": "研究生宿舍四座"
+      }
+    },
+    {
+      "code": "PGH5",
+      "latlng": [
+        22.424286464659158,
+        114.20503199100494
+      ],
+      "name": {
+        "ENG": "Postgraduate Hall No. 5",
+        "ZHT": "研究生宿舍五座"
+      }
+    },
+    {
+      "code": "PGH6",
+      "latlng": [
+        22.42443522811341,
+        114.20471280813217
+      ],
+      "name": {
+        "ENG": "Postgraduate Hall No. 6",
+        "ZHT": "研究生宿舍六座"
+      }
+    },
+    {
+      "code": "V1",
+      "latlng": [
+        22.416714194321283,
+        114.2028084397316
+      ],
+      "name": {
+        "ENG": "Vice-Chancellor's Residence",
+        "ZHT": "漢園"
+      }
+    },
+    {
+      "code": "R3",
+      "latlng": [
+        22.421435134315516,
+        114.20303910970688
+      ],
+      "name": {
+        "ENG": "University Residence No. 3",
+        "ZHT": "第三苑"
+      }
+    },
+    {
+      "code": "R4",
+      "latlng": [
+        22.42162357186683,
+        114.20252412557602
+      ],
+      "name": {
+        "ENG": "University Residence No. 4",
+        "ZHT": "第四苑"
+      }
+    },
+    {
+      "code": "R10",
+      "latlng": [
+        22.424824491731126,
+        114.20811116695404
+      ],
+      "name": {
+        "ENG": "University Residence No. 10",
+        "ZHT": "第十苑"
+      }
+    },
+    {
+      "code": "R11",
+      "latlng": [
+        22.424308779187466,
+        114.20830696821213
+      ],
+      "name": {
+        "ENG": "University Residence No. 11",
+        "ZHT": "第十一苑"
+      }
+    },
+    {
+      "code": "R12",
+      "latlng": [
+        22.42447489834095,
+        114.2070060968399
+      ],
+      "name": {
+        "ENG": "University Residence No. 12",
+        "ZHT": "第十二苑"
+      }
+    },
+    {
+      "code": "R13",
+      "latlng": [
+        22.424437707502967,
+        114.20738697052002
+      ],
+      "name": {
+        "ENG": "University Residence No. 13",
+        "ZHT": "第十三苑"
+      }
+    },
+    {
+      "code": "R14",
+      "latlng": [
+        22.423956705100665,
+        114.20717507600784
+      ],
+      "name": {
+        "ENG": "University Residence No. 14",
+        "ZHT": "第十四苑"
+      }
+    },
+    {
+      "code": "R15",
+      "latlng": [
+        22.42346578340482,
+        114.20681565999985
+      ],
+      "name": {
+        "ENG": "University Residence No. 15",
+        "ZHT": "第十五苑"
+      }
+    },
+    {
+      "code": "R16",
+      "latlng": [
+        22.42372612088393,
+        114.20798510313034
+      ],
+      "name": {
+        "ENG": "University Residence No. 16",
+        "ZHT": "第十六苑"
+      }
+    },
+    {
+      "code": "R17",
+      "latlng": [
+        22.423436030518978,
+        114.20834720134735
+      ],
+      "name": {
+        "ENG": "University Residence No. 17",
+        "ZHT": "第十七苑"
+      }
+    },
+    {
+      "code": "E1",
+      "latlng": [
+        22.42243434630869,
+        114.21338438987732
+      ],
+      "name": {
+        "ENG": "Hong Kong Institute of Biotechnology",
+        "ZHT": "香港生物科技研究院"
+      }
+    },
+    {
+      "code": "E2",
+      "latlng": [
+        22.42278146541756,
+        114.21365261077881
+      ],
+      "name": {
+        "ENG": "Academic Building No. 2",
+        "ZHT": "教研樓二座"
+      }
+    },
+    {
+      "code": "E3",
+      "latlng": [
+        22.42200540506835,
+        114.21437412500381
+      ],
+      "name": {
+        "ENG": "Simon F.S. Li Marine Science Laboratory Simon F.S. Li Building",
+        "ZHT": "李福善海洋科學研究中心李福善樓"
+      }
+    },
+    {
+      "code": "E4",
+      "latlng": [
+        22.41850688108591,
+        114.2143365740776
+      ],
+      "name": {
+        "ENG": "Water Sports Centre",
+        "ZHT": "水上活動中心"
+      }
+    },
+    {
+      "code": "E5",
+      "latlng": [
+        22.415925702359598,
+        114.21234369277954
+      ],
+      "name": {
+        "ENG": "Shanghai Fraternity Association Research Services Centre",
+        "ZHT": "上海總會科研技術中心"
+      }
+    },
+    {
+      "code": "E5a",
+      "latlng": [
+        22.415444670474,
+        114.21209961175919
+      ],
+      "name": {
+        "ENG": "Physical Geography Experimental Station",
+        "ZHT": "自然地理實驗站"
+      }
+    },
+    {
+      "code": "H21a",
+      "latlng": [
+        22.418633335295212,
+        114.21247780323029
+      ],
+      "name": {
+        "ENG": "Sports Field Annex 1",
+        "ZHT": "運動場一號室"
+      }
+    },
+    {
+      "code": "U11a",
+      "latlng": [
+        22.4216285307463,
+        114.20494079589844
+      ],
+      "name": {
+        "ENG": "Si Yuan Amphitheatre",
+        "ZHT": "思源廣場"
+      }
+    },
+    {
+      "code": "E8",
+      "latlng": [
+        22.41226337127314,
+        114.21063244342804
+      ],
+      "name": {
+        "ENG": "Cheng Yu Tung Building",
+        "ZHT": "鄭裕彤樓"
+      },
+      "short_name": "CYT"
+    },
+    {
+      "code": "E9",
+      "latlng": [
+        22.411792245166993,
+        114.21116352081299
+      ],
+      "name": {
+        "ENG": "Hyatt Regency Hong Kong, Shatin",
+        "ZHT": "香港凱悅酒店—沙田"
+      }
+    },
+    {
+      "code": "H31",
+      "latlng": [
+        22.41975654115973,
+        114.21187698841095
+      ],
+      "name": {
+        "ENG": "Nissen Huts",
+        "ZHT": "貯物庫"
+      }
+    },
+    {
+      "code": "H23",
+      "latlng": [
+        22.419379660734425,
+        114.20379281044006
+      ],
+      "name": {
+        "ENG": "Li Dak Sum Building",
+        "ZHT": "李達三樓"
+      },
+      "short_name": "LDS"
+    },
+    {
+      "code": "H4a",
+      "latlng": [
+        22.419280481505147,
+        114.20594930648804
+      ],
+      "name": {
+        "ENG": "West Wing of the Art Museum",
+        "ZHT": "文物館西翼"
+      }
+    },
+    {
+      "code": "H4b",
+      "latlng": [
+        22.419302796837908,
+        114.20614778995514
+      ],
+      "name": {
+        "ENG": "East Wing of the Art Museum",
+        "ZHT": "文物館東翼"
+      },
+      "short_name": "AMEW"
+    },
+    {
+      "code": "H46",
+      "latlng": [
+        22.419171384271113,
+        114.2127138376236
+      ],
+      "name": {
+        "ENG": "Estates Management Office Headquarters",
+        "ZHT": "物業管理處總部"
+      }
+    },
+    {
+      "code": "C38",
+      "latlng": [
+        22.417165467580954,
+        114.20880049467087
+      ],
+      "name": {
+        "ENG": "Pommerenke Student Centre",
+        "ZHT": "龐萬倫學生中心"
+      }
+    },
+    {
+      "code": "C5a",
+      "latlng": [
+        22.416800977754324,
+        114.20636773109436
+      ],
+      "name": {
+        "ENG": "President Chi-tung Yung Memorial Building",
+        "ZHT": "容啟東校長紀念樓"
+      }
+    },
+    {
+      "code": "E13",
+      "latlng": [
+        22.419392058133102,
+        114.21440899372101
+      ],
+      "name": {
+        "ENG": "Satellite Remote Sensing Receiving Station",
+        "ZHT": "衛星遙感地面接收站"
+      }
+    },
+    {
+      "code": "H40a",
+      "latlng": [
+        22.421311162102818,
+        114.20694172382355
+      ],
+      "name": {
+        "ENG": "Fok Ying Tung Remote Sensing Science Building",
+        "ZHT": "霍英東遙感科學館"
+      }
+    },
+    {
+      "code": "A8",
+      "latlng": [
+        22.427462529780026,
+        114.20407176017761
+      ],
+      "name": {
+        "ENG": "Lo Kwee-Seong Integrated Biomedical Sciences Building",
+        "ZHT": "羅桂祥綜合生物醫學大樓"
+      }
+    },
+    {
+      "code": "C39a",
+      "latlng": [
+        22.41635466237821,
+        114.21096503734589
+      ],
+      "name": {
+        "ENG": "Yasumoto International Academic Park",
+        "ZHT": "康本國際學術園"
+      },
+      "short_name": "YIA"
+    },
+    {
+      "code": "C39b",
+      "latlng": [
+        22.416696837628166,
+        114.21161413192749
+      ],
+      "name": {
+        "ENG": "Wu Ho Man Yuen Building",
+        "ZHT": "伍何曼原樓"
+      },
+      "short_name": "WMY"
+    },
+    {
+      "code": "C39c",
+      "latlng": [
+        22.416359621445814,
+        114.21174824237823
+      ],
+      "name": {
+        "ENG": "An Integrated Teaching Building",
+        "ZHT": "綜合教學大樓"
+      },
+      "short_name": "AIT"
+    },
+    {
+      "code": "MC1",
+      "latlng": [
+        22.419032533122063,
+        114.21027839183807
+      ],
+      "name": {
+        "ENG": "Maurice R. Greenberg Building",
+        "ZHT": "格林伯格樓"
+      }
+    },
+    {
+      "code": "MC2",
+      "latlng": [
+        22.41882921511761,
+        114.21028912067413
+      ],
+      "name": {
+        "ENG": "Morningside College Student Hostel (High Block)",
+        "ZHT": "晨興書院學生宿舍（高座）"
+      }
+    },
+    {
+      "code": "SH1",
+      "latlng": [
+        22.418546553007108,
+        114.21005845069885
+      ],
+      "name": {
+        "ENG": "Ho Tim Hall",
+        "ZHT": "何添堂"
+      }
+    },
+    {
+      "code": "SH2",
+      "latlng": [
+        22.418273808320016,
+        114.20976340770721
+      ],
+      "name": {
+        "ENG": "Lee Quo Wei Hall",
+        "ZHT": "利國偉堂"
+      }
+    },
+    {
+      "code": "IH3",
+      "latlng": [
+        22.41998465249923,
+        114.21010673046112
+      ],
+      "name": {
+        "ENG": "International House 3",
+        "ZHT": "國際生舍堂三座"
+      }
+    },
+    {
+      "code": "S4a",
+      "latlng": [
+        22.422617823660076,
+        114.20206546783447
+      ],
+      "name": {
+        "ENG": "Huen Wing Ming Building",
+        "ZHT": "禤永明樓"
+      }
+    },
+    {
+      "code": "CW1",
+      "latlng": [
+        22.425131934836152,
+        114.20645356178284
+      ],
+      "name": {
+        "ENG": "Ina Ho Chan Un Chan Building",
+        "ZHT": "何陳婉珍樓"
+      }
+    },
+    {
+      "code": "CW2",
+      "latlng": [
+        22.424993089647216,
+        114.20615315437317
+      ],
+      "name": {
+        "ENG": "C.W. Chu College Student Hostel",
+        "ZHT": "敬文書院學生宿舍"
+      }
+    },
+    {
+      "code": "YS1",
+      "latlng": [
+        22.42215665039681,
+        114.20241951942444
+      ],
+      "name": {
+        "ENG": "Wu Yee Sun College Student Hostel West Block",
+        "ZHT": "伍宜孫書院學生宿舍西座"
+      }
+    },
+    {
+      "code": "YS2",
+      "latlng": [
+        22.422305416132957,
+        114.20290231704712
+      ],
+      "name": {
+        "ENG": "Wu Yee Sun College Student Hostel East Block",
+        "ZHT": "伍宜孫書院學生宿舍東座"
+      }
+    },
+    {
+      "code": "YS3",
+      "latlng": [
+        22.422404593201836,
+        114.20280575752258
+      ],
+      "name": {
+        "ENG": "Wu Yee Sun College Activity Centre",
+        "ZHT": "伍宜孫書院康體中心"
+      }
+    },
+    {
+      "code": "WS1",
+      "latlng": [
+        22.42222607442684,
+        114.20410394668579
+      ],
+      "name": {
+        "ENG": "Dorothy and Ti-Hua KOO Building",
+        "ZHT": "顧鐵華費肇芬伉儷樓"
+      }
+    },
+    {
+      "code": "WS2",
+      "latlng": [
+        22.422612864815925,
+        114.2044472694397
+      ],
+      "name": {
+        "ENG": "Lee Woo Sing College North Block",
+        "ZHT": "和聲書院北座"
+      }
+    },
+    {
+      "code": "H3b",
+      "latlng": [
+        22.419801171668702,
+        114.20469403266907
+      ],
+      "name": {
+        "ENG": "Li Dak Sum Yip Yio Chin Building",
+        "ZHT": "李達三葉耀珍伉儷樓"
+      }
+    },
+    {
+      "code": "CW3",
+      "latlng": [
+        22.425087306040584,
+        114.20599222183228
+      ],
+      "name": {
+        "ENG": "Marina Tse Chu Building",
+        "ZHT": "朱謝玲玲樓"
+      }
+    }
+  ],
+  "campuses": [
+    {
+      "latlng": [
+        22.41938957865346,
+        114.20692563056946
+      ],
+      "name": {
+        "ENG": "Central Campus",
+        "ZHT": "中央校園"
+      }
+    },
+    {
+      "latlng": [
+        22.415214072123707,
+        114.2094898223877
+      ],
+      "name": {
+        "ENG": "Chung Chi College",
+        "ZHT": "崇基學院"
+      }
+    },
+    {
+      "latlng": [
+        22.42137810711142,
+        114.20880317687988
+      ],
+      "name": {
+        "ENG": "New Asia College",
+        "ZHT": "新亞書院"
+      }
+    },
+    {
+      "latlng": [
+        22.421417778212405,
+        114.20525193214417
+      ],
+      "name": {
+        "ENG": "United College",
+        "ZHT": "聯合書院"
+      }
+    },
+    {
+      "latlng": [
+        22.42287320389422,
+        114.20157998800278
+      ],
+      "name": {
+        "ENG": "Shaw College",
+        "ZHT": "逸夫書院"
+      }
+    },
+    {
+      "latlng": null,
+      "name": {
+        "ENG": "Residential Area",
+        "ZHT": "宿舍"
+      }
+    },
+    {
+      "latlng": [
+        22.41894327159578,
+        114.2127513885498
+      ],
+      "name": {
+        "ENG": "Eastern Campus",
+        "ZHT": "校園東區"
+      }
+    },
+    {
+      "latlng": null,
+      "name": {
+        "ENG": "Morningside College",
+        "ZHT": "晨興書院"
+      }
+    },
+    {
+      "latlng": null,
+      "name": {
+        "ENG": "S.H. Ho College",
+        "ZHT": "善衡書院"
+      }
+    },
+    {
+      "latlng": null,
+      "name": {
+        "ENG": "C.W. Chu College",
+        "ZHT": "敬文書院"
+      }
+    },
+    {
+      "latlng": null,
+      "name": {
+        "ENG": "Wu Yee Sun College",
+        "ZHT": "伍宜孫書院"
+      }
+    },
+    {
+      "latlng": null,
+      "name": {
+        "ENG": "Lee Woo Sing College",
+        "ZHT": "和聲書院"
+      }
+    },
+    {
+      "latlng": [
+        22.427224513366838,
+        114.20476913452148
+      ],
+      "name": {
+        "ENG": "Area 39",
+        "ZHT": "第三十九區"
+      }
+    }
+  ],
+  "colleges": [
+    {
+      "latlng": [
+        22.414985952948896,
+        114.20928597450256
+      ],
+      "name": {
+        "ENG": "Chung Chi College",
+        "ZHT": "崇基學院"
+      }
+    },
+    {
+      "latlng": [
+        22.421611174667362,
+        114.20923233032227
+      ],
+      "name": {
+        "ENG": "New Asia College",
+        "ZHT": "新亞書院"
+      }
+    },
+    {
+      "latlng": [
+        22.42140290155086,
+        114.20514464378357
+      ],
+      "name": {
+        "ENG": "United College",
+        "ZHT": "聯合書院"
+      }
+    },
+    {
+      "latlng": [
+        22.423039324765266,
+        114.20144319534302
+      ],
+      "name": {
+        "ENG": "Shaw College",
+        "ZHT": "逸夫書院"
+      }
+    },
+    {
+      "latlng": [
+        22.422456661134646,
+        114.20440703630447
+      ],
+      "name": {
+        "ENG": "Lee Woo Shing College",
+        "ZHT": "和聲書院"
+      }
+    },
+    {
+      "latlng": [
+        22.419030053635996,
+        114.21043127775192
+      ],
+      "name": {
+        "ENG": "Morningside College",
+        "ZHT": "晨興書院"
+      }
+    },
+    {
+      "latlng": [
+        22.418407701233345,
+        114.20990020036697
+      ],
+      "name": {
+        "ENG": "S.H. Ho College",
+        "ZHT": "善衡書院"
+      }
+    },
+    {
+      "latlng": [
+        22.425052594745196,
+        114.2063570022583
+      ],
+      "name": {
+        "ENG": "C.W. Chu College",
+        "ZHT": "敬文書院"
+      }
+    },
+    {
+      "latlng": [
+        22.422116979506928,
+        114.20258045196533
+      ],
+      "name": {
+        "ENG": "Wu Yee Sun College",
+        "ZHT": "伍宜孫書院"
+      }
+    }
+  ],
+  "facilities": [
+    {
+      "category": {
+        "ENG": "Meeting & Activity Venues / Classrooms & Lectures Theatres",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418323398302963,
+            114.20517951250076
+          ],
+          "name": {
+            "ENG": "Benjamin Franklin Centre Activity Room",
+            "ZHT": "范克廉樓活動室"
+          }
+        },
+        {
+          "latlng": [
+            22.418144874281502,
+            114.20453578233719
+          ],
+          "name": {
+            "ENG": "John Fulton Centre Activity Rooms",
+            "ZHT": "富爾敦樓活動室"
+          }
+        },
+        {
+          "latlng": [
+            22.42096155986691,
+            114.2093476653099
+          ],
+          "name": {
+            "ENG": "Mrs David Lam Hall",
+            "ZHT": "林耀明夫人堂"
+          }
+        },
+        {
+          "latlng": [
+            22.421288847092786,
+            114.20805752277374
+          ],
+          "name": {
+            "ENG": "Staff Common Room, New Asia College",
+            "ZHT": "新亞教職員活動室"
+          }
+        },
+        {
+          "latlng": [
+            22.420902053015684,
+            114.20915186405182
+          ],
+          "name": {
+            "ENG": "Yale-in-China Hall",
+            "ZHT": "雅禮舍"
+          }
+        },
+        {
+          "latlng": [
+            22.4209813954783,
+            114.20598685741425
+          ],
+          "name": {
+            "ENG": "Staff Common Room, United College",
+            "ZHT": "文怡閣"
+          }
+        },
+        {
+          "latlng": [
+            22.422550879249137,
+            114.20091211795807
+          ],
+          "name": {
+            "ENG": "Dr. Tan Siu-lin Terrace",
+            "ZHT": "守仁雅座"
+          }
+        },
+        {
+          "latlng": [
+            22.422751712385093,
+            114.2013493180275
+          ],
+          "name": {
+            "ENG": "Fu Zung Centre",
+            "ZHT": "輔仁中心"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Ordinary Activity Venues",
+        "ZHT": "一般活動室"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Meeting & Activity Venues / Classrooms & Lectures Theatres",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.415975293180914,
+            114.20705437660217
+          ],
+          "name": {
+            "ENG": "Chung Chi College Chapel Lounge",
+            "ZHT": "崇基學生休息室"
+          }
+        },
+        {
+          "latlng": [
+            22.4216285307463,
+            114.20494079589844
+          ],
+          "name": {
+            "ENG": "Si Yuan Amenities Centre",
+            "ZHT": "思源館"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Activity Venues (with Multiple Facilities)",
+        "ZHT": "活動室（附多元設施）"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.4183481932878,
+            114.20469403266907
+          ],
+          "name": {
+            "ENG": "ATM (ETC)",
+            "ZHT": "自動櫃員機（ETC）"
+          }
+        },
+        {
+          "latlng": [
+            22.418489524616817,
+            114.20525193214417
+          ],
+          "name": {
+            "ENG": "ATM (JETCO)",
+            "ZHT": "自動櫃員機（銀通）"
+          }
+        },
+        {
+          "latlng": [
+            22.417048930121357,
+            114.20876026153564
+          ],
+          "name": {
+            "ENG": "ATM (JETCO)",
+            "ZHT": "自動櫃員機（銀通）"
+          }
+        },
+        {
+          "latlng": [
+            22.418278767319123,
+            114.20470476150513
+          ],
+          "name": {
+            "ENG": "ATM (ETC)",
+            "ZHT": "自動櫃員機（ETC）"
+          }
+        },
+        {
+          "latlng": [
+            22.42083758723143,
+            114.20928597450256
+          ],
+          "name": {
+            "ENG": "ATM (JETCO)",
+            "ZHT": "自動櫃員機（銀通）"
+          }
+        },
+        {
+          "latlng": [
+            22.422402113775984,
+            114.20440435409546
+          ],
+          "name": {
+            "ENG": "ATM (ETC)",
+            "ZHT": "自動櫃員機（ETC）"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "ATM Services",
+        "ZHT": "自動櫃員機"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418246533821858,
+            114.20453578233719
+          ],
+          "name": {
+            "ENG": "Hang Seng Bank Ltd",
+            "ZHT": "恒生銀行"
+          }
+        },
+        {
+          "latlng": [
+            22.417048930121357,
+            114.20876026153564
+          ],
+          "name": {
+            "ENG": "The Bank of East Asia",
+            "ZHT": "東亞銀行"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Banks",
+        "ZHT": "銀行"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Sports Facilities & Amenities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.414532193041808,
+            114.20865565538406
+          ],
+          "name": {
+            "ENG": "Chung Chi College Barbecue Site",
+            "ZHT": "崇基燒烤場"
+          }
+        },
+        {
+          "latlng": [
+            22.420626833497113,
+            114.20931547880173
+          ],
+          "name": {
+            "ENG": "New Asia College Barbecue Site",
+            "ZHT": "新亞燒烤場"
+          }
+        },
+        {
+          "latlng": [
+            22.423842652740255,
+            114.20168995857239
+          ],
+          "name": {
+            "ENG": "Shaw College Barbecue Site",
+            "ZHT": "逸夫燒烤場"
+          }
+        },
+        {
+          "latlng": [
+            22.42135827155668,
+            114.21088993549347
+          ],
+          "name": {
+            "ENG": "New Asia College Barbecue Site",
+            "ZHT": "新亞燒烤場"
+          }
+        },
+        {
+          "latlng": [
+            22.422216156710473,
+            114.20411467552185
+          ],
+          "name": {
+            "ENG": "Lee Woo Sing College Barbecue Site",
+            "ZHT": "和聲燒烤場"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Barbecue Site",
+        "ZHT": "燒烤場"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.416374498647595,
+            114.21098113059998
+          ],
+          "name": {
+            "ENG": "The Commercial Press",
+            "ZHT": "商務印書館"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Bookstore",
+        "ZHT": "書店"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Transport",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418033296651544,
+            114.20292377471924
+          ],
+          "name": {
+            "ENG": "University Entrance",
+            "ZHT": "大學正門"
+          }
+        },
+        {
+          "latlng": [
+            22.413049404430595,
+            114.20863419771194
+          ],
+          "name": {
+            "ENG": "Chung Chi College Entrance",
+            "ZHT": "崇基學院正門"
+          }
+        },
+        {
+          "latlng": [
+            22.42220623899324,
+            114.21394228935242
+          ],
+          "name": {
+            "ENG": "East Gate Entrance",
+            "ZHT": "校園東面入口"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Campus Entrances",
+        "ZHT": "大學入口"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Car Parks",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.413309761435958,
+            114.20962393283844
+          ],
+          "name": {
+            "ENG": "University Station",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.415233908555976,
+            114.20727968215942
+          ],
+          "name": {
+            "ENG": "Chen Kou Bun Building / Sino Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41736630850525,
+            114.20752108097076
+          ],
+          "name": {
+            "ENG": "Academic Building No. 1",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418080407217353,
+            114.20733869075775
+          ],
+          "name": {
+            "ENG": "Ho Sin-Hang Engineering Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418863927968697,
+            114.20810043811798
+          ],
+          "name": {
+            "ENG": "Run Run Shaw Science Building",
+            "ZHT": "逸夫科學大樓"
+          }
+        },
+        {
+          "latlng": [
+            22.418710199562256,
+            114.20685052871704
+          ],
+          "name": {
+            "ENG": "Lady Shaw Building (Indoor)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419716869584185,
+            114.20718312263489
+          ],
+          "name": {
+            "ENG": "Run Run Shaw Hall",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418908558764514,
+            114.20494079589844
+          ],
+          "name": {
+            "ENG": "University Administration Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419414373447946,
+            114.20312225818634
+          ],
+          "name": {
+            "ENG": "Fung King Hey Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419761500105878,
+            114.20359969139099
+          ],
+          "name": {
+            "ENG": "Lee Shau Kee Building",
+            "ZHT": "李兆基樓"
+          }
+        },
+        {
+          "latlng": [
+            22.419444127195476,
+            114.2045545578003
+          ],
+          "name": {
+            "ENG": "Tin Ka Ping Building (Indoor)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419146589433254,
+            114.20458406209946
+          ],
+          "name": {
+            "ENG": "Central Steps",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41969703379216,
+            114.20807093381882
+          ],
+          "name": {
+            "ENG": "Choh-Ming Li Basic Medical Sciences Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.413322159376435,
+            114.20926719903946
+          ],
+          "name": {
+            "ENG": "Staff Quarters E",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41535788619354,
+            114.20786440372467
+          ],
+          "name": {
+            "ENG": "Ho Tim Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418105202245563,
+            114.207923412323
+          ],
+          "name": {
+            "ENG": "William M.W. Mong Engineering Building (Indoor)",
+            "ZHT": ""
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Car Parks (Private Use)",
+        "ZHT": "停車場（只供許可證者使用）"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Car Parks",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.413567638369805,
+            114.20855641365051
+          ],
+          "name": {
+            "ENG": "Esther Lee Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.414643773484265,
+            114.20755326747894
+          ],
+          "name": {
+            "ENG": "Hui Yeung Shing Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.4157298184423,
+            114.20748889446259
+          ],
+          "name": {
+            "ENG": "Orchid Lodge",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.415843877465704,
+            114.20701682567596
+          ],
+          "name": {
+            "ENG": "Chung Chi College Chapel",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.416711714793827,
+            114.20608341693878
+          ],
+          "name": {
+            "ENG": "Chapel Road",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41729688204575,
+            114.2065018415451
+          ],
+          "name": {
+            "ENG": "Theology Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418149833285188,
+            114.20807898044586
+          ],
+          "name": {
+            "ENG": "William M.W. Mong Engineering Building (Outdoor)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41897798441837,
+            114.20612096786499
+          ],
+          "name": {
+            "ENG": "Art Museum",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418139915277635,
+            114.20471012592316
+          ],
+          "name": {
+            "ENG": "John Fulton Centre (Behind)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41850688108591,
+            114.2043024301529
+          ],
+          "name": {
+            "ENG": "John Fulton Centre (Front)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418670527687798,
+            114.20388400554657
+          ],
+          "name": {
+            "ENG": "Security & Transport Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419860678991643,
+            114.20268774032593
+          ],
+          "name": {
+            "ENG": "Leung Kau Kui Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.4204755865024,
+            114.20403957366943
+          ],
+          "name": {
+            "ENG": "Tsang Shiu Tim Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.420654107527806,
+            114.20492470264435
+          ],
+          "name": {
+            "ENG": "Humanities Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.421070655694578,
+            114.20627653598785
+          ],
+          "name": {
+            "ENG": "Bethlehem Hall",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.421338435999115,
+            114.20735478401184
+          ],
+          "name": {
+            "ENG": "Cheng Ming Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.420897094110263,
+            114.20814335346222
+          ],
+          "name": {
+            "ENG": "The Amphitheatre",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.421730187736554,
+            114.20810043811798
+          ],
+          "name": {
+            "ENG": "Humanities Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.42142769598588,
+            114.2089694738388
+          ],
+          "name": {
+            "ENG": "Ch'ien Mu Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41981604850182,
+            114.20982241630554
+          ],
+          "name": {
+            "ENG": "Minor Staff Quarters 2",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419612731644442,
+            114.21032667160034
+          ],
+          "name": {
+            "ENG": "Yali Guest House",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419488757804825,
+            114.20995652675629
+          ],
+          "name": {
+            "ENG": "Universtiy Health Centre",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418918476717185,
+            114.20940399169922
+          ],
+          "name": {
+            "ENG": "Pentescostal Mission Hall",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41800106309732,
+            114.20930743217468
+          ],
+          "name": {
+            "ENG": "Estates and Maintenance Building Annex",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418323398302963,
+            114.21070754528046
+          ],
+          "name": {
+            "ENG": "Kwok Sports Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.42017805095009,
+            114.21232759952545
+          ],
+          "name": {
+            "ENG": "Jocky Club Postgraduate Hall (Centre)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.42001440612459,
+            114.21238124370575
+          ],
+          "name": {
+            "ENG": "Jocky Club Postgraduate Hall (Side)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.417321677213838,
+            114.21088457107544
+          ],
+          "name": {
+            "ENG": "Madam S.H. Ho Hall",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.416805936806,
+            114.20920550823212
+          ],
+          "name": {
+            "ENG": "Elisabeth Luce Moore Library",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41611662692454,
+            114.21156585216522
+          ],
+          "name": {
+            "ENG": "Cypress Lodge (Opposite)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41583891837969,
+            114.21117424964905
+          ],
+          "name": {
+            "ENG": "Bamboo Lodge (Opposite)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.415506659212546,
+            114.21088993549347
+          ],
+          "name": {
+            "ENG": "Fong Yun Wah Hall (Opposite)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41561575932521,
+            114.21231687068939
+          ],
+          "name": {
+            "ENG": "Shanghai Fraternity Association Research Services Centre",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.422250868714883,
+            114.21338975429535
+          ],
+          "name": {
+            "ENG": "Hong Kong Institute of Biotechnology",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.42299469529705,
+            114.21363651752472
+          ],
+          "name": {
+            "ENG": "Academic Building No. 2",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.4237484355023,
+            114.20841693878174
+          ],
+          "name": {
+            "ENG": "University Residence No. 16, 17",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.424581512021316,
+            114.20819699764252
+          ],
+          "name": {
+            "ENG": "University Residence No. 10, 11",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.424100510117214,
+            114.20757472515106
+          ],
+          "name": {
+            "ENG": "University Residence No. 13",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.424348449451138,
+            114.20717239379883
+          ],
+          "name": {
+            "ENG": "University Residence No. 12, 13",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.42369884745664,
+            114.2073118686676
+          ],
+          "name": {
+            "ENG": "University Residence No. 14",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.423212883671976,
+            114.20689880847931
+          ],
+          "name": {
+            "ENG": "University Residence No. 15",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.423991416670013,
+            114.20478522777557
+          ],
+          "name": {
+            "ENG": "Postgraduate Hall No. 4",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.421313641548164,
+            114.202880859375
+          ],
+          "name": {
+            "ENG": "University Residence No. 3",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.421422737099224,
+            114.20241415500641
+          ],
+          "name": {
+            "ENG": "University Residence No. 4",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.422032678828277,
+            114.2026287317276
+          ],
+          "name": {
+            "ENG": "University Guest House No. 2",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.422474017107913,
+            114.20185089111328
+          ],
+          "name": {
+            "ENG": "Shaw College Lecture Theatre",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.423356689458906,
+            114.20137882232666
+          ],
+          "name": {
+            "ENG": "Shaw Student Hostel 2 (High Block)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.422553358672346,
+            114.20059025287628
+          ],
+          "name": {
+            "ENG": "Kou Mou Hall (High Block)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419637526399082,
+            114.20942544937134
+          ],
+          "name": {
+            "ENG": "Minor Staff Quarter 3",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.41865813022471,
+            114.20561134815216
+          ],
+          "name": {
+            "ENG": "Culture Centre",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419191220138238,
+            114.2068961262703
+          ],
+          "name": {
+            "ENG": "Lady Shaw Building (Outside)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419079643348912,
+            114.20837134122849
+          ],
+          "name": {
+            "ENG": "Science Centre (South)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418556470985628,
+            114.21425074338913
+          ],
+          "name": {
+            "ENG": "Water Sports Centre",
+            "ZHT": "水上活動中心"
+          }
+        },
+        {
+          "latlng": [
+            22.421953336966325,
+            114.21455651521683
+          ],
+          "name": {
+            "ENG": "Simon F.S. Li Marine Science Laboratory",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.424943502046098,
+            114.20672714710236
+          ],
+          "name": {
+            "ENG": "Tennis Court - Residence No. 12",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.419855720049036,
+            114.20606195926666
+          ],
+          "name": {
+            "ENG": "Pi Ch'iu Bldg - Universsity Library",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.418095284234802,
+            114.21008259057999
+          ],
+          "name": {
+            "ENG": "Estates and Maintenance Building",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.416071995231555,
+            114.20834720134735
+          ],
+          "name": {
+            "ENG": "Ho Tim Building Front - Roadside of Pond Cresent",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.420478065962666,
+            114.20674055814743
+          ],
+          "name": {
+            "ENG": "New Asia Road (Roadside)",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.421065696795175,
+            114.21058148145676
+          ],
+          "name": {
+            "ENG": "Daily Li Hall",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.421757461550538,
+            114.2060324549675
+          ],
+          "name": {
+            "ENG": "Adam Schall Residence",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.42292279223474,
+            114.20495957136154
+          ],
+          "name": {
+            "ENG": "Hang Seng Hall",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.416890240657445,
+            114.20272260904312
+          ],
+          "name": {
+            "ENG": "Vice-Chancellor's Residence",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.42346578340482,
+            114.2045545578003
+          ],
+          "name": {
+            "ENG": "International House 2",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.4245170479453,
+            114.20472890138626
+          ],
+          "name": {
+            "ENG": "Postgraduate Hall No. 6",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.423468262811678,
+            114.20535922050476
+          ],
+          "name": {
+            "ENG": "U.C. Staff Residence",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.416724112430664,
+            114.20746743679047
+          ],
+          "name": {
+            "ENG": "Staff Quarters A & B",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.417197701329115,
+            114.20812994241714
+          ],
+          "name": {
+            "ENG": "Staff Quarter C",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.417691124694088,
+            114.20809239149094
+          ],
+          "name": {
+            "ENG": "Staff Quarter D",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.417239853142334,
+            114.20984923839569
+          ],
+          "name": {
+            "ENG": "Hua Lien Tian & Ming Hua Tang",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.416528229639333,
+            114.2104098200798
+          ],
+          "name": {
+            "ENG": "Ying Lin Tang",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.413339516491217,
+            114.20761227607727
+          ],
+          "name": {
+            "ENG": "Wen Lin Tang",
+            "ZHT": ""
+          }
+        },
+        {
+          "latlng": [
+            22.421127683024928,
+            114.2055469751358
+          ],
+          "name": {
+            "ENG": "T.C. Cheng Building",
+            "ZHT": ""
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Car Parks (Public Use)",
+        "ZHT": "停車場（供大眾使用）"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Libraries / Museum & Galleries / Cultural Facilities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.42014333842745,
+            114.20718848705292
+          ],
+          "name": {
+            "ENG": "Office of the Arts Administrator",
+            "ZHT": "藝術行政主任辦公室"
+          }
+        },
+        {
+          "latlng": [
+            22.420125982162897,
+            114.2071133852005
+          ],
+          "name": {
+            "ENG": "Sir Run Run Shaw Hall",
+            "ZHT": "邵逸夫堂"
+          }
+        },
+        {
+          "latlng": [
+            22.415977772721522,
+            114.20693099498749
+          ],
+          "name": {
+            "ENG": "Chung Chi College Chapel",
+            "ZHT": "崇基禮拜堂"
+          }
+        },
+        {
+          "latlng": [
+            22.4139296571038,
+            114.20863687992096
+          ],
+          "name": {
+            "ENG": "Lee Hysan Concert Hall",
+            "ZHT": "利希慎音樂廳"
+          }
+        },
+        {
+          "latlng": null,
+          "name": {
+            "ENG": "CU Culture Trail",
+            "ZHT": "中大文化徑"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Cultural Facilities",
+        "ZHT": "文化設施"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.4185490325018,
+            114.2053672671318
+          ],
+          "name": {
+            "ENG": "Benjamin Franklin Centre Staff Canteen",
+            "ZHT": "范克廉樓教職員餐廳"
+          }
+        },
+        {
+          "latlng": [
+            22.415975293180914,
+            114.20756667852402
+          ],
+          "name": {
+            "ENG": "Chung Chi College Staff Club",
+            "ZHT": "崇基學院教職員聯誼會會所"
+          }
+        },
+        {
+          "latlng": [
+            22.4209442037046,
+            114.20933693647385
+          ],
+          "name": {
+            "ENG": "New Asia College Staff Canteen",
+            "ZHT": "新亞書院教職員餐廳"
+          }
+        },
+        {
+          "latlng": [
+            22.420780559781935,
+            114.20930206775665
+          ],
+          "name": {
+            "ENG": "New Asia College Yun Chi Hsien",
+            "ZHT": "新亞書院雲起軒"
+          }
+        },
+        {
+          "latlng": [
+            22.421013628340805,
+            114.20582056045532
+          ],
+          "name": {
+            "ENG": "United College Staff Canteen",
+            "ZHT": "聯合書院教職員膳堂聚賢軒"
+          }
+        },
+        {
+          "latlng": [
+            22.421016107791456,
+            114.20587420463562
+          ],
+          "name": {
+            "ENG": "United College Staff Common Room",
+            "ZHT": "聯合書院教職員會所文怡閣"
+          }
+        },
+        {
+          "latlng": [
+            22.41813247677148,
+            114.21006113290787
+          ],
+          "name": {
+            "ENG": "Connexion, S.H. Ho College Staff Common Room",
+            "ZHT": "善衡書院教職員會所「雅薈」"
+          }
+        },
+        {
+          "latlng": [
+            22.41853167603799,
+            114.20931816101074
+          ],
+          "name": {
+            "ENG": "Staff Common Room Clubhouse",
+            "ZHT": "大學教職員會所"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Canteens (Membership Only)",
+        "ZHT": "餐廳（只限會員）"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418112640753165,
+            114.2101576924324
+          ],
+          "name": {
+            "ENG": "Canteen of S.H. Ho College (with Café)",
+            "ZHT": "善衡書院餐廳（附設咖啡閣）"
+          }
+        },
+        {
+          "latlng": [
+            22.41906228695141,
+            114.2103910446167
+          ],
+          "name": {
+            "ENG": "Morningside College Dining Hall",
+            "ZHT": "晨興書院宴會廳"
+          }
+        },
+        {
+          "latlng": [
+            22.41882425613817,
+            114.21026766300201
+          ],
+          "name": {
+            "ENG": "Morningside College Café",
+            "ZHT": "晨興書院咖啡閣"
+          }
+        },
+        {
+          "latlng": [
+            22.419506114149037,
+            114.2084813117981
+          ],
+          "name": {
+            "ENG": "Basic Medical Sciences Building Snack Bar",
+            "ZHT": "李卓敏基本醫學大樓小食店"
+          }
+        },
+        {
+          "latlng": [
+            22.41834075479282,
+            114.20556575059891
+          ],
+          "name": {
+            "ENG": "Benjamin Franklin Centre Coffee Corner",
+            "ZHT": "范克廉樓咖啡閣"
+          }
+        },
+        {
+          "latlng": [
+            22.418323398302963,
+            114.20514732599258
+          ],
+          "name": {
+            "ENG": "Benjamin Franklin Centre Student Canteen",
+            "ZHT": "范克廉樓學生膳堂"
+          }
+        },
+        {
+          "latlng": [
+            22.418273808320016,
+            114.20554965734482
+          ],
+          "name": {
+            "ENG": "Women Cooperative Store",
+            "ZHT": "女工合作社"
+          }
+        },
+        {
+          "latlng": [
+            22.415536413797238,
+            114.2076525092125
+          ],
+          "name": {
+            "ENG": "Orchid Lodge",
+            "ZHT": "蘭苑"
+          }
+        },
+        {
+          "latlng": [
+            22.416610054130075,
+            114.20970439910889
+          ],
+          "name": {
+            "ENG": "Chung Chi College Student Canteen",
+            "ZHT": "崇基學院學生膳堂"
+          }
+        },
+        {
+          "latlng": [
+            22.415008268971658,
+            114.20708924531937
+          ],
+          "name": {
+            "ENG": "Li Wai Chun Building Coffee Shop",
+            "ZHT": "李慧珍樓咖啡室"
+          }
+        },
+        {
+          "latlng": [
+            22.42087725848682,
+            114.20913845300674
+          ],
+          "name": {
+            "ENG": "New Asia College Student Canteen",
+            "ZHT": "新亞書院學生餐廳"
+          }
+        },
+        {
+          "latlng": [
+            22.421068176244894,
+            114.20600831508636
+          ],
+          "name": {
+            "ENG": "United College Student Canteen",
+            "ZHT": "聯合書院學生膳堂"
+          }
+        },
+        {
+          "latlng": [
+            22.412238575202117,
+            114.21060562133789
+          ],
+          "name": {
+            "ENG": "The Stage",
+            "ZHT": "The Stage"
+          }
+        },
+        {
+          "latlng": [
+            22.421383065999667,
+            114.2044472694397
+          ],
+          "name": {
+            "ENG": "United College Si Yuan Amenities Centre",
+            "ZHT": "聯合書院思源館"
+          }
+        },
+        {
+          "latlng": [
+            22.41635466237821,
+            114.21083092689514
+          ],
+          "name": {
+            "ENG": "Café 330",
+            "ZHT": "Café 330"
+          }
+        },
+        {
+          "latlng": [
+            22.422196321275372,
+            114.2042326927185
+          ],
+          "name": {
+            "ENG": "Lee Woo Sing College - WS Pavilion",
+            "ZHT": "和聲書院WS Pavilion"
+          }
+        },
+        {
+          "latlng": [
+            22.419637526399082,
+            114.2038893699646
+          ],
+          "name": {
+            "ENG": "Lee Shau Kee Building Coffee Shop",
+            "ZHT": "李兆基樓咖啡室"
+          }
+        },
+        {
+          "latlng": [
+            22.422216156710395,
+            114.20412540435791
+          ],
+          "name": {
+            "ENG": "Lee Woo Sing College - The Harmony",
+            "ZHT": "和聲滬軒"
+          }
+        },
+        {
+          "latlng": [
+            22.42215665039681,
+            114.20406103134155
+          ],
+          "name": {
+            "ENG": "Lee Woo Sing College - Cafe Tolo",
+            "ZHT": "和聲書院Cafe Tolo"
+          }
+        },
+        {
+          "latlng": [
+            22.425003007165333,
+            114.2062497138977
+          ],
+          "name": {
+            "ENG": "Canteen of C.W. Chu College",
+            "ZHT": "敬文書院餐廳"
+          }
+        },
+        {
+          "latlng": [
+            22.414889250142163,
+            114.20719653367996
+          ],
+          "name": {
+            "ENG": "Ebeneezer's Kebabs & Pizzeria",
+            "ZHT": "清真快餐店"
+          }
+        },
+        {
+          "latlng": [
+            22.422459140559532,
+            114.20081824064255
+          ],
+          "name": {
+            "ENG": "SeeYou@Shaw (with Café)",
+            "ZHT": "逸夫書院餐廳（附設咖啡閣）"
+          }
+        },
+        {
+          "latlng": [
+            22.418323398302967,
+            114.20497566461563
+          ],
+          "name": {
+            "ENG": "Benjamin Franklin Centre Vegetarian Food Shop",
+            "ZHT": "范克廉樓素食餐廳"
+          }
+        },
+        {
+          "latlng": [
+            22.422226074426842,
+            114.20395374298096
+          ],
+          "name": {
+            "ENG": "Lee Woo Sing College - The Green",
+            "ZHT": "和聲書院綠茵廊"
+          }
+        },
+        {
+          "latlng": [
+            22.422136814953337,
+            114.20241951942444
+          ],
+          "name": {
+            "ENG": "Wu Yee Sun College Staff Dining Room",
+            "ZHT": "伍宜孫書院教職員飯堂"
+          }
+        },
+        {
+          "latlng": [
+            22.42203267882843,
+            114.20269846916199
+          ],
+          "name": {
+            "ENG": "Wu Yee Sun College Student Canteen",
+            "ZHT": "伍宜孫書院學生飯堂"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Canteens",
+        "ZHT": "餐廳"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.4182812468186,
+            114.205402135849
+          ],
+          "name": {
+            "ENG": "Local",
+            "ZHT": "本地"
+          }
+        },
+        {
+          "latlng": [
+            22.418933353644878,
+            114.20528411865234
+          ],
+          "name": {
+            "ENG": "Mainland and Overseas (At a charge)",
+            "ZHT": "國內或海外（收費服務）"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Facsimile Service",
+        "ZHT": "傳真服務"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418363070276577,
+            114.20474231243134
+          ],
+          "name": {
+            "ENG": "COMER Hair Salon",
+            "ZHT": "COMER Hair Salon"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Hair Salon",
+        "ZHT": "理髮店"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418350672786048,
+            114.20460283756256
+          ],
+          "name": {
+            "ENG": "Mail Room",
+            "ZHT": "收發室"
+          }
+        },
+        {
+          "latlng": null,
+          "name": {
+            "ENG": "Surface/Air Parcels or Speedpost",
+            "ZHT": "特快專遞、本地及國際包裹"
+          }
+        },
+        {
+          "latlng": [
+            22.418350672786048,
+            114.20460283756256
+          ],
+          "name": {
+            "ENG": "Posting Box",
+            "ZHT": "郵箱"
+          }
+        },
+        {
+          "latlng": [
+            22.41342878161875,
+            114.20817017555237
+          ],
+          "name": {
+            "ENG": "Posting Box",
+            "ZHT": "郵箱"
+          }
+        },
+        {
+          "latlng": [
+            22.413369271540105,
+            114.21032667160034
+          ],
+          "name": {
+            "ENG": "Posting Box",
+            "ZHT": "郵箱"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Mail",
+        "ZHT": "郵遞服務"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Libraries / Museum & Galleries / Cultural Facilities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.419498675716074,
+            114.20491129159927
+          ],
+          "name": {
+            "ENG": "University Library",
+            "ZHT": "大學圖書館"
+          }
+        },
+        {
+          "latlng": [
+            22.41653566823139,
+            114.20866370201111
+          ],
+          "name": {
+            "ENG": "Chung Chi College Elisabeth Luce Moore Library",
+            "ZHT": "崇基學院牟路思怡圖書館"
+          }
+        },
+        {
+          "latlng": [
+            22.42143017542914,
+            114.20852690935135
+          ],
+          "name": {
+            "ENG": "New Asia College Ch'ien Mu Library",
+            "ZHT": "新亞書院錢穆圖書館"
+          }
+        },
+        {
+          "latlng": [
+            22.42090453246833,
+            114.20480400323868
+          ],
+          "name": {
+            "ENG": "United College Wu Chung Multimedia Library",
+            "ZHT": "聯合書院胡忠多媒體圖書館"
+          }
+        },
+        {
+          "latlng": [
+            22.41624556284591,
+            114.2116329073906
+          ],
+          "name": {
+            "ENG": "Architecture Library",
+            "ZHT": "建築學圖書館"
+          }
+        },
+        {
+          "latlng": [
+            22.419483798848937,
+            114.2045545578003
+          ],
+          "name": {
+            "ENG": "Lee Quo Wei Law Library",
+            "ZHT": "利國偉法律圖書館"
+          }
+        },
+        {
+          "latlng": [
+            22.419483798848937,
+            114.20461893081665
+          ],
+          "name": {
+            "ENG": "Universities Service Centre for China Studies",
+            "ZHT": "中國研究服務中心"
+          }
+        },
+        {
+          "latlng": [
+            22.379129394962067,
+            114.20096576213837
+          ],
+          "name": {
+            "ENG": "Li Ping Medical Library",
+            "ZHT": "李炳醫學圖書館"
+          }
+        },
+        {
+          "latlng": null,
+          "name": {
+            "ENG": "The Chinese University of Hong Kong Library",
+            "ZHT": "香港中文大學圖書館"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Libraries",
+        "ZHT": "圖書館"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.419297837875376,
+            114.21027302742004
+          ],
+          "name": {
+            "ENG": "University Health Service (Medical Service)",
+            "ZHT": "大學保健處－診所"
+          }
+        },
+        {
+          "latlng": [
+            22.419307755800258,
+            114.21015232801437
+          ],
+          "name": {
+            "ENG": "University Health Service (Dental Service)",
+            "ZHT": "大學保健處－牙醫"
+          }
+        },
+        {
+          "latlng": [
+            22.415630636606675,
+            114.20707583427429
+          ],
+          "name": {
+            "ENG": "Chinese Medicine Specialty Clinic cum Clinical Teaching and Research Centre",
+            "ZHT": "中醫專科診所暨臨床教硏中心"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Medical Services",
+        "ZHT": "醫療服務"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Meeting & Activity Venues / Classrooms & Lectures Theatres",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.419054848494667,
+            114.2049515247345
+          ],
+          "name": {
+            "ENG": "Cho Yiu Conference Hall",
+            "ZHT": "祖堯堂"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Meeting Rooms",
+        "ZHT": "會議場地"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Libraries / Museum & Galleries / Cultural Facilities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.419312714762434,
+            114.20580446720123
+          ],
+          "name": {
+            "ENG": "Art Museum",
+            "ZHT": "文物館"
+          }
+        },
+        {
+          "latlng": [
+            22.419982173030174,
+            114.20713484287262
+          ],
+          "name": {
+            "ENG": "Foyer Gallery, Sir Run Run Shaw Hall",
+            "ZHT": "邵逸夫堂留足展覽廳"
+          }
+        },
+        {
+          "latlng": [
+            22.41454707043931,
+            114.20808970928192
+          ],
+          "name": {
+            "ENG": "Chung Chi Administration Building Lobbies",
+            "ZHT": "崇基行政樓大堂"
+          }
+        },
+        {
+          "latlng": [
+            22.416468720888528,
+            114.20870661735535
+          ],
+          "name": {
+            "ENG": "Chung Chi College Archive",
+            "ZHT": "崇基學院校史檔案館"
+          }
+        },
+        {
+          "latlng": [
+            22.413959412026276,
+            114.20856177806854
+          ],
+          "name": {
+            "ENG": "Esther Lee Building Lobbies",
+            "ZHT": "利黃瑤璧樓大堂"
+          }
+        },
+        {
+          "latlng": [
+            22.421303723766545,
+            114.20811116695404
+          ],
+          "name": {
+            "ENG": "Hui Gallery",
+            "ZHT": "許氏文化館"
+          }
+        },
+        {
+          "latlng": [
+            22.421244217061954,
+            114.20468330383301
+          ],
+          "name": {
+            "ENG": "Shum Choi Sang United College Archives",
+            "ZHT": "岑才生聯合書院校史文物館"
+          }
+        },
+        {
+          "latlng": [
+            22.42239963435008,
+            114.2017114162445
+          ],
+          "name": {
+            "ENG": "Yueh Chiao Art Gallery",
+            "ZHT": "越喬藝廊"
+          }
+        },
+        {
+          "latlng": [
+            22.419439168238075,
+            114.20505881309509
+          ],
+          "name": {
+            "ENG": "University Gallery",
+            "ZHT": "大學展覽廳"
+          }
+        },
+        {
+          "latlng": [
+            22.421303723766698,
+            114.20815944671631
+          ],
+          "name": {
+            "ENG": "New Asia History Gallery",
+            "ZHT": "新亞校史館"
+          }
+        },
+        {
+          "latlng": [
+            22.41634474424252,
+            114.21086311340332
+          ],
+          "name": {
+            "ENG": "Jockey Club Museum of Climate Change",
+            "ZHT": "賽馬會氣候變化博物館"
+          }
+        },
+        {
+          "latlng": [
+            22.419280481505147,
+            114.2084276676178
+          ],
+          "name": {
+            "ENG": "The Shiu-Ying Hu Herbarium",
+            "ZHT": "胡秀英植物標本館"
+          }
+        },
+        {
+          "latlng": [
+            22.41810024324035,
+            114.21014428138733
+          ],
+          "name": {
+            "ENG": "S.H. Ho College Exhibition Gallery",
+            "ZHT": "善衡書院展覽廊"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Museums & Galleries",
+        "ZHT": "博物館及展覽館"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.4182812468186,
+            114.205402135849
+          ],
+          "name": {
+            "ENG": "Benjamin Franklin Centre Printing Service Office",
+            "ZHT": "學生會影印服務中心"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Photocopying",
+        "ZHT": "影印服務"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Transport",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.412917985947335,
+            114.21080678701401
+          ],
+          "name": {
+            "ENG": "University Railway Station Bus Terminus",
+            "ZHT": "大學鐵路站"
+          }
+        },
+        {
+          "latlng": [
+            22.418335795795937,
+            114.20160412788391
+          ],
+          "name": {
+            "ENG": "Chek Nai Ping (To Tai Po)",
+            "ZHT": "赤泥坪（往大埔）"
+          }
+        },
+        {
+          "latlng": [
+            22.41768120665376,
+            114.20368820428848
+          ],
+          "name": {
+            "ENG": "Chinese University (To Shatin)",
+            "ZHT": "中文大學（往沙田）"
+          }
+        },
+        {
+          "latlng": [
+            22.413391587822588,
+            114.20783221721649
+          ],
+          "name": {
+            "ENG": "Chung Chi College (To Tai Po)",
+            "ZHT": "崇基學院（往大埔）"
+          }
+        },
+        {
+          "latlng": [
+            22.413299843082793,
+            114.20825600624084
+          ],
+          "name": {
+            "ENG": "Chung Chi College (To Shatin)",
+            "ZHT": "崇基學院（往沙田）"
+          }
+        },
+        {
+          "latlng": [
+            22.422474017107913,
+            114.21389937400818
+          ],
+          "name": {
+            "ENG": "Hong Kong Institute Of Biotechnology (To Tai Po)",
+            "ZHT": "香港生物科技研究院（往大埔）"
+          }
+        },
+        {
+          "latlng": [
+            22.422404593201836,
+            114.21414613723755
+          ],
+          "name": {
+            "ENG": "Hong Kong Institute Of Biotechnology (To Shatin)",
+            "ZHT": "香港生物科技研究院（往沙田）"
+          }
+        },
+        {
+          "latlng": [
+            22.41872507651224,
+            114.21394228935242
+          ],
+          "name": {
+            "ENG": "Water Sports Centre (To Tai Po)",
+            "ZHT": "水上活動中心（往大埔）"
+          }
+        },
+        {
+          "latlng": [
+            22.41927056357833,
+            114.21438217163086
+          ],
+          "name": {
+            "ENG": "Water Sports Centre (To Shatin)",
+            "ZHT": "水上活動中心（往沙田）"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Public Transportation (Bus Stops)",
+        "ZHT": "公共交通（巴士站）"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Transport",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.413081639133914,
+            114.21090066432953
+          ],
+          "name": {
+            "ENG": "University Railway Station Bus Terminus",
+            "ZHT": "大學鐵路站"
+          }
+        },
+        {
+          "latlng": [
+            22.418129997269357,
+            114.20188844203949
+          ],
+          "name": {
+            "ENG": "Chek Nai Ping (To Tai Po)",
+            "ZHT": "赤泥坪（往大埔）"
+          }
+        },
+        {
+          "latlng": [
+            22.417782866533496,
+            114.20344948768616
+          ],
+          "name": {
+            "ENG": "Chinese University (To Shatin)",
+            "ZHT": "中文大學（往沙田）"
+          }
+        },
+        {
+          "latlng": [
+            22.41320065951216,
+            114.20799314975739
+          ],
+          "name": {
+            "ENG": "Chung Chi College (To Tai Po)",
+            "ZHT": "崇基學院（往大埔）"
+          }
+        },
+        {
+          "latlng": [
+            22.41339654699599,
+            114.2082130908966
+          ],
+          "name": {
+            "ENG": "Chung Chi College (To Shatin)",
+            "ZHT": "崇基學院（往沙田）"
+          }
+        },
+        {
+          "latlng": [
+            22.422407072627653,
+            114.21395033597946
+          ],
+          "name": {
+            "ENG": "Hong Kong Institute Of Biotechnology (To Tai Po)",
+            "ZHT": "香港生物科技研究院（往大埔）"
+          }
+        },
+        {
+          "latlng": [
+            22.422461619984368,
+            114.21414613723755
+          ],
+          "name": {
+            "ENG": "Hong Kong Institute Of Biotechnology (To Shatin)",
+            "ZHT": "香港生物科技研究院（往沙田）"
+          }
+        },
+        {
+          "latlng": [
+            22.418645732760517,
+            114.21392351388931
+          ],
+          "name": {
+            "ENG": "Water Sports Centre (To Tai Po)",
+            "ZHT": "水上活動中心（往大埔）"
+          }
+        },
+        {
+          "latlng": [
+            22.418499442599423,
+            114.21419709920883
+          ],
+          "name": {
+            "ENG": "Water Sports Centre (To Shatin)",
+            "ZHT": "水上活動中心（往沙田）"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Public Transportation (Mini Bus Stops)",
+        "ZHT": "公共交通（小巴站）"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Transport",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.413421342860318,
+            114.21019524335861
+          ],
+          "name": {
+            "ENG": "University MTR Station (Western Exit)",
+            "ZHT": "港鐵大學站西面出口"
+          }
+        },
+        {
+          "latlng": [
+            22.415471945522366,
+            114.2109489440918
+          ],
+          "name": {
+            "ENG": "University MTR Station (Northern Exit)",
+            "ZHT": "港鐵大學站北面出口"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Public Transportation (MTR Station)",
+        "ZHT": "公共交通（港鐵站）"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418335795795937,
+            114.20460283756256
+          ],
+          "name": {
+            "ENG": "Souvenir Counter",
+            "ZHT": "紀念品銷售處"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Souvenir Counter",
+        "ZHT": "紀念品銷售處"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Sports Facilities & Amenities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418529196542977,
+            114.21105086803436
+          ],
+          "name": {
+            "ENG": "University Gymnasium",
+            "ZHT": "中大體育館"
+          },
+          "short_name": "UG"
+        },
+        {
+          "latlng": [
+            22.420931806444482,
+            114.20935571193695
+          ],
+          "name": {
+            "ENG": "New Asia College Gymnasium",
+            "ZHT": "新亞體育館"
+          },
+          "short_name": "NAG"
+        },
+        {
+          "latlng": [
+            22.420991313282947,
+            114.20607268810272
+          ],
+          "name": {
+            "ENG": "Thomas HC Cheung Gymnasium",
+            "ZHT": "張煊昌體育館"
+          },
+          "short_name": "UCG"
+        },
+        {
+          "latlng": [
+            22.422627741347828,
+            114.20118033885956
+          ],
+          "name": {
+            "ENG": "Shaw College PE Unit",
+            "ZHT": "逸夫體育部"
+          }
+        },
+        {
+          "latlng": null,
+          "name": {
+            "ENG": "Stadiums, Gymnasia, Weight Training Room, Tennis and Squash Courts",
+            "ZHT": "運動場、體育館、健身室、網球場及\r\n壁球室"
+          }
+        },
+        {
+          "latlng": [
+            22.422602947127174,
+            114.2044472694397
+          ],
+          "name": {
+            "ENG": "Lee Woo Sing College Fitness Room",
+            "ZHT": "和聲書院健身室"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Gymnasiums",
+        "ZHT": "體育館"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Sports Facilities & Amenities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.414911566180457,
+            114.20936644077301
+          ],
+          "name": {
+            "ENG": "Lingnan Stadium and Chung Chi College PE Unit",
+            "ZHT": "嶺南運動場及崇基體育部"
+          }
+        },
+        {
+          "latlng": [
+            22.418789543277146,
+            114.21193063259125
+          ],
+          "name": {
+            "ENG": "Sir Philip Haddon-Cave Sports Field",
+            "ZHT": "夏鼎基運動場"
+          },
+          "short_name": "HCF"
+        }
+      ],
+      "name": {
+        "ENG": "Stadiums",
+        "ZHT": "運動場"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Sports Facilities & Amenities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.417996104088314,
+            114.20539677143097
+          ],
+          "name": {
+            "ENG": "Swimming pool",
+            "ZHT": "游泳池"
+          },
+          "short_name": "SP"
+        }
+      ],
+      "name": {
+        "ENG": "Swimming Pool",
+        "ZHT": "游泳池"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Sports Facilities & Amenities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418863927968697,
+            114.21268701553345
+          ],
+          "name": {
+            "ENG": "Central Campus Tennis Court",
+            "ZHT": "中央校園網球場"
+          }
+        },
+        {
+          "latlng": [
+            22.418060571191596,
+            114.21077728271484
+          ],
+          "name": {
+            "ENG": "Central Campus Tennis Court No. 3, 4, 5",
+            "ZHT": "中央校園網球場（三﹑四﹑五號）"
+          },
+          "short_name": "TC"
+        },
+        {
+          "latlng": [
+            22.420331777731725,
+            114.20873880386353
+          ],
+          "name": {
+            "ENG": "New Asia College Tennis Court",
+            "ZHT": "新亞書院網球場"
+          }
+        },
+        {
+          "latlng": [
+            22.420173092018818,
+            114.20336365699768
+          ],
+          "name": {
+            "ENG": "United College Tennis Court",
+            "ZHT": "聯合校園網球場"
+          }
+        },
+        {
+          "latlng": [
+            22.42421952105275,
+            114.20594930648804
+          ],
+          "name": {
+            "ENG": "Residential Area Tennis Court",
+            "ZHT": "宿舍網球場"
+          }
+        },
+        {
+          "latlng": [
+            22.42521127488178,
+            114.20633554458618
+          ],
+          "name": {
+            "ENG": "Residential Area Tennis Court",
+            "ZHT": "宿舍網球場"
+          }
+        },
+        {
+          "latlng": [
+            22.423892240734542,
+            114.20939326286316
+          ],
+          "name": {
+            "ENG": "Residential Area Tennis Court",
+            "ZHT": "宿舍網球場"
+          }
+        },
+        {
+          "latlng": [
+            22.41664228800712,
+            114.20258045196533
+          ],
+          "name": {
+            "ENG": "Vice-Chancellor's Residence Tennis Court",
+            "ZHT": "漢園網球場"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Tennis Courts",
+        "ZHT": "網球場"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Sports Facilities & Amenities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.41850688108591,
+            114.2143365740776
+          ],
+          "name": {
+            "ENG": "Water Sports Centre",
+            "ZHT": "水上活動中心"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Water Sports Centre",
+        "ZHT": "水上活動中心"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.418137435775627,
+            114.20453578233719
+          ],
+          "name": {
+            "ENG": "Fusion Supermarket",
+            "ZHT": "Fusion 超級市場"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Supermarket",
+        "ZHT": "超級市場"
+      }
+    },
+    {
+      "category": null,
+      "locations": [
+        {
+          "latlng": null,
+          "name": {
+            "ENG": "CUHK SIR",
+            "ZHT": "CUHK SIR"
+          }
+        },
+        {
+          "latlng": null,
+          "name": {
+            "ENG": "Easy Search",
+            "ZHT": "檢索易"
+          }
+        },
+        {
+          "latlng": null,
+          "name": {
+            "ENG": "FindIt@CUHK",
+            "ZHT": "FindIt@CUHK"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "E-resources",
+        "ZHT": "電子資源"
+      }
+    },
+    {
+      "category": null,
+      "locations": [
+        {
+          "latlng": [
+            22.419493716760538,
+            114.2052412033081
+          ],
+          "name": {
+            "ENG": "The Beacon",
+            "ZHT": "大學廣場"
+          }
+        },
+        {
+          "latlng": [
+            22.41854407351236,
+            114.20559257268906
+          ],
+          "name": {
+            "ENG": "Cultural Square",
+            "ZHT": "文化廣場"
+          }
+        },
+        {
+          "latlng": [
+            22.4194565245884,
+            114.20635163784027
+          ],
+          "name": {
+            "ENG": "University Mall",
+            "ZHT": "林蔭大道"
+          }
+        },
+        {
+          "latlng": [
+            22.420983874929536,
+            114.20820772647858
+          ],
+          "name": {
+            "ENG": "New Asia Amphitheatre",
+            "ZHT": "新亞書院圓形廣場"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Outdoor Venues",
+        "ZHT": "室外場地"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Meeting & Activity Venues / Classrooms & Lectures Theatres",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.41653566823139,
+            114.20866370201111
+          ],
+          "name": {
+            "ENG": "C.K. Tse Room",
+            "ZHT": "謝昭杰室"
+          },
+          "short_name": "CK TSE"
+        },
+        {
+          "latlng": [
+            22.415588484305086,
+            114.20720994472504
+          ],
+          "name": {
+            "ENG": "Li Koon Chun Hall",
+            "ZHT": "李冠春堂"
+          },
+          "short_name": "LKC"
+        },
+        {
+          "latlng": [
+            22.420051598147317,
+            114.20652061700821
+          ],
+          "name": {
+            "ENG": "Lai Chan Pui Ngong Lecture Theatre",
+            "ZHT": "黎陳佩昂講堂"
+          },
+          "short_name": "LPN LT"
+        },
+        {
+          "latlng": [
+            22.41952099101377,
+            114.20321613550186
+          ],
+          "name": {
+            "ENG": "Swire Hall",
+            "ZHT": "太古堂"
+          },
+          "short_name": "SWH"
+        },
+        {
+          "latlng": [
+            22.417968829535603,
+            114.20725554227829
+          ],
+          "name": {
+            "ENG": "T.Y. Wong Hall",
+            "ZHT": "王統元堂"
+          },
+          "short_name": "TYW LT"
+        },
+        {
+          "latlng": null,
+          "name": {
+            "ENG": "Classrooms and Lecture Theatres",
+            "ZHT": "課室及講堂"
+          }
+        },
+        {
+          "latlng": [
+            22.41926808409651,
+            114.20899361371994
+          ],
+          "name": {
+            "ENG": "Multi-Discipline Laboratories",
+            "ZHT": "通用科際實驗室"
+          },
+          "short_name": "BMS MDL"
+        }
+      ],
+      "name": {
+        "ENG": "Classrooms and Lecture Theatres",
+        "ZHT": "課室及講堂"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Sports Facilities & Amenities",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.420966518770015,
+            114.2055094242096
+          ],
+          "name": {
+            "ENG": "Table Tennis Room",
+            "ZHT": "乒乓球室"
+          },
+          "short_name": "UC TT"
+        }
+      ],
+      "name": {
+        "ENG": "Table Tennis Room",
+        "ZHT": "乒乓球室"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Car Parks",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.41525374498543,
+            114.2114531993866
+          ],
+          "name": {
+            "ENG": "University MTR Station (Northern Exit)",
+            "ZHT": "港鐵大學站北面出口"
+          }
+        },
+        {
+          "latlng": [
+            22.416612533659332,
+            114.21208620071411
+          ],
+          "name": {
+            "ENG": "An Integrated Teaching Building",
+            "ZHT": "綜合教學大樓"
+          }
+        },
+        {
+          "latlng": [
+            22.427472447121723,
+            114.2048978805542
+          ],
+          "name": {
+            "ENG": "Lo Kwee-Seong Integrated Biomedical Sciences Building",
+            "ZHT": "羅桂祥綜合生物醫學大樓"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Park & Ride",
+        "ZHT": "單車停泊處"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.422441784584407,
+            114.20085579156876
+          ],
+          "name": {
+            "ENG": "Shaw College Student Canteen, G/F, Kuo Mou Hall",
+            "ZHT": "國楙樓地下逸夫書院學生飯堂"
+          }
+        },
+        {
+          "latlng": [
+            22.42095164206014,
+            114.2060136795044
+          ],
+          "name": {
+            "ENG": "1/F, 2/F, Cheung Chuk Shan Amenities Building",
+            "ZHT": "張祝珊師生康樂中心1樓及2樓"
+          }
+        },
+        {
+          "latlng": [
+            22.421050820095918,
+            114.2060136795044
+          ],
+          "name": {
+            "ENG": "United College Student Canteen, G/F, Cheung Chuk Shan Amenities Building",
+            "ZHT": "張祝珊師生康樂中心地下聯合書院學生膳堂"
+          }
+        },
+        {
+          "latlng": [
+            22.420812792691052,
+            114.20919209718704
+          ],
+          "name": {
+            "ENG": "New Asia College Student Canteen, LG/F, Staff Student Centre - Leung Hung Kee Building\r\nYun Chi Hsien, G/F, Staff Student Centre - Leung Hung Kee Building",
+            "ZHT": "樂群館－梁雄姬樓地下低層新亞書院學生餐廳\r\n樂群館－梁雄姬樓地下雲起軒"
+          }
+        },
+        {
+          "latlng": [
+            22.41951355258162,
+            114.20854568481445
+          ],
+          "name": {
+            "ENG": "Basic Medical Sciences Building Snack Bar, G/F, Basic Medical Sciences Building",
+            "ZHT": "李卓敏基本醫學大樓地下李卓敏基本醫學大樓小食店"
+          }
+        },
+        {
+          "latlng": [
+            22.41660757460075,
+            114.20969098806381
+          ],
+          "name": {
+            "ENG": "Student Canteen, Chung Chi Tang",
+            "ZHT": "衆志堂崇基學院學生膳堂"
+          }
+        },
+        {
+          "latlng": [
+            22.418313480307816,
+            114.2048978805542
+          ],
+          "name": {
+            "ENG": "Benjamin Franklin Centre Student Centeen, G/F, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓地下范克廉樓學生膳堂"
+          }
+        },
+        {
+          "latlng": [
+            22.41830356231194,
+            114.20553088188171
+          ],
+          "name": {
+            "ENG": "Benjamin Franklin Centre Coffee Corner, G/F, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓地下范克廉樓咖啡閣"
+          }
+        },
+        {
+          "latlng": [
+            22.41812255876268,
+            114.21016305685043
+          ],
+          "name": {
+            "ENG": "Canteen of S.H. Ho College, 1/F, Chan Chun Ha Hall",
+            "ZHT": "陳震夏館1樓善衡書院餐廳"
+          }
+        },
+        {
+          "latlng": [
+            22.418375467766,
+            114.21106964349747
+          ],
+          "name": {
+            "ENG": "University Sports Centre (near main entrance and near staircase at Sports Field entrance)",
+            "ZHT": "大學體育中心（近入口處及夏鼎基運動場入口樓梯處）"
+          }
+        },
+        {
+          "latlng": [
+            22.41850440159045,
+            114.21071022748947
+          ],
+          "name": {
+            "ENG": "1/F, Kwok Sports Building",
+            "ZHT": "汾陽體育館1樓"
+          }
+        },
+        {
+          "latlng": [
+            22.416587738364644,
+            114.20865297317505
+          ],
+          "name": {
+            "ENG": "G/F, 1/F and 2/F, Elisabeth Luce Moore Library",
+            "ZHT": "牟路思怡圖書館地下、1樓及2樓"
+          }
+        },
+        {
+          "latlng": [
+            22.41489172970215,
+            114.2087173461914
+          ],
+          "name": {
+            "ENG": "Lingnan Stadium",
+            "ZHT": "嶺南體育館"
+          }
+        },
+        {
+          "latlng": [
+            22.41955818316864,
+            114.20484155416489
+          ],
+          "name": {
+            "ENG": "LG/F, 1/F, 2/F, 3/F & 4/F, University Library",
+            "ZHT": "大學圖書館低層地下、1樓、2樓、3樓及4樓"
+          }
+        },
+        {
+          "latlng": [
+            22.41980365114098,
+            114.20486837625504
+          ],
+          "name": {
+            "ENG": "G/F, Library Extension",
+            "ZHT": "圖書館擴建大樓地下"
+          }
+        },
+        {
+          "latlng": [
+            22.419654882724693,
+            114.20450091362
+          ],
+          "name": {
+            "ENG": "2/F and 4/F, Tin Ka Ping Building (University Library)",
+            "ZHT": "田家炳樓2樓及4樓（大學圖書館）"
+          }
+        },
+        {
+          "latlng": [
+            22.421450010973587,
+            114.20859932899475
+          ],
+          "name": {
+            "ENG": "G/F and 1/F, Ch'ien Mu Library",
+            "ZHT": "錢穆圖書館地下及1樓"
+          }
+        },
+        {
+          "latlng": [
+            22.420978916027043,
+            114.2092913389206
+          ],
+          "name": {
+            "ENG": "G/F, Staff Student Centre - Leung Hung Kee Building\r\n1/F, Staff Student Centre - Leung Hung Kee Building (Gym)",
+            "ZHT": "樂群館－梁雄姬樓地下\r\n樂群館－梁雄姬樓1樓 (體育館)"
+          }
+        },
+        {
+          "latlng": [
+            22.420959080415265,
+            114.20481473207474
+          ],
+          "name": {
+            "ENG": "G/F, 1/F and 2/F, Wu Chung Multimedia Library",
+            "ZHT": "胡忠多媒體圖書館地下、1樓及2樓"
+          }
+        },
+        {
+          "latlng": [
+            22.421241737615375,
+            114.20467525720596
+          ],
+          "name": {
+            "ENG": "G/F and 5/F, T.C. Cheng Building",
+            "ZHT": "鄭楝材樓地下及5樓"
+          }
+        },
+        {
+          "latlng": [
+            22.423232718961803,
+            114.20172214508057
+          ],
+          "name": {
+            "ENG": "LG4 and LG3, Wen Lan Tang",
+            "ZHT": "文瀾堂LG3及LG4"
+          }
+        },
+        {
+          "latlng": [
+            22.41953834735396,
+            114.20345485210419
+          ],
+          "name": {
+            "ENG": "Swire Hall, Fung King Hey Building",
+            "ZHT": "馮景禧樓太古堂"
+          }
+        },
+        {
+          "latlng": [
+            22.419144109949222,
+            114.20873612165451
+          ],
+          "name": {
+            "ENG": "LG/F, Science Centre East Block",
+            "ZHT": "科學館東座低層地下"
+          }
+        },
+        {
+          "latlng": [
+            22.41972926695276,
+            114.20672714710236
+          ],
+          "name": {
+            "ENG": "1/F, Pi Ch'iu Building",
+            "ZHT": "碧秋樓1樓"
+          }
+        },
+        {
+          "latlng": [
+            22.420106146429305,
+            114.20644283294678
+          ],
+          "name": {
+            "ENG": "1/F, Y.C. Liang Hall",
+            "ZHT": "潤昌堂1樓"
+          }
+        },
+        {
+          "latlng": [
+            22.414980993832238,
+            114.20745134353638
+          ],
+          "name": {
+            "ENG": "2/F, Wong Foo Yuan Building",
+            "ZHT": "王福元樓2樓"
+          }
+        },
+        {
+          "latlng": [
+            22.415434752273256,
+            114.20716166496277
+          ],
+          "name": {
+            "ENG": "4/F, Sino Building",
+            "ZHT": "信和樓4樓"
+          }
+        },
+        {
+          "latlng": [
+            22.417450612016566,
+            114.2064106464386
+          ],
+          "name": {
+            "ENG": "G/F, Theology Building",
+            "ZHT": "神學樓地下"
+          }
+        },
+        {
+          "latlng": [
+            22.418013460619058,
+            114.20721799135208
+          ],
+          "name": {
+            "ENG": "1/F, 9/F and 10/F, Ho Sin-Hang Engineering Building",
+            "ZHT": "何善衡工程學大樓1樓、9樓及10樓"
+          }
+        },
+        {
+          "latlng": [
+            22.41813247677148,
+            114.20787513256073
+          ],
+          "name": {
+            "ENG": "4/F, William M.W. Mong Engineering Building",
+            "ZHT": "蒙民偉工程學大樓4樓"
+          }
+        },
+        {
+          "latlng": [
+            22.419749102740177,
+            114.20351654291153
+          ],
+          "name": {
+            "ENG": "2/F, Lee Shau Kee Building",
+            "ZHT": "李兆基樓2樓"
+          }
+        },
+        {
+          "latlng": [
+            22.412201381087286,
+            114.21073168516159
+          ],
+          "name": {
+            "ENG": "G/F, Cheng Yu Tung Building",
+            "ZHT": "鄭裕彤樓地下"
+          }
+        },
+        {
+          "latlng": [
+            22.421695475601894,
+            114.20828551054001
+          ],
+          "name": {
+            "ENG": "G/F and 2/F, Humanities Building",
+            "ZHT": "人文館地下及2樓"
+          }
+        },
+        {
+          "latlng": [
+            22.414093309098575,
+            114.20840084552765
+          ],
+          "name": {
+            "ENG": "1/F, Esther Lee Building",
+            "ZHT": "利黃瑤壁樓1樓"
+          }
+        },
+        {
+          "latlng": [
+            22.416322428434395,
+            114.2109489440918
+          ],
+          "name": {
+            "ENG": "G/F, 1/F, 2/F, 4/F, 5/F and 6/F, Yasumoto International Academic Park",
+            "ZHT": "康本國際學術園地下、1樓、2樓、4樓、5樓及6樓"
+          }
+        },
+        {
+          "latlng": [
+            22.41658525883494,
+            114.21148538589478
+          ],
+          "name": {
+            "ENG": "2/F, 3/F, 4/F, 6/F and 8/F, Wu Ho Man Yuen Building",
+            "ZHT": "伍何曼原樓2樓、3樓、4樓、6樓及8樓"
+          }
+        },
+        {
+          "latlng": [
+            22.416297633087915,
+            114.21171069145203
+          ],
+          "name": {
+            "ENG": "2/F, 3/F, 4/F, An Integrated Teaching Building",
+            "ZHT": "綜合教學大樓2樓、3樓及4樓"
+          }
+        },
+        {
+          "latlng": [
+            22.418663089210078,
+            114.21241879463196
+          ],
+          "name": {
+            "ENG": "East side of Sir Philip Haddon-Cave Sports Field, under the time display board",
+            "ZHT": "夏鼎基運動場東面時間顯示板下"
+          }
+        },
+        {
+          "latlng": [
+            22.419816048494198,
+            114.20922696590424
+          ],
+          "name": {
+            "ENG": "4/F and 7/F, Mong Man Wai Building",
+            "ZHT": "蒙民偉樓4樓及7樓"
+          }
+        },
+        {
+          "latlng": [
+            22.42235500467625,
+            114.20274138450623
+          ],
+          "name": {
+            "ENG": "Lower Floor, House of Sunny Living, Wu Yee Sun College",
+            "ZHT": "伍宜孫書院如日坊下層"
+          }
+        },
+        {
+          "latlng": [
+            22.418278767319304,
+            114.20521974563599
+          ],
+          "name": {
+            "ENG": "Vegetarian Food Shop, LG/F, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓低層地下素食餐廳"
+          }
+        },
+        {
+          "latlng": [
+            22.42199548733649,
+            114.20270383358002
+          ],
+          "name": {
+            "ENG": "Wu Yee Sun College Student Canteen (with Café), LG/F, West Block, Wu Yee Sun College",
+            "ZHT": "伍宜孫書院學生飯堂（附設咖啡閣）\r\n伍宜孫書院西座地面下層"
+          }
+        },
+        {
+          "latlng": [
+            22.417039012035247,
+            114.20862078666687
+          ],
+          "name": {
+            "ENG": "G/F, 1/F and 3/F, Pommerenke Student Centre",
+            "ZHT": "龐萬倫學生中心地下、1樓、3樓"
+          }
+        },
+        {
+          "latlng": [
+            22.425007965924184,
+            114.20626044273376
+          ],
+          "name": {
+            "ENG": "Canteen of C.W. Chu College, G/F, C.W. Chu College",
+            "ZHT": "敬文書院地下敬文書院餐廳"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Water Dispensers",
+        "ZHT": "飲水機"
+      }
+    },
+    {
+      "category": {
+        "ENG": "Living Essentials",
+        "ZHT": [
+          "facilities_cate_xb5"
+        ]
+      },
+      "locations": [
+        {
+          "latlng": [
+            22.41709852054153,
+            114.20940399169922
+          ],
+          "name": {
+            "ENG": "G/F, Hua Lien Tang",
+            "ZHT": "華連堂地下"
+          }
+        },
+        {
+          "latlng": [
+            22.41697330469665,
+            114.20909956097603
+          ],
+          "name": {
+            "ENG": "G/F, Pommerenke Student Centre",
+            "ZHT": "龐萬倫學生中心地下"
+          }
+        },
+        {
+          "latlng": [
+            22.41737498681025,
+            114.2064817249775
+          ],
+          "name": {
+            "ENG": "Theology Building Car Park",
+            "ZHT": "神學樓停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.418556470985514,
+            114.21428561210632
+          ],
+          "name": {
+            "ENG": "Water Sports Centre",
+            "ZHT": "水上活動中心"
+          }
+        },
+        {
+          "latlng": [
+            22.422656254696193,
+            114.21295657753944
+          ],
+          "name": {
+            "ENG": "Hong Kong Institute of Biotechnology ",
+            "ZHT": "香港生物科技研究院"
+          }
+        },
+        {
+          "latlng": [
+            22.419265604614782,
+            114.2125716805458
+          ],
+          "name": {
+            "ENG": "Estates Management Office Headquarters",
+            "ZHT": "物業管理處總部"
+          }
+        },
+        {
+          "latlng": [
+            22.420187968812254,
+            114.21219080686569
+          ],
+          "name": {
+            "ENG": "G/F, Jockey Club Postgraduate Hall",
+            "ZHT": "賽馬會研究生宿舍地下"
+          }
+        },
+        {
+          "latlng": [
+            22.418216779818852,
+            114.21115547418594
+          ],
+          "name": {
+            "ENG": "Outside University Sports Centre Main Entrance",
+            "ZHT": "大學體育中心正門外"
+          }
+        },
+        {
+          "latlng": [
+            22.418788303531958,
+            114.21018585562706
+          ],
+          "name": {
+            "ENG": "G/F, Morningside College",
+            "ZHT": "晨興書院地下"
+          }
+        },
+        {
+          "latlng": [
+            22.419047410037965,
+            114.21005174517632
+          ],
+          "name": {
+            "ENG": "Morningside College Car Park",
+            "ZHT": "晨興書院停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.418558950480183,
+            114.20954614877701
+          ],
+          "name": {
+            "ENG": "G/F, Pentecostal Mission Hall Complex (High Block)",
+            "ZHT": "五旬節會樓（高座）地下"
+          }
+        },
+        {
+          "latlng": [
+            22.41997349488805,
+            114.2105533182621
+          ],
+          "name": {
+            "ENG": "G/F, Chiangs Building (Postgraduate Hall No. 2)",
+            "ZHT": "曙光樓（研究生宿舍二座）地下"
+          }
+        },
+        {
+          "latlng": [
+            22.420325579074536,
+            114.21023681759834
+          ],
+          "name": {
+            "ENG": "Panacea Lodge Car Park",
+            "ZHT": "芝苑停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.419884233966684,
+            114.2098505795002
+          ],
+          "name": {
+            "ENG": "G/F, International House 3",
+            "ZHT": "國際生舍堂三座地下"
+          }
+        },
+        {
+          "latlng": [
+            22.420453271359204,
+            114.20923233032227
+          ],
+          "name": {
+            "ENG": "7/F, Mong Man Wai Building",
+            "ZHT": "蒙民偉樓7樓"
+          }
+        },
+        {
+          "latlng": [
+            22.419512312842944,
+            114.20798376202583
+          ],
+          "name": {
+            "ENG": "LG/F, Science Centre South Block",
+            "ZHT": "科學館南座低層地下"
+          }
+        },
+        {
+          "latlng": [
+            22.41820314256377,
+            114.20726761221886
+          ],
+          "name": {
+            "ENG": "5/F, Ho Sin-Hang Engineering Building",
+            "ZHT": "何善衡工程學大樓五樓"
+          }
+        },
+        {
+          "latlng": [
+            22.417409700024898,
+            114.20739904046059
+          ],
+          "name": {
+            "ENG": "Car Park at Academic Building No.1",
+            "ZHT": "教研樓一座停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.41810396249449,
+            114.20716568827629
+          ],
+          "name": {
+            "ENG": "Ho Sin-Hang Engineering Building Car Park Exit",
+            "ZHT": "何善衡工程學大樓停車場出口"
+          }
+        },
+        {
+          "latlng": [
+            22.418663089211183,
+            114.20543968677521
+          ],
+          "name": {
+            "ENG": "Staircase to swimming pool near Benjamin Franklin Centre",
+            "ZHT": "范克廉樓旁往泳池樓梯"
+          }
+        },
+        {
+          "latlng": [
+            22.41972926695387,
+            114.2069149017334
+          ],
+          "name": {
+            "ENG": "Sir Run Run Shaw Hall Shuttle Bus Stop",
+            "ZHT": "邵逸夫堂穿梭校巴站"
+          }
+        },
+        {
+          "latlng": [
+            22.419606532955115,
+            114.20661315321922
+          ],
+          "name": {
+            "ENG": "G/F, Pi Ch'iu Building",
+            "ZHT": "碧秋樓地下"
+          }
+        },
+        {
+          "latlng": [
+            22.419732986163154,
+            114.20589968562126
+          ],
+          "name": {
+            "ENG": "Between Sui Loong Pao Building and Pi Ch'iu Building",
+            "ZHT": "碧秋樓與兆龍樓之間"
+          }
+        },
+        {
+          "latlng": [
+            22.419611491906632,
+            114.20557513833046
+          ],
+          "name": {
+            "ENG": "near Sui Loong Pao Building Main Entrance",
+            "ZHT": "近兆龍樓地下正門"
+          }
+        },
+        {
+          "latlng": [
+            22.419321392945843,
+            114.20451298356056
+          ],
+          "name": {
+            "ENG": "Tin Ka Ping Building Car Park",
+            "ZHT": "田家炳樓停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.41974290405716,
+            114.20279636979103
+          ],
+          "name": {
+            "ENG": "Leung Kau Kui Building Car Park",
+            "ZHT": "梁銶琚樓停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.421363230446072,
+            114.21053990721703
+          ],
+          "name": {
+            "ENG": "G/F, Grace Tien Hall",
+            "ZHT": "志文樓地下"
+          }
+        },
+        {
+          "latlng": [
+            22.42101114889009,
+            114.20944154262543
+          ],
+          "name": {
+            "ENG": "Staff Student Centre - Leung Hung Kee Building near the clock tower",
+            "ZHT": "樂群館—梁雄姬樓鐘樓旁"
+          }
+        },
+        {
+          "latlng": [
+            22.421083052942294,
+            114.20928597450256
+          ],
+          "name": {
+            "ENG": "Staff Student Centre - Leung Hung Kee Building Main Entrance",
+            "ZHT": "樂群館 - 梁雄姬樓正門入口"
+          }
+        },
+        {
+          "latlng": [
+            22.421705393355552,
+            114.20837938785553
+          ],
+          "name": {
+            "ENG": "G/F Corridor, Humanities Building",
+            "ZHT": "人文館地下走廊"
+          }
+        },
+        {
+          "latlng": [
+            22.421452490416453,
+            114.20748621225357
+          ],
+          "name": {
+            "ENG": "New Asia College Shuttle Bus Stop",
+            "ZHT": "新亞書院穿梭校巴站"
+          }
+        },
+        {
+          "latlng": [
+            22.421590099425764,
+            114.20600697398186
+          ],
+          "name": {
+            "ENG": "G/F, Bethlehem Hall",
+            "ZHT": "伯利衡宿舍地下"
+          }
+        },
+        {
+          "latlng": [
+            22.414431770567035,
+            114.21027168631554
+          ],
+          "name": {
+            "ENG": "outside University Station Exit C",
+            "ZHT": "大學港鐵站C出口外"
+          }
+        },
+        {
+          "latlng": [
+            22.41409454888575,
+            114.20814201235771
+          ],
+          "name": {
+            "ENG": "G/F, Esther Lee Building",
+            "ZHT": "利黃瑤壁樓地下"
+          }
+        },
+        {
+          "latlng": [
+            22.41532317246621,
+            114.20704364776611
+          ],
+          "name": {
+            "ENG": "G/F, Chen Kou Bun Building",
+            "ZHT": "陳國本樓地下"
+          }
+        },
+        {
+          "latlng": [
+            22.415615759325252,
+            114.21093821525574
+          ],
+          "name": {
+            "ENG": "Car Park at Station Road",
+            "ZHT": "車站路停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.416014965825255,
+            114.21143710613251
+          ],
+          "name": {
+            "ENG": "An Integrated Teaching Building Car Park Exit",
+            "ZHT": "綜合教學大樓停車場出口"
+          }
+        },
+        {
+          "latlng": [
+            22.416065796384512,
+            114.21072229743004
+          ],
+          "name": {
+            "ENG": "G/F, Yasumoto International Academic Park",
+            "ZHT": "康本國際學術園地下"
+          }
+        },
+        {
+          "latlng": [
+            22.416587738364687,
+            114.209363758564
+          ],
+          "name": {
+            "ENG": "G/F, Chung Chi Tang",
+            "ZHT": "眾志堂地下"
+          }
+        },
+        {
+          "latlng": [
+            22.416518311515865,
+            114.21069145202637
+          ],
+          "name": {
+            "ENG": "G/F, Ying Lin Tang",
+            "ZHT": "應林堂地下"
+          }
+        },
+        {
+          "latlng": [
+            22.4175175588862,
+            114.2107692360878
+          ],
+          "name": {
+            "ENG": "Refuse Collection Point next to Madam S.H. Ho Hall",
+            "ZHT": "何善衡夫人宿舍旁垃圾站"
+          }
+        },
+        {
+          "latlng": [
+            22.417351431409596,
+            114.21043932437897
+          ],
+          "name": {
+            "ENG": "G/F, Ming Hua Tang",
+            "ZHT": "明華堂地下"
+          }
+        },
+        {
+          "latlng": [
+            22.42056980596107,
+            114.20476108789444
+          ],
+          "name": {
+            "ENG": "G/F, Tsang Shiu Tim Building",
+            "ZHT": "曾肇添樓地下"
+          }
+        },
+        {
+          "latlng": [
+            22.42052765515852,
+            114.20416563749313
+          ],
+          "name": {
+            "ENG": "Tsang Shiu Tim Building Car Park",
+            "ZHT": "曾肇添樓停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.422912874568027,
+            114.20480400323868
+          ],
+          "name": {
+            "ENG": "G/F, Hang Seng Hall",
+            "ZHT": "恆生樓地下"
+          }
+        },
+        {
+          "latlng": [
+            22.423532727374603,
+            114.2053297162056
+          ],
+          "name": {
+            "ENG": "G/F, U.C. Staff Residence",
+            "ZHT": "聯合苑地下"
+          }
+        },
+        {
+          "latlng": [
+            22.423590993396257,
+            114.20814871788025
+          ],
+          "name": {
+            "ENG": "Between University Residence No.16 and No. 17",
+            "ZHT": "第十六苑與第十七苑之間"
+          }
+        },
+        {
+          "latlng": [
+            22.42429514253178,
+            114.20818626880646
+          ],
+          "name": {
+            "ENG": "G/F, University Residence No.11",
+            "ZHT": "第十一苑地下"
+          }
+        },
+        {
+          "latlng": [
+            22.424820772657217,
+            114.20799314975739
+          ],
+          "name": {
+            "ENG": "G/F, University Residence No.10",
+            "ZHT": "第十苑地下"
+          }
+        },
+        {
+          "latlng": [
+            22.42436456549258,
+            114.20734941959381
+          ],
+          "name": {
+            "ENG": "G/F, University Residence No.13",
+            "ZHT": "第十三苑地下"
+          }
+        },
+        {
+          "latlng": [
+            22.423511652424732,
+            114.2069149017334
+          ],
+          "name": {
+            "ENG": "G/F, University Residence No.15",
+            "ZHT": "第十五苑地下"
+          }
+        },
+        {
+          "latlng": [
+            22.42403232672284,
+            114.2071133852005
+          ],
+          "name": {
+            "ENG": "G/F, University Residence No.14",
+            "ZHT": "第十四苑地下"
+          }
+        },
+        {
+          "latlng": [
+            22.424483576201787,
+            114.20709729194641
+          ],
+          "name": {
+            "ENG": "G/F, University Residence No.12",
+            "ZHT": "第十二苑地下"
+          }
+        },
+        {
+          "latlng": [
+            22.424399276959974,
+            114.20474231243134
+          ],
+          "name": {
+            "ENG": "Between Postgraduate Hall No. 5 and No. 6",
+            "ZHT": "研究生宿舍第五座與第六座之間"
+          }
+        },
+        {
+          "latlng": [
+            22.423856289440526,
+            114.20479595661163
+          ],
+          "name": {
+            "ENG": "G/F, Postgraduate Hall No. 4",
+            "ZHT": "研究生宿舍第四座地下"
+          }
+        },
+        {
+          "latlng": [
+            22.423578596372433,
+            114.20444190502167
+          ],
+          "name": {
+            "ENG": "G/F, International House No. 2",
+            "ZHT": "國際生舍堂二座地下"
+          }
+        },
+        {
+          "latlng": [
+            22.421445052087645,
+            114.20278161764145
+          ],
+          "name": {
+            "ENG": "G/F, University Residence No.3",
+            "ZHT": "第三苑地下"
+          }
+        },
+        {
+          "latlng": [
+            22.422425668319853,
+            114.20114815235138
+          ],
+          "name": {
+            "ENG": "Shaw College Shuttle Bus Stop",
+            "ZHT": "逸夫書院穿梭校巴站"
+          }
+        },
+        {
+          "latlng": [
+            22.422676090065778,
+            114.2014043033123
+          ],
+          "name": {
+            "ENG": "G/F, Kuo Mou Hall (High Block)",
+            "ZHT": "國楙樓（高座）地下"
+          }
+        },
+        {
+          "latlng": [
+            22.419570580552495,
+            114.20811653137207
+          ],
+          "name": {
+            "ENG": "G/F, University Science Centre",
+            "ZHT": "科學館地下"
+          }
+        },
+        {
+          "latlng": [
+            22.413651944187745,
+            114.2093476653099
+          ],
+          "name": {
+            "ENG": "Entrance Piazza",
+            "ZHT": "港鐵大學站廣場"
+          }
+        },
+        {
+          "latlng": [
+            22.41787336859689,
+            114.20993184990948
+          ],
+          "name": {
+            "ENG": "University Sports Centre Shuttle Bus Stop",
+            "ZHT": "大學體育中心穿梭校巴站"
+          }
+        },
+        {
+          "latlng": [
+            22.41570328731603,
+            114.20805859490429
+          ],
+          "name": {
+            "ENG": "Pond Crescent near Orchid Lodge",
+            "ZHT": "池旁路（近蘭苑）"
+          }
+        },
+        {
+          "latlng": [
+            22.415647745501328,
+            114.20751356983601
+          ],
+          "name": {
+            "ENG": "Car Park opposite to Sino Building",
+            "ZHT": "信和樓對面停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.4185304362671,
+            114.20653724579552
+          ],
+          "name": {
+            "ENG": "University Avenue Pavement opposite to Lady Shaw Building",
+            "ZHT": "邵逸夫夫人樓對面大學道行人路"
+          }
+        },
+        {
+          "latlng": [
+            22.41802461834538,
+            114.20805001167992
+          ],
+          "name": {
+            "ENG": "Car Park at G/F, William M.W. Mong Engineering Building",
+            "ZHT": "蒙民偉工程學大樓地下停車場"
+          }
+        },
+        {
+          "latlng": [
+            22.41852448547517,
+            114.20479917431294
+          ],
+          "name": {
+            "ENG": "Refuse Collection Point, Benjamin Franklin Centre",
+            "ZHT": "范克廉樓垃圾收集站"
+          }
+        },
+        {
+          "latlng": [
+            22.417086693501258,
+            114.2086271426706
+          ],
+          "name": {
+            "ENG": "4/F, Pommerenke Student Centre",
+            "ZHT": "龐萬倫學生中心4樓"
+          }
+        }
+      ],
+      "name": {
+        "ENG": "Recycling Bins (Outdoor)",
+        "ZHT": "回收箱（戶外）"
+      }
+    }
+  ]
+}
