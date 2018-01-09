@@ -65,7 +65,7 @@
         "ENG": "Institute of Chinese Studies",
         "ZHT": "中國文化研究所"
       },
-      "short_name": "ICS"
+      "slug": "ICS"
     },
     {
       "code": "H4",
@@ -110,7 +110,7 @@
         "ENG": "Pi Ch'iu Building",
         "ZHT": "碧秋樓"
       },
-      "short_name": "HCA"
+      "slug": "HCA"
     },
     {
       "code": "H8",
@@ -122,7 +122,7 @@
         "ENG": "Y.C. Liang Hall",
         "ZHT": "潤昌堂"
       },
-      "short_name": "LHC"
+      "slug": "LHC"
     },
     {
       "code": "H9",
@@ -134,7 +134,7 @@
         "ENG": "Sir Run Run Shaw Hall",
         "ZHT": "邵逸夫堂"
       },
-      "short_name": "RRS"
+      "slug": "RRS"
     },
     {
       "code": "H10",
@@ -146,7 +146,7 @@
         "ENG": "University Science Centre",
         "ZHT": "科學館"
       },
-      "short_name": "SC"
+      "slug": "SC"
     },
     {
       "code": "H10a",
@@ -158,7 +158,7 @@
         "ENG": "Science Centre East Block",
         "ZHT": "科學館東座"
       },
-      "short_name": "SCE"
+      "slug": "SCE"
     },
     {
       "code": "H11",
@@ -170,7 +170,7 @@
         "ENG": "Choh-Ming Li Basic Medical Sciences Building",
         "ZHT": "李卓敏基本醫學大樓"
       },
-      "short_name": "BMS"
+      "slug": "BMS"
     },
     {
       "code": "H11a",
@@ -314,7 +314,7 @@
         "ENG": "Kwok Sports Building",
         "ZHT": "汾陽體育館"
       },
-      "short_name": "KSB"
+      "slug": "KSB"
     },
     {
       "code": "H23a",
@@ -326,7 +326,7 @@
         "ENG": "Lee Shau Kee Building",
         "ZHT": "李兆基樓"
       },
-      "short_name": "LSK"
+      "slug": "LSK"
     },
     {
       "code": "H24",
@@ -338,7 +338,7 @@
         "ENG": "Lady Shaw Building",
         "ZHT": "邵逸夫夫人樓"
       },
-      "short_name": "LSB"
+      "slug": "LSB"
     },
     {
       "code": "H25",
@@ -350,7 +350,7 @@
         "ENG": "Ho Sin-Hang Engineering Building",
         "ZHT": "何善衡工程學大樓"
       },
-      "short_name": "SHB"
+      "slug": "SHB"
     },
     {
       "code": "H26",
@@ -373,7 +373,7 @@
         "ENG": "Fung King Hey Building",
         "ZHT": "馮景禧樓"
       },
-      "short_name": "KHB"
+      "slug": "KHB"
     },
     {
       "code": "H28",
@@ -385,7 +385,7 @@
         "ENG": "Leung Kau Kui Building",
         "ZHT": "梁銶琚樓"
       },
-      "short_name": "KKB"
+      "slug": "KKB"
     },
     {
       "code": "H29",
@@ -408,7 +408,7 @@
         "ENG": "Mong Man Wai Building",
         "ZHT": "蒙民偉樓"
       },
-      "short_name": "MMW"
+      "slug": "MMW"
     },
     {
       "code": "H32",
@@ -420,7 +420,7 @@
         "ENG": "William M.W. Mong Engineering Building",
         "ZHT": "蒙民偉工程學大樓"
       },
-      "short_name": "ERB"
+      "slug": "ERB"
     },
     {
       "code": "H33",
@@ -465,7 +465,7 @@
         "ENG": "Esther Lee Building",
         "ZHT": "利黃瑤璧樓"
       },
-      "short_name": "ELB"
+      "slug": "ELB"
     },
     {
       "code": "C1a",
@@ -510,7 +510,7 @@
         "ENG": "Hui Yeung Shing Building",
         "ZHT": "許讓成樓"
       },
-      "short_name": "HYS"
+      "slug": "HYS"
     },
     {
       "code": "C3b",
@@ -522,7 +522,7 @@
         "ENG": "Wong Foo Yuan Building",
         "ZHT": "王福元樓"
       },
-      "short_name": "FYB"
+      "slug": "FYB"
     },
     {
       "code": "C3c",
@@ -534,7 +534,7 @@
         "ENG": "Chen Kou Bun Building",
         "ZHT": "陳國本樓"
       },
-      "short_name": "CKB"
+      "slug": "CKB"
     },
     {
       "code": "C3d",
@@ -546,7 +546,7 @@
         "ENG": "Sino Building",
         "ZHT": "信和樓"
       },
-      "short_name": "SB"
+      "slug": "SB"
     },
     {
       "code": "C4",
@@ -558,7 +558,7 @@
         "ENG": "Chung Chi College Chapel",
         "ZHT": "崇基教堂"
       },
-      "short_name": "CCCC"
+      "slug": "CCCC"
     },
     {
       "code": "C5",
@@ -570,7 +570,7 @@
         "ENG": "Theology Building",
         "ZHT": "神學樓"
       },
-      "short_name": "CCT"
+      "slug": "CCT"
     },
     {
       "code": "C6",
@@ -582,7 +582,7 @@
         "ENG": "Lingnan Stadium",
         "ZHT": "嶺南體育館"
       },
-      "short_name": "LN"
+      "slug": "LN"
     },
     {
       "code": "C8",
@@ -594,7 +594,7 @@
         "ENG": "Ho Tim Building",
         "ZHT": "何添樓"
       },
-      "short_name": "HTB"
+      "slug": "HTB"
     },
     {
       "code": "C9",
@@ -859,7 +859,7 @@
         "ENG": "Cheng Ming Building",
         "ZHT": "誠明館"
       },
-      "short_name": "NAA"
+      "slug": "NAA"
     },
     {
       "code": "N2",
@@ -871,7 +871,7 @@
         "ENG": "Humanities Building",
         "ZHT": "人文館"
       },
-      "short_name": "NAH"
+      "slug": "NAH"
     },
     {
       "code": "N3",
@@ -883,7 +883,7 @@
         "ENG": "Ch'ien Mu Library",
         "ZHT": "錢穆圖書館"
       },
-      "short_name": "CML"
+      "slug": "CML"
     },
     {
       "code": "N4",
@@ -961,7 +961,7 @@
         "ENG": "Tsang Shiu Tim Building",
         "ZHT": "曾肇添樓"
       },
-      "short_name": "UCA"
+      "slug": "UCA"
     },
     {
       "code": "U2",
@@ -984,7 +984,7 @@
         "ENG": "T.C. Cheng Building",
         "ZHT": "鄭棟材樓"
       },
-      "short_name": "UCC"
+      "slug": "UCC"
     },
     {
       "code": "U4",
@@ -1084,7 +1084,7 @@
         "ENG": "Wen Lan Tang",
         "ZHT": "文瀾堂"
       },
-      "short_name": "WLS"
+      "slug": "WLS"
     },
     {
       "code": "S4",
@@ -1107,7 +1107,7 @@
         "ENG": "Shaw College Lecture Theatre",
         "ZHT": "大講堂"
       },
-      "short_name": "SWC LT"
+      "slug": "SWC LT"
     },
     {
       "code": "S6",
@@ -1416,7 +1416,7 @@
         "ENG": "Cheng Yu Tung Building",
         "ZHT": "鄭裕彤樓"
       },
-      "short_name": "CYT"
+      "slug": "CYT"
     },
     {
       "code": "E9",
@@ -1450,7 +1450,7 @@
         "ENG": "Li Dak Sum Building",
         "ZHT": "李達三樓"
       },
-      "short_name": "LDS"
+      "slug": "LDS"
     },
     {
       "code": "H4a",
@@ -1473,7 +1473,7 @@
         "ENG": "East Wing of the Art Museum",
         "ZHT": "文物館東翼"
       },
-      "short_name": "AMEW"
+      "slug": "AMEW"
     },
     {
       "code": "H46",
@@ -1551,7 +1551,7 @@
         "ENG": "Yasumoto International Academic Park",
         "ZHT": "康本國際學術園"
       },
-      "short_name": "YIA"
+      "slug": "YIA"
     },
     {
       "code": "C39b",
@@ -1563,7 +1563,7 @@
         "ENG": "Wu Ho Man Yuen Building",
         "ZHT": "伍何曼原樓"
       },
-      "short_name": "WMY"
+      "slug": "WMY"
     },
     {
       "code": "C39c",
@@ -1575,7 +1575,7 @@
         "ENG": "An Integrated Teaching Building",
         "ZHT": "綜合教學大樓"
       },
-      "short_name": "AIT"
+      "slug": "AIT"
     },
     {
       "code": "MC1",
