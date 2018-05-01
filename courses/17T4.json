@@ -781,9 +781,9 @@
                       },
                       "meeting_date": "19/05/2018 - 19/05/2018",
                       "time": {
-                        "begin": 870,
-                        "end": 1140,
-                        "str": "Sa 02:30PM - 07:00PM",
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
                         "weekday": "Sa"
                       }
                     },
@@ -1154,7 +1154,7 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "14/07/2018 - 14/07/2018",
+                      "meeting_date": "21/07/2018 - 28/07/2018",
                       "time": {
                         "begin": 540,
                         "end": 1020,
@@ -1171,41 +1171,7 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "15/07/2018 - 15/07/2018",
-                      "time": {
-                        "begin": 540,
-                        "end": 720,
-                        "str": "Su 09:00AM - 12:00PM",
-                        "weekday": "Su"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "28/07/2018 - 28/07/2018",
-                      "time": {
-                        "begin": 540,
-                        "end": 1020,
-                        "str": "Sa 09:00AM - 05:00PM",
-                        "weekday": "Sa"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "29/07/2018 - 29/07/2018",
+                      "meeting_date": "22/07/2018 - 29/07/2018",
                       "time": {
                         "begin": 540,
                         "end": 720,
@@ -1593,7 +1559,7 @@
               "course": "FINA6516",
               "group": "A",
               "instructors": [
-                "Staff"
+                "Dr. YU Jianfeng"
               ],
               "short_title": "Security Analysis 証券分析"
             },
@@ -1649,7 +1615,7 @@
               "course": "FINA6516",
               "group": "B",
               "instructors": [
-                "Staff"
+                "Dr. YU Jianfeng"
               ],
               "short_title": "Security Analysis 証券分析"
             }
@@ -1692,7 +1658,7 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "09/06/2018 - 16/06/2018",
+                      "meeting_date": "09/06/2018 - 09/06/2018",
                       "time": {
                         "begin": 540,
                         "end": 1020,
@@ -1709,7 +1675,41 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "10/06/2018 - 17/06/2018",
+                      "meeting_date": "10/06/2018 - 10/06/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "28/07/2018 - 28/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "29/07/2018 - 29/07/2018",
                       "time": {
                         "begin": 540,
                         "end": 720,
@@ -1748,7 +1748,7 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "12/05/2018 - 19/05/2018",
+                      "meeting_date": "19/05/2018 - 19/05/2018",
                       "time": {
                         "begin": 540,
                         "end": 1020,
@@ -1765,7 +1765,41 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "13/05/2018 - 20/05/2018",
+                      "meeting_date": "20/05/2018 - 20/05/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "28/07/2018 - 28/07/2018",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "29/07/2018 - 29/07/2018",
                       "time": {
                         "begin": 540,
                         "end": 720,
@@ -1826,7 +1860,7 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "14/07/2018 - 21/07/2018",
+                      "meeting_date": "30/06/2018 - 30/06/2018",
                       "time": {
                         "begin": 540,
                         "end": 1020,
@@ -1843,7 +1877,7 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "15/07/2018 - 22/07/2018",
+                      "meeting_date": "01/07/2018 - 01/07/2018",
                       "time": {
                         "begin": 540,
                         "end": 720,
@@ -2016,7 +2050,7 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "30/06/2018 - 07/07/2018",
+                      "meeting_date": "23/06/2018 - 30/06/2018",
                       "time": {
                         "begin": 540,
                         "end": 1020,
@@ -2033,7 +2067,7 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "01/07/2018 - 08/07/2018",
+                      "meeting_date": "24/06/2018 - 01/07/2018",
                       "time": {
                         "begin": 540,
                         "end": 720,
@@ -2170,7 +2204,7 @@
                       },
                       "location": {
                         "building": "WMY",
-                        "slug": "WMY_304"
+                        "slug": "WMY_303"
                       },
                       "meeting_date": "12/03/2018 - 26/03/2018",
                       "time": {
@@ -2187,7 +2221,7 @@
                       },
                       "location": {
                         "building": "WMY",
-                        "slug": "WMY_304"
+                        "slug": "WMY_303"
                       },
                       "meeting_date": "09/04/2018 - 30/04/2018",
                       "time": {
@@ -2945,9 +2979,9 @@
                       },
                       "meeting_date": "19/05/2018 - 19/05/2018",
                       "time": {
-                        "begin": 525,
-                        "end": 795,
-                        "str": "Sa 08:45AM - 01:15PM",
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
                         "weekday": "Sa"
                       }
                     },
@@ -3046,7 +3080,7 @@
               "course": "MGNT5021",
               "group": "AE",
               "instructors": [
-                "Professor Syeda Noorein INAMDAR"
+                "Professor Carl Felix FEY"
               ],
               "short_title": "Managing Human Resources 人力資源管理"
             }
@@ -3082,8 +3116,8 @@
                   "meets": [
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "building": null,
@@ -3099,8 +3133,8 @@
                     },
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "building": null,
@@ -3116,8 +3150,8 @@
                     },
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "building": null,
@@ -3133,8 +3167,8 @@
                     },
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "building": null,
@@ -3201,7 +3235,7 @@
                         "building": "ELB",
                         "slug": "ELB_LT2"
                       },
-                      "meeting_date": "14/05/2018 - 11/06/2018",
+                      "meeting_date": "14/05/2018 - 21/05/2018",
                       "time": {
                         "begin": 570,
                         "end": 795,
@@ -3238,8 +3272,25 @@
                       "meeting_date": "17/05/2018 - 17/05/2018",
                       "time": {
                         "begin": 570,
-                        "end": 855,
-                        "str": "Th 09:30AM - 02:15PM",
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_LT2"
+                      },
+                      "meeting_date": "24/05/2018 - 24/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
                         "weekday": "Th"
                       }
                     },
@@ -3252,12 +3303,12 @@
                         "building": "ELB",
                         "slug": "ELB_LT2"
                       },
-                      "meeting_date": "24/05/2018 - 24/05/2018",
+                      "meeting_date": "28/05/2018 - 28/05/2018",
                       "time": {
-                        "begin": 570,
-                        "end": 795,
-                        "str": "Th 09:30AM - 01:15PM",
-                        "weekday": "Th"
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
                       }
                     },
                     {
@@ -3286,12 +3337,46 @@
                         "building": "ELB",
                         "slug": "ELB_LT2"
                       },
+                      "meeting_date": "04/06/2018 - 04/06/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Mo 09:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
                       "meeting_date": "07/06/2018 - 21/06/2018",
                       "time": {
                         "begin": 570,
                         "end": 795,
                         "str": "Th 09:30AM - 01:15PM",
                         "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "11/06/2018 - 11/06/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
                       }
                     },
                     {
@@ -3318,14 +3403,14 @@
                       },
                       "location": {
                         "building": "ELB",
-                        "slug": "ELB_303"
+                        "slug": "ELB_LT2"
                       },
-                      "meeting_date": "11/06/2018 - 11/06/2018",
+                      "meeting_date": "23/06/2018 - 23/06/2018",
                       "time": {
-                        "begin": 510,
+                        "begin": 570,
                         "end": 735,
-                        "str": "Mo 08:30AM - 12:15PM",
-                        "weekday": "Mo"
+                        "str": "Sa 09:30AM - 12:15PM",
+                        "weekday": "Sa"
                       }
                     },
                     {
@@ -3357,8 +3442,8 @@
                       "meeting_date": "28/06/2018 - 28/06/2018",
                       "time": {
                         "begin": 570,
-                        "end": 915,
-                        "str": "Th 09:30AM - 03:15PM",
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
                         "weekday": "Th"
                       }
                     },
@@ -3371,7 +3456,7 @@
                         "building": "ELB",
                         "slug": "ELB_401"
                       },
-                      "meeting_date": "09/07/2018 - 09/07/2018",
+                      "meeting_date": "16/07/2018 - 16/07/2018",
                       "time": {
                         "begin": 510,
                         "end": 795,
@@ -3388,7 +3473,7 @@
                         "building": "ELB",
                         "slug": "ELB_403"
                       },
-                      "meeting_date": "09/07/2018 - 09/07/2018",
+                      "meeting_date": "16/07/2018 - 16/07/2018",
                       "time": {
                         "begin": 510,
                         "end": 795,
@@ -3414,31 +3499,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "17/05/2018 - 17/05/2018",
-                      "time": {
-                        "begin": 870,
-                        "end": 975,
-                        "str": "Th 02:30PM - 04:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "24/05/2018 - 24/05/2018",
                       "time": {
-                        "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
                         "weekday": "Th"
                       }
                     },
@@ -3448,31 +3516,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "31/05/2018 - 31/05/2018",
-                      "time": {
-                        "begin": 930,
-                        "end": 1035,
-                        "str": "Th 03:30PM - 05:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "07/06/2018 - 21/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
                         "weekday": "Th"
                       }
                     }
@@ -3494,31 +3545,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "17/05/2018 - 17/05/2018",
-                      "time": {
-                        "begin": 870,
-                        "end": 975,
-                        "str": "Th 02:30PM - 04:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "24/05/2018 - 24/05/2018",
                       "time": {
-                        "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
                         "weekday": "Th"
                       }
                     },
@@ -3528,31 +3562,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "31/05/2018 - 31/05/2018",
-                      "time": {
-                        "begin": 930,
-                        "end": 1035,
-                        "str": "Th 03:30PM - 05:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "07/06/2018 - 21/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
                         "weekday": "Th"
                       }
                     }
@@ -3574,31 +3591,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "17/05/2018 - 17/05/2018",
-                      "time": {
-                        "begin": 870,
-                        "end": 975,
-                        "str": "Th 02:30PM - 04:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "24/05/2018 - 24/05/2018",
                       "time": {
-                        "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
                         "weekday": "Th"
                       }
                     },
@@ -3608,31 +3608,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "31/05/2018 - 31/05/2018",
-                      "time": {
-                        "begin": 930,
-                        "end": 1035,
-                        "str": "Th 03:30PM - 05:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "07/06/2018 - 21/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
                         "weekday": "Th"
                       }
                     }
@@ -3654,31 +3637,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "17/05/2018 - 17/05/2018",
-                      "time": {
-                        "begin": 870,
-                        "end": 975,
-                        "str": "Th 02:30PM - 04:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "24/05/2018 - 24/05/2018",
                       "time": {
-                        "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
                         "weekday": "Th"
                       }
                     },
@@ -3688,31 +3654,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "31/05/2018 - 31/05/2018",
-                      "time": {
-                        "begin": 930,
-                        "end": 1035,
-                        "str": "Th 03:30PM - 05:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "07/06/2018 - 21/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
                         "weekday": "Th"
                       }
                     }
@@ -3734,31 +3683,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "17/05/2018 - 17/05/2018",
-                      "time": {
-                        "begin": 870,
-                        "end": 975,
-                        "str": "Th 02:30PM - 04:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "24/05/2018 - 24/05/2018",
                       "time": {
-                        "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
                         "weekday": "Th"
                       }
                     },
@@ -3768,31 +3700,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "31/05/2018 - 31/05/2018",
-                      "time": {
-                        "begin": 930,
-                        "end": 1035,
-                        "str": "Th 03:30PM - 05:15PM",
-                        "weekday": "Th"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "07/06/2018 - 21/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 975,
-                        "str": "Th 01:30PM - 04:15PM",
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
                         "weekday": "Th"
                       }
                     }
@@ -3814,15 +3729,168 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "NRR"
+                        "building": "HYS",
+                        "slug": "HYS_306"
                       },
-                      "meeting_date": "14/05/2018 - 26/06/2018",
+                      "meeting_date": "17/05/2018 - 17/05/2018",
                       "time": {
-                        "begin": -1,
-                        "end": -1,
-                        "str": "TBA",
-                        "weekday": "TBA"
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Th 01:30PM - 03:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "HYS",
+                        "slug": "HYS_303"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Th 01:30PM - 03:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "FYB",
+                        "slug": "FYB_106"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Th 01:30PM - 03:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "FYB",
+                        "slug": "FYB_105"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Th 01:30PM - 03:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CKB",
+                        "slug": "CKB_123"
+                      },
+                      "meeting_date": "17/05/2018 - 17/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Th 01:30PM - 03:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "FYB",
+                        "slug": "FYB_603"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "HYS",
+                        "slug": "HYS_306"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "HYS",
+                        "slug": "HYS_303"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "FYB",
+                        "slug": "FYB_106"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "FYB",
+                        "slug": "FYB_105"
+                      },
+                      "meeting_date": "31/05/2018 - 31/05/2018",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Th 03:30PM - 05:15PM",
+                        "weekday": "Th"
                       }
                     }
                   ],
@@ -3835,7 +3903,14 @@
               "course": "NURS6306",
               "group": "-",
               "instructors": [
-                "Dr. WONG Yuk Shim"
+                "Dr. CHIANG Chung Yan",
+                "Dr. LO Hoi Shan",
+                "Dr. WONG Yuk Shim",
+                "Miss TANG Pui Yin",
+                "Mr. HA Kong Nam",
+                "Ms. LING Cheuk Chi",
+                "Ms. NGAN Hau Yi",
+                "Professor LI Wai Chi"
               ],
               "short_title": "Care for Cli W/ AcuChro Ill I 急性及慢性疾病護理 III"
             }
@@ -3877,10 +3952,27 @@
                         "drop": false
                       },
                       "location": {
+                        "building": "CKB",
+                        "slug": "CKB_LT3"
+                      },
+                      "meeting_date": "14/05/2018 - 14/05/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Mo 01:30PM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
                         "building": "ELB",
                         "slug": "ELB_LT2"
                       },
-                      "meeting_date": "14/05/2018 - 11/06/2018",
+                      "meeting_date": "21/05/2018 - 11/06/2018",
                       "time": {
                         "begin": 810,
                         "end": 1035,
@@ -3948,28 +4040,11 @@
                         "building": "ELB",
                         "slug": "ELB_LT2"
                       },
-                      "meeting_date": "09/07/2018 - 09/07/2018",
+                      "meeting_date": "28/06/2018 - 28/06/2018",
                       "time": {
                         "begin": 810,
                         "end": 1035,
-                        "str": "Mo 01:30PM - 05:15PM",
-                        "weekday": "Mo"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": "ELB",
-                        "slug": "ELB_403"
-                      },
-                      "meeting_date": "19/07/2018 - 19/07/2018",
-                      "time": {
-                        "begin": 510,
-                        "end": 1035,
-                        "str": "Th 08:30AM - 05:15PM",
+                        "str": "Th 01:30PM - 05:15PM",
                         "weekday": "Th"
                       }
                     },
@@ -3989,6 +4064,23 @@
                         "str": "Th 08:30AM - 05:15PM",
                         "weekday": "Th"
                       }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_403"
+                      },
+                      "meeting_date": "19/07/2018 - 19/07/2018",
+                      "time": {
+                        "begin": 510,
+                        "end": 1035,
+                        "str": "Th 08:30AM - 05:15PM",
+                        "weekday": "Th"
+                      }
                     }
                   ],
                   "quota": {
@@ -4000,7 +4092,8 @@
               "course": "NURS6317",
               "group": "-",
               "instructors": [
-                "Dr. TANG Wing Ki"
+                "Dr. TANG Wing Ki",
+                "Professor CHENG Ho Yu"
               ],
               "short_title": "Mental Health Nursing 精神科護理"
             }
@@ -4057,8 +4150,8 @@
                         "drop": false
                       },
                       "location": {
-                        "building": "ELB",
-                        "slug": "ELB_LT2"
+                        "building": "SC",
+                        "slug": "SC_L2"
                       },
                       "meeting_date": "08/06/2018 - 08/06/2018",
                       "time": {
@@ -4074,14 +4167,14 @@
                         "drop": false
                       },
                       "location": {
-                        "building": "ELB",
-                        "slug": "ELB_LT2"
+                        "building": "SC",
+                        "slug": "SC_L3"
                       },
                       "meeting_date": "15/06/2018 - 15/06/2018",
                       "time": {
                         "begin": 570,
-                        "end": 675,
-                        "str": "Fr 09:30AM - 11:15AM",
+                        "end": 735,
+                        "str": "Fr 09:30AM - 12:15PM",
                         "weekday": "Fr"
                       }
                     },
@@ -4091,8 +4184,8 @@
                         "drop": false
                       },
                       "location": {
-                        "building": "ELB",
-                        "slug": "ELB_LT2"
+                        "building": "SC",
+                        "slug": "SC_L2"
                       },
                       "meeting_date": "22/06/2018 - 22/06/2018",
                       "time": {
@@ -4128,11 +4221,11 @@
                         "building": "ELB",
                         "slug": "ELB_401"
                       },
-                      "meeting_date": "16/07/2018 - 16/07/2018",
+                      "meeting_date": "09/07/2018 - 09/07/2018",
                       "time": {
                         "begin": 510,
-                        "end": 1035,
-                        "str": "Mo 08:30AM - 05:15PM",
+                        "end": 795,
+                        "str": "Mo 08:30AM - 01:15PM",
                         "weekday": "Mo"
                       }
                     },
@@ -4145,11 +4238,11 @@
                         "building": "ELB",
                         "slug": "ELB_403"
                       },
-                      "meeting_date": "16/07/2018 - 16/07/2018",
+                      "meeting_date": "09/07/2018 - 09/07/2018",
                       "time": {
                         "begin": 510,
-                        "end": 1035,
-                        "str": "Mo 08:30AM - 05:15PM",
+                        "end": 795,
+                        "str": "Mo 08:30AM - 01:15PM",
                         "weekday": "Mo"
                       }
                     }
@@ -4171,8 +4264,8 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
                       "meeting_date": "08/06/2018 - 08/06/2018",
                       "time": {
@@ -4188,14 +4281,31 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_405"
                       },
-                      "meeting_date": "15/06/2018 - 22/06/2018",
+                      "meeting_date": "15/06/2018 - 15/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 1035,
-                        "str": "Fr 01:30PM - 05:15PM",
+                        "end": 975,
+                        "str": "Fr 01:30PM - 04:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "22/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Fr 01:30PM - 03:15PM",
                         "weekday": "Fr"
                       }
                     }
@@ -4237,11 +4347,28 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "15/06/2018 - 22/06/2018",
+                      "meeting_date": "15/06/2018 - 15/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 1035,
-                        "str": "Fr 01:30PM - 05:15PM",
+                        "end": 975,
+                        "str": "Fr 01:30PM - 04:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "22/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Fr 01:30PM - 03:15PM",
                         "weekday": "Fr"
                       }
                     }
@@ -4263,8 +4390,8 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_407"
                       },
                       "meeting_date": "08/06/2018 - 08/06/2018",
                       "time": {
@@ -4280,14 +4407,31 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_407"
                       },
-                      "meeting_date": "15/06/2018 - 22/06/2018",
+                      "meeting_date": "15/06/2018 - 15/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 1035,
-                        "str": "Fr 01:30PM - 05:15PM",
+                        "end": 975,
+                        "str": "Fr 01:30PM - 04:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "22/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Fr 01:30PM - 03:15PM",
                         "weekday": "Fr"
                       }
                     }
@@ -4329,11 +4473,28 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "15/06/2018 - 22/06/2018",
+                      "meeting_date": "15/06/2018 - 15/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 1035,
-                        "str": "Fr 01:30PM - 05:15PM",
+                        "end": 975,
+                        "str": "Fr 01:30PM - 04:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "22/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Fr 01:30PM - 03:15PM",
                         "weekday": "Fr"
                       }
                     }
@@ -4355,8 +4516,8 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_414"
                       },
                       "meeting_date": "08/06/2018 - 08/06/2018",
                       "time": {
@@ -4372,14 +4533,31 @@
                         "drop": false
                       },
                       "location": {
-                        "building": null,
-                        "slug": "TBA"
+                        "building": "BMS",
+                        "slug": "BMS_414"
                       },
-                      "meeting_date": "15/06/2018 - 22/06/2018",
+                      "meeting_date": "15/06/2018 - 15/06/2018",
                       "time": {
                         "begin": 810,
-                        "end": 1035,
-                        "str": "Fr 01:30PM - 05:15PM",
+                        "end": 975,
+                        "str": "Fr 01:30PM - 04:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "22/06/2018 - 22/06/2018",
+                      "time": {
+                        "begin": 810,
+                        "end": 915,
+                        "str": "Fr 01:30PM - 03:15PM",
                         "weekday": "Fr"
                       }
                     }
@@ -4393,7 +4571,10 @@
               "course": "NURS6320",
               "group": "-",
               "instructors": [
-                "Ms KWAN Siu Kuen"
+                "Dr. LO Hoi Shan",
+                "Miss TANG Pui Yin",
+                "Ms. CHAN Mei Fung Wendy",
+                "Ms. KWAN Siu Kuen"
               ],
               "short_title": "Paed & Adolescent Nursing 兒童及青少年護理"
             }
@@ -4437,11 +4618,11 @@
                         "building": "ELB",
                         "slug": "ELB_LT3"
                       },
-                      "meeting_date": "02/05/2018 - 23/05/2018",
+                      "meeting_date": "02/05/2018 - 02/05/2018",
                       "time": {
                         "begin": 570,
-                        "end": 1035,
-                        "str": "We 09:30AM - 05:15PM",
+                        "end": 975,
+                        "str": "We 09:30AM - 04:15PM",
                         "weekday": "We"
                       }
                     },
@@ -4454,11 +4635,11 @@
                         "building": "ELB",
                         "slug": "ELB_LT3"
                       },
-                      "meeting_date": "03/05/2018 - 17/05/2018",
+                      "meeting_date": "03/05/2018 - 03/05/2018",
                       "time": {
                         "begin": 570,
-                        "end": 1035,
-                        "str": "Th 09:30AM - 05:15PM",
+                        "end": 975,
+                        "str": "Th 09:30AM - 04:15PM",
                         "weekday": "Th"
                       }
                     },
@@ -4471,11 +4652,11 @@
                         "building": "ELB",
                         "slug": "ELB_LT3"
                       },
-                      "meeting_date": "04/05/2018 - 18/05/2018",
+                      "meeting_date": "04/05/2018 - 04/05/2018",
                       "time": {
-                        "begin": 570,
-                        "end": 1035,
-                        "str": "Fr 09:30AM - 05:15PM",
+                        "begin": 630,
+                        "end": 975,
+                        "str": "Fr 10:30AM - 04:15PM",
                         "weekday": "Fr"
                       }
                     },
@@ -4488,11 +4669,11 @@
                         "building": "ELB",
                         "slug": "ELB_LT3"
                       },
-                      "meeting_date": "07/05/2018 - 21/05/2018",
+                      "meeting_date": "07/05/2018 - 07/05/2018",
                       "time": {
                         "begin": 570,
-                        "end": 1035,
-                        "str": "Mo 09:30AM - 05:15PM",
+                        "end": 975,
+                        "str": "Mo 09:30AM - 04:15PM",
                         "weekday": "Mo"
                       }
                     },
@@ -4505,12 +4686,80 @@
                         "building": "ELB",
                         "slug": "ELB_LT3"
                       },
-                      "meeting_date": "08/05/2018 - 15/05/2018",
+                      "meeting_date": "08/05/2018 - 08/05/2018",
+                      "time": {
+                        "begin": 630,
+                        "end": 975,
+                        "str": "Tu 10:30AM - 04:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "09/05/2018 - 09/05/2018",
                       "time": {
                         "begin": 570,
-                        "end": 1035,
-                        "str": "Tu 09:30AM - 05:15PM",
-                        "weekday": "Tu"
+                        "end": 915,
+                        "str": "We 09:30AM - 03:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "FYB",
+                        "slug": "FYB_LT4"
+                      },
+                      "meeting_date": "14/05/2018 - 14/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 675,
+                        "str": "Mo 09:30AM - 11:15AM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_405"
+                      },
+                      "meeting_date": "18/05/2018 - 18/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Fr 09:30AM - 01:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_403"
+                      },
+                      "meeting_date": "18/05/2018 - 18/05/2018",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Fr 09:30AM - 01:15PM",
+                        "weekday": "Fr"
                       }
                     }
                   ],
@@ -4552,7 +4801,8 @@
               "course": "NURS6424",
               "group": "-",
               "instructors": [
-                "Professor CHAN Wai Kiu"
+                "Professor CHAN Wai Kiu",
+                "Professor SIT Wing Hung Janet"
               ],
               "short_title": "Comple & Alt Medicine 補充替代醫學"
             }
@@ -4594,7 +4844,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "23/04/2018 - 23/07/2018",
                       "time": {
@@ -4611,7 +4861,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "24/04/2018 - 24/07/2018",
                       "time": {
@@ -4628,7 +4878,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "25/04/2018 - 25/07/2018",
                       "time": {
@@ -4645,7 +4895,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "26/04/2018 - 26/07/2018",
                       "time": {
@@ -4662,7 +4912,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "NRR"
                       },
                       "meeting_date": "27/04/2018 - 27/07/2018",
                       "time": {
@@ -4682,7 +4932,7 @@
               "course": "NURS6501",
               "group": "-",
               "instructors": [
-                "Mr HA Kong Nam"
+                "Mr. HA Kong Nam"
               ],
               "short_title": "Clinical Practice Block I 臨床實習 I"
             }
