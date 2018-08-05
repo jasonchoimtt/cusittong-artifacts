@@ -1,0 +1,4141 @@
+{
+  "careers": {
+    "TPG": {
+      "courses": {
+        "ACCT5550": {
+          "groups": {
+            "P": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "13/04/2019 - 13/04/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Sa 09:00AM - 06:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "14/04/2019 - 14/04/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Su 09:00AM - 06:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "18/05/2019 - 18/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Sa 09:00AM - 06:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "19/05/2019 - 19/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Su 09:00AM - 06:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT5550",
+              "group": "P",
+              "instructors": [
+                "Professor HUANG Hui"
+              ],
+              "short_title": "Business Law 商法"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "The first part of the course is designed to introduce students to the principles underlying the interpretation of a contract, the vitiation of a contract, the discharge of contract and remedies for the breach of contract. It will also consider the fundamental of the law of employment and the law relating to the sale of goods. The second part of the course will examine issues pertaining to corporate governance and how these affect the various constituent components of the modern company.",
+              "ZHS": "本学科的第一部分将向学员介绍合同解释、合同失效、合同履行和违约救济的原则，还将探讨劳动法和商品销售法的基本内容。本学科的第二部分将检验与公司治理有关的主题以及这些因素如何影响现代企业的各个利害相关方。",
+              "ZHT": "本學科的第一部分將向學員介紹合同解釋、合同失效、合同履行和違約救濟的原則，還將探討勞動法和商品銷售法的基本內容。本學科的第二部分將檢驗與公司治理有關的主題以及這些因素如何影響現代企業的各個利害相關方。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA (Chinese)",
+            "title": {
+              "ENG": "Business Law",
+              "ZHS": "商法",
+              "ZHT": "商法"
+            },
+            "units": "3.00"
+          }
+        },
+        "ACCT5650": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "25/05/2019 - 01/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "26/05/2019 - 02/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT5650",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Co Law & Security Law of China 中國公司法與証券法"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course provides an introduction to the legal system of China’s capital market. Topics covered include: the corporate governance of companies, the process of companies going-public, the information disclosure requirement of listed companies, and security trading regulations in China.",
+              "ZHS": "本科目提供对中国公司法与证券法的简介。主要内容包括公司管治、公司上市程式、资讯披露的有关规定和要求及中国证券交易的有关法规。",
+              "ZHT": "本科目提供對中國公司法與証券法的簡介。主要內容包括公司管治、公司上市程式、資訊披露的有關規定和要求及中國証券交易的有關法規。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Company Law and Security Law of China",
+              "ZHS": "中国公司法和证券法",
+              "ZHT": "中國公司法與証券法"
+            },
+            "units": "1.50"
+          }
+        },
+        "ACCT6140": {
+          "groups": {
+            "C": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "20/05/2019 - 23/07/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 75,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT6140",
+              "group": "C",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Acct Info Sys & Internal Contr 會計信息系統和內部控制"
+            },
+            "D": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "20/05/2019 - 23/07/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT6140",
+              "group": "D",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Acct Info Sys & Internal Contr 會計信息系統和內部控制"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course consists of two related areas. This first part analyzes information systems from a management control perspective, emphasizing organization environment, technology, decision models and performance evaluation as determinants of information processing requirements; cases and design projects explore the management of information processing systems, major functional applications and impacts of information technology on individuals and society. The second part introduces the systems, procedures, and processes management employed to control operating activities, information reporting systems, and compliance with applicable laws, rules and regulations. Topics include design and evaluation perspectives of control environment, risk assessment, control activities , information and communication and monitoring.",
+              "ZHS": "",
+              "ZHT": "本科目由兩個相關的領域組成。第一部分從管理控制的角度分析資訊系統，強調組織環境、技術、決策模型以及績效評估在資訊處理過程中的決定性作用; 以案例和類比專案的形式來探究資訊處理系統的管理、主要功能的應用以及資訊技術對個人和社會的影響。第二部分介紹如何採用資訊系統、資訊程式和流程管理模組來控制作業、控制資訊報告系統、控制相應法律法規的遵守。討論內容包括：設計控制環境、風險評估、控制活動、資訊、溝通、監控，並對之加以評估。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Executive Master of Professional Accountancy; or Master of Accountancy",
+            "title": {
+              "ENG": "Accounting Information Systems and Internal Control",
+              "ZHS": "会计信息系统和内部控制",
+              "ZHT": "會計信息系統和內部控制"
+            },
+            "units": "3.00"
+          }
+        },
+        "DSME6010": {
+          "groups": {
+            "P": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "11/04/2019 - 11/04/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Th 09:00AM - 06:00PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "12/04/2019 - 12/04/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Fr 09:00AM - 06:00PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "16/05/2019 - 16/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Th 09:00AM - 06:00PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "17/05/2019 - 17/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Fr 09:00AM - 06:00PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "DSME6010",
+              "group": "P",
+              "instructors": [
+                "Professor SHI Kang"
+              ],
+              "short_title": "Managerial Economics 管理經濟學"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "In this course economic analysis is applied to the management decision-making process. Topics to be treated include management decision-making under different situations, demand measurement and forecasting, production and cost, pricing, and capital budgeting. The course consists of lectures, exercises and discussions, and student group presentations of assigned problems and cases.\r\rGrade descriptors:\rA Outstanding performance on all learning outcomes.\rA- Generally outstanding performance on all (or almost all) learning outcomes.\rB Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD Barely satisfactory performance on a number of learning outcomes.\rF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "",
+              "ZHT": "本學科將經濟分析應用於管理決策流程中。探討的主題包括不同情境下的管理決策、需求衡量與預測、生產與成本、定價和資本預算編制。本學科包括課堂講課、練習和討論，還將涉及學生小組針對所分配的問題和案例進行的小組報告。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Managerial Economics",
+              "ZHS": "管理经济学",
+              "ZHT": "管理經濟學"
+            },
+            "units": "3.00"
+          }
+        },
+        "DSME6350": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "11/05/2019 - 18/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "12/05/2019 - 19/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "DSME6350",
+              "group": "A",
+              "instructors": [
+                "Professor CAO Jie"
+              ],
+              "short_title": "Financial Data Modeling & Anal 金融數據建模與分析"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "25/05/2019 - 01/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "26/05/2019 - 02/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "DSME6350",
+              "group": "B",
+              "instructors": [
+                "Professor CAO Jie"
+              ],
+              "short_title": "Financial Data Modeling & Anal 金融數據建模與分析"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course is designed to cover mathematical and statistical/econometric techniques to financial issues, i.e. regression, time-series methods, forecasting models and simulation in financial applications. It shows students how to apply such techniques in the context of finance. For example, discussion of a number of distributions pays special attention to heavy tail, skewness and other distribution features with regard to financial return analysis. Time-series analyses aim to explain the important influence of time-dependence in making economical predictions. Regression models cover CAPM as well as multifactor models to connote the cross-section relations among financial returns. GARCH and other volatility models introduce the related applications in risk management context. The course involves extensive use of real data examples and hands-on examples.",
+              "ZHS": "本科目讲授在金融分析方面如何运用数学，统计学与计量经济学方面的知识。内容包括金融数据的回归与时间序列分析，预测与模拟及其在金融领域的应用。例如，本科目将讲解如何应用概率模型进行投资回报分析，时间性因素对经济预测的影响，回归分析与资本资产定价建模，以及各种风控模型的应用。本科目将广泛采用真实金融数据为例并进行实际分析操作。",
+              "ZHT": "本科目講授在金融分析方面如何運用數學，統計學與計量經濟學方面的知識。內容包括金融數據的回歸與時間序列分析，預測與模擬及其在金融領域的應用。例如，本科目將講解如何應用概率模型進行投資回報分析，時間性因素對經濟預測的影響，回歸分析與資本資產定價建模，以及各種風控模型的應用。本科目將廣泛採用真實金融數據為例並進行實際分析操作。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Financial Data Modeling and Analysis",
+              "ZHS": "金融数据建模与分析",
+              "ZHT": "金融數據建模與分析"
+            },
+            "units": "1.50"
+          }
+        },
+        "EMBA6061": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "S1": {
+                  "class": "S1",
+                  "component": "SEM",
+                  "department": "Div of Business Administration",
+                  "language": "C&E&P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "16/05/2019 - 19/05/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6061",
+              "group": "AE",
+              "instructors": [
+                "Professor DU Timon Chih Ting"
+              ],
+              "short_title": "Sem on Bus & Magt Issues 工商管理問題研討"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Seminar": "Required",
+              "Visit": "Optional"
+            },
+            "description": {
+              "ENG": "This course addresses the latest development in the fields of business and management. Some relevant topics such as electronic business, leadership, corporate governance, social and cultural issues, entrepreneurship, start-ups and IPOs, cross cultural business management, etc. would be incorporated in this seminar course.",
+              "ZHS": "",
+              "ZHT": "本科目關注工商管理領域的最新發展，涵蓋的議題包括電子商務、領導才能、企業管治、社會和文化議題、企業家精神、創業和首次公開募股、跨文化企業管理等。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Seminar on Business and Management Issues",
+              "ZHS": "工商管理问题研讨",
+              "ZHT": "工商管理問題研討"
+            },
+            "units": "3.00"
+          }
+        },
+        "EMBA6062": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "F1": {
+                  "class": "F1",
+                  "component": "FLD",
+                  "department": "Div of Business Administration",
+                  "language": "C&E&P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "05/05/2019 - 05/05/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Su 02:30PM - 07:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "01/06/2019 - 01/06/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/07/2019 - 12/07/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6062",
+              "group": "AE",
+              "instructors": [
+                "Professor CHAN Chi Bong Dominic"
+              ],
+              "short_title": "Selected Topics in Bus & Magt 商業與管理專題討論"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Field Studies/Field-trip": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to expose our participants to a wide spectrum of global, regional and local business and management issues.  To facilitate effective learning, specific topics will be selected for incorporating in this course: examples include trade, economics, technology, finance, market, ventures, politics, corporate governance, management practices, as well as various societal concerns.  Throughout this course, lectures, talks, and site visits, in the local and/or international arena, will be conducted to enable participants to identify in-depth the gist behind certain selected management and business topics and to come up with insights to help corporations make better decisions in the future. This course consists of an introductory review, followed by an intensive study week in the local and/or international arena. Participants have to report their learning and insights with other students after the study week.",
+              "ZHS": "",
+              "ZHT": "本科目旨在讓學生了解廣泛的環球、地區和本地工商管理議題。為強化學習，本科目特別選取了一系列議題，包括貿易、經濟、科技、金融、市場、創投、政治、企業管治、管理實務以及各種社會議題。學生將在本地和/或國際場合參加講座、演講和實地考察，深入了解科目涉及的工商管理基本概念，並就改善企業未來決策提出建言。內容包括課程簡介，以及隨後開展的本地和/或國際範圍內的深入研究周。學生在研究周後將與其他同學合作，報告學習心得。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Selected Topics in Business and Management",
+              "ZHS": "商业与管理专题讨论",
+              "ZHT": "商業與管理專題討論"
+            },
+            "units": "3.00"
+          }
+        },
+        "EMBA6071": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "F1": {
+                  "class": "F1",
+                  "component": "FLD",
+                  "department": "Div of Business Administration",
+                  "language": "C&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "12/05/2019 - 12/05/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Su 02:30PM - 07:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "18/05/2019 - 18/05/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 1140,
+                        "str": "Sa 08:45AM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "26/05/2019 - 26/05/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Su 02:30PM - 07:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "09/06/2019 - 09/06/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Su 02:30PM - 07:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "17/06/2019 - 21/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_403"
+                      },
+                      "meeting_date": "27/07/2019 - 27/07/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 1095,
+                        "str": "Sa 08:45AM - 06:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "28/07/2019 - 28/07/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 1140,
+                        "str": "Su 08:45AM - 07:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6071",
+              "group": "AE",
+              "instructors": [
+                "Professor CHAN Chi Fai Andrew"
+              ],
+              "short_title": "Global Bus & Mgt Field Study 環球工商管理考察研究"
+            },
+            "P": {
+              "classes": {
+                "F01": {
+                  "class": "F01",
+                  "component": "FLD",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "22/07/2019 - 22/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Mo 09:00AM - 06:00PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/07/2019 - 23/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Tu 09:00AM - 06:00PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "24/07/2019 - 24/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "We 09:00AM - 06:00PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "25/07/2019 - 25/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Th 09:00AM - 06:00PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "26/07/2019 - 26/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Fr 09:00AM - 06:00PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6071",
+              "group": "P",
+              "instructors": [
+                "Professor YEUNG Hoi Yan Jeff"
+              ],
+              "short_title": "Global Bus & Mgt Field Study 環球工商管理考察研究"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Field Studies/Field-trip": "Required",
+              "Lecture": "Optional"
+            },
+            "description": {
+              "ENG": "This course consists of preparatory assignments and a written study plan, followed by a five-day study week in a selected place outside Hong Kong. Students have to submit a written report and make oral presentation of their work. The goal in taking classroom sessions abroad is to expose our participants to a wide spectrum of issues related to global business and management. Students will be exposed to different national environments, advantages and problems associated with various forms of international operations, and management strategies of international firms.",
+              "ZHS": "",
+              "ZHT": "本科目要求學生在做足準備工作，並制定書面研究計劃後，在香港境外的指定地點展開為期五天的考察周。學生需要提交關於考察工作的書面報告，並做口頭報告。將課室教學擴展到香港境外，目的是讓學生探索環球工商管理涉及的諸多議題。學生能藉此接觸到不同的國家環境、多種國際商業經營模式及其各自優劣，以及跨國企業的管理策略。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Global Business and Management Field Study",
+              "ZHS": "环球工商管理考察研究",
+              "ZHT": "環球工商管理考察研究"
+            },
+            "units": "3.00"
+          }
+        },
+        "FINA5010": {
+          "groups": {
+            "P": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "20/06/2019 - 20/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Th 09:00AM - 06:00PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "21/06/2019 - 21/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Fr 09:00AM - 06:00PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "22/06/2019 - 22/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Sa 09:00AM - 06:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "CYT",
+                        "slug": "CYT_LT3"
+                      },
+                      "meeting_date": "23/06/2019 - 23/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Su 09:00AM - 06:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA5010",
+              "group": "P",
+              "instructors": [
+                "Professor HAO Jia"
+              ],
+              "short_title": "Financial Management 財務管理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This offering provides an overview and analysis of financial decision-making within the corporate setting. Various facets of financial management are tackled from both theoretical and applied perspectives. Key topic areas include capital budgeting, the concept of risk and expected returns, valuation of stocks and bonds, capital structure theory and its applications, cost of capital, corporate dividend policy, working capital management and equity fund-raising methods.\r\rGrade descriptors:\rA / A- Outstanding performance on all learning outcomes.\rB+ / B / B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC+ / C / C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD+ / D Barely satisfactory performance on a number of learning outcomes\rF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "",
+              "ZHT": "本學科提供了企業環境中財務決策的概覽及分析。從理論和應用的觀點，去應對各個方面的財務管理。重要課題包括資本預算，風險概念和預期收益，股票和債券估值，資本結構理論及其應用，資本成本，企業股利政策，營運資本管理和股權集資的方法。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese); or MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme; or PgD Professional Accountancy; or Master of Accountancy",
+            "title": {
+              "ENG": "Financial Management",
+              "ZHS": "财务管理",
+              "ZHT": "財務管理"
+            },
+            "units": "3.00"
+          }
+        },
+        "FINA5015": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "27/04/2019 - 27/04/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "28/04/2019 - 28/04/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "11/05/2019 - 11/05/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "12/05/2019 - 12/05/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "25/05/2019 - 25/05/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "26/05/2019 - 26/05/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "08/06/2019 - 08/06/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "09/06/2019 - 09/06/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA5015",
+              "group": "AE",
+              "instructors": [
+                "Professor Paul Brian MCGUINNESS"
+              ],
+              "short_title": "CorpFinAnalysis DecisionMaking 企業財務分析與決策"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course offers a framework for analyzing a firm’s major financial decision choices. Pertinent decision areas include assessment of the following: capital budgeting, investment selection and appraisal, risk analysis, financial planning, dividend policy, cash and working capital management, external fund raising and determination of corporate leverage.\r\rGrade descriptors: \rA/A- Outstanding performance on all learning outcomes. \rB+/B/B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. \rC+/C/C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. \rD+/D Barely satisfactory performance on a number of learning outcomes. \rF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "This course offers a framework for analyzing a firm’s major financial decision choices. Pertinent decision areas include assessment of the following: capital budgeting, investment selection and appraisal, risk analysis, financial planning, dividend policy, cash and working capital management, external fund raising and determination of corporate leverage.\r\rGrade descriptors: \rA/A- Outstanding performance on all learning outcomes. \rB+/B/B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. \rC+/C/C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. \rD+/D Barely satisfactory performance on a number of learning outcomes. \rF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHT": "本學科提供了一個分析企業主要財務決策的概覽。決策範圍包括：資本預算丶投資選擇和評估丶風險分析丶財務規劃丶股利政策丶現金和周轉資金管理，外部籌資和企業槓桿的決定。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA",
+            "title": {
+              "ENG": "Corporate Financial Analysis & Decision-Making",
+              "ZHS": "Corporate Financial Analysis & Decision-Making",
+              "ZHT": "企業財務分析與決策"
+            },
+            "units": "3.00"
+          }
+        },
+        "FINA6122": {
+          "groups": {
+            "C": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "20/05/2019 - 23/07/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 70,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6122",
+              "group": "C",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Fin Markets & Instruments 金融市場與工具"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "Financial markets play a pivotal and central role in the formation of investment capital and, therefore, societal wealth. This function, in addition to many others, is explored in this course. Attention will also focus on the forms and structures of financial markets (i.e., stock, futures, gold and foreign exchange markets) both locally and internationally. Within this brief, detailed consideration is also given to the various institutions participating in the markets and to the form and functions of instruments quoted.\r\rGrade descriptors:\rA / A- Outstanding performance on all learning outcomes.\rB+ / B / B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC+ / C / C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD+ / D Barely satisfactory performance on a number of learning outcomes\rF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "",
+              "ZHT": "金融市場在籌集投資資本過程中起著至關重要的作用，從而對社會財富的形成也會產生重要影響。本科目研究金融市場的這一功能，同時也研究其他諸多功能。科目重點關注國際、國內金融市場的特徵和結構（如股票、債券、衍生品、黃金市場及外匯市場）。同時，詳細論述金融市場上的各種參與主體以及金融工具的功能和特徵。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA; or Master of Accountancy; or Executive Master of Professional Accountancy",
+            "title": {
+              "ENG": "Financial Markets and Instruments",
+              "ZHS": "金融市场与工具",
+              "ZHT": "金融市場與工具"
+            },
+            "units": "3.00"
+          }
+        },
+        "FINA6511": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "22/06/2019 - 29/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/06/2019 - 30/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6511",
+              "group": "A",
+              "instructors": [
+                "Professor YEH Jia Hsing"
+              ],
+              "short_title": "Insurance & Risk Management 保險與風險管理"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "22/06/2019 - 29/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/06/2019 - 30/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6511",
+              "group": "B",
+              "instructors": [
+                "Professor YEH Jia Hsing"
+              ],
+              "short_title": "Insurance & Risk Management 保險與風險管理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course deals with risk management functions in business; the identification and measurement of business loss exposures; major tools of risk management; analysis of insurance contracts and their uses; methods and problems of insurance pricing; operations of insurers and major insurances policies; family property and liability risk management; and government regulation of insurance.",
+              "ZHS": "本科目讲授公司的风险管理职能，界定及衡量亏蚀风险；风险管理的工具；保险合约的分析与功用；保险定价方法；保险公司的运作与主要经营策略，家庭财产与责任风险管理及政府的管理措施。",
+              "ZHT": "本科目講授公司的風險管理職能，界定及衡量虧蝕風險；風險管理的工具；保險合約的分析與功用；保險定價方法；保險公司的運作與主要經營策略，家庭財產與責任風險管理及政府的管理措施。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Insurance and Risk Management",
+              "ZHS": "保险与风险管理",
+              "ZHT": "保險與風險管理"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6512": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "08/06/2019 - 15/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "09/06/2019 - 16/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6512",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Merg, Acq & Recon of Corp Fin 兼併、收購與財務重組"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "08/06/2019 - 15/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "09/06/2019 - 16/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6512",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Merg, Acq & Recon of Corp Fin 兼併、收購與財務重組"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course integrates areas within financial management and investments to analyse merger and acquisition (takeover) markets. The class will be conducted using both lectures and presentations. The topics covered in lectures will include the overview of takeover markets, legal aspects and restrictions, capital budgeting techniques, the efficient market hypothesis, the market model and computation of abnormal returns, the dividend discount model and the free cash flow model. The topics covered in presentation will include US and Hong Kong cases of mergers, tender offers and leverage buyouts. The class is required to apply the efficient market hypothesis to analyse the stock market responses to takeover announcements. In addition, consideration will be given to welfare gains/losses associated with takeover, the cost of capital for due acquirer and the intrinsic value of the target (using dividend discount and free cashflow models).",
+              "ZHS": "本科目综合财务管理及投资学以分析兼并市场，上课形式采用教师授课和学生做课堂报告。讲授内容包括：兼并市场综览；相关法例；资金预算技巧；效率市场假说；市场回报定价模型及超正常回报率计算；股息折价模型和有关资金模型。课堂报告题目包括：美国、香港和中国大陆地区的兼并个案和以高贷回购股票的兼并。同学将应用有效市场假说来分析收购消息对市价的影响。 还包括分析因兼并而产生的整体社会益处与坏处，收购者的资本成本与被购者的内在价值 ( 可用股息折价及有关资金模型来分析 ) 。",
+              "ZHT": "本科目綜合財務管理及投資學以分析兼併市場，上課形式採用教師授課和學生做課堂報告。講授內容包括：兼併市場綜覽；相關法例；資金預算技巧；效率市場假說；市場回報定價模型及超正常回報率計算；股息折價模型和有關資金模型。課堂報告題目包括：美國、香港和中國大陸地區的兼併個案和以高貸回購股票的兼併。同學將應用有效市場假說來分析收購消息對市價的影響。 還包括分析因兼併而產生的整體社會益處與壞處，收購者的資本成本與被購者的內在價值 ( 可用股息折價及有關資金模型來分析 ) 。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Merger, Acquisition and Reconstruction of Corporate Finance",
+              "ZHS": "兼并、收购与财务重组",
+              "ZHT": "兼併、收購與財務重組"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6514": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "22/06/2019 - 29/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/06/2019 - 30/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6514",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Finance 財務專題"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/07/2019 - 13/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/07/2019 - 14/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6514",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Finance 財務專題"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "Topics and issues in subfields of finance are addressed in this course.\r\rGrade descriptors:\rA / A- : Outstanding performance on all learning outcomes\rB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD+ / D : Barely satisfactory performance on a number of learning outcomes.\rF : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "此科目著重探討當今與財務相關的熱門課題。\r\r“等級說明”請參閱英文版本",
+              "ZHT": "此科目著重探討當今與財務相關的熱門課題。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Special Topics in Finance",
+              "ZHS": "財務專題",
+              "ZHT": "財務專題"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6521": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "25/05/2019 - 01/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "26/05/2019 - 02/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6521",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Internet Finance 互聯網金融"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "25/05/2019 - 01/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "26/05/2019 - 02/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6521",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Internet Finance 互聯網金融"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "The course provides the tools necessary to analyze the opportunities and potential competitive threats in commercial web-based organizations. To quantify and apply the analysis, a particular focus is on valuing Internet companies based on a careful examination of their business model and environment. The course also covers the basic theory of financial intermediation as it applies to online financial service firms. It discusses the impact of a migration to online financial services and the competitive changes created.",
+              "ZHS": "The course provides the tools necessary to analyze the opportunities and potential competitive threats in commercial web-based organizations. To quantify and apply the analysis, a particular focus is on valuing Internet companies based on a careful examination of their business model and environment. The course also covers the basic theory of financial intermediation as it applies to online financial service firms. It discusses the impact of a migration to online financial services and the competitive changes created.",
+              "ZHT": "本科目將提供分析互聯網金融領域內機遇和潛在競爭威脅的必要工具，為了量化和應用分析，科目將特別關注通過審慎考察互聯網企業的商業模式和環境來評價它。該科目還包括關於金融仲介機構的基本理論，因為它同樣適用於互聯網金融服務企業。並且討論到金融服務線上遷移和競爭變化的帶來的衝擊。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Internet Finance",
+              "ZHS": "Internet Finance",
+              "ZHT": "互聯網金融"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6523": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "11/05/2019 - 18/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "12/05/2019 - 19/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6523",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Fixed Income 固收證券"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "11/05/2019 - 18/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "12/05/2019 - 19/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6523",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Fixed Income 固收證券"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to introduce valuation methods of fixed-income securities and investment techniques in managing fixed income portfolios. Topics include the term structures of interest rates and forward rates; bond pricing, risk and hedging in bond portfolio management; duration, convexity and portfolio immunization; corporate bonds, emerging-market bonds and default risks.\r\rGrade descriptors:\rA / A- : Outstanding performance on all learning outcomes\rB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD+ / D : Barely satisfactory performance on a number of learning outcomes.\rF : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "本科目旨在介紹固定收入證券的估值方法和管理固定收入投資組合中的投資技巧。主題包括利率期限結構和遠期利率結構；債券定價、債券投資組合管理中的風險和套期保值；久期、凸性和投資組合的免疫；公司債券、新興市場債券和違約風險。\r\r“等級說明”請參閱英文版本",
+              "ZHT": "本科目旨在介紹固定收入證券的估值方法和管理固定收入投資組合中的投資技巧。主題包括利率期限結構和遠期利率結構；債券定價、債券投資組合管理中的風險和套期保值；久期、凸性和投資組合的免疫；公司債券、新興市場債券和違約風險。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Fixed Income",
+              "ZHS": "固收證券",
+              "ZHT": "固收證券"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6524": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/07/2019 - 13/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/07/2019 - 14/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6524",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Securitization & Strc Finance 資產證券化和結構金融"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "22/06/2019 - 29/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/06/2019 - 30/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6524",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Securitization & Strc Finance 資產證券化和結構金融"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course introduces students to fundamental concepts of securitization and the wide array of structured products in the financial market, especially in the context of China. Topics include exotic derivatives and credit derivative, followed by detailed discussions on popular structured products in different asset classes, structuring rationales of the products, and the typical transaction cycle in banks.\r\rGrade descriptors:\rA / A- : Outstanding performance on all learning outcomes\rB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD+ / D : Barely satisfactory performance on a number of learning outcomes.\rF : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "本科目向學生介紹資產證券化的基本概念和金融市場中，特別是在中國的各種結構性產品。主題包括特種衍生產品和信用衍生產品，其次是對不同資產類別中流行的結構性產品、構建產品理論基礎和銀行典型的交易週期進行詳細的討論。\r\r“等級說明”請參閱英文版本",
+              "ZHT": "本科目向學生介紹資產證券化的基本概念和金融市場中，特別是在中國的各種結構性產品。主題包括特種衍生產品和信用衍生產品，其次是對不同資產類別中流行的結構性產品、構建產品理論基礎和銀行典型的交易週期進行詳細的討論。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Securitization and Structured Finance",
+              "ZHS": "資產證券化和結構金融",
+              "ZHT": "資產證券化和結構金融"
+            },
+            "units": "1.50"
+          }
+        },
+        "MKTG6021": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "27/04/2019 - 27/04/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "28/04/2019 - 28/04/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "11/05/2019 - 11/05/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "12/05/2019 - 12/05/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "25/05/2019 - 25/05/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "26/05/2019 - 26/05/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "08/06/2019 - 08/06/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "09/06/2019 - 09/06/2019",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MKTG6021",
+              "group": "AE",
+              "instructors": [
+                "Professor FRANKLIN Laurence Craig"
+              ],
+              "short_title": "Business Negotiation 商業談判"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course introduces current research and thought on the negotiation process, and provides opportunities for course participants to apply the concepts and skills in simulations of actual negotiations. Strategic lessons are learned from different actual cases. The objective is to enable course participants to appreciate the art and science of negotiation, to understand how to resolve conflicts and derive the most out of bargaining.\r\rGrade descriptors:\rA Outstanding performance on all learning outcomes.\rA- Generally outstanding performance on all (or almost all) learning outcomes.\rB Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD Barely satisfactory performance on a number of learning outcomes.\rF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "",
+              "ZHT": "本學科介紹談判過程的目前的研究與思考，並提供機會讓學生在模擬談判中應用學到的概念和技能。從不同的實際案例中能學到談判策略的經驗教訓。本學科的目標是使學生體會到談判的藝術和科學，了解如何解決衝突，並從討價還價中獲得最好結果。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme; or EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Business Negotiation",
+              "ZHS": "商业谈判",
+              "ZHT": "商業談判"
+            },
+            "units": "3.00"
+          }
+        },
+        "MKTG6034": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/07/2019 - 13/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/07/2019 - 14/07/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MKTG6034",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Digital Mktg 數字營銷新生態"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "22/06/2019 - 29/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/06/2019 - 30/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MKTG6034",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Digital Mktg 數字營銷新生態"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to discuss some new topics in digital marketing.  It covers the interaction between online and offline marketing; the challenge of social media marketing to traditional marketing theories; models and problems of sharing economy; a discussion of different pricing models of internet companies; and the development and the influence of artificial intelligence (AI).\r\rGrade descriptors:\rA   Outstanding performance on all learning outcomes.\rA-  Generally outstanding performance on all (or almost all) learning outcomes.\rB   Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC   Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD   Barely satisfactory performance on a number of learning outcomes\rF   Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "本科目旨在探討數字營銷的一些新興的話題。科目涵蓋線上與線下營銷的區別和互動、社交營銷的興起對傳統營銷模式的挑戰、共用經濟的多種模式以及所面臨的問題、互聯網公司從免費到收費的探索、人工智能的發展與影響等。\r\r“等級說明”請參閱英文版本",
+              "ZHT": "本科目旨在探討數字營銷的一些新興的話題。科目涵蓋線上與線下營銷的區別和互動、社交營銷的興起對傳統營銷模式的挑戰、共用經濟的多種模式以及所面臨的問題、互聯網公司從免費到收費的探索、人工智能的發展與影響等。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance; or MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Special Topics in Digital Marketing",
+              "ZHS": "數字營銷新生態",
+              "ZHT": "數字營銷新生態"
+            },
+            "units": "1.50"
+          }
+        },
+        "NURS6306": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "15/05/2019 - 26/06/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "We 09:30AM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "16/05/2019 - 30/05/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Th 09:30AM - 01:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "20/05/2019 - 03/06/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Mo 09:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_302"
+                      },
+                      "meeting_date": "10/06/2019 - 10/06/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Mo 08:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "10/06/2019 - 10/06/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Mo 08:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "13/06/2019 - 20/06/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Th 09:30AM - 01:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "17/06/2019 - 24/06/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Mo 09:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "27/06/2019 - 27/06/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 975,
+                        "str": "Th 09:30AM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "08/07/2019 - 15/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Mo 08:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_302"
+                      },
+                      "meeting_date": "08/07/2019 - 15/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Mo 08:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_203"
+                      },
+                      "meeting_date": "19/07/2019 - 19/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Fr 08:30AM - 01:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_206"
+                      },
+                      "meeting_date": "19/07/2019 - 19/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Fr 08:30AM - 01:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "23/05/2019 - 23/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "06/06/2019 - 20/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L02": {
+                  "class": "L02",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "23/05/2019 - 23/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "06/06/2019 - 20/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L03": {
+                  "class": "L03",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "23/05/2019 - 23/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "06/06/2019 - 20/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L04": {
+                  "class": "L04",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "23/05/2019 - 23/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "06/06/2019 - 20/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L05": {
+                  "class": "L05",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "23/05/2019 - 23/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "06/06/2019 - 20/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "16/05/2019 - 16/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "30/05/2019 - 30/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "T02": {
+                  "class": "T02",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_307"
+                      },
+                      "meeting_date": "16/05/2019 - 16/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_307"
+                      },
+                      "meeting_date": "30/05/2019 - 30/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "T03": {
+                  "class": "T03",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_401"
+                      },
+                      "meeting_date": "16/05/2019 - 16/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_401"
+                      },
+                      "meeting_date": "30/05/2019 - 30/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "T04": {
+                  "class": "T04",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_403"
+                      },
+                      "meeting_date": "16/05/2019 - 16/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_403"
+                      },
+                      "meeting_date": "30/05/2019 - 30/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "T05": {
+                  "class": "T05",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_203"
+                      },
+                      "meeting_date": "16/05/2019 - 16/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_203"
+                      },
+                      "meeting_date": "30/05/2019 - 30/05/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6306",
+              "group": "-",
+              "instructors": [
+                "Dr. CHIANG Chung Yan",
+                "Dr. LO Hoi Shan",
+                "Dr. WONG Yuk Shim",
+                "Miss TANG Pui Yin",
+                "Mr. HA Kong Nam",
+                "Ms. LING Cheuk Chi",
+                "Ms. NGAN Hau Yi",
+                "Professor LI Wai Chi"
+              ],
+              "short_title": "Care for Cli W/ AcuChro Ill I 急性及慢性疾病護理 III"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required",
+              "Laboratory": "Required",
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course emphasizes on basic nursing knowledge, particularly the pathophysiological changes and pharmacological treatment of clients with acute and chronic illnesses. Students are equipped with principles of therapeutic management and nursing skills to assess, diagnose, and implement evidence-based nursing interventions to promote good health outcomes of these clients.",
+              "ZHS": "本科教导学生基本护理知识，尤其是急性及慢性疾病患者的病理生理变化及药物治疗。学生须掌握治疗管理原理及护理技巧，以便评估、诊断及实施循证护理方案，提升治疗成效，促进患者健康。",
+              "ZHT": "本科教導學生基本護理知識，尤其是急性及慢性疾病患者的病理生理變化及藥物治療。學生須掌握治療管理原理及護理技巧，以便評估、診斷及實施循證護理方案，提升治療成效，促進患者健康。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Care for Clients with Acute and Chronic Illnesses III",
+              "ZHS": "急性及慢性疾病护理 III",
+              "ZHT": "急性及慢性疾病護理 III"
+            },
+            "units": "6.00"
+          }
+        },
+        "NURS6317": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "14/05/2019 - 18/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Tu 01:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "20/05/2019 - 24/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Mo 01:30PM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "02/07/2019 - 02/07/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Tu 09:30AM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "11/07/2019 - 18/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 1035,
+                        "str": "Th 08:30AM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_302"
+                      },
+                      "meeting_date": "11/07/2019 - 18/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 1035,
+                        "str": "Th 08:30AM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6317",
+              "group": "-",
+              "instructors": [
+                "Dr. TANG Wing Ki",
+                "Professor CHENG Ho Yu"
+              ],
+              "short_title": "Mental Health Nursing 精神科護理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course provides theoretical basis for comprehensive nursing care to clients with alterations of mental health. It emphasizes on the approach that mental health and illnesses exist on a continuum. Students are equipped with knowledge to examine a variety of mental health disorders and to explore different mental health care settings.",
+              "ZHS": "本科旨在让学生认识为精神病患者提供全面护理的理论基础，强调精神健康与疾病是一个连续的统一体；并教导学生探讨各种精神病及探索不同精神健康护理机构所需的知识。",
+              "ZHT": "本科旨在讓學生認識為精神病患者提供全面護理的理論基礎，強調精神健康與疾病是一個連續的統一體；並教導學生探討各種精神病及探索不同精神健康護理機構所需的知識。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Mental Health Nursing",
+              "ZHS": "精神科护理",
+              "ZHT": "精神科護理"
+            },
+            "units": "2.00"
+          }
+        },
+        "NURS6320": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "17/05/2019 - 31/05/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "14/06/2019 - 14/06/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 915,
+                        "str": "Fr 09:30AM - 03:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "21/06/2019 - 21/06/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Fr 09:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "25/06/2019 - 25/06/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Tu 09:30AM - 12:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "28/06/2019 - 28/06/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "12/07/2019 - 12/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_302"
+                      },
+                      "meeting_date": "12/07/2019 - 12/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Fr 08:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "14/06/2019 - 14/06/2019",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "21/06/2019 - 21/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "25/06/2019 - 25/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Tu 01:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L02": {
+                  "class": "L02",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "14/06/2019 - 14/06/2019",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "21/06/2019 - 21/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "25/06/2019 - 25/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Tu 01:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L03": {
+                  "class": "L03",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "14/06/2019 - 14/06/2019",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "21/06/2019 - 21/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "25/06/2019 - 25/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Tu 01:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L04": {
+                  "class": "L04",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "14/06/2019 - 14/06/2019",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "21/06/2019 - 21/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "25/06/2019 - 25/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Tu 01:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L05": {
+                  "class": "L05",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "14/06/2019 - 14/06/2019",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "21/06/2019 - 21/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "25/06/2019 - 25/06/2019",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Tu 01:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6320",
+              "group": "-",
+              "instructors": [
+                "Dr. LO Hoi Shan",
+                "Miss TANG Pui Yin",
+                "Ms. CHAN Mei Fung Wendy",
+                "Ms. KWAN Siu Kuen"
+              ],
+              "short_title": "Paed & Adolescent Nursing 兒童及青少年護理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Laboratory": "Required",
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to provide theoretical and practical information on basic and complex health concepts and issues. It is focused on the nursing care of children and adolescents with physical, psychosocial, or developmental problems. It includes the principles of family centered nursing to provide comprehensive assessment and appropriate nursing interventions towards health promotion of clients.",
+              "ZHS": "本科旨在提供与基本及复杂性健康概念与问题有关的理论与实务资料，对象是有身体、心理社会或发展问题的儿童及青少年。课程包括介绍以家庭为中心的护理原则，为患者进行全面评估，制定合适的护理措施，促进健康。",
+              "ZHT": "本科旨在提供與基本及複雜性健康概念與問題有關的理論與實務資料，對象是有身體、心理社會或發展問題的兒童及青少年。課程包括介紹以家庭為中心的護理原則，為患者進行全面評估，制定合適的護理措施，促進健康。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Paediatric and Adolescent Nursing",
+              "ZHS": "儿童及青少年护理",
+              "ZHT": "兒童及青少年護理"
+            },
+            "units": "3.00"
+          }
+        },
+        "NURS6424": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "29/04/2019 - 06/05/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Mo 09:30AM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "30/04/2019 - 21/05/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Tu 09:30AM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "02/05/2019 - 23/05/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Th 09:30AM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "03/05/2019 - 24/05/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "08/05/2019 - 22/05/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "We 09:30AM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "20/05/2019 - 20/05/2019",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Mo 09:30AM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "29/04/2019 - 21/05/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6424",
+              "group": "-",
+              "instructors": [
+                "Professor CHAN Wai Kiu",
+                "Professor SIT Wing Hung Janet"
+              ],
+              "short_title": "Comple & Alt Medicine 補充替代醫學"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Laboratory": "Required",
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to introduce students to the efficacy, choice, use, and explanatory mechanisms of complementary and alternative medicine using a range of selected therapies. The regional focus will be on the health concepts of Traditional Chinese Medicine (including tai chi, qigong, and acupuncture). The scope and responsibilities of the nurse's role within this field in Hong Kong will also be discussed.",
+              "ZHS": "本科旨在透过一系列选定的疗法，介绍补充替代医学的效用、选择、使用及解释机制，重点讲解中医(包括太极、气功及针灸)的健康概念，并讨论本港护士在此范畴所扮演的角色及职责范围。",
+              "ZHT": "本科旨在透過一系列選定的療法，介紹補充替代醫學的效用、選擇、使用及解釋機制，重點講解中醫(包括太極、氣功及針灸)的健康概念，並討論本港護士在此範疇所扮演的角色及職責範圍。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Complementary and Alternative Medicine",
+              "ZHS": "补充替代医学",
+              "ZHT": "補充替代醫學"
+            },
+            "units": "2.00"
+          }
+        },
+        "NURS6501": {
+          "groups": {
+            "-": {
+              "classes": {
+                "P01": {
+                  "class": "P01",
+                  "component": "PRA",
+                  "department": "Div of Nursing",
+                  "language": "C&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "22/04/2019 - 22/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "Mo 08:30AM - 04:30PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/04/2019 - 23/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "Tu 08:30AM - 04:30PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "24/04/2019 - 24/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "We 08:30AM - 04:30PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "25/04/2019 - 25/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "Th 08:30AM - 04:30PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "26/04/2019 - 26/07/2019",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "Fr 08:30AM - 04:30PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6501",
+              "group": "-",
+              "instructors": [
+                "Mr. HA Kong Nam"
+              ],
+              "short_title": "Clinical Practice Block I 臨床實習 I"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Practicum": "Required"
+            },
+            "description": {
+              "ENG": "This clinical practice block aims to provide students with a venue to apply and consolidate their knowledge and skills on interpersonal communication, client safety, health assessment, and basic nursing skills. In the process, they are able to promote clients' health and wellness. In addition, this clinical practice block allows students to gain understanding and experiential learning on various matters. These include clinical practice environment, nurses and health care team members' roles, and the health care delivery system in Hong Kong",
+              "ZHS": "本科旨在提供一个场所，供学生练习并加强在人际沟通、病人安全、健康评估及基本护理方面的护理知识与技巧，促进病人健康。课程中学生亦可透过经验了解及学习不同事物，如临床实习环境，护士及医护小组成员的角色，以及本港提供医疗卫生服务的机制。",
+              "ZHT": "本科旨在提供一個場所，供學生練習並加強在人際溝通、病人安全、健康評估及基本護理方面的護理知識與技巧，促進病人健康。課程中學生亦可透過經驗了解及學習不同事物，如臨床實習環境，護士及醫護小組成員的角色，以及本港提供醫療衛生服務的機制。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)\r\nPrerequisite: NURS6201, NURS6202 and NURS6203",
+            "title": {
+              "ENG": "Clinical Practice Block I",
+              "ZHS": "临床实习 I",
+              "ZHT": "臨床實習 I"
+            },
+            "units": "5.00"
+          }
+        }
+      },
+      "info": {
+        "name": {
+          "ENG": "Postgraduate - Taught",
+          "ZHS": "Postgraduate - Taught",
+          "ZHT": "修讀式課程研究生"
+        }
+      },
+      "subjects": {
+        "ACCT": {
+          "info": {
+            "name": {
+              "ENG": "Accountancy",
+              "ZHS": "Accountancy",
+              "ZHT": "Accountancy"
+            }
+          }
+        },
+        "DSME": {
+          "info": {
+            "name": {
+              "ENG": "Decision Sciences & Managerial",
+              "ZHS": "Decision Sciences & Managerial",
+              "ZHT": "Decision Sciences & Managerial"
+            }
+          }
+        },
+        "EMBA": {
+          "info": {
+            "name": {
+              "ENG": "Executive MBA",
+              "ZHS": "Executive MBA",
+              "ZHT": "Executive MBA"
+            }
+          }
+        },
+        "FINA": {
+          "info": {
+            "name": {
+              "ENG": "Finance",
+              "ZHS": "Finance",
+              "ZHT": "Finance"
+            }
+          }
+        },
+        "MKTG": {
+          "info": {
+            "name": {
+              "ENG": "Marketing",
+              "ZHS": "Marketing",
+              "ZHT": "Marketing"
+            }
+          }
+        },
+        "NURS": {
+          "info": {
+            "name": {
+              "ENG": "Nursing",
+              "ZHS": "Nursing",
+              "ZHT": "Nursing"
+            }
+          }
+        }
+      }
+    }
+  }
+}
