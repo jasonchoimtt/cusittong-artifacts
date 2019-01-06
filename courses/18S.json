@@ -580,6 +580,128 @@
             "units": "3.00"
           }
         },
+        "AEPT5102": {
+          "groups": {
+            "-": {
+              "classes": {
+                "F01": {
+                  "class": "F01",
+                  "component": "FLD",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "AEPT5102",
+              "group": "-",
+              "instructors": [
+                "Professor TSOU Jin Yeu"
+              ],
+              "short_title": "Topical Studies in Sus. Urban. 國際可持續城市化專題研習"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Field Studies/Field-trip": "Required"
+            },
+            "description": {
+              "ENG": "This course is intended to consolidate students' learning and to enable them to apply the knowledge they accumulated throughout the programme. Students will conduct a focused and practical study on current issues and important developments of sustainable urbanism in an international and inter-disciplinary context. Students may go on a two-week overseas study trip led by a teacher, attending seminars and site visits hosted by distinguished overseas planning or design schools or institutions. Alternatively, if available, students may choose to participate in a compact topical workshop hosted in Hong Kong.",
+              "ZHS": "This course is intended to consolidate students' learning and to enable them to apply the knowledge they accumulated throughout the programme. Students will conduct a focused and practical study on current issues and important developments of sustainable urbanism in an international and inter-disciplinary context. Students may go on a two-week overseas study trip led by a teacher, attending seminars and site visits hosted by distinguished overseas planning or design schools or institutions. Alternatively, if available, students may choose to participate in a compact topical workshop hosted in Hong Kong.",
+              "ZHT": "本科目進一步鞏固學生的學習，使他們能夠實踐在課程中所累積的知識。學生將對可持續城市化當前所面臨的問題及其重要發展進行實際性的專題研習。學生可以選擇在科目老師的帶領下，到海外進行為期約兩週的實地考察與交流學習，參觀著名的規劃設計學校及機構，並參加相關的專題研究工作坊和實地考察。另外，學生也可以選擇參加由本課程舉辦或與其他課程合辦在香港舉行的專題研習工作坊（此香港工作坊並非每年舉辦，將因應每年情況而定）。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Advanced Environmental Planning Technologies",
+            "title": {
+              "ENG": "International Topical Studies in Sustainable Urbanism",
+              "ZHS": "International Topical Studies in Sustainable Urbanism",
+              "ZHT": "國際可持續城市化專題研習"
+            },
+            "units": "3.00"
+          }
+        },
+        "AEPT6100": {
+          "groups": {
+            "-": {
+              "classes": {
+                "J01": {
+                  "class": "J01",
+                  "component": "PRJ",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "AEPT6100",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Dissertation/Planning Project 專題研究/規劃設計項目"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Project": "Required"
+            },
+            "description": {
+              "ENG": "This course is devised as a consummation of the entire programme study. Students are required to demonstrate their learning and apply their knowledge and advanced technological skills acquired throughout the programme in this final dissertation/planning design project of a subject of their own choice. Research should be conducted on selected topics in urban/environmental planning or this could be an urban/environmental planning or design project under the supervision and guidance of a supervisor. Students should select a format of project according to their own capability and interest.",
+              "ZHS": "This course is devised as a consummation of the entire programme study. Students are required to demonstrate their learning and apply their knowledge and advanced technological skills acquired throughout the programme in this final dissertation/planning design project of a subject of their own choice. Research should be conducted on selected topics in urban/environmental planning or this could be an urban/environmental planning or design project under the supervision and guidance of a supervisor. Students should select a format of project according to their own capability and interest.",
+              "ZHT": "本科目設計為整個課程的總結，鼓勵學生實踐課程中所學到的知識和先進技術於這畢業專題研究/規劃設計項目當中。學生可根據自己的能力和興趣，在科目老師的指導下選取一個與課程相關的題目進行深入的專題研究或規劃設計項目。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Advanced Environmental Planning Technologies",
+            "title": {
+              "ENG": "Dissertation/Planning Design Project",
+              "ZHS": "Dissertation/Planning Design Project",
+              "ZHT": "專題研究/規劃設計項目"
+            },
+            "units": "6.00"
+          }
+        },
         "BCME6211": {
           "groups": {
             "-": {
@@ -675,84 +797,6 @@
             "units": "10.00"
           }
         },
-        "CHEM5508": {
-          "groups": {
-            "-": {
-              "classes": {
-                "": {
-                  "class": "",
-                  "component": "LEC",
-                  "department": "Div of Chemistry",
-                  "language": "E",
-                  "meets": [
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": "WMY",
-                        "slug": "WMY_405"
-                      },
-                      "meeting_date": "14/05/2019 - 25/06/2019",
-                      "time": {
-                        "begin": 1110,
-                        "end": 1275,
-                        "str": "Tu 06:30PM - 09:15PM",
-                        "weekday": "Tu"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": "WMY",
-                        "slug": "WMY_405"
-                      },
-                      "meeting_date": "20/05/2019 - 24/06/2019",
-                      "time": {
-                        "begin": 1110,
-                        "end": 1275,
-                        "str": "Mo 06:30PM - 09:15PM",
-                        "weekday": "Mo"
-                      }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 30,
-                    "vacancy": null
-                  }
-                }
-              },
-              "course": "CHEM5508",
-              "group": "-",
-              "instructors": [
-                "Professor KAM Tat Ting"
-              ],
-              "short_title": "Environmental Analysis 環境分析"
-            }
-          },
-          "info": {
-            "course_components": {
-              "Lecture": "Required"
-            },
-            "description": {
-              "ENG": "This course aims to provide a comprehensive coverage of environmental sampling and analytical methodologies for use in environmental protection including environmental monitoring, incident investigation, preventive measures and regulatory compliance. The course will also discuss the quality assurance of and the requirements for accreditation of  relevant analytical methods.\r\rGrade A\rDemonstrates comprehensive command of principles and subject matter in the course required for attaining all the course learning outcomes. Demonstrates the ability to apply the principles or subject matter learnt in the course to a wide range of complex, familiar and unfamiliar situations, in a manner that would surpass the normal expectation at this level, and typical of standards that may be common at higher levels of study or research.  Shows the ability to express the knowledge or synthesis of ideas in a clear and cogent manner.\r\rGrade A-\rDemonstrates substantial command of principles and subject matter in the course required for attaining almost all the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to familiar and some unfamiliar situations, in a manner that is usually logical and comprehensive. Shows the ability to express the knowledge or application with clarity.\r\rGrade B\rDemonstrates general and sufficient command of principles and subject matter in the course required for attaining most of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course accurately to most (but not necessarily all) familiar and standard situations, in a manner that is usually logically persuasive. Shows the ability to express the knowledge or application in a satisfactory and unambiguous way.\r\rGrade C\rDemonstrates general command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to most (but not necessarily all) familiar and standard situations, but with occasional errors and/or in a manner that may be somewhat fragmented. Shows the ability to express the separate pieces of knowledge in an unambiguous way.\r\rGrade D\rDemonstrates partial command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to some simple situations only. Shows the ability to state the knowledge or application in simple terms.\r\rGrade F\rDemonstrates little or no evidence of command of principles and subject matter in the course required for attaining the course learning outcomes, OR failures to meet specified assessment requirements.",
-              "ZHS": "This course aims to provide a comprehensive coverage of environmental sampling and analytical methodologies for use in environmental protection including environmental monitoring, incident investigation, preventive measures and regulatory compliance. The course will also discuss the quality assurance of and the requirements for accreditation of  relevant analytical methods.\r\rGrade A\rDemonstrates comprehensive command of principles and subject matter in the course required for attaining all the course learning outcomes. Demonstrates the ability to apply the principles or subject matter learnt in the course to a wide range of complex, familiar and unfamiliar situations, in a manner that would surpass the normal expectation at this level, and typical of standards that may be common at higher levels of study or research.  Shows the ability to express the knowledge or synthesis of ideas in a clear and cogent manner.\r\rGrade A-\rDemonstrates substantial command of principles and subject matter in the course required for attaining almost all the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to familiar and some unfamiliar situations, in a manner that is usually logical and comprehensive. Shows the ability to express the knowledge or application with clarity.\r\rGrade B\rDemonstrates general and sufficient command of principles and subject matter in the course required for attaining most of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course accurately to most (but not necessarily all) familiar and standard situations, in a manner that is usually logically persuasive. Shows the ability to express the knowledge or application in a satisfactory and unambiguous way.\r\rGrade C\rDemonstrates general command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to most (but not necessarily all) familiar and standard situations, but with occasional errors and/or in a manner that may be somewhat fragmented. Shows the ability to express the separate pieces of knowledge in an unambiguous way.\r\rGrade D\rDemonstrates partial command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to some simple situations only. Shows the ability to state the knowledge or application in simple terms.\r\rGrade F\rDemonstrates little or no evidence of command of principles and subject matter in the course required for attaining the course learning outcomes, OR failures to meet specified assessment requirements.",
-              "ZHT": "此課程會全面涵蓋環境採樣及化學分析技術以應用於保護環境，包括環境監測、事故調查、防治措施及環保法規要求。此課程也會討論有關化學分析方法的質量保證和認証要求。\r\r等級A\r完全掌握課程內容中的原理及科目知識以達到所有學習目標。能夠超出預期地，將課程中學習到的原理或科目知識應用於複雜的、熟悉和不太熟悉的情況中，以及證明在研究方面達至高於標準的能力。有能力以清晰及有說服力的方式表達綜合的思想和知識。\r\r等級A-\r充分掌握課程內容中的原理及科目知識以達到絕大部份學習目標。能夠將課程中學習到的原理或科目知識以合乎邏輯和全面地應用於熟悉和某些不太熟悉的情況。具有明確表達知識或應用的能力。\r\r等級B\r一般並足夠地掌握課程內容中的原理及科目知識以達到大部份學習目標。能夠將課程中學習到的原則或科目知識，用有說服力的邏輯，精確地陳述及應用於大部份（但不一定是所有）熟悉和標準的情況中。有能力以令人滿意和明確的方法表達知識或應用。\r\r等級C\r一般地掌握課程內容中的原理及科目知識以達到部份學習目標。雖然偶有錯誤，但能夠在大多數（但不一定是所有）熟悉和標準情況下，零碎地陳述和應用課程中學習的原理或知識。具有以明確的方式表達零碎知識的能力。\r\r等級D\r部份地掌握課程內容中的原理及科目知識以達到部份學習目標。只能夠在一些簡單情況應用課程中學到的原理或知識。具有以簡單的語言，陳述知識或應用的能力。\r\r等級F\r很少、甚至沒有掌握課程內容中的原理及科目知識以達到學習目標，或者沒有達到規定的評估要求。"
-            },
-            "grading_basis": "Graded",
-            "requirement": "Students from MSc of Accreditation Chemistry only.",
-            "title": {
-              "ENG": "Environmental Pollutants, Analysis and Monitoring",
-              "ZHS": "Environmental Pollutants, Analysis and Monitoring",
-              "ZHT": "環境污染物、分析及監測"
-            },
-            "units": "3.00"
-          }
-        },
         "CHEM5515": {
           "groups": {
             "-": {
@@ -828,6 +872,84 @@
               "ENG": "Research Project",
               "ZHS": "Research Project",
               "ZHT": "研究項目"
+            },
+            "units": "3.00"
+          }
+        },
+        "CHEM5516": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Chemistry",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "WMY",
+                        "slug": "WMY_405"
+                      },
+                      "meeting_date": "14/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Tu 06:30PM - 09:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "WMY",
+                        "slug": "WMY_405"
+                      },
+                      "meeting_date": "20/05/2019 - 24/06/2019",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Mo 06:30PM - 09:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 25,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "CHEM5516",
+              "group": "-",
+              "instructors": [
+                "Professor KAM Tat Ting"
+              ],
+              "short_title": "EHS Management 環境、職業健康及安全管理"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course aims to provide a comprehensive understanding of the environment, health and safety issues and regulations and standards for risk management in chemical testing laboratory. Important topics will include local regulations and international standards for environmental protection and occupational health and safety, as well as the respective international management systems such as ISO 17025, ISO 14001 and OHSAS 18001 (or ISO 45001) standards. \r\rGrade A\rDemonstrates comprehensive command of principles and subject matter in the course required for attaining all the course learning outcomes. Demonstrates the ability to apply the principles or subject matter learnt in the course to a wide range of complex, familiar and unfamiliar situations, in a manner that would surpass the normal expectation at this level, and typical of standards that may be common at higher levels of study or research.  Shows the ability to express the knowledge or synthesis of ideas in a clear and cogent manner.\r\rGrade A-\rDemonstrates substantial command of principles and subject matter in the course required for attaining almost all the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to familiar and some unfamiliar situations, in a manner that is usually logical and comprehensive. Shows the ability to express the knowledge or application with clarity.\r\rGrade B\rDemonstrates general and sufficient command of principles and subject matter in the course required for attaining most of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course accurately to most (but not necessarily all) familiar and standard situations, in a manner that is usually logically persuasive. Shows the ability to express the knowledge or application in a satisfactory and unambiguous way.\r\rGrade C\rDemonstrates general command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to most (but not necessarily all) familiar and standard situations, but with occasional errors and/or in a manner that may be somewhat fragmented. Shows the ability to express the separate pieces of knowledge in an unambiguous way.\r\rGrade D\rDemonstrates partial command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to some simple situations only. Shows the ability to state the knowledge or application in simple terms.\r\rGrade F\rDemonstrates little or no evidence of command of principles and subject matter in the course required for attaining the course learning outcomes, OR failures to meet specified assessment requirements.",
+              "ZHS": "This course aims to provide a comprehensive understanding of the environment, health and safety issues and regulations and standards for risk management in chemical testing laboratory. Important topics will include local regulations and international standards for environmental protection and occupational health and safety, as well as the respective international management systems such as ISO 17025, ISO 14001 and OHSAS 18001 (or ISO 45001) standards. \r\rGrade A\rDemonstrates comprehensive command of principles and subject matter in the course required for attaining all the course learning outcomes. Demonstrates the ability to apply the principles or subject matter learnt in the course to a wide range of complex, familiar and unfamiliar situations, in a manner that would surpass the normal expectation at this level, and typical of standards that may be common at higher levels of study or research.  Shows the ability to express the knowledge or synthesis of ideas in a clear and cogent manner.\r\rGrade A-\rDemonstrates substantial command of principles and subject matter in the course required for attaining almost all the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to familiar and some unfamiliar situations, in a manner that is usually logical and comprehensive. Shows the ability to express the knowledge or application with clarity.\r\rGrade B\rDemonstrates general and sufficient command of principles and subject matter in the course required for attaining most of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course accurately to most (but not necessarily all) familiar and standard situations, in a manner that is usually logically persuasive. Shows the ability to express the knowledge or application in a satisfactory and unambiguous way.\r\rGrade C\rDemonstrates general command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to most (but not necessarily all) familiar and standard situations, but with occasional errors and/or in a manner that may be somewhat fragmented. Shows the ability to express the separate pieces of knowledge in an unambiguous way.\r\rGrade D\rDemonstrates partial command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to some simple situations only. Shows the ability to state the knowledge or application in simple terms.\r\rGrade F\rDemonstrates little or no evidence of command of principles and subject matter in the course required for attaining the course learning outcomes, OR failures to meet specified assessment requirements.",
+              "ZHT": "此課程旨在為化學檢測實驗室的風險管理提供一個對環境、職業健康和安全議題及法規的全面了解。主題內容包括針對環境保護及職安健方面的本地法規和國際標準以及有關的國際管理體系，例如ISO 17025, ISO 14001 and OHSAS 18001(或ISO 45001)標準。\r\r等級A\r完全掌握課程內容中的原理及科目知識以達到所有學習目標。能夠超出預期地，將課程中學習到的原理或科目知識應用於複雜的、熟悉和不太熟悉的情況中，以及證明在研究方面達至高於標準的能力。有能力以清晰及有說服力的方式表達綜合的思想和知識。\r\r等級A-\r充分掌握課程內容中的原理及科目知識以達到絕大部份學習目標。能夠將課程中學習到的原理或科目知識以合乎邏輯和全面地應用於熟悉和某些不太熟悉的情況。具有明確表達知識或應用的能力。\r\r等級B\r一般並足夠地掌握課程內容中的原理及科目知識以達到大部份學習目標。能夠將課程中學習到的原則或科目知識，用有說服力的邏輯，精確地陳述及應用於大部份（但不一定是所有）熟悉和標準的情況中。有能力以令人滿意和明確的方法表達知識或應用。\r\r等級C\r一般地掌握課程內容中的原理及科目知識以達到部份學習目標。雖然偶有錯誤，但能夠在大多數（但不一定是所有）熟悉和標準情況下，零碎地陳述和應用課程中學習的原理或知識。具有以明確的方式表達零碎知識的能力。\r\r等級D\r部份地掌握課程內容中的原理及科目知識以達到部份學習目標。只能夠在一些簡單情況應用課程中學到的原理或知識。具有以簡單的語言，陳述知識或應用的能力。\r\r等級F\r很少、甚至沒有掌握課程內容中的原理及科目知識以達到學習目標，或者沒有達到規定的評估要求。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "Students from MSc of Accreditation Chemistry only.",
+            "title": {
+              "ENG": "Risk Management in Chemical Testing Laboratory",
+              "ZHS": "Risk Management in Chemical Testing Laboratory",
+              "ZHT": "化學檢測實驗室的風險管理"
             },
             "units": "3.00"
           }
@@ -1093,6 +1215,199 @@
             "units": "1.00"
           }
         },
+        "CVSM5004": {
+          "groups": {
+            "-": {
+              "classes": {
+                "S01": {
+                  "class": "S01",
+                  "component": "SEM",
+                  "department": "Div of Medical Sciences",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "14/05/2019 - 21/05/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1290,
+                        "str": "Tu 02:30PM - 09:30PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "04/06/2019 - 11/06/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1290,
+                        "str": "Tu 02:30PM - 09:30PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "25/06/2019 - 25/06/2019",
+                      "time": {
+                        "begin": 870,
+                        "end": 1290,
+                        "str": "Tu 02:30PM - 09:30PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "CVSM5004",
+              "group": "-",
+              "instructors": [
+                "Professor FUNG Erik Yee Mun George",
+                "Professor LEE Pui Wai",
+                "Professor YAN Ping Yen Bryan"
+              ],
+              "short_title": "Clinical Seminar I 臨床心臟病研討會一"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Seminar": "Required"
+            },
+            "description": {
+              "ENG": "The seminar will be conducted in the form of problem-solving or case-based tutorial session. It will present cases employing an integrated cardiac approach which involves the use of various modalities of investigation and treatment.",
+              "ZHS": "本单元将以解题模式或案例教程的形式进行。这些个案将包括现时心脏疾病的各种诊断、检查及治疗的运作。",
+              "ZHT": "本單元將以解題模式或案例教程的形式進行。這些個案將包括現時心臟疾病的各種診斷、檢查及治療的運作。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Cardiology",
+            "title": {
+              "ENG": "Clinical Seminar I",
+              "ZHS": "临床心脏病研讨会一",
+              "ZHT": "臨床心臟病研討會一"
+            },
+            "units": "1.00"
+          }
+        },
+        "CVSM5008": {
+          "groups": {
+            "-": {
+              "classes": {
+                "T08": {
+                  "class": "T08",
+                  "component": "TUT",
+                  "department": "Div of Medical Sciences",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "08/01/2019 - 08/01/2019",
+                      "time": {
+                        "begin": 990,
+                        "end": 1290,
+                        "str": "Tu 04:30PM - 09:30PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "29/01/2019 - 29/01/2019",
+                      "time": {
+                        "begin": 990,
+                        "end": 1290,
+                        "str": "Tu 04:30PM - 09:30PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "21/05/2019 - 21/05/2019",
+                      "time": {
+                        "begin": 990,
+                        "end": 1290,
+                        "str": "Tu 04:30PM - 09:30PM",
+                        "weekday": "Tu"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 15,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "CVSM5008",
+              "group": "-",
+              "instructors": [
+                "Professor LEE Pui Wai",
+                "Professor YAN Ping Yen Bryan"
+              ],
+              "short_title": "Dissertation 專題論文"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required"
+            },
+            "description": {
+              "ENG": "A 5,000-word dissertation in the form of topical review is required for graduation.",
+              "ZHS": "在研究生导师指导下撰写1份5,000字的专题论文。",
+              "ZHT": "在研究生導師指導下撰寫1份5,000字的專題論文。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "",
+            "title": {
+              "ENG": "Dissertation",
+              "ZHS": "专题论文",
+              "ZHT": "專題論文"
+            },
+            "units": "6.00"
+          }
+        },
         "DSME6790": {
           "groups": {
             "I": {
@@ -1304,7 +1619,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "BATC_SA"
                       },
                       "meeting_date": "19/06/2019 - 03/07/2019",
                       "time": {
@@ -1321,31 +1636,14 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "BATC_SA"
                       },
-                      "meeting_date": "21/06/2019 - 21/06/2019",
+                      "meeting_date": "21/06/2019 - 05/07/2019",
                       "time": {
                         "begin": 1125,
                         "end": 1305,
                         "str": "Fr 06:45PM - 09:45PM",
                         "weekday": "Fr"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "TBA"
-                      },
-                      "meeting_date": "22/06/2019 - 22/06/2019",
-                      "time": {
-                        "begin": 540,
-                        "end": 960,
-                        "str": "Sa 09:00AM - 04:00PM",
-                        "weekday": "Sa"
                       }
                     }
                   ],
@@ -2043,6 +2341,137 @@
             "units": "3.00"
           }
         },
+        "HSGS5107": {
+          "groups": {
+            "-": {
+              "classes": {
+                "F01": {
+                  "class": "F01",
+                  "component": "FLD",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "HSGS5107",
+              "group": "-",
+              "instructors": [
+                "Mr CHAN Chun Hong Felix",
+                "Professor TSOU Jin Yeu"
+              ],
+              "short_title": "Int'l Sch Prj in Hous Studies 海外交流學習課程"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Field Studies/Field-trip": "Required"
+            },
+            "description": {
+              "ENG": "This course is intended to consolidate students' learning and to enable them to apply the knowledge they accumulated throughout the programme. Within this course students will do a work on urban housing, exploring the socio-economic issues and environmental matters. Students will conduct a focused and practical study on current issues and important developments of sustainable urbanism in an international and inter-disciplinary context. Participants may go on a two-week overseas study trip led by a teacher, attending seminars and site visits hosted by distinguished overseas planning or design schools or institutions. Within this trip, teamwork and team spirit will be forced by elaborating the project in a multidisciplinary group of students; a situation very close to the operations and working environment of their future field of work.",
+              "ZHS": "本课程旨在巩固学生的学习，使他们能够运用在课程中所学知识。在课程中学生将探索城市住房的社会经济问题和环境问题。 在国际和跨学科的背景之下，学生将对当前的问题和可持续城市化的重要发展进行针对性和实用性的研究。参加者可以由老师带领，进行为期两周的海外实地考察，参加由杰出的国外规划设计学校或机构主办的研讨会。在考察中，在由多个学科小组制定项目的过程里将提升团队合作和团队精神；这样的情境情况非常接近他们未来工作领域的实践操作和工作环境。",
+              "ZHT": "本課程旨在鞏固學生的學習，使他們能夠運用在課程中所學知識。在課程中學生將探索城市住房的社會經濟問題和環境問題。在國際和跨學科的背景之下，學生將對當前的問題和可持續城市化的重要發展進行針對性和實用性的研究。參加者可以由老師帶領，進行為期兩周的海外實地考察，參加由傑出的國外規劃設計學校或機構主辦的研討會。在考察中，在由多個學科小組制定項目的過程裡將提升團隊合作和團隊精神；這樣的情境情况非常接近他們未來工作領域的實踐操作和工作環境。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSSc Housing Studies",
+            "title": {
+              "ENG": "International Schools Project in Housing Studies",
+              "ZHS": "暑期海外交流学习课程",
+              "ZHT": "海外交流學習課程"
+            },
+            "units": "3.00"
+          }
+        },
+        "HSGS6100": {
+          "groups": {
+            "-": {
+              "classes": {
+                "J01": {
+                  "class": "J01",
+                  "component": "PRJ",
+                  "department": "Div of Social Science",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 50,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "HSGS6100",
+              "group": "-",
+              "instructors": [
+                "Dr. ZHANG Zhidong",
+                "Mr CHAN Chun Hong Felix",
+                "Professor CHANG Ping Hung",
+                "Professor CHEN Yongqin David",
+                "Professor HAO Lin",
+                "Professor MAING Min Jung",
+                "Professor TSOU Jin Yeu",
+                "Professor YEUNG Alfred Kwong Fai",
+                "Professor ZHANG Yuanzhi"
+              ],
+              "short_title": "Ind. Research (Dissertation) 專題研究（畢業論文）"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Project": "Required"
+            },
+            "description": {
+              "ENG": "Each student is required to carry out an independent housing related academic research under the supervision of a professor.",
+              "ZHS": "本科目设计为整个课程的总结，鼓励学生实践课程中所学到的知识和先进技术于毕业专题研究（毕业论文）当中。学生可根据自己的能力和兴趣，在科目老师指导下，选取一个与课程相关的题目进行深入的专题研究。",
+              "ZHT": "本科目設計為整個課程的總結，鼓勵學生實踐課程中所學到的知識和先進技術於畢業專題研究（畢業論文）當中。學生可根據自己的能力和興趣，在科目老師指導下，選取一個與課程相關的題目進行深入的專題研究。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSSc Housing Studies",
+            "title": {
+              "ENG": "Independent Research (Dissertation)",
+              "ZHS": "专题研究（毕业论文）",
+              "ZHT": "專題研究（畢業論文）"
+            },
+            "units": "6.00"
+          }
+        },
         "HSOC5103": {
           "groups": {
             "-": {
@@ -2062,7 +2491,41 @@
                         "building": null,
                         "slug": "TBA"
                       },
-                      "meeting_date": "15/06/2019 - 22/06/2019",
+                      "meeting_date": "08/06/2019 - 08/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Sa 09:00AM - 06:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "09/06/2019 - 09/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Su 09:00AM - 06:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "22/06/2019 - 22/06/2019",
                       "time": {
                         "begin": 540,
                         "end": 1080,
@@ -2072,7 +2535,7 @@
                     }
                   ],
                   "quota": {
-                    "seats": 50,
+                    "seats": 99,
                     "vacancy": null
                   }
                 }
@@ -2393,7 +2856,7 @@
               "course": "INFD5007",
               "group": "-",
               "instructors": [
-                "Professor LEUNG Ting Hung"
+                "Professor WONG Ngai Sze"
               ],
               "short_title": "Appli of GIS in Public Health 地理訊息系統與公共衛生"
             }
@@ -3344,7 +3807,8 @@
               "course": "LAWS6216",
               "group": "-",
               "instructors": [
-                "Professor BUI Ngoc Son"
+                "Professor BUI Ngoc Son",
+                "Professor Rehan Aindri ABEYRATNE"
               ],
               "short_title": "Comparative Constitutional Law"
             }
@@ -3484,7 +3948,7 @@
               "course": "LAWS6901",
               "group": "-",
               "instructors": [
-                "Staff"
+                "Professor BUI Ngoc Son"
               ],
               "short_title": "Independent Research"
             }
@@ -3545,7 +4009,7 @@
               "course": "LAWS6902",
               "group": "-",
               "instructors": [
-                "Staff"
+                "Professor BUI Ngoc Son"
               ],
               "short_title": "Independent Res Dissertation"
             }
@@ -3643,6 +4107,68 @@
               "ENG": "Special Topics in Linguistics",
               "ZHS": "语言学专题",
               "ZHT": "語言學專題"
+            },
+            "units": "3.00"
+          }
+        },
+        "MBAC6080": {
+          "groups": {
+            "F": {
+              "classes": {
+                "F01": {
+                  "class": "F01",
+                  "component": "FLD",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "03/06/2019 - 11/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 40,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MBAC6080",
+              "group": "F",
+              "instructors": [
+                "Professor ZHOU Xiang"
+              ],
+              "short_title": "Bus Field Stud - Mainland Chi 實地考察－中國內地商務"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Field Studies/Field-trip": "Required",
+              "Lecture": "Optional"
+            },
+            "description": {
+              "ENG": "This course consists of preparatory assignments in readings and a written study plan, followed by a seven-day residential programme in China, and concluded with a written report and oral presentation. The goal in taking classroom sessions abroad is to expose our MBA students to a wide spectrum of issues related to doing business in China. Trade, economics, finance, market, ventures, management practices, politics, as well as geographic and social issues are highlighted through lectures, seminars, and discussions with local government officials, managers, and academics. Site visits to state enterprises, joint ventures and manufacturing facilities are also included. Since much of the course will be conducted in Putonghua, students are expected to have adequate comprehension of the language/dialect.\r\rGrade descriptors:\rA Outstanding performance on all learning outcomes.\rA- Generally outstanding performance on all (or almost all) learning outcomes.\rB Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.\rC Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.\rD Barely satisfactory performance on a number of learning outcomes.\rF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements.",
+              "ZHS": "",
+              "ZHT": "本科目包含考察前的閱讀及學習計畫作業，其後於中國住讀一周，及撰寫報告、口頭簡報作總結。本科目以中國為上課地點，目的是讓工商管理碩士課程學生親身體驗在中國經商有關的各種議題。貿易、經濟、金融、市場、企業、管理實踐、政治、以及地理和社會問題會透過課堂，研討會，並與當地政府官員、管理人員和學者討論而強調。實地考察國有企業，合資企業和生產設施亦包括在內。由於科目大部分內容以普通話進行，學生應具備對語言/方言足夠的理解能力。\r\r(有關等級說明之詳細內容，請參閱英文版)"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Business Field Study - Mainland China",
+              "ZHS": "实地学习－中国内地商务",
+              "ZHT": "實地考察－中國內地商務"
             },
             "units": "3.00"
           }
@@ -3745,7 +4271,7 @@
               "course": "MBAC6090",
               "group": "K",
               "instructors": [
-                "Staff"
+                "Professor Roger John LEVERMORE"
               ],
               "short_title": "Selected Topics in Business 商業專題"
             }
@@ -3786,7 +4312,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "BATC_EM"
                       },
                       "meeting_date": "09/07/2019 - 16/07/2019",
                       "time": {
@@ -3803,7 +4329,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "BATC_EM"
                       },
                       "meeting_date": "10/07/2019 - 10/07/2019",
                       "time": {
@@ -3820,7 +4346,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "BATC_EM"
                       },
                       "meeting_date": "11/07/2019 - 11/07/2019",
                       "time": {
@@ -3837,7 +4363,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "BATC_EM"
                       },
                       "meeting_date": "12/07/2019 - 12/07/2019",
                       "time": {
@@ -3854,7 +4380,7 @@
                       },
                       "location": {
                         "building": null,
-                        "slug": "TBA"
+                        "slug": "BATC_EM"
                       },
                       "meeting_date": "15/07/2019 - 15/07/2019",
                       "time": {
@@ -3874,7 +4400,7 @@
               "course": "MBAC6100",
               "group": "E",
               "instructors": [
-                "Staff"
+                "Professor Frederic JALLAT"
               ],
               "short_title": "Current Topics in Business 當前商業專題"
             }
@@ -4512,6 +5038,189 @@
               "ENG": "Behavioral Decision Making",
               "ZHS": "行為策略",
               "ZHT": "行為策略"
+            },
+            "units": "3.00"
+          }
+        },
+        "NURS6035": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "03/05/2019 - 10/05/2019",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Fr 06:30PM - 09:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "08/05/2019 - 08/05/2019",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "We 06:30PM - 09:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "15/05/2019 - 15/05/2019",
+                      "time": {
+                        "begin": 1050,
+                        "end": 1335,
+                        "str": "We 05:30PM - 10:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "17/05/2019 - 24/05/2019",
+                      "time": {
+                        "begin": 1050,
+                        "end": 1335,
+                        "str": "Fr 05:30PM - 10:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "22/05/2019 - 05/06/2019",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "We 06:30PM - 09:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "31/05/2019 - 31/05/2019",
+                      "time": {
+                        "begin": 1110,
+                        "end": 1275,
+                        "str": "Fr 06:30PM - 09:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "12/06/2019 - 12/06/2019",
+                      "time": {
+                        "begin": 1050,
+                        "end": 1335,
+                        "str": "We 05:30PM - 10:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "14/06/2019 - 14/06/2019",
+                      "time": {
+                        "begin": 1050,
+                        "end": 1335,
+                        "str": "Fr 05:30PM - 10:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 20,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6035",
+              "group": "-",
+              "instructors": [
+                "Dr. CHIANG Chung Yan",
+                "Dr. CHOI Kai Chow",
+                "Ms. LEUNG Sui Kei Civy",
+                "Professor LO Hoi Shan"
+              ],
+              "short_title": "Clin Lead., Mang. and Out. Eva 臨床領導、管理及成效評核"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course focuses on developing students' understanding of healthcare management, leadership and the process of health outcome evaluation. Related frameworks for healthcare management, continuous quality improvement and outcome evaluations will be explored to guide students in assuming a managerial role and making quality improvement decisions in their specialty practice.",
+              "ZHS": "本科旨在让学生了解资深护理人员在评估医疗成效方面所扮演的角色，探讨与组织、领导及转变有关的理论，指导学生在专科实习时作出可以提升护理质素的决定。此外，亦会探索临床督导模式，以促进护理实务及推广健康。",
+              "ZHT": "本科著重加強學生對醫療管理、護理領導及醫療成效評估程序的了解，探討醫療管理、持續質量改進以及醫療成效評估的模式架構，指導學生在其所屬專科擔任管理層時，作出有助提升護理質素的決定。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing or Doctor of Nursing",
+            "title": {
+              "ENG": "Clinical Leadership, Management and Outcome Evaluation",
+              "ZHS": "高级护理实务III",
+              "ZHT": "臨床領導、管理及成效評核"
             },
             "units": "3.00"
           }
@@ -5198,9 +5907,9 @@
               "instructors": [
                 "Dr. EWIG Celeste Lom Ying",
                 "Dr. Justin Wade TENNEY",
-                "Dr. LAM Tai Ning",
                 "Dr. LEE Chui Ping",
                 "Dr. ZHOU Keary Rui",
+                "Professor LAM Tai Ning",
                 "Professor LEE Wing Yan Vivian",
                 "Professor YOU Hoi Sze Joyce"
               ],
@@ -5224,6 +5933,406 @@
               "ZHT": "畢業專題研究二"
             },
             "units": "5.00"
+          }
+        },
+        "PHYS5710": {
+          "groups": {
+            "A": {
+              "classes": {
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Physics",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 10,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "PHYS5710",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Guided Study 導修"
+            },
+            "B": {
+              "classes": {
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Physics",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 10,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "PHYS5710",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Guided Study 導修"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required"
+            },
+            "description": {
+              "ENG": "To study designated sections of textbook, reviews or literature. To make periodical reports to the supervisor.",
+              "ZHS": "",
+              "ZHT": "研究教科書，評論或文學刊物的指定部分，向指導導師作定期報告。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Physics; \r\nFor students in MPhil-PhD Physics; \r\nFor students in MPhil-PhD Materials Sci & Erg",
+            "title": {
+              "ENG": "Guided Study",
+              "ZHS": "导修",
+              "ZHT": "導修"
+            },
+            "units": "3.00"
+          }
+        },
+        "PHYS5720": {
+          "groups": {
+            "A": {
+              "classes": {
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Physics",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 10,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "PHYS5720",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Guided Study 導修"
+            },
+            "B": {
+              "classes": {
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Physics",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 10,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "PHYS5720",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Guided Study 導修"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required"
+            },
+            "description": {
+              "ENG": "To study designated sections of textbook, reviews or literature. To make periodical reports to the supervisor.",
+              "ZHS": "",
+              "ZHT": "研究教科書，評論或文學刊物的指定部分，向指導導師作定期報告。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Physics; \r\nFor students in MPhil-PhD Physics; \r\nFor students in MPhil-PhD Materials Sci & Erg",
+            "title": {
+              "ENG": "Guided Study",
+              "ZHS": "导修",
+              "ZHT": "導修"
+            },
+            "units": "3.00"
+          }
+        },
+        "PHYS5730": {
+          "groups": {
+            "A": {
+              "classes": {
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Physics",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 10,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "PHYS5730",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Guided Study 導修"
+            },
+            "B": {
+              "classes": {
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Physics",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 10,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "PHYS5730",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Guided Study 導修"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required"
+            },
+            "description": {
+              "ENG": "To study designated sections of textbook, reviews or literature. To make periodical reports to the supervisor.",
+              "ZHS": "To study designated sections of textbook, reviews or literature. To make periodical reports to the supervisor.",
+              "ZHT": "研究教科書，評論或文學刊物的指定部分，向指導導師作定期報告。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For MSc Physics",
+            "title": {
+              "ENG": "Guided Study",
+              "ZHS": "Guided Study",
+              "ZHT": "導修"
+            },
+            "units": "3.00"
+          }
+        },
+        "PHYS5990": {
+          "groups": {
+            "A": {
+              "classes": {
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Physics",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 10,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "PHYS5990",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Project III 物理專題研究（三）"
+            },
+            "B": {
+              "classes": {
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Physics",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/05/2019 - 25/06/2019",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 10,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "PHYS5990",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Project III 物理專題研究（三）"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Interactive Tutorial": "Required"
+            },
+            "description": {
+              "ENG": "A project in physics for M.Sc. students. The project provides a challenge for students to apply their knowledge acquired in lecture courses to carry out independent projects. A project report has to be written under the supervision of the teaching staff.",
+              "ZHS": "",
+              "ZHT": "本科專為物理學理學碩士學生而設。讓學生能夠應用在課堂上學到的知識，獨立地進行研究項目。並在個別導師的指導之下，學習項目報告的寫作。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Physics",
+            "title": {
+              "ENG": "Project III",
+              "ZHS": "物理专题研究（三）",
+              "ZHT": "物理專題研究（三）"
+            },
+            "units": "3.00"
           }
         },
         "POPG5006": {
@@ -5567,7 +6676,7 @@
               "course": "POPN5200",
               "group": "-",
               "instructors": [
-                "Professor NG Kwok Wai"
+                "Staff"
               ],
               "short_title": "Dissertation 專題論文"
             }
@@ -5603,8 +6712,8 @@
                   "meets": [
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "building": "WMY",
@@ -5620,8 +6729,8 @@
                     },
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "building": "WMY",
@@ -5681,8 +6790,8 @@
                   "meets": [
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "building": "SB",
@@ -5698,8 +6807,8 @@
                     },
                     {
                       "consent": {
-                        "add": false,
-                        "drop": false
+                        "add": true,
+                        "drop": true
                       },
                       "location": {
                         "building": "HYS",
@@ -6632,7 +7741,7 @@
                   "meets": [
                     {
                       "consent": {
-                        "add": false,
+                        "add": true,
                         "drop": false
                       },
                       "location": {
@@ -7167,6 +8276,15 @@
             }
           }
         },
+        "AEPT": {
+          "info": {
+            "name": {
+              "ENG": "Adv Environmental Planning Tec",
+              "ZHS": "Adv Environmental Planning Tec",
+              "ZHT": "Adv Environmental Planning Tec"
+            }
+          }
+        },
         "BCME": {
           "info": {
             "name": {
@@ -7191,6 +8309,15 @@
               "ENG": "Medical Genetics",
               "ZHS": "Medical Genetics",
               "ZHT": "Medical Genetics"
+            }
+          }
+        },
+        "CVSM": {
+          "info": {
+            "name": {
+              "ENG": "Cardiology",
+              "ZHS": "Cardiology",
+              "ZHT": "Cardiology"
             }
           }
         },
@@ -7245,6 +8372,15 @@
               "ENG": "History",
               "ZHS": "History",
               "ZHT": "History"
+            }
+          }
+        },
+        "HSGS": {
+          "info": {
+            "name": {
+              "ENG": "Housing Studies",
+              "ZHS": "Housing Studies",
+              "ZHT": "Housing Studies"
             }
           }
         },
@@ -7338,6 +8474,15 @@
             }
           }
         },
+        "NURS": {
+          "info": {
+            "name": {
+              "ENG": "Nursing",
+              "ZHS": "Nursing",
+              "ZHT": "Nursing"
+            }
+          }
+        },
         "OBSC": {
           "info": {
             "name": {
@@ -7371,6 +8516,15 @@
               "ENG": "Pharmacy",
               "ZHS": "Pharmacy",
               "ZHT": "Pharmacy"
+            }
+          }
+        },
+        "PHYS": {
+          "info": {
+            "name": {
+              "ENG": "Physics",
+              "ZHS": "Physics",
+              "ZHT": "Physics"
             }
           }
         },
