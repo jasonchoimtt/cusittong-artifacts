@@ -55,7 +55,7 @@
                         "building": "CYT",
                         "slug": "CYT_LT3"
                       },
-                      "meeting_date": "18/05/2019 - 18/05/2019",
+                      "meeting_date": "25/05/2019 - 25/05/2019",
                       "time": {
                         "begin": 540,
                         "end": 1080,
@@ -72,7 +72,7 @@
                         "building": "CYT",
                         "slug": "CYT_LT3"
                       },
-                      "meeting_date": "19/05/2019 - 19/05/2019",
+                      "meeting_date": "26/05/2019 - 26/05/2019",
                       "time": {
                         "begin": 540,
                         "end": 1080,
@@ -133,7 +133,7 @@
                         "building": null,
                         "slug": "NRR"
                       },
-                      "meeting_date": "25/05/2019 - 01/06/2019",
+                      "meeting_date": "08/06/2019 - 15/06/2019",
                       "time": {
                         "begin": 540,
                         "end": 1020,
@@ -150,7 +150,7 @@
                         "building": null,
                         "slug": "NRR"
                       },
-                      "meeting_date": "26/05/2019 - 02/06/2019",
+                      "meeting_date": "09/06/2019 - 16/06/2019",
                       "time": {
                         "begin": 540,
                         "end": 720,
@@ -345,7 +345,7 @@
                         "building": "CYT",
                         "slug": "CYT_LT3"
                       },
-                      "meeting_date": "16/05/2019 - 16/05/2019",
+                      "meeting_date": "23/05/2019 - 23/05/2019",
                       "time": {
                         "begin": 540,
                         "end": 1080,
@@ -362,7 +362,7 @@
                         "building": "CYT",
                         "slug": "CYT_LT3"
                       },
-                      "meeting_date": "17/05/2019 - 17/05/2019",
+                      "meeting_date": "24/05/2019 - 24/05/2019",
                       "time": {
                         "begin": 540,
                         "end": 1080,
@@ -1472,7 +1472,7 @@
                         "building": null,
                         "slug": "NRR"
                       },
-                      "meeting_date": "08/06/2019 - 15/06/2019",
+                      "meeting_date": "25/05/2019 - 01/06/2019",
                       "time": {
                         "begin": 540,
                         "end": 1020,
@@ -1489,7 +1489,7 @@
                         "building": null,
                         "slug": "NRR"
                       },
-                      "meeting_date": "09/06/2019 - 16/06/2019",
+                      "meeting_date": "26/05/2019 - 02/06/2019",
                       "time": {
                         "begin": 540,
                         "end": 720,
@@ -1641,7 +1641,119 @@
               "course": "FINA6514",
               "group": "A",
               "instructors": [
+                "Professor LIN Syaru Shirley"
+              ],
+              "short_title": "Special Topics in Finance 財務專題"
+            },
+            "AS": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "08/06/2019 - 15/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "09/06/2019 - 16/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 70,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6514",
+              "group": "AS",
+              "instructors": [
                 "Staff"
+              ],
+              "short_title": "Special Topics in Finance 財務專題"
+            },
+            "AZ": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "11/05/2019 - 18/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "12/05/2019 - 19/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 70,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6514",
+              "group": "AZ",
+              "instructors": [
+                "Professor ZHANG Xiaoquan"
               ],
               "short_title": "Special Topics in Finance 財務專題"
             },
@@ -1697,7 +1809,7 @@
               "course": "FINA6514",
               "group": "B",
               "instructors": [
-                "Staff"
+                "Professor LIN Syaru Shirley"
               ],
               "short_title": "Special Topics in Finance 財務專題"
             }
@@ -1723,62 +1835,6 @@
         },
         "FINA6521": {
           "groups": {
-            "A": {
-              "classes": {
-                "": {
-                  "class": "",
-                  "component": "LEC",
-                  "department": "Div of Business Administration",
-                  "language": "P&E",
-                  "meets": [
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "NRR"
-                      },
-                      "meeting_date": "25/05/2019 - 01/06/2019",
-                      "time": {
-                        "begin": 540,
-                        "end": 1020,
-                        "str": "Sa 09:00AM - 05:00PM",
-                        "weekday": "Sa"
-                      }
-                    },
-                    {
-                      "consent": {
-                        "add": false,
-                        "drop": false
-                      },
-                      "location": {
-                        "building": null,
-                        "slug": "NRR"
-                      },
-                      "meeting_date": "26/05/2019 - 02/06/2019",
-                      "time": {
-                        "begin": 540,
-                        "end": 720,
-                        "str": "Su 09:00AM - 12:00PM",
-                        "weekday": "Su"
-                      }
-                    }
-                  ],
-                  "quota": {
-                    "seats": 80,
-                    "vacancy": null
-                  }
-                }
-              },
-              "course": "FINA6521",
-              "group": "A",
-              "instructors": [
-                "Staff"
-              ],
-              "short_title": "Internet Finance 互聯網金融"
-            },
             "B": {
               "classes": {
                 "": {
@@ -2043,7 +2099,7 @@
               "course": "FINA6524",
               "group": "A",
               "instructors": [
-                "Staff"
+                "Dr. CHEN Raymond Lei"
               ],
               "short_title": "Securitization & Strc Finance 資產證券化和結構金融"
             },
@@ -2099,7 +2155,7 @@
               "course": "FINA6524",
               "group": "B",
               "instructors": [
-                "Staff"
+                "Dr. CHEN Raymond Lei"
               ],
               "short_title": "Securitization & Strc Finance 資產證券化和結構金融"
             }
@@ -2119,6 +2175,140 @@
               "ENG": "Securitization and Structured Finance",
               "ZHS": "資產證券化和結構金融",
               "ZHT": "資產證券化和結構金融"
+            },
+            "units": "1.50"
+          }
+        },
+        "FINA6534": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "25/05/2019 - 01/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "26/05/2019 - 02/06/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6534",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Fin-Glb Fin 財務專題—國際金融"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "11/05/2019 - 18/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "12/05/2019 - 19/05/2019",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6534",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Fin-Glb Fin 財務專題—國際金融"
+            }
+          },
+          "info": {
+            "course_components": {
+              "Lecture": "Required"
+            },
+            "description": {
+              "ENG": "This course is to study the current issues of economics and finance with the emphasis on case studies.  It also enables students to understand and grasp the theory and current issues on international finance from the macroeconomic point of view.",
+              "ZHS": "此课程探讨当前世界经济与金融相关课题，并着重于案例学习，让学生从 宏观经济角度了解理论知识和国际金融热点。",
+              "ZHT": "此科目探討當前世界經濟與金融相關課題，並着重於案例學習，讓學生從宏觀經濟角度瞭解理論知識和國際金融熱點。"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Special Topics in Finance - Global Finance",
+              "ZHS": "财务专题—国际金融",
+              "ZHT": "財務專題—國際金融"
             },
             "units": "1.50"
           }
@@ -2357,7 +2547,7 @@
               "course": "MKTG6034",
               "group": "A",
               "instructors": [
-                "Staff"
+                "Professor SHEN Hao"
               ],
               "short_title": "Special Topics in Digital Mktg 數字營銷新生態"
             },
@@ -2413,7 +2603,7 @@
               "course": "MKTG6034",
               "group": "B",
               "instructors": [
-                "Staff"
+                "Professor SHEN Hao"
               ],
               "short_title": "Special Topics in Digital Mktg 數字營銷新生態"
             }
@@ -3122,13 +3312,13 @@
               "group": "-",
               "instructors": [
                 "Dr. CHIANG Chung Yan",
-                "Dr. LO Hoi Shan",
                 "Dr. WONG Yuk Shim",
                 "Miss TANG Pui Yin",
                 "Mr. HA Kong Nam",
                 "Ms. LING Cheuk Chi",
                 "Ms. NGAN Hau Yi",
-                "Professor LI Wai Chi"
+                "Professor LI Wai Chi",
+                "Professor LO Hoi Shan"
               ],
               "short_title": "Care for Cli W/ AcuChro Ill I 急性及慢性疾病護理 III"
             }
@@ -3738,10 +3928,10 @@
               "course": "NURS6320",
               "group": "-",
               "instructors": [
-                "Dr. LO Hoi Shan",
                 "Miss TANG Pui Yin",
                 "Ms. CHAN Mei Fung Wendy",
-                "Ms. KWAN Siu Kuen"
+                "Ms. KWAN Siu Kuen",
+                "Professor LO Hoi Shan"
               ],
               "short_title": "Paed & Adolescent Nursing 兒童及青少年護理"
             }
