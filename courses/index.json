@@ -1,9 +1,25 @@
 {
+  "careers": [
+    [
+      "PGDE",
+      "Postgraduate - PGDE"
+    ],
+    [
+      "RPG",
+      "Postgraduate - Research"
+    ],
+    [
+      "TPG",
+      "Postgraduate - Taught"
+    ],
+    [
+      "UG",
+      "Undergraduate"
+    ]
+  ],
   "info": {
     "languages": {
-      "ENG": "English",
-      "ZHS": "Simplified Chinese",
-      "ZHT": "Traditional Chinese"
+      "ENG": "English"
     }
   },
   "terms": {
@@ -868,6 +884,171 @@
           "ENG": "2018-19 Term 4",
           "ZHS": "2018-19 Term 4",
           "ZHT": "2018-19 學年第四學期"
+        }
+      }
+    },
+    "19M": {
+      "careers": {
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate"
+            }
+          }
+        }
+      },
+      "file": "19M.json",
+      "info": {
+        "name": {
+          "ENG": "2019-20 Acad Year (Medicine)"
+        }
+      }
+    },
+    "19S": {
+      "careers": {
+        "PGDE": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - PGDE"
+            }
+          }
+        },
+        "RPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Research"
+            }
+          }
+        },
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught"
+            }
+          }
+        },
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate"
+            }
+          }
+        }
+      },
+      "file": "19S.json",
+      "info": {
+        "name": {
+          "ENG": "2019-20 Summer Session"
+        }
+      }
+    },
+    "19T1": {
+      "careers": {
+        "PGDE": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - PGDE"
+            }
+          }
+        },
+        "RPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Research"
+            }
+          }
+        },
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught"
+            }
+          }
+        },
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate"
+            }
+          }
+        }
+      },
+      "file": "19T1.json",
+      "info": {
+        "name": {
+          "ENG": "2019-20 Term 1"
+        }
+      }
+    },
+    "19T2": {
+      "careers": {
+        "PGDE": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - PGDE"
+            }
+          }
+        },
+        "RPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Research"
+            }
+          }
+        },
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught"
+            }
+          }
+        },
+        "UG": {
+          "info": {
+            "name": {
+              "ENG": "Undergraduate"
+            }
+          }
+        }
+      },
+      "file": "19T2.json",
+      "info": {
+        "name": {
+          "ENG": "2019-20 Term 2"
+        }
+      }
+    },
+    "19T3": {
+      "careers": {
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught"
+            }
+          }
+        }
+      },
+      "file": "19T3.json",
+      "info": {
+        "name": {
+          "ENG": "2019-20 Term 3"
+        }
+      }
+    },
+    "19T4": {
+      "careers": {
+        "TPG": {
+          "info": {
+            "name": {
+              "ENG": "Postgraduate - Taught"
+            }
+          }
+        }
+      },
+      "file": "19T4.json",
+      "info": {
+        "name": {
+          "ENG": "2019-20 Term 4"
         }
       }
     }
