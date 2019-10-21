@@ -2,21 +2,6 @@
   "careers": {
     "TPG": {
       "courses": {
-        "": {
-          "groups": {},
-          "info": {
-            "course_components": {},
-            "description": {
-              "ENG": ""
-            },
-            "grading_basis": "",
-            "requirement": "For students in Master of Nursing Science (Pre-registration)Prerequisite: NURS6201, NURS6202 and NURS6203",
-            "title": {
-              "ENG": ""
-            },
-            "units": ""
-          }
-        },
         "ACCT6120": {
           "groups": {
             "C": {
@@ -59,7 +44,18 @@
               "short_title": "Management Control Systems 管理控制系統"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Designed properly, management control systems serve to influence and structure employee behavior in ways that increase the likelihood that organizational objectives are achieved or exceeded. This course provides an advanced-level examination of the alternative control mechanisms available to organizations, theories underlying their use, and their intended and often unintended effects on behavior. Particular attention is directed to the critical decisions underlying the design of effective accounting based control systems including choice of responsibility structure, performance measures, performance standards, and incentive systems, and to emerging issues in corporate governance.Grade descriptors:A \tOutstanding performance on all learning outcomes.A- \tGenerally outstanding performance on all (or almost all) learning outcomes.B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes.F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Accountancy; or Executive Master of Professional Accountancy",
+            "title": {
+              "ENG": "Management Control Systems"
+            },
+            "units": "3.00"
+          }
         },
         "ACCT6140": {
           "groups": {
@@ -142,7 +138,18 @@
               "short_title": "Acct Info Sys & Internal Contr 會計信息系統和內部控制"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course consists of two related areas. This first part analyzes information systems from a management control perspective, emphasizing organization environment, technology, decision models and performance evaluation as determinants of information processing requirements; using cases and design projects to explore the management of information processing systems, major functional applications and impacts of information technology on individuals and society. The second part introduces the systems, procedures, and processes management employed to control operating activities, information reporting systems, and compliance with applicable laws, rules and regulations. Topics include design and evaluation perspectives of control environment, risk assessment, control activities, information and communication and monitoring.Grade descriptors:A \tOutstanding performance on all learning outcomes.A- \tGenerally outstanding performance on all (or almost all) learning outcomes.B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes.F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Executive Master of Professional Accountancy; or Master of Accountancy",
+            "title": {
+              "ENG": "Accounting Information Systems and Internal Control"
+            },
+            "units": "3.00"
+          }
         },
         "DSME6350": {
           "groups": {
@@ -259,7 +266,18 @@
               "short_title": "Financial Data Modeling & Anal 金融數據建模與分析"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course is designed to cover mathematical and statistical/econometric techniques to financial issues, i.e. regression, time-series methods, forecasting models and simulation in financial applications. It shows students how to apply such techniques in the context of finance. For example, discussion of a number of distributions pays special attention to heavy tail, skewness and other distribution features with regard to financial return analysis. Time-series analyses aim to explain the important influence of time-dependence in making economical predictions. Regression models cover CAPM as well as multifactor models to connote the cross-section relations among financial returns. GARCH and other volatility models introduce the related applications in risk management context. The course involves extensive use of real data examples and hands-on examples.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Financial Data Modeling and Analysis"
+            },
+            "units": "1.50"
+          }
         },
         "EMBA6061": {
           "groups": {
@@ -422,7 +440,18 @@
               "short_title": "Sem on Bus & Magt Issues 工商管理問題研討"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course addresses the latest development in the fields of business and management. Some relevant topics such as electronic business, leadership, corporate governance, social and cultural issues, entrepreneurship, start-ups and IPOs, cross cultural business management, etc. would be incorporated in this seminar course.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Seminar on Business and Management Issues"
+            },
+            "units": "3.00"
+          }
         },
         "EMBA6062": {
           "groups": {
@@ -517,7 +546,18 @@
               "short_title": "Selected Topics in Bus & Magt 商業與管理專題討論"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course aims to expose our students to a wide spectrum of global, regional and local business and management issues. To facilitate effective learning, specific topics will be selected for incorporating in this course: examples include trade, economics, technology, finance, market, ventures, politics, corporate governance, management practices, as well as various societal concerns. Throughout this course, lectures, talks, and site visits, in the local and/or international arena, will be conducted to enable students to identify in-depth the gist behind certain selected management and business topics and to come up with insights to help corporations make better decisions in the future. This course consists of an introductory review, followed by an intensive study week in the local and/or international arena. Students have to report their learning and insights with other students after the study week.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Selected Topics in Business and Management"
+            },
+            "units": "3.00"
+          }
         },
         "EMBA6071": {
           "groups": {
@@ -804,7 +844,18 @@
               "short_title": "Global Bus & Mgt Field Study 環球工商管理考察研究"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course consists of preparatory assignments and a written study plan, followed by a five-day study week in a selected place outside Hong Kong. Students have to submit a written report and make oral presentation of their work. The goal in taking classroom sessions abroad is to expose our students to a wide spectrum of issues related to global business and management. Students will be exposed to different national environments, advantages and problems associated with various forms of international operations, and management strategies of international firms.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Global Business and Management Field Study"
+            },
+            "units": "3.00"
+          }
         },
         "FINA5010": {
           "groups": {
@@ -899,7 +950,18 @@
               "short_title": "Financial Management 財務管理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This offering provides an overview and analysis of financial decision-making within the corporate setting. Various facets of financial management are tackled from both theoretical and applied perspectives. Key topic areas include capital budgeting, the concept of risk and expected returns, valuation of stocks and bonds, capital structure theory and its applications, cost of capital, corporate dividend policy, working capital management and equity fund-raising methods.Blended-mode class section is available for this course.  Please refer to the “Class Notes” of the blended-mode class section for details.Grade descriptors:A / A- Outstanding performance on all learning outcomes.B+ / B / B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D Barely satisfactory performance on a number of learning outcomesF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA (Chinese); or MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme; or PgD Professional Accountancy; or Master of Accountancy",
+            "title": {
+              "ENG": "Financial Management"
+            },
+            "units": "3.00"
+          }
         },
         "FINA5015": {
           "groups": {
@@ -1045,7 +1107,18 @@
               "short_title": "CorpFinAnalysis DecisionMaking 企業財務分析與決策"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course offers a framework for analyzing a firm’s major financial decision choices. Pertinent decision areas include assessment of the following: capital budgeting, investment selection and appraisal, risk analysis, financial planning, dividend policy, cash and working capital management, external fund raising and determination of corporate leverage.Grade descriptors: A/A- Outstanding performance on all learning outcomes. B+/B/B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C+/C/C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D+/D Barely satisfactory performance on a number of learning outcomes. F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA",
+            "title": {
+              "ENG": "Corporate Financial Analysis & Decision-Making"
+            },
+            "units": "3.00"
+          }
         },
         "FINA6122": {
           "groups": {
@@ -1089,7 +1162,18 @@
               "short_title": "Fin Markets & Instruments 金融市場與工具"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Financial markets play a pivotal and central role in the formation of investment capital and, therefore, societal wealth. This function, in addition to many others, is explored in this course. Attention will also focus on the forms and structures of financial markets (i.e., stock, futures, gold and foreign exchange markets) both locally and internationally. Within this brief, detailed consideration is also given to the various institutions participating in the markets and to the form and functions of instruments quoted.Grade descriptors:A / A- Outstanding performance on all learning outcomes.B+ / B / B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D Barely satisfactory performance on a number of learning outcomesF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA; or Master of Accountancy; or Executive Master of Professional Accountancy",
+            "title": {
+              "ENG": "Financial Markets and Instruments"
+            },
+            "units": "3.00"
+          }
         },
         "FINA6504": {
           "groups": {
@@ -1133,7 +1217,18 @@
               "short_title": "Corporate Finance 公司金融"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course discusses the financial management decisions of a corporation in depth. Specific topics include capital budgeting analysis under perfect and non-perfect competitive setups; theories of agency costs and asymmetric information that underlie financial decisions; capital structure; dividend policy; raising equity capital and long-term debt; warrants and convertibles; and corporate risk management.Grade descriptors:A / A- : Outstanding performance on all learning outcomesB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D : Barely satisfactory performance on a number of learning outcomes.F : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance; or Executive Master of Professional Accountancy",
+            "title": {
+              "ENG": "Corporate Finance"
+            },
+            "units": "3.00"
+          }
         },
         "FINA6511": {
           "groups": {
@@ -1250,7 +1345,18 @@
               "short_title": "Insurance & Risk Management 保險與風險管理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course deals with risk management functions in business; the identification and measurement of business loss exposures; major tools of risk management; analysis of insurance contracts and their uses; methods and problems of insurance pricing; operations of insurers and major insurances policies; family property and liability risk management; and government regulation of insurance.Grade descriptors:A / A- : Outstanding performance on all learning outcomesB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D : Barely satisfactory performance on a number of learning outcomes.F : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Insurance and Risk Management"
+            },
+            "units": "1.50"
+          }
         },
         "FINA6512": {
           "groups": {
@@ -1311,7 +1417,18 @@
               "short_title": "Merg, Acq & Recon of Corp Fin 兼併、收購與財務重組"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course integrates areas within financial management and investments to analyse merger and acquisition (takeover) markets. The class will be conducted using both lectures and presentations. The topics covered in lectures will include the overview of takeover markets, legal aspects and restrictions, capital budgeting techniques, the efficient market hypothesis, the market model and computation of abnormal returns, the dividend discount model and the free cash flow model. The topics covered in presentation will include US and Hong Kong cases of mergers, tender offers and leverage buyouts. The class is required to apply the efficient market hypothesis to analyse the stock market responses to takeover announcements. In addition, consideration will be given to welfare gains/losses associated with takeover, the cost of capital for due acquirer and the intrinsic value of the target (using dividend discount and free cashflow models).Grade descriptors:A / A- : Outstanding performance on all learning outcomesB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D : Barely satisfactory performance on a number of learning outcomes.F : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Merger, Acquisition and Reconstruction of Corporate Finance"
+            },
+            "units": "1.50"
+          }
         },
         "FINA6513": {
           "groups": {
@@ -1372,7 +1489,18 @@
               "short_title": "China Economics & Finance 中國經濟與金融"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The purpose of this course is to help students study and understand economic and financial policies of China, with a focus on macroeconomic issues.  The history and current issues of the China financial markets and institutions are addressed.Grade descriptors:A / A- : Outstanding performance on all learning outcomesB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D : Barely satisfactory performance on a number of learning outcomes.F : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "China Economics and Finance"
+            },
+            "units": "1.50"
+          }
         },
         "FINA6514": {
           "groups": {
@@ -1489,7 +1617,18 @@
               "short_title": "Special Topics in Finance 財務專題"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Topics and issues in subfields of finance are addressed in this course.Grade descriptors:A / A- : Outstanding performance on all learning outcomesB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D : Barely satisfactory performance on a number of learning outcomes.F : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Special Topics in Finance"
+            },
+            "units": "1.50"
+          }
         },
         "FINA6521": {
           "groups": {
@@ -1606,7 +1745,18 @@
               "short_title": "Internet Finance 互聯網金融"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The course provides the tools necessary to analyze the opportunities and potential competitive threats in commercial web-based organizations. To quantify and apply the analysis, a particular focus is on valuing Internet companies based on a careful examination of their business model and environment. The course also covers the basic theory of financial intermediation as it applies to online financial service firms. It discusses the impact of a migration to online financial services and the competitive changes created.Grade descriptors:A / A- : Outstanding performance on all learning outcomesB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D : Barely satisfactory performance on a number of learning outcomes.F : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Internet Finance"
+            },
+            "units": "1.50"
+          }
         },
         "FINA6523": {
           "groups": {
@@ -1723,7 +1873,18 @@
               "short_title": "Fixed Income 固收證券"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course aims to introduce valuation methods of fixed-income securities and investment techniques in managing fixed income portfolios. Topics include the term structures of interest rates and forward rates; bond pricing, risk and hedging in bond portfolio management; duration, convexity and portfolio immunization; corporate bonds, emerging-market bonds and default risks.Grade descriptors:A / A- : Outstanding performance on all learning outcomesB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D : Barely satisfactory performance on a number of learning outcomes.F : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Fixed Income"
+            },
+            "units": "1.50"
+          }
         },
         "FINA6524": {
           "groups": {
@@ -1840,7 +2001,18 @@
               "short_title": "Securitization & Strc Finance 資產證券化和結構金融"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces students to fundamental concepts of securitization and the wide array of structured products in the financial market, especially in the context of China. Topics include exotic derivatives and credit derivative, followed by detailed discussions on popular structured products in different asset classes, structuring rationales of the products, and the typical transaction cycle in banks.Grade descriptors:A / A- : Outstanding performance on all learning outcomesB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D : Barely satisfactory performance on a number of learning outcomes.F : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Securitization and Structured Finance"
+            },
+            "units": "1.50"
+          }
         },
         "FINA6534": {
           "groups": {
@@ -1957,7 +2129,18 @@
               "short_title": "Special Topics in Fin-Glb Fin 財務專題—國際金融"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course is to study the current issues of economics and finance with the emphasis on case studies.  It also enables students to understand and grasp the theory and current issues on international finance from the macroeconomic point of view.Grade descriptors:A / A- : Outstanding performance on all learning outcomesB+ / B / B- : Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- : Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D : Barely satisfactory performance on a number of learning outcomes.F : Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance",
+            "title": {
+              "ENG": "Special Topics in Finance - Global Finance"
+            },
+            "units": "1.50"
+          }
         },
         "MGNT6151": {
           "groups": {
@@ -2052,7 +2235,18 @@
               "short_title": "Strategic Mgt of Innovation 創新策略管理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The aim of this course is to provide a solid grounding for students interested in top management and (to a lesser extent) government policy issues concerning the innovation process within organizations. The course is divided into several main parts. The first part discusses technology at the macro level: its impact on industries and nations, and patterns of technological change. The second part focuses on disruptive innovations – what they are, how they affect firms and industry change, and how they facilitate entrepreneurship. The third part deals with the response of firms to disruptive innovations, including the changing basis of competition in markets. The increasing returns environment is also examined. The fourth part focuses on building the internal capabilities of organizations to innovate, and discusses the innovator's solution. The fifth part discusses additional topics in innovation such as entrepreneurship and spurring innovation at the societal level. Case studies, both written and video-based, are used extensively to illustrate a range of technologies and the problems associated with developing them and bringing them to market. The course spends much time examining new technologies, how to think strategically about them, how to develop them and how firms should pursue them (or why they fail to pursue these new technologies).Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Strategic Management of Innovation"
+            },
+            "units": "3.00"
+          }
         },
         "MKTG5011": {
           "groups": {
@@ -2147,7 +2341,18 @@
               "short_title": "Marketing Management 營銷管理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course is designed to illustrate how to devise a good market plan comprising segmentation, positioning and targeting to achieve consumer satisfaction. Emphasis is placed on adopting the basic marketing concept to enhance a firm’s long-run market position via the creation of a differential advantage while meeting consumer desires at the same time. Another emphasis of this course is to explain how a firm can excel in the ever-changing market and competitive environment.Blended-mode class section is available for this course.  Please refer to the “Class Notes” of the blended-mode class section for details.Grade descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme; or MSc Marketing; or EMBA; or EMBA (Chinese)",
+            "title": {
+              "ENG": "Marketing Management"
+            },
+            "units": "3.00"
+          }
         },
         "MKTG6025": {
           "groups": {
@@ -2208,7 +2413,18 @@
               "short_title": "Seminar in Marketing 市場學專題研討"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides students with an opportunity to further their knowledge in selected areas in marketing such as internet marketing, business negotiation, bank marketing, telecommunication marketing, and the like. Topics and issues of current interest will be discussed as well. Throughout this series of seminars, students' initiation and participation in discussion and projects related to the selected topics will be emphasized. Owing to the specific nature of the course, topics to be discussed will vary from term to term.Grade descriptors:A  Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B  Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in EMBA (Chinese)",
+            "title": {
+              "ENG": "Seminar in Marketing"
+            },
+            "units": "1.50"
+          }
         },
         "MKTG6034": {
           "groups": {
@@ -2325,7 +2541,18 @@
               "short_title": "Special Topics in Digital Mktg 數字營銷新生態"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course aims to discuss some new topics in digital marketing.  It covers the interaction between online and offline marketing; the challenge of social media marketing to traditional marketing theories; models and problems of sharing economy; a discussion of different pricing models of internet companies; and the development and the influence of artificial intelligence (AI).Grade descriptors:A   Outstanding performance on all learning outcomes.A-  Generally outstanding performance on all (or almost all) learning outcomes.B   Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   Barely satisfactory performance on a number of learning outcomesF   Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA Finance; or MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Special Topics in Digital Marketing"
+            },
+            "units": "1.50"
+          }
         },
         "NURS6306": {
           "groups": {
@@ -2914,7 +3141,18 @@
               "short_title": "Care for Cli W/ Acu&Chro Ill I 急性及慢性疾病護理 III"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course emphasizes on basic nursing knowledge, particularly the pathophysiological changes and pharmacological treatment of clients with acute and chronic illnesses. Students are equipped with principles of therapeutic management and nursing skills to assess, diagnose, and implement evidence-based nursing interventions to promote good health outcomes of these clients.Grade DescriptorsA: An outstanding level of attainment of all the course learning outcomes. Consistent evidence of in-depth and critical understanding, synthesis and creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Outstanding level of accuracy in knowledge and skill application.B: Attainment of most of the course learning outcomes. Evidence of critical understanding, integration and certain level of creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Good level of accuracy in knowledge and skill application. C: Attainment of at least 50% of the course learning outcomes. Evidence of understanding of the fundamental knowledge, skills, concepts and principles learnt in the course. Fair level of accuracy in knowledge and skill application.D: Limited attainment of the course learning outcomes. Insufficient evidence of understanding fundamental knowledge, skills, concepts and principles learnt in the course. Low level of accuracy in knowledge and skill application.F: An insufficient level of attainment of the course learning outcomes, or failure to meet the specific assessment requirements.Note: ‘D’ and ‘F’ are failure grades for Master of Nursing Science (Pre-registration) Programme"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Care for Clients with Acute and Chronic Illnesses III"
+            },
+            "units": "6.00"
+          }
         },
         "NURS6317": {
           "groups": {
@@ -3009,7 +3247,18 @@
               "short_title": "Mental Health Nursing 精神科護理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides theoretical basis for comprehensive nursing care to clients with alterations of mental health. It emphasizes on the approach that mental health and illnesses exist on a continuum. Students are equipped with knowledge to examine a variety of mental health disorders and to explore different mental health care settings.Grade DescriptorsA: An outstanding level of attainment of all the course learning outcomes. Consistent evidence of in-depth and critical understanding, synthesis and creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Outstanding level of accuracy in knowledge and skill application.B: Attainment of most of the course learning outcomes. Evidence of critical understanding, integration and certain level of creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Good level of accuracy in knowledge and skill application. C: Attainment of at least 50% of the course learning outcomes. Evidence of understanding of the fundamental knowledge, skills, concepts and principles learnt in the course. Fair level of accuracy in knowledge and skill application.D: Limited attainment of the course learning outcomes. Insufficient evidence of understanding fundamental knowledge, skills, concepts and principles learnt in the course. Low level of accuracy in knowledge and skill application.F: An insufficient level of attainment of the course learning outcomes, or failure to meet the specific assessment requirements.Note: ‘D’ and ‘F’ are failure grades for Master of Nursing Science (Pre-registration) Programme"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Mental Health Nursing"
+            },
+            "units": "2.00"
+          }
         },
         "NURS6320": {
           "groups": {
@@ -3402,7 +3651,18 @@
               "short_title": "Paed & Adolescent Nursing 兒童及青少年護理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course aims to provide theoretical and practical information on basic and complex health concepts and issues. It is focused on the nursing care of children and adolescents with physical, psychosocial, or developmental problems. It includes the principles of family centered nursing to provide comprehensive assessment and appropriate nursing interventions towards health promotion of clients.Grade DescriptorsA: An outstanding level of attainment of all the course learning outcomes. Consistent evidence of in-depth and critical understanding, synthesis and creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Outstanding level of accuracy in knowledge and skill application.B: Attainment of most of the course learning outcomes. Evidence of critical understanding, integration and certain level of creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Good level of accuracy in knowledge and skill application. C: Attainment of at least 50% of the course learning outcomes. Evidence of understanding of the fundamental knowledge, skills, concepts and principles learnt in the course. Fair level of accuracy in knowledge and skill application. D: Limited attainment of the course learning outcomes. Insufficient evidence of understanding fundamental knowledge, skills, concepts and principles learnt in the course. Low level of accuracy in knowledge and skill application.F: An insufficient level of attainment of the course learning outcomes, or failure to meet the specific assessment requirements.Note: ‘D’ and ‘F’ are failure grades for Master of Nursing Science (Pre-registration) Programme"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Paediatric and Adolescent Nursing"
+            },
+            "units": "3.00"
+          }
         },
         "NURS6424": {
           "groups": {
@@ -3543,7 +3803,18 @@
               "short_title": "Comple & Alt Medicine 補充替代醫學"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course aims to introduce students to the efficacy, choice, use, and explanatory mechanisms of complementary and alternative medicine using a range of selected therapies. The regional focus will be on the health concepts of Traditional Chinese Medicine (including tai chi, qigong, and acupuncture). The scope and responsibilities of the nurse's role within this field in Hong Kong will also be discussed.Grade DescriptorsA: An outstanding level of attainment of all the course learning outcomes. Consistent evidence of in-depth and critical understanding, synthesis and creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Outstanding level of accuracy in knowledge and skill application.B: Attainment of most of the course learning outcomes. Evidence of critical understanding, integration and certain level of creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Good level of accuracy in knowledge and skill application. C: Attainment of at least 50% of the course learning outcomes. Evidence of understanding of the fundamental knowledge, skills, concepts and principles learnt in the course. Fair level of accuracy in knowledge and skill application.D: Limited attainment of the course learning outcomes. Insufficient evidence of understanding fundamental knowledge, skills, concepts and principles learnt in the course. Low level of accuracy in knowledge and skill application.F: An insufficient level of attainment of the course learning outcomes, or failure to meet the specific assessment requirements.Note: ‘D’ and ‘F’ are failure grades for Master of Nursing Science (Pre-registration) Programme"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)",
+            "title": {
+              "ENG": "Complementary and Alternative Medicine"
+            },
+            "units": "2.00"
+          }
         },
         "NURS6501": {
           "groups": {
@@ -3655,7 +3926,18 @@
               "short_title": "Clinical Practice Block I 臨床實習 I"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This clinical practice block aims to provide students with a venue to apply and consolidate their knowledge and skills on interpersonal communication, client safety, health assessment, and basic nursing skills. In the process, they are able to promote clients' health and wellness. In addition, this clinical practice block allows students to gain understanding and experiential learning on various matters. These include clinical practice environment, nurses and health care team members' roles, and the health care delivery system in Hong Kong.Grade DescriptorsA: An outstanding level of attainment of all the course learning outcomes. Consistent evidence of in-depth and critical understanding, synthesis and creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Outstanding level of accuracy in knowledge and skill application.B: Attainment of most of the course learning outcomes. Evidence of critical understanding, integration and certain level of creativity in the application of the knowledge, skills, concepts and principles learnt in the course. Good level of accuracy in knowledge and skill application. C: Attainment of at least 50% of the course learning outcomes. Evidence of understanding of the fundamental knowledge, skills, concepts and principles learnt in the course. Fair level of accuracy in knowledge and skill application. D: Limited attainment of the course learning outcomes. Insufficient evidence of understanding fundamental knowledge, skills, concepts and principles learnt in the course. Low level of accuracy in knowledge and skill application.F: An insufficient level of attainment of the course learning outcomes, or failure to meet the specific assessment requirements.Note: ‘D’ and ‘F’ are failure grades for Master of Nursing Science (Pre-registration) Programme"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)Prerequisite: NURS6201, NURS6202 and NURS6203",
+            "title": {
+              "ENG": "Clinical Practice Block I"
+            },
+            "units": "5.00"
+          }
         }
       },
       "info": {
@@ -4376,7 +4658,9 @@
   },
   "info": {
     "name": {
-      "ENG": "2019-20 Term 4"
+      "ENG": "2019-20 Term 4",
+      "ZHS": "2019-20 Term 4",
+      "ZHT": "2019-20 學年第四學期"
     }
   }
 }
