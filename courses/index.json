@@ -900,7 +900,9 @@
       "file": "19M.json",
       "info": {
         "name": {
-          "ENG": "2019-20 Acad Year (Medicine)"
+          "ENG": "2019-20 Acad Year (Medicine)",
+          "ZHS": "2019-20 Acad Year (Medicine)",
+          "ZHT": "2019-20 學年"
         }
       }
     },
@@ -938,7 +940,9 @@
       "file": "19S.json",
       "info": {
         "name": {
-          "ENG": "2019-20 Summer Session"
+          "ENG": "2019-20 Summer Session",
+          "ZHS": "2019-20 Summer Session",
+          "ZHT": "2019-20 學年暑期課程"
         }
       }
     },
@@ -976,7 +980,9 @@
       "file": "19T1.json",
       "info": {
         "name": {
-          "ENG": "2019-20 Term 1"
+          "ENG": "2019-20 Term 1",
+          "ZHS": "2019-20 Term 1",
+          "ZHT": "2019-20 學年第一學期"
         }
       }
     },
@@ -1014,7 +1020,9 @@
       "file": "19T2.json",
       "info": {
         "name": {
-          "ENG": "2019-20 Term 2"
+          "ENG": "2019-20 Term 2",
+          "ZHS": "2019-20 Term 2",
+          "ZHT": "2019-20 學年第二學期"
         }
       }
     },
@@ -1031,7 +1039,9 @@
       "file": "19T3.json",
       "info": {
         "name": {
-          "ENG": "2019-20 Term 3"
+          "ENG": "2019-20 Term 3",
+          "ZHS": "2019-20 Term 3",
+          "ZHT": "2019-20 學年第三學期"
         }
       }
     },
@@ -1048,7 +1058,9 @@
       "file": "19T4.json",
       "info": {
         "name": {
-          "ENG": "2019-20 Term 4"
+          "ENG": "2019-20 Term 4",
+          "ZHS": "2019-20 Term 4",
+          "ZHT": "2019-20 學年第四學期"
         }
       }
     }
