@@ -2,21 +2,6 @@
   "careers": {
     "UG": {
       "courses": {
-        "": {
-          "groups": {},
-          "info": {
-            "course_components": {},
-            "description": {
-              "ENG": ""
-            },
-            "grading_basis": "",
-            "requirement": "For Medical Study Year 4 (MYR4)",
-            "title": {
-              "ENG": ""
-            },
-            "units": ""
-          }
-        },
         "GPSU2000": {
           "groups": {
             "-": {
@@ -59,7 +44,18 @@
               "short_title": "GPS Leadership Workshop I"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This series of workshops centres on leadership in society. The course consists of five minute lectures conducted by guest speakers and followed by group discussions.  Each lecture will start with a real-life example of social leadership of a guest speaker illustrating important concepts and traits of leadership.  Small group discussions will be led by GPS mentors focus to elaborate the social leadership concepts and prepare GPS students to become social leaders.                Grade Descriptor: Pass – satisfactory performance on all learning outcomesFail – unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Leadership Workshop Series I"
+            },
+            "units": "0.00"
+          }
         },
         "GPSU3000": {
           "groups": {
@@ -103,7 +99,18 @@
               "short_title": "GPS Leadership Workshop IIA"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This series of workshops in seminar format focuses on providing students the general concepts of medical leadership and developing them the skills and capacity that are essential for leadership. The course covers a broad range of topics including mentoring, servant leadership, risk management in healthcare organization, basic concepts in positive psychology and integrative medicine. Guest speakers are invited to provide stimulating lectures and discussion on different themes. Grade Descriptor: Pass – satisfactory performance on all learning outcomesFail – unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Leadership Workshop Series IIA"
+            },
+            "units": "0.00"
+          }
         },
         "GPSU3100": {
           "groups": {
@@ -147,7 +154,18 @@
               "short_title": "GPS Project"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Under close supervision of a project mentor, GPS students must complete a GPS project within the period from Medicine Year Three until Medicine Year Five.  Students are required to submit an end-of-project report no later than the end of Medicine Year Five.   A student is eligible for exemption from the course SSMU3000 Selected Study Modules by submitting an interim report of the GPS Project by the end of Medicine Year Four.Students are expected to participate actively in a project in one of the following fields:1. basic research2. clinical / translation research3. health promotion / services programmeThe theme of the project should strongly relate and complementary to MBChB core curriculum. \tGrade Descriptor: Pass – satisfactory performance on all learning outcomesFail – unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Project"
+            },
+            "units": "0.00"
+          }
         },
         "GPSU4000": {
           "groups": {
@@ -259,7 +277,18 @@
               "short_title": "GPS Leadership Workshop IIB"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This series of workshops in seminar format focuses in providing students the general concepts of medical leadership and developing them the skills and capacity that are essential for team management. Important concepts and skills of public communication, conflict management and mediation are illustrated. Guest speakers are invited to provide stimulating lectures and discussion on different themes.    \tGrade Descriptor: Pass – satisfactory performance on all learning outcomesFail – unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Leadership Workshop Series  IIB"
+            },
+            "units": "0.00"
+          }
         },
         "GPSU4100": {
           "groups": {
@@ -303,7 +332,18 @@
               "short_title": "GPS Internship"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The course aims to enrich the experiential learning in research and medical leadership of GPS students.  Students are offered the opportunities to take a 4 to 6 weeks’ attachment in a local or overseas institution that are either affiliated or not with CUHK through collaborative agreement.  Students are encouraged to arrange an attachment of their choice with the approval of the Director of GPS.  The internship is diversified, including summer exchange programme relevant to leadership, attachment to a unit of clinical services or research, basic or translational research, public health, healthcare services provider or industry, pharmaceutical or medical device industry, governmental organization or non-governmental organization, or any attachment related to their GPS Project.  GPS Internship is arranged the latest by the end of Medicine Year Five.  GPS students who fulfill the requirement of GPS Internship can be exempted from the course MEDU4410 Clinical Elective.   Grade Descriptor: Pass – satisfactory performance on all learning outcomesFail – unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Internship"
+            },
+            "units": "0.00"
+          }
         },
         "GPSU4200": {
           "groups": {
@@ -364,7 +404,18 @@
               "short_title": "GPS Leadership Workshop III"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This series of workshops focuses on leadership in healthcare profession. Basic concepts and real-life examples of various types of medical leadership are illustrated. The course covers broadly stress management, healthcare policy and administration, multidisciplinary team management and academic research leadership.Grade Descriptor: Pass – satisfactory performance on all learning outcomesFail – unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements"
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "GPS Leadership Workshop Series III"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU1140": {
           "groups": {
@@ -772,7 +823,18 @@
               "short_title": "Bioethics and Humanities I"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces students to the requisite critical thinking skills needed to analyze and reconcile a variety of ethical questions in biomedicine. By way of an interdisciplinary teaching team, cases and questions are presented to students in conjunction with insights drawn from history, philosophy, health policy, medicine and beyond. The curriculum introduces core ethical principles including autonomy, beneficence and justice and the utilitarian and deontological concerns related to these principles. The course addresses three key areas of bioethics—clinical ethics, public health ethics and research ethics and the specific ethical constructs in each field. The first unit serves to acquaint students with the features of the online learning platform.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 1 (MYR1)",
+            "title": {
+              "ENG": "Bioethics and Humanities I"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU1150": {
           "groups": {
@@ -833,7 +895,18 @@
               "short_title": "Persp.of Med. in Real Life"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Apart from knowledge gleaned from readings, students are encouraged to learn medicine in real life including the basic concepts and practice of emergency medicine in action, the history and evolution of healthcare system in Hong Kong, and to make full use of the medical library during their medical studies and future career development.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "FO - MBChB Major",
+            "title": {
+              "ENG": "Perspectives of Medicine in Real Life"
+            },
+            "units": "1.00"
+          }
         },
         "MEDU2001": {
           "groups": {
@@ -877,7 +950,18 @@
               "short_title": "First Professional Exam"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students are required to pass the First Professional Examination in order to be eligible for promotion to the next year.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "",
+            "title": {
+              "ENG": "First Professional Examination"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU2140": {
           "groups": {
@@ -1285,7 +1369,18 @@
               "short_title": "Bioethics and Humanities II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces students to foundational theories, concepts and historical developments in the field of bioethics. Topics covered in the course include:(i)\tthe responsibilities of physicians and researchers and the rights of patients and research participants; (ii)\tcontroversies when physician duties conflict with patient or family preferences; (iii)\tjustice in the allocation of health care resources and fair delivery of healthcare in a modern metropolitan setting; (iv)\tethical considerations at the beginning and the end of life; (v)\tconcerns for balancing individual liberties and the state’s interest in public health and public safety; and(vi)\tcontroversies that accompany the development, introduction and distribution of new technologies.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Bioethics and Humanities II"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU2160": {
           "groups": {
@@ -1409,7 +1504,18 @@
               "short_title": "Resilience Building I Resilience Building I"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Medical schools strive to educate knowledgeable, caring and professional physicians. The growing interest in empathy, wellness and resilience has fuelled the design and implementation of structured educational programmes worldwide to cultivate empathy especially at a time of increasing professional burnout among undergraduates and resident trainees.Empathy in the medical setting includes the appreciation of the patient’s emotions and the expression of that awareness. Empathy is an essential learning objective and it is believed to significantly influence patient satisfaction, adherence to medical recommendations, clinical outcomes, and professional satisfaction.A key component to empathy is reflective capacity. Fostering reflective capacity within medical education helps develop critical thinking skills inform clinical reasoning, and enhance professionalism among trainees. Development of reflective capacity has been highlighted as necessary for effective use of feedback in medical education and is an essential aspect of self-regulated and lifelong learning. Failure to reflect on one’s own thinking processes, including critical examination of one’s assumptions, beliefs, and conclusions, was recently described as a cognitive component of “physician overconfidence,” a contributing cause of diagnostic error in medicine.Reflection is not necessarily intuitive, especially in students at initial stages of their medical careers.The over-arching aim of the course is to nurture and consolidate the key soft skills of an effective doctor, as well as healthy resilient personality through the development of reflective capacity and empathy.The course is delivered in progressive stages to build reflective capacity and empathy in specific professional developmental contexts. The four building blocks as outlined below will be emphasized in different years. The building blocks will be progressively built and integrated over curriculum from year 2 to year 4.1. Empathic Engagement (Year 2)2. Doctor and Society (Year 3)3. Doctor and Self- Reflection in Practice (Year 4)4. Doctor and Profession (Year 4)The four components encompass the core values of a healthy and competent doctor who is able to foster therapeutic alliance with patients, appreciate and reflect the meaning of work, being a team player as well as connection with public and society.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Resilience Building in Professional and Personal Development I"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU2300": {
           "groups": {
@@ -1504,7 +1610,18 @@
               "short_title": "Human Structure I"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces students to the structure of human body, which is the foundation for further studies in medicine. Organization of the body is taught through lectures and interactive practicals in the Dissecting Laboratory. Clinical relevance of anatomical knowledge is demonstrated in Clinical Skill sessions. Topics include: thorax and cardiovascular/ respiratory system, abdomen and digestive system, pelvis/perineum and urogenital system, and musculoskeletal system.Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Human Structure I"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU2400": {
           "groups": {
@@ -1684,7 +1801,18 @@
               "short_title": "Human Function I"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces basic principles of physiological control and drug actions of various body tissues and systems. It is taught through lectures, case discussion, demonstrations, practicals and small group tutorials. The topics covered include: physiology of excitable cells, muscles, cardiovascular, gastrointestinal and renal systems, mechanisms of drug actions and pharmacokinetics, and drug actions on peripheral nervous system, cardiovascular system and gut.Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Human Function I"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU2500": {
           "groups": {
@@ -1728,7 +1856,18 @@
               "short_title": "Doctor and Patient I"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course describes key elements in an effective doctor-patient relationship and in effective communications with the community. The course also introduces students to the biological, social and ethical aspects of health and illness.  The course has two components. Part I is a series of visits with a medical doctor to observe, understand and acquire insight into the patient presentation and the role of a family doctor in the community and the doctor-patient relationship. Part II is longitudinal follow-up of a family with a new born baby in order to observe and interact with a family with a newborn to be able to understand and describe influences on child development e.g. socio-economic background of the family, health beliefs and practices, family adjustment to the newborn, social support, community support, assessment of milestones etc. This course is delivered by a series of lectures, small group tutorials, presentations, visits to family doctors in the community, and interviews with a family on wards and in the community.Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Doctor and Patient I"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU2600": {
           "groups": {
@@ -2078,7 +2217,18 @@
               "short_title": "Molecular Medicine & Genetics"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces basic principles of cellular structure, cell division and death, cellular metabolism and molecular genetics and genomics. The course provides the scientific basis in biochemical and molecular control of various cell functions, and on recent advances in genomic and personalized medicine. Topics include: cell biology, enzymology, metabolism of carbohydrates, proteins, lipids and nucleotides, molecular biology, extended topics on gene expression and genetics, as well as their applications in diagnosis, screening and patient care.Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   -\tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 2 (MYR2)",
+            "title": {
+              "ENG": "Molecular Medicine and Genetics"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3001": {
           "groups": {
@@ -2122,7 +2272,18 @@
               "short_title": "Second Professional Exam"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The Second Professional Examination is held at the end of the academic year and may asses any content covered in Medicine Year 4. Students are required to pass the Second Professional Examination in order to be eligible for promotion to the next year. Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "",
+            "title": {
+              "ENG": "Second Professional Examination"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3110": {
           "groups": {
@@ -2166,7 +2327,18 @@
               "short_title": "Junior Medical Clerkship"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "After a series of lectures in introductory courses and basic clinical skills teaching in Prince of Wales Hospital, students are assigned to medical wards and oncology wards in Prince of Wales Hospital and other acute and rehabilitation hospitals. History-taking and physical examination skills are taught in the form of small group tutorials and bedside teachings. They also begin to learn about communication skills and management of patients with different medical problems. Grade Descriptor:Pass :Satisfactory performance on all learning outcomes.Fail :Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Junior Medical Clerkship"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3160": {
           "groups": {
@@ -2210,7 +2382,18 @@
               "short_title": "Resilience Building II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Medical schools strive to educate knowledgeable, caring and professional physicians. The course is delivered in progressive stages to build reflective capacity and empathy in specific professional developmental contexts. The four building blocks as outlined below will be emphasized in different years. The building blocks will be progressively built and integrated over curriculum from year 2 to year 4.1.\tEmpathic Engagement (Year 2)2.\tDoctor and Society (Year 3) 3.\tDoctor and Self- Reflection in Practice (Year 4)4.\tDoctor and Profession (Year 4)The four components encompass the core values of a healthy and competent doctor who is able to foster therapeutic alliance with patients, appreciate and reflect the meaning of work, being a team player as well as connection with public and society.After completing the course MEDU2160 in Year 2, students are expected to build the reflective capacity and empathy in specific professional developmental contexts. On top of empathy, medical students are expected to explore more about the community/society in order to establish connection with the public and society as a team player. The course will cover 4 different themes for students to explore and reflect more.a.\tWar zone/ humanitarianb.\tPovertyc.\tDisability/Impairmentd.\tLife and Death Studies Grade DescriptorPass - Satisfactory performance on all learning outcomes.Fail - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Resilience Building in Professional and Personal Development II"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3200": {
           "groups": {
@@ -2271,7 +2454,18 @@
               "short_title": "Skills Module for Medicine Yr4"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "By use of simulators, surrogates and actual patients as teaching aids, this course is designed for students to develop requisite skills in providing basic life support, clerking histories, performing physicals, inserting nasogastric tubes, and interpreting results of clinical investigations. Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  -  Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Skills Module for Medicine Year 4"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3210": {
           "groups": {
@@ -2536,7 +2730,18 @@
               "short_title": "Junior Surgical Dressership"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students are assigned to surgical wards in various hospitals and taught how to take a surgical history and to perform a surgical examination on patients. They learn how to manage patients with different surgical problems. During the surgical rotations, they have opportunity to participate in operative procedures in the operating theatre. Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  -  Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Junior Surgical Dressership"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3293": {
           "groups": {
@@ -2614,7 +2819,18 @@
               "short_title": "Doctor and Patient III"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The doctor and patient relationship is dynamic and essential in providing medical care.  The therapeutic relationship enables the health professional and the patient to become cooperatively engaged and thereby effect beneficial change in the patient. This therapeutic relationship may be a one-off encounter or can be lifelong.  The student should already have a deep understanding of the challenges from the doctor’s perspective and the range and variety of medical conditions of patient presentation.   This course is a continuation of Doctor and Patient I and II and complements the experiences gleaned from the visits that are made in the family project during the child’s second and third year of life. The course aims to give students insights into the biological, social, psychological and medical context of care in the child's second and third year of life.  This course is taught by a series of lectures and small group tutorials. There are family visits and interviews. The course ends after community and family medicine, paediatrics, obstetrics and gynaecology and psychiatry rotations so that the student has a comprehensive overview of the medical, developmental and social aspects to the family and child and the role of the community in health care. Case presentations in the interdisciplinary seminar discuss salient learning points in the course.Grade Descriptor:Pass :Satisfactory performance on all learning outcomes.Fail :Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Doctor and Patient III"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3300": {
           "groups": {
@@ -2760,7 +2976,18 @@
               "short_title": "Human Structure II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The primary focus of this course is the anatomy of the head and neck in the human body. First part introduces organization of the extra-cranial structures; second part focuses on the organization of the central nervous system. The course is taught through lectures, supplemented with experiential learning in dissecting laboratory and other practical sessions. Different regions of the head and neck, including the bony components and associated organ systems are examined. The detailed blood supply and cranial nerve innervation is emphasized. This is followed by the study of the organization of the brain and spinal cord, and their control of the structures of the head and neck. Lastly, the embryonic development of the head and central nervous system including sense organs like the eye and ear is followed to allow students to appreciate how the overall complexity of this body region becomes established.Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Human Structure II"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3310": {
           "groups": {
@@ -2889,7 +3116,18 @@
               "short_title": "ACP and Clinical Hematology"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "In continuation with MEDU3600 Basic Pathology, this course enables medical students to appreciate further the mechanisms of laboratory medicine, with emphasis on genomics and personalized medicine. MEDU3310 aims to illustrate the principles of diseases in an organ-system approach. The course focus on common diseases of Histopathology and Hematology.  The emphasis is on the clinical context and the correlation with pathological features. Apart from conventional lectures and e-lectures, this course encourages students actively discuss common case scenarios and related laboratory investigations during small-group, laboratories/tutorials. Grade Descriptor:Grade   -  Overall CourseA :Outstanding performance on all learning outcomes.A- :Generally outstanding performance on all (or almost all) learning outcomes.B :Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C :Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D :Barely satisfactory performance on a number of learning outcomesF :Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Anatomical Pathology and Clinical Hematology"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3320": {
           "groups": {
@@ -3018,7 +3256,18 @@
               "short_title": "Chemical Pathology"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course is designed to teach the pathophysiological basis of diseases and associated biochemical changes. Building on this knowledge, the students learn investigation and interpretation of laboratory results in Chemical Pathology and Clinical Immunology. Students learn how disease presentations and laboratory results correlate with pathophysiology. The course places emphasis on how clinical laboratory investigations play an important role in the diagnosis and management of diseases. The course also covers modern developments in laboratory genomic medicine. Students are expected to be competent in interpretation of laboratory results after completion of the course. This course includes lectures, laboratory sessions, tutorials and case discussions. Grade Descriptor:Grade   - \tOverall CourseA  \t-\tOutstanding performance on all learning outcomes.A-  \t-\tGenerally outstanding performance on all (or almost all) learning outcomes.B   \t- \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   \t-\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   \t-\tBarely satisfactory performance on a number of learning outcomesF    \t-\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Chemical Pathology"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3330": {
           "groups": {
@@ -3147,7 +3396,18 @@
               "short_title": "Clinical Microbiology"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The course aims to provide medical students with an understanding of microbiological infections relevant to human beings. Emphases are placed on commonly encountered micro-organisms, including bacteria, viruses, fungi and parasitic organisms, and those that are pathogenic. The diagnostic approach and case management of infectious diseases are discussed. The impact of antimicrobial resistance and the mechanisms of its spread are explored. Methods for infection prevention and control measures in the hospital are also introduced in the form of Basic Infection Control Module. N95 respirator qualitative fit-test is conducted in the module.Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Clinical Microbiology"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3340": {
           "groups": {
@@ -3276,7 +3536,18 @@
               "short_title": "Integ. Clinical Comm. Skills I"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Communication ability is a core clinical skill and essential in medical consultations, determining a diagnosis, management planning and teamwork coordination. As students, at this point in their medical education, are interacting with patients, the course runs in parallel with clinical curricula by enhancing students communications skills as they learn to take histories, perform examinations and other clinical tasks.Teaching modalities combine e-learning with experiential learning, self reflection and peer review and tutor feedback.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  -  Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Integrated Clinical Communication Skills I"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3400": {
           "groups": {
@@ -3388,7 +3659,18 @@
               "short_title": "Human Function II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course focuses on the physiological function and pharmacological regulation of respiratory, endocrine, reproductive and nervous system as well as the integrated control of various body functions that involve hormonal, neural and immunological mechanisms. The course includes lectures, practicals and small group tutorials. Topics include: respiratory physiology, endocrinology, reproductive physiology, nervous system function, basic immunology and drug actions in pain control, CNS function and inflammation.Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Human Function II"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3500": {
           "groups": {
@@ -3449,7 +3731,18 @@
               "short_title": "Doctor and Patient II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The doctor and patient relationship is essential to medical care and is a dynamic relationship.  A therapeutic relationship enables the health professional and patients to engage and effect beneficial change in patients. This therapeutic relationship may be one encounter or lifelong.  Students should already have a deep understanding of the challenges from the doctor’s perspective and the range and variety of medical conditions of patient presentation.   This course is a continuation of Doctor and Patient I and takes a deeper exploration of patient’s perspective and narrative and how this impacts the patient doctor interaction and communication strategies. The student also continues to engage with the family as the child is reaching one-year–old and interact and observe family dynamic, child development, health beliefs and social, medical and community support.The course has two components:Part I: Doctor-patient relationship in the communityThis is a continuation of the clinical visits with a doctor.  During these visits, the attention is now drawn to patient’s perspective and narrative in looking and listening closely to the words, tones, gestures and actions used in the patient’s experience of  illness, and the communication and the interaction and exchange between doctors and patients. Meanwhile, issues relating to the illness trajectory, decline and dying trajectories are discussed. Part II: Child and family development in the communityThis is the continuation of the family follow up project in which the students observe, interact and gain insight into the biological, social, psychological and medical context of care in the child's first year of life. This course is taught by a series of lectures and small group tutorials. There are clinical visits to family doctors and visits and interviews with a family.Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Doctor and Patient II"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3510": {
           "groups": {
@@ -3493,7 +3786,18 @@
               "short_title": "Clinical Exam. in Med. & Sur."
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The Clinical Examinations in Medicine and Surgery is held at the end of the academic year. Students are assessed in terms of their medical and surgical clinical skills, it also forms part of their Second Professional Examination. The goal is to determine the skills and knowledge students learned during their Junior Surgical Dressership, Junior Medical Clerkship and other subjects, such as Communication Skills.Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Clinical Examinations in Medicine and Surgery"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3520": {
           "groups": {
@@ -3690,7 +3994,18 @@
               "short_title": "Clinical Anatomy & Skills"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course is a 3-week bridging course taught at the end of the year 3, i.e., the final year of preclinical education in the MBChB programme. It is aimed to help student to revise anatomy of all body regions and appreciate their relevance in basic skills in clinical examinations of the human body. It is an intensive course taught by basic and clinical lectures, e-lectures, interactive radiology sessions and small group clinical skill practical involving actual patients.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Clinical Anatomy and Clinical Skills"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3600": {
           "groups": {
@@ -3887,7 +4202,18 @@
               "short_title": "Basic Pathology"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This is a 3-week course aiming to help medical students bridging their pre-clinical knowledge and their upcoming clinical practice. Week 1 consists of general pathologic principles by Anatomical Pathology. Week 2 includes of immunology subjects by Chemical Pathology and Forensic Pathology particulars. Week 3 unveils the world of microbes by Microbiology.  This intensive summer course includes lectures, e-lectures, laboratories and small-group tutorials. Grade Descriptor:Pass - Satisfactory performance on all learning outcomes.Fail - Unsatisfactory performance on a number of learning outcomes, or failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Basic Pathology"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3700": {
           "groups": {
@@ -3948,7 +4274,18 @@
               "short_title": "Ethics and Society"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Year 3 is the last pre-clinical year in the MBChB programme. It builds on the foundational subject areas introduced during years 1 and 2, while preparing students for the clinical years’ ethics curriculum. Topics addressed include health policy, public health, and research ethics, all of which are examined in terms of philosophical considerations and relevant empirical research.Year 3 is presented in a three-part mini-course format comprised of:•\tmajor philosophical issues in bioethics of significance in clinical practice and health policy;•\tpublic health ethics that are of global and Hong Kong relevance;•\tresearch ethics, i.e., the essentials for future clinicians, physician-researchers, and physician administratorsGrade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 3 (MYR3)",
+            "title": {
+              "ENG": "Ethics and Society"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3800": {
           "groups": {
@@ -3992,7 +4329,18 @@
               "short_title": "Law, Society and Medicine"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "MEDU3800 builds on the foundation of Years 1-3 studies in bioethics to consider physician obligation expressed in law, regulations, professional codes and widely held norms of medical ethics.  Areas considered include the doctor-patient relationship, patient capacity, consent, confidentiality, medical error and negligence, forensic pathology and related medical-legal issues, blood transfusion, end of life care and issues on the beginning of life.   Attention is also devoted to presenting a general framework of the legal system, in understanding the difference between civil law and criminal law, branches of the law, the hierarchy of laws, the court system and the law making process.  About 6-10 % of the course content will cover this, as we recognise that medical students should know their important role in society as physicians and as law-abiding citizens, in upholding justice and being a role model for others, in protecting the weak and vulnerable and in the prevention of crime, .e.g. in identifying victims of domestic violence, child or elder abuse.    Students will study and consider the distinctions and possible conflicts among law and regulation, professional standards, and generally recognized normative ethical obligations.Grade Descriptor:Pass :Satisfactory performance on all learning outcomes.Fail :Persistent failure to attend class sessions and/or unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Law, Society and Medicine"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU3900": {
           "groups": {
@@ -4036,7 +4384,18 @@
               "short_title": "Elective"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This elective course aims to enhance the diversity of experiential learning of MBChB students, and to foster their lifelong interest in medical related practice.  Students will be required to conduct a self-initiated educational activity of not less than 26 weeks.  A proposal should be submitted to the Course Committee for endorsement before commencement of the activity and a written report should be submitted for assessment upon completion.Grade Descriptor:A   -   Outstanding performance on all learning outcomes.B   -    Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -    Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -    Barely satisfactory performance on a number of learning outcomesF   -    Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "",
+            "title": {
+              "ENG": "Elective"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4001": {
           "groups": {
@@ -4080,7 +4439,18 @@
               "short_title": "(Part I) Third Prof Exam"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students are required to pass the four module examinations (namely, Community & Family Medicine, Obstetrics & Gynaecology, Paediatrics, and Psychiatry) as well as the End-of-year Combined Clinical Examination and to achieve a pass in the Part I of the Third Professional Examination in order to be eligible for promotion to year six. Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "",
+            "title": {
+              "ENG": "(Part I) Third Professional Examination"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4002": {
           "groups": {
@@ -4124,7 +4494,18 @@
               "short_title": "(Part II) Third Prof Exam"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students are required to pass the Part II of the Third Professional Examination in Medicine and Surgery for admission to conferment of the Bachelor MBChB Degrees.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "(Part II) Third Professional Examination"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4010": {
           "groups": {
@@ -4236,7 +4617,18 @@
               "short_title": "Community and Family Med"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides 9 weeks of integrated teaching in Community and Family Medicine. In Community Medicine, three major areas are covered: Epidemiology, Public Health Practice, and Occupation and Environmental Health. Students are introduced to the principles and practice of public health, the application of epidemiological methods, and the prevention and control of communicable, non-communicable and occupational diseases. In addition to didactic lectures, students are required to actively participate in problem-solving exercises, field visits and presentations in seminars and tutorials. The clinical clerkship in Family Medicine teaches practical family medicine skills and equips students with the understanding and ability to diagnose and manage common medical conditions that present in primary care settings. Throughout the clerkship, students are taught skills in making differential diagnoses of presenting symptoms, prioritisation of multiple medical conditions and first line investigations and management of common medical problems in the community. Students also gain exposure to the basic principles and practice of family medicine, i.e., providing primary, comprehensive, holistic and continuing person centred care. The clinical clerkship consists of online teaching, case based seminars and tutorials, clinical attachments to private family medicine providers, Hospital Authority clinics and community hospitals and health care providers for vulnerable populations. To facilitate learning, role playing in workshops and clinical enhanced skills training are provided. Facilities utilised for this clinical teaching include the University Family Medicine Clinics, and Family Medicine clinics run by Hospital Authority and private practitioners, both in public and private settings across throughout Hong Kong. Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Community and Family Medicine Module"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4110": {
           "groups": {
@@ -4348,7 +4740,18 @@
               "short_title": "Obstetrics and Gynaecology"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This 9-week module includes 4 clinical rotations that are based mainly at the Prince of Wales Hospital: (1) antenatal clinic and ward; (2) gynaecology clinic and ward; (3) labour ward; and (4) O&G services in affiliated hospitals. Core materials are covered in online lectures, tutorials and bedside teaching. During the antenatal attachment, students gain understanding of normal pregnancy, the development and growth of the unborn child, and acquire skill in performing obstetrics examinations. In the labour ward attachment, students participate in the care and delivery of normal pregnancies, as well as observe operative deliveries. They learn common problems and emergencies in childbirth and the postpartum period. In the gynaecology rotation, students learn common gynaecological conditions and neoplasm of the female reproductive tract. They also acquire skill in gynaecological examination. Communication skills in taking history and conducting discussions on issues regarding sexuality and reproduction are emphasized. Students also have the opportunity to attach to the O&G unit in one of the following affiliated hospitals: Princess Margaret Hospital, Tuen Mun Hospital, United Christian Hospital and Queen Elizabeth Hospital. Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Obstetrics and Gynaecology Module"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4201": {
           "groups": {
@@ -4460,7 +4863,18 @@
               "short_title": "Skills Module for Medicine Yr5"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Clinical MethodsThe goal of this course is to further consolidate the students' abilities in history taking and physical examination, i.e., the skill in gathering relevant clinical information to reach a working diagnosis in Community & Family Medicine, Obstetrics & Gynaecology, Paediatrics, and Psychiatry.Communication SkillsStudent's skills in case presentation and discussion will be reinforced through practice and feedback in small groups and under guidance.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  -  Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Skills Module for Medicine Year 5"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4202": {
           "groups": {
@@ -4657,7 +5071,18 @@
               "short_title": "Skills Module for Medicine Yr6"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The Skills Modules for Medicine Year 6 are embedded in the medical and surgical modules.Life Long Learning Skills provides a “medical professionalism” component. Medical professionalism is primarily concerned with the attributes and behaviours of physicians in the practice of Medicine. The teaching of medical professionalism builds on introductory lectures provided in prior years and informal \"role modeling\" that occurs during the clinical curriculum. The module is designed to expand the students' cognitive base for professionalism, and to provide opportunities for internalizing related values and behaviours by collaborating in small group problem solving sessions. The workshops require analysis and development of moral solutions for simulated ethical dilemmas. Feedback provided by small groups to their whole class enables reflection and informed discussions.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "Skills Module for Medicine Year 6"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4210": {
           "groups": {
@@ -4769,7 +5194,18 @@
               "short_title": "Paediatrics"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "During this 9-week clinical module in paediatrics, students participate in a range of learning activities both in the hospital and in the community. Hospital-based experiences include the wards and outpatient clinics of the Prince of Wales Hospital as well as other regional hospitals. Students are exposed to primary care paediatrics in community-based centres, including the Maternal and Child Health Centres, Child Assessment Centres, Hong Chi Pinehill School and primary care private paediatric clinics. Lectures are combined with bedside and tutorial teaching. As part of the mentorship programme, students attend interactive teaching on bioethics and communication skills. Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Paediatrics Module"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4300": {
           "groups": {
@@ -4813,7 +5249,18 @@
               "short_title": "BioEthics in Relation to MED"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course addresses genetic testing, child abuse, compulsory treatment, mental health, guardianship and abortion & reproduction. Matters in relation to confidentiality, euthanasia, patient right, consent and resource allocation in public health is also covered. Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  - Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Bioethics in Relation to Paediatrics, Family Medicine, Obstetrics and Gynaecology and Psychiatry"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4310": {
           "groups": {
@@ -4925,7 +5372,18 @@
               "short_title": "Psychiatry Module"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The goal for this 9-week course in psychiatry is to enable students to: 1.\tunderstand the relationship between the psychological, biological and social determinants of psychiatric disorders; 2.\tacquire basic practical knowledge in diagnosing and managing psychiatric disorders of major public health concerns; 3.\tbecome acquainted with the organization of psychiatric services in Hong Kong. A variety of teaching methods are employed including seminars, small-group tutorials, attendance of ward rounds, case conferences and outpatient clinics and visits to several psychiatric facilities (hospitals and community facilities). Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Psychiatry Module"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4340": {
           "groups": {
@@ -4969,7 +5427,18 @@
               "short_title": "Integ Clinical Comm Skills II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Communication skills are core clinical skills that are essential in the medical consultation for effective diagnosis, management planning and teamwork coordination. This course adopts a longitudinal developmental approach spanning preclinical and clinical years. Learning outcomes and teaching modalities are both explicit, as well as interwoven within general medical and specialist rotations to enhance the integration of these core skills in mainstream clinical teaching. Teaching modalities combine e-learning and experiential learning, self and peer review and tutor feedback in communication techniques in the specialties of Community and Family medicine, Obstetrics and Gynaecology, Paediatrics and Psychiatry.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  -  Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Integrated Clinical Communication Skills II"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4400": {
           "groups": {
@@ -5013,7 +5482,18 @@
               "short_title": "Ethics and Society for Yr 6"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Good doctors are defined not only by what they know of diseases but by how they care for people suffering from diseases. Learning moral principles can empower students with strong, inherent ethical values. The expectation is that future doctors must, above all, be ethical persons, an expectation that is not only a local but a global view. MEDU4400 includes discussions with tutors from the teaching faculty and with practicing doctors. The course is designed to develop analytical capabilities that enable thinking through ethical dilemmas in a clearly, morally and humanely manner. Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  -  Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "Ethics and Society for final year students"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4410": {
           "groups": {
@@ -5074,7 +5554,18 @@
               "short_title": "Clinical Elective"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Under the guidance of, and with the approval of, the Coordinator of Clinical Electives, each student will arrange an attachment of the student's choice in Hong Kong or overseas, in order to broaden the student's medical horizons. Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  -  Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Clinical Elective"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4440": {
           "groups": {
@@ -5118,7 +5609,18 @@
               "short_title": "Integ Clinical Comm Skills III"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Communication skills are core clinical skills which are essential in the medical consultation for effective diagnosis, management planning and interdisciplinary coordination. This course adopts a longitudinal developmental approach spanning preclinical and clinical years. Learning outcomes and teaching modalities may be explicit, as well as interwoven within general medical, surgical and specialties rotations to enhance the integration of these core skills in mainstream clinical teaching. Teaching modalities combines e-learning and experiential learning, self and peer review and tutor feedback.Grade Descriptor:Pass -  Satisfactory performance on all learning outcomes.Fail  -  Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "Integrated Clinical Communication Skills III"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4510": {
           "groups": {
@@ -5162,7 +5664,18 @@
               "short_title": "Combined Clinical Examination"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This examination, held at the end of the academic year, is cooperatively administered by the Departments of Obstetrics & Gynaecology, Paediatrics and Psychiatry and the School of Public Health and Primary Care. The examination consists of an integrated short answer written paper and a structured clinical examination and complements the discipline based module examinations. Grade Descriptor:Grade   -  Overall CourseA   -\tOutstanding performance on all learning outcomes.A-  -\tGenerally outstanding performance on all (or almost all) learning outcomes.B   - \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C   -\tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D   -\tBarely satisfactory performance on a number of learning outcomesF    -\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 5 (MYR5)",
+            "title": {
+              "ENG": "Combined Clinical Examination"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4610": {
           "groups": {
@@ -5308,7 +5821,18 @@
               "short_title": "Senior Medical Clerkship Senior Medical Clerkship"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The Senior Medical Clerkship consists of two nine-week modules, referred to as Medicine A and Medicine B. Medicine A consists of a nine-week attachment to the medical wards in Princess Margaret Hospital, North District Hospital, Shatin Hospital, Our Lady of Maryknoll Hospital and Prince of Wales Hospital. Students are attached to each of the above hospitals in rotation. Medicine B involves small group attachments to medical wards under the supervision of Department of Medicine and Therapeutics, Department of Clinical Oncology, and Accident and Emergency Medicine Academic Unit in the Prince of Wales Hospital. Students are attached to each of the above Departments in rotation in order to learn by daily clinical contact with patients on the respective wards. Students are encouraged to clerk patients and present during subspecialty rounds, and to follow patients’ progress during their hospital stay. Subspecialty teaching sessions are also held every Wednesday throughout the two modules. Students are attached to subspecialty activities and outpatient clinics during their respective rotations. Bedside teaching of clinical skills is arranged in small groups twice weekly. All students in these medical rotations are expected to attend medical grand rounds every Wednesday.A one-week Resident Mentorship Programme (RMP) is integrated into Medicine A. Students shadow resident mentors, learning and experiencing daily clinical work with both inpatients and outpatients. Requiring active participation in clinical activities under close supervision by frontline doctors, the programme is designed to help students develop core competencies as medical professionals. The RMP aims to nurture self-initiative, sense of responsibility, stress coping strategies, communication skills and social responsibility through experiential learning in actual clinical settings.Small group tutorials during both clerkships as well as during Resident Mentorship Programme are provided in order to further develop students’ communication skills within clinical and professional settings. This includes presenting in medical rounds, writing patients' scripts and referrals, having communications with lay public concerning medical matters, handling complaints and bad news, organizing and presenting literature or decision making in clinical conferences. These skills are assessed formally in the end-of-module examinations and are also an obligatory component of final year graduating examinations. Multidisciplinary integrative sessions are maintained throughout this course.Grade Descriptor:Grade   -  Overall CourseA :Outstanding performance on all learning outcomes.A- :Generally outstanding performance on all (or almost all) learning outcomes.B :Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C :Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D :Barely satisfactory performance on a number of learning outcomesF :Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "Senior Medical Clerkship"
+            },
+            "units": "0.00"
+          }
         },
         "MEDU4710": {
           "groups": {
@@ -5505,7 +6029,18 @@
               "short_title": "Senior Surgical Dressership Senior Surgical Dressership"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The Senior Surgical Dressership consists of two nine-week modules involving small group attachments under the supervision of the Department of Surgery, Department of Orthopaedics and Traumatology, Department of Ophthalmology and Visual Sciences, Department of Anaesthesia and Intensive Care, Department of Imaging and Interventional Radiology and Department of Otorhinolaryngology, Head and Neck Surgery.The attachments include professional rounds, outpatient clinics and the operating rooms in the Prince of Wales Hospital, North District Hospital, Yan Chai Hospital, Queen Elizabeth Hospital, and Hong Kong Eye Hospital. Students work with qualified professionals in order to gain hands-on clinical experience (as in an apprenticeship). Students receive small group bedside teaching on each ward. Clinical management of patients in various specialties and essential clinical skills for junior doctors are the main foci in this training.Small group tutorials are held during both the Dressership as well as during the Assistant Internship period for purposes of developing communication skills in clinical and professional settings. This includes students presenting in medical rounds, writing patients' scripts and referrals, communicating with lay public concerning medical matters, handling complaints and bad news, organizing and presenting literature or decision making in clinical conferences. These skills are assessed formally at end-of-module examinations and are also an obligatory component in final year graduating examinations. Assessments include a written exam, an OSCE and a Clinical Examination that includes history taking, physical examination, interpretation of physical signs and investigations as well as management of patients with common surgical conditions.Grade Descriptor:Grade   -  Overall CourseA :Outstanding performance on all learning outcomes.A- :Generally outstanding performance on all (or almost all) learning outcomes.B :Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C :Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D :Barely satisfactory performance on a number of learning outcomesF :Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 6 (MYR6)",
+            "title": {
+              "ENG": "Senior Surgical Dressership"
+            },
+            "units": "0.00"
+          }
         },
         "SSMU3000": {
           "groups": {
@@ -5770,7 +6305,18 @@
               "short_title": "Selected Study Modules"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students undertake a Selected Study Module (SSM), working on it throughout the academic year. The aim of SSM is to provide students with an opportunity to participate in a research project, critique scientific literature, conduct a topical analysis or systematic review, and acquire some of the skill sets needed for undertaking scientific research. Allowing free choice of project facilitates students to critically explore topics that they find interesting.Students who have successfully completed the Master of Science Programme in Research Medicine or GPS students who have successfully completed the interim report of the GPSU3100 GPS Project are exempted from the course.  Grade Descriptor:A :Outstanding performance on all learning outcomes.A- :Generally outstanding performance on all (or almost all) learning outcomes.B :Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C :Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D :Barely satisfactory performance on a number of learning outcomesF :Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Medical School Grades",
+            "requirement": "For Medical Study Year 4 (MYR4)",
+            "title": {
+              "ENG": "Selected Study Modules"
+            },
+            "units": "0.00"
+          }
         }
       },
       "info": {
@@ -6624,7 +7170,9 @@
   },
   "info": {
     "name": {
-      "ENG": "2019-20 Acad Year (Medicine)"
+      "ENG": "2019-20 Acad Year (Medicine)",
+      "ZHS": "2019-20 Acad Year (Medicine)",
+      "ZHT": "2019-20 學年"
     }
   }
 }
