@@ -1,0 +1,4382 @@
+{
+  "careers": {
+    "TPG": {
+      "courses": {
+        "": {
+          "groups": {},
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": ""
+            },
+            "grading_basis": "",
+            "requirement": "For students in Master of Nursing Science (Pre-registration)Prerequisite: NURS6201, NURS6202 and NURS6203",
+            "title": {
+              "ENG": ""
+            },
+            "units": ""
+          }
+        },
+        "ACCT6120": {
+          "groups": {
+            "C": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "11/05/2020 - 21/07/2020",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 70,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT6120",
+              "group": "C",
+              "instructors": [
+                "Professor YANG Yong"
+              ],
+              "short_title": "Management Control Systems 管理控制系統"
+            }
+          },
+          "info": {}
+        },
+        "ACCT6140": {
+          "groups": {
+            "C": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "11/05/2020 - 21/07/2020",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 75,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT6140",
+              "group": "C",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Acct Info Sys & Internal Contr 會計信息系統和內部控制"
+            },
+            "D": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "11/05/2020 - 21/07/2020",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 70,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "ACCT6140",
+              "group": "D",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Acct Info Sys & Internal Contr 會計信息系統和內部控制"
+            }
+          },
+          "info": {}
+        },
+        "DSME6350": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/06/2020 - 13/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/06/2020 - 07/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Su 09:00AM - 05:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "DSME6350",
+              "group": "A",
+              "instructors": [
+                "Professor CAO Jie"
+              ],
+              "short_title": "Financial Data Modeling & Anal 金融數據建模與分析"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/05/2020 - 30/05/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "24/05/2020 - 31/05/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "DSME6350",
+              "group": "B",
+              "instructors": [
+                "Professor CAO Jie"
+              ],
+              "short_title": "Financial Data Modeling & Anal 金融數據建模與分析"
+            }
+          },
+          "info": {}
+        },
+        "EMBA6061": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "S1": {
+                  "class": "S1",
+                  "component": "SEM",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "25/04/2020 - 25/04/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "26/04/2020 - 26/04/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "09/05/2020 - 09/05/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "10/05/2020 - 10/05/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "23/05/2020 - 23/05/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "24/05/2020 - 24/05/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "06/06/2020 - 06/06/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "07/06/2020 - 07/06/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6061",
+              "group": "AE",
+              "instructors": [
+                "Professor FRANKLIN Laurence Craig"
+              ],
+              "short_title": "Sem on Bus & Magt Issues 工商管理問題研討"
+            }
+          },
+          "info": {}
+        },
+        "EMBA6062": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "F1": {
+                  "class": "F1",
+                  "component": "FLD",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "16/05/2020 - 16/05/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "24/05/2020 - 24/05/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Su 02:30PM - 07:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "30/05/2020 - 30/05/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/07/2020 - 10/07/2020",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6062",
+              "group": "AE",
+              "instructors": [
+                "Professor CHAN Chi Bong Dominic"
+              ],
+              "short_title": "Selected Topics in Bus & Magt 商業與管理專題討論"
+            }
+          },
+          "info": {}
+        },
+        "EMBA6071": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "F1": {
+                  "class": "F1",
+                  "component": "FLD",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "25/04/2020 - 25/04/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "26/04/2020 - 26/04/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Su 02:30PM - 07:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "09/05/2020 - 09/05/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "10/05/2020 - 10/05/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Su 02:30PM - 07:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "23/05/2020 - 23/05/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "06/06/2020 - 06/06/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_DI"
+                      },
+                      "meeting_date": "07/06/2020 - 07/06/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Su 02:30PM - 07:00PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "15/06/2020 - 19/06/2020",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_LT8"
+                      },
+                      "meeting_date": "25/07/2020 - 25/07/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 1095,
+                        "str": "Sa 08:45AM - 06:15PM",
+                        "weekday": "Sa"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6071",
+              "group": "AE",
+              "instructors": [
+                "Professor CHAN Chi Fai Andrew"
+              ],
+              "short_title": "Global Bus & Mgt Field Study 環球工商管理考察研究"
+            },
+            "P": {
+              "classes": {
+                "F01": {
+                  "class": "F01",
+                  "component": "FLD",
+                  "department": "Div of Business Administration",
+                  "language": "P&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "22/06/2020 - 22/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Mo 09:00AM - 06:00PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/06/2020 - 23/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Tu 09:00AM - 06:00PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "24/06/2020 - 24/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "We 09:00AM - 06:00PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "25/06/2020 - 25/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Th 09:00AM - 06:00PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "26/06/2020 - 26/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1080,
+                        "str": "Fr 09:00AM - 06:00PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "EMBA6071",
+              "group": "P",
+              "instructors": [
+                "Professor YEUNG Hoi Yan Jeff"
+              ],
+              "short_title": "Global Bus & Mgt Field Study 環球工商管理考察研究"
+            }
+          },
+          "info": {}
+        },
+        "FINA5010": {
+          "groups": {
+            "P": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "23/07/2020 - 23/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Th 08:30AM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "24/07/2020 - 24/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Fr 08:30AM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "25/07/2020 - 25/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Sa 08:30AM - 06:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "26/07/2020 - 26/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Su 08:30AM - 06:15PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA5010",
+              "group": "P",
+              "instructors": [
+                "Professor HAO Jia"
+              ],
+              "short_title": "Financial Management 財務管理"
+            }
+          },
+          "info": {}
+        },
+        "FINA5015": {
+          "groups": {
+            "AE": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_LT8"
+                      },
+                      "meeting_date": "18/04/2020 - 18/04/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1095,
+                        "str": "Sa 02:30PM - 06:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "19/04/2020 - 26/04/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "25/04/2020 - 25/04/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "09/05/2020 - 09/05/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Sa 08:45AM - 01:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "10/05/2020 - 10/05/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "30/05/2020 - 30/05/2020",
+                      "time": {
+                        "begin": 870,
+                        "end": 1140,
+                        "str": "Sa 02:30PM - 07:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": true,
+                        "drop": true
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "BATC_EM"
+                      },
+                      "meeting_date": "31/05/2020 - 31/05/2020",
+                      "time": {
+                        "begin": 525,
+                        "end": 795,
+                        "str": "Su 08:45AM - 01:15PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 65,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA5015",
+              "group": "AE",
+              "instructors": [
+                "Professor Paul Brian MCGUINNESS"
+              ],
+              "short_title": "CorpFinAnalysis DecisionMaking 企業財務分析與決策"
+            }
+          },
+          "info": {}
+        },
+        "FINA6122": {
+          "groups": {
+            "C": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "11/05/2020 - 21/07/2020",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 80,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6122",
+              "group": "C",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Fin Markets & Instruments 金融市場與工具"
+            }
+          },
+          "info": {}
+        },
+        "FINA6504": {
+          "groups": {
+            "D": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "11/05/2020 - 21/07/2020",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 70,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6504",
+              "group": "D",
+              "instructors": [
+                "Professor HAO Jia"
+              ],
+              "short_title": "Corporate Finance 公司金融"
+            }
+          },
+          "info": {}
+        },
+        "FINA6511": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "04/07/2020 - 11/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "05/07/2020 - 12/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6511",
+              "group": "A",
+              "instructors": [
+                "Professor YEH Jia Hsing"
+              ],
+              "short_title": "Insurance & Risk Management 保險與風險管理"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "20/06/2020 - 27/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "21/06/2020 - 21/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Su 09:00AM - 05:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6511",
+              "group": "B",
+              "instructors": [
+                "Professor YEH Jia Hsing"
+              ],
+              "short_title": "Insurance & Risk Management 保險與風險管理"
+            }
+          },
+          "info": {}
+        },
+        "FINA6512": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "04/07/2020 - 11/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "05/07/2020 - 12/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6512",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Merg, Acq & Recon of Corp Fin 兼併、收購與財務重組"
+            }
+          },
+          "info": {}
+        },
+        "FINA6513": {
+          "groups": {
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/06/2020 - 13/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1050,
+                        "str": "Sa 09:00AM - 05:30PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/06/2020 - 14/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6513",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "China Economics & Finance 中國經濟與金融"
+            }
+          },
+          "info": {}
+        },
+        "FINA6514": {
+          "groups": {
+            "AS": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/06/2020 - 13/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/06/2020 - 14/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6514",
+              "group": "AS",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Finance 財務專題"
+            },
+            "P": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_403"
+                      },
+                      "meeting_date": "23/05/2020 - 23/05/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Sa 08:30AM - 06:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "24/05/2020 - 24/05/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Su 08:30AM - 06:15PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6514",
+              "group": "P",
+              "instructors": [
+                "Professor LIU Ming"
+              ],
+              "short_title": "Special Topics in Finance 財務專題"
+            }
+          },
+          "info": {}
+        },
+        "FINA6521": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/05/2020 - 30/05/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "24/05/2020 - 31/05/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6521",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Internet Finance 互聯網金融"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "18/07/2020 - 25/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "19/07/2020 - 26/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6521",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Internet Finance 互聯網金融"
+            }
+          },
+          "info": {}
+        },
+        "FINA6523": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/05/2020 - 30/05/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "24/05/2020 - 31/05/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6523",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Fixed Income 固收證券"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "04/07/2020 - 11/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "05/07/2020 - 12/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6523",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Fixed Income 固收證券"
+            }
+          },
+          "info": {}
+        },
+        "FINA6524": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/06/2020 - 20/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "14/06/2020 - 21/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6524",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Securitization & Strc Finance 資產證券化和結構金融"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "20/06/2020 - 27/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "21/06/2020 - 28/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6524",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Securitization & Strc Finance 資產證券化和結構金融"
+            }
+          },
+          "info": {}
+        },
+        "FINA6534": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "06/06/2020 - 13/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "07/06/2020 - 07/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6534",
+              "group": "A",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Fin-Glb Fin 財務專題—國際金融"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "04/07/2020 - 11/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1050,
+                        "str": "Sa 09:00AM - 05:30PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "05/07/2020 - 12/07/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 120,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "FINA6534",
+              "group": "B",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Special Topics in Fin-Glb Fin 財務專題—國際金融"
+            }
+          },
+          "info": {}
+        },
+        "MGNT6151": {
+          "groups": {
+            "P": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_201"
+                      },
+                      "meeting_date": "21/05/2020 - 21/05/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Th 08:30AM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_201"
+                      },
+                      "meeting_date": "22/05/2020 - 22/05/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Fr 08:30AM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_201"
+                      },
+                      "meeting_date": "18/06/2020 - 18/06/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Th 08:30AM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_201"
+                      },
+                      "meeting_date": "19/06/2020 - 19/06/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Fr 08:30AM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MGNT6151",
+              "group": "P",
+              "instructors": [
+                "Professor CHARM Ka Ieong"
+              ],
+              "short_title": "Strategic Mgt of Innovation 創新策略管理"
+            }
+          },
+          "info": {}
+        },
+        "MKTG5011": {
+          "groups": {
+            "P": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "28/05/2020 - 28/05/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Th 08:30AM - 06:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "29/05/2020 - 29/05/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Fr 08:30AM - 06:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "30/05/2020 - 30/05/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Sa 08:30AM - 06:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "31/05/2020 - 31/05/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Su 08:30AM - 06:15PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MKTG5011",
+              "group": "P",
+              "instructors": [
+                "Dr. POON Kwok Ho"
+              ],
+              "short_title": "Marketing Management 營銷管理"
+            }
+          },
+          "info": {}
+        },
+        "MKTG6025": {
+          "groups": {
+            "P": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "YIA",
+                        "slug": "YIA_403"
+                      },
+                      "meeting_date": "20/06/2020 - 20/06/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Sa 08:30AM - 06:15PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "21/06/2020 - 21/06/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1095,
+                        "str": "Su 08:30AM - 06:15PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 60,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MKTG6025",
+              "group": "P",
+              "instructors": [
+                "Professor HUI King Man"
+              ],
+              "short_title": "Seminar in Marketing 市場學專題研討"
+            }
+          },
+          "info": {}
+        },
+        "MKTG6034": {
+          "groups": {
+            "A": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "13/06/2020 - 20/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "14/06/2020 - 21/06/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MKTG6034",
+              "group": "A",
+              "instructors": [
+                "Professor SHEN Hao"
+              ],
+              "short_title": "Special Topics in Digital Mktg 數字營銷新生態"
+            },
+            "B": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Business Administration",
+                  "language": "P",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/05/2020 - 30/05/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 1020,
+                        "str": "Sa 09:00AM - 05:00PM",
+                        "weekday": "Sa"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "24/05/2020 - 31/05/2020",
+                      "time": {
+                        "begin": 540,
+                        "end": 720,
+                        "str": "Su 09:00AM - 12:00PM",
+                        "weekday": "Su"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 150,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "MKTG6034",
+              "group": "B",
+              "instructors": [
+                "Professor SHEN Hao"
+              ],
+              "short_title": "Special Topics in Digital Mktg 數字營銷新生態"
+            }
+          },
+          "info": {}
+        },
+        "NURS6306": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "11/05/2020 - 22/06/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 795,
+                        "str": "Mo 09:30AM - 01:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "13/05/2020 - 24/06/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "We 09:30AM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "14/05/2020 - 28/05/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "11/06/2020 - 18/06/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Th 09:30AM - 12:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_307"
+                      },
+                      "meeting_date": "17/07/2020 - 17/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Fr 08:30AM - 01:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_308"
+                      },
+                      "meeting_date": "17/07/2020 - 17/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 795,
+                        "str": "Fr 08:30AM - 01:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "21/05/2020 - 21/05/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "04/06/2020 - 11/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L02": {
+                  "class": "L02",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "21/05/2020 - 21/05/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "04/06/2020 - 11/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L03": {
+                  "class": "L03",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "21/05/2020 - 21/05/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "04/06/2020 - 11/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L04": {
+                  "class": "L04",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "21/05/2020 - 21/05/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "04/06/2020 - 11/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L05": {
+                  "class": "L05",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "21/05/2020 - 21/05/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "04/06/2020 - 11/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Th 01:30PM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "T01": {
+                  "class": "T01",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_206"
+                      },
+                      "meeting_date": "14/05/2020 - 14/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_206"
+                      },
+                      "meeting_date": "28/05/2020 - 28/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "T02": {
+                  "class": "T02",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_302"
+                      },
+                      "meeting_date": "14/05/2020 - 14/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_302"
+                      },
+                      "meeting_date": "28/05/2020 - 28/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "T03": {
+                  "class": "T03",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "14/05/2020 - 14/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_303"
+                      },
+                      "meeting_date": "28/05/2020 - 28/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "T04": {
+                  "class": "T04",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_307"
+                      },
+                      "meeting_date": "14/05/2020 - 14/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_307"
+                      },
+                      "meeting_date": "28/05/2020 - 28/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "T05": {
+                  "class": "T05",
+                  "component": "TUT",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_308"
+                      },
+                      "meeting_date": "14/05/2020 - 14/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_308"
+                      },
+                      "meeting_date": "28/05/2020 - 28/05/2020",
+                      "time": {
+                        "begin": 750,
+                        "end": 975,
+                        "str": "Th 12:30PM - 04:15PM",
+                        "weekday": "Th"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6306",
+              "group": "-",
+              "instructors": [
+                "Dr. CHIANG Chung Yan- Dr. WONG Yuk Shim- Miss TANG Pui Yin- Mr. HA Kong Nam- Ms. LING Cheuk Chi- Ms. NGAN Hau Yi- Professor LI Wai Chi- Professor LO Hoi Shan"
+              ],
+              "short_title": "Care for Cli W/ Acu&Chro Ill I 急性及慢性疾病護理 III"
+            }
+          },
+          "info": {}
+        },
+        "NURS6317": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "11/05/2020 - 22/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Mo 01:30PM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "12/05/2020 - 23/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Tu 01:30PM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_307"
+                      },
+                      "meeting_date": "08/07/2020 - 15/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1035,
+                        "str": "We 08:30AM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_308"
+                      },
+                      "meeting_date": "08/07/2020 - 15/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 1035,
+                        "str": "We 08:30AM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6317",
+              "group": "-",
+              "instructors": [
+                "Dr. TANG Wing Ki- Professor CHENG Ho Yu"
+              ],
+              "short_title": "Mental Health Nursing 精神科護理"
+            }
+          },
+          "info": {}
+        },
+        "NURS6320": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "15/05/2020 - 15/05/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "22/05/2020 - 22/05/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 915,
+                        "str": "Fr 09:30AM - 03:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "29/05/2020 - 29/05/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "05/06/2020 - 05/06/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 915,
+                        "str": "Fr 09:30AM - 03:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "12/06/2020 - 19/06/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 735,
+                        "str": "Fr 09:30AM - 12:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT2"
+                      },
+                      "meeting_date": "26/06/2020 - 26/06/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_308"
+                      },
+                      "meeting_date": "06/07/2020 - 06/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_307"
+                      },
+                      "meeting_date": "06/07/2020 - 06/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 735,
+                        "str": "Mo 08:30AM - 12:15PM",
+                        "weekday": "Mo"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "05/06/2020 - 05/06/2020",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "12/06/2020 - 19/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Fr 01:30PM - 04:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L02": {
+                  "class": "L02",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "05/06/2020 - 05/06/2020",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_405"
+                      },
+                      "meeting_date": "12/06/2020 - 19/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Fr 01:30PM - 04:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L03": {
+                  "class": "L03",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "05/06/2020 - 05/06/2020",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "12/06/2020 - 19/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Fr 01:30PM - 04:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L04": {
+                  "class": "L04",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "05/06/2020 - 05/06/2020",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_407"
+                      },
+                      "meeting_date": "12/06/2020 - 19/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 1035,
+                        "str": "Fr 01:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                },
+                "L05": {
+                  "class": "L05",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "05/06/2020 - 05/06/2020",
+                      "time": {
+                        "begin": 930,
+                        "end": 1035,
+                        "str": "Fr 03:30PM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "BMS",
+                        "slug": "BMS_414"
+                      },
+                      "meeting_date": "12/06/2020 - 19/06/2020",
+                      "time": {
+                        "begin": 810,
+                        "end": 975,
+                        "str": "Fr 01:30PM - 04:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 30,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6320",
+              "group": "-",
+              "instructors": [
+                "Miss TANG Pui Yin- Ms. CHAN Mei Fung Wendy- Ms. KWAN Siu Kuen- Professor LO Hoi Shan"
+              ],
+              "short_title": "Paed & Adolescent Nursing 兒童及青少年護理"
+            }
+          },
+          "info": {}
+        },
+        "NURS6424": {
+          "groups": {
+            "-": {
+              "classes": {
+                "": {
+                  "class": "",
+                  "component": "LEC",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "27/04/2020 - 25/05/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Mo 09:30AM - 05:15PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "28/04/2020 - 26/05/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Tu 09:30AM - 05:15PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "29/04/2020 - 27/05/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "We 09:30AM - 05:15PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "07/05/2020 - 28/05/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Th 09:30AM - 05:15PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": "ELB",
+                        "slug": "ELB_LT3"
+                      },
+                      "meeting_date": "08/05/2020 - 29/05/2020",
+                      "time": {
+                        "begin": 570,
+                        "end": 1035,
+                        "str": "Fr 09:30AM - 05:15PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                },
+                "L01": {
+                  "class": "L01",
+                  "component": "LAB",
+                  "department": "Div of Nursing",
+                  "language": "E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "TBA"
+                      },
+                      "meeting_date": "27/04/2020 - 19/05/2020",
+                      "time": {
+                        "begin": -1,
+                        "end": -1,
+                        "str": "TBA",
+                        "weekday": "TBA"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6424",
+              "group": "-",
+              "instructors": [
+                "Staff"
+              ],
+              "short_title": "Comple & Alt Medicine 補充替代醫學"
+            }
+          },
+          "info": {}
+        },
+        "NURS6501": {
+          "groups": {
+            "-": {
+              "classes": {
+                "P01": {
+                  "class": "P01",
+                  "component": "PRA",
+                  "department": "Div of Nursing",
+                  "language": "C&E",
+                  "meets": [
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "20/04/2020 - 20/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "Mo 08:30AM - 04:30PM",
+                        "weekday": "Mo"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "21/04/2020 - 21/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "Tu 08:30AM - 04:30PM",
+                        "weekday": "Tu"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "22/04/2020 - 22/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "We 08:30AM - 04:30PM",
+                        "weekday": "We"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "23/04/2020 - 23/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "Th 08:30AM - 04:30PM",
+                        "weekday": "Th"
+                      }
+                    },
+                    {
+                      "consent": {
+                        "add": false,
+                        "drop": false
+                      },
+                      "location": {
+                        "building": null,
+                        "slug": "NRR"
+                      },
+                      "meeting_date": "24/04/2020 - 24/07/2020",
+                      "time": {
+                        "begin": 510,
+                        "end": 990,
+                        "str": "Fr 08:30AM - 04:30PM",
+                        "weekday": "Fr"
+                      }
+                    }
+                  ],
+                  "quota": {
+                    "seats": 100,
+                    "vacancy": null
+                  }
+                }
+              },
+              "course": "NURS6501",
+              "group": "-",
+              "instructors": [
+                "Mr. HA Kong Nam"
+              ],
+              "short_title": "Clinical Practice Block I 臨床實習 I"
+            }
+          },
+          "info": {}
+        }
+      },
+      "info": {
+        "name": {
+          "ENG": "Postgraduate - Taught"
+        }
+      },
+      "subjects": {
+        "": {
+          "info": {
+            "name": {
+              "ENG": ""
+            }
+          }
+        },
+        "ACCT": {
+          "info": {
+            "name": {
+              "ENG": "ACCT - Accountancy"
+            }
+          }
+        },
+        "AEPT": {
+          "info": {
+            "name": {
+              "ENG": "AEPT - Adv Environmental Planning Tec"
+            }
+          }
+        },
+        "ANTH": {
+          "info": {
+            "name": {
+              "ENG": "ANTH - Anthropology"
+            }
+          }
+        },
+        "ARCH": {
+          "info": {
+            "name": {
+              "ENG": "ARCH - Architectural Studies"
+            }
+          }
+        },
+        "BBMS": {
+          "info": {
+            "name": {
+              "ENG": "BBMS - Biochemical & Biomedical Sci"
+            }
+          }
+        },
+        "BCME": {
+          "info": {
+            "name": {
+              "ENG": "BCME - Chinese Medicine"
+            }
+          }
+        },
+        "BIOS": {
+          "info": {
+            "name": {
+              "ENG": "BIOS - Biostatistics"
+            }
+          }
+        },
+        "BMEG": {
+          "info": {
+            "name": {
+              "ENG": "BMEG - Biomedical Engineering"
+            }
+          }
+        },
+        "BUDS": {
+          "info": {
+            "name": {
+              "ENG": "BUDS - Buddhist Studies"
+            }
+          }
+        },
+        "CGEN": {
+          "info": {
+            "name": {
+              "ENG": "CGEN - Clinical Gerontology & ELC"
+            }
+          }
+        },
+        "CHEM": {
+          "info": {
+            "name": {
+              "ENG": "CHEM - Chemistry"
+            }
+          }
+        },
+        "CHES": {
+          "info": {
+            "name": {
+              "ENG": "CHES - Chinese Studies"
+            }
+          }
+        },
+        "CHLL": {
+          "info": {
+            "name": {
+              "ENG": "CHLL - Chinese Language & Literature"
+            }
+          }
+        },
+        "CLGY": {
+          "info": {
+            "name": {
+              "ENG": "CLGY - Clinical Gerontology"
+            }
+          }
+        },
+        "CMSC": {
+          "info": {
+            "name": {
+              "ENG": "CMSC - Computer Science (TPg)"
+            }
+          }
+        },
+        "CNGT": {
+          "info": {
+            "name": {
+              "ENG": "CNGT - Medical Genetics"
+            }
+          }
+        },
+        "CODS": {
+          "info": {
+            "name": {
+              "ENG": "CODS - Communication Disorders and Sc"
+            }
+          }
+        },
+        "COMM": {
+          "info": {
+            "name": {
+              "ENG": "COMM - Communication"
+            }
+          }
+        },
+        "CULS": {
+          "info": {
+            "name": {
+              "ENG": "CULS - Cultural Studies"
+            }
+          }
+        },
+        "CVSM": {
+          "info": {
+            "name": {
+              "ENG": "CVSM - Cardiology"
+            }
+          }
+        },
+        "DIUS": {
+          "info": {
+            "name": {
+              "ENG": "DIUS - Diagnostic Ultrasonography"
+            }
+          }
+        },
+        "DSME": {
+          "info": {
+            "name": {
+              "ENG": "DSME - Decision Sciences & Managerial"
+            }
+          }
+        },
+        "ECLT": {
+          "info": {
+            "name": {
+              "ENG": "ECLT - E-Commerce (Business Programme"
+            }
+          }
+        },
+        "ECON": {
+          "info": {
+            "name": {
+              "ENG": "ECON - Economics"
+            }
+          }
+        },
+        "ELEG": {
+          "info": {
+            "name": {
+              "ENG": "ELEG - Electronic Engineering"
+            }
+          }
+        },
+        "EMBA": {
+          "info": {
+            "name": {
+              "ENG": "EMBA - Executive MBA"
+            }
+          }
+        },
+        "ENGE": {
+          "info": {
+            "name": {
+              "ENG": "ENGE - English"
+            }
+          }
+        },
+        "ENLC": {
+          "info": {
+            "name": {
+              "ENG": "ENLC - End-of-Life Care"
+            }
+          }
+        },
+        "ENLT": {
+          "info": {
+            "name": {
+              "ENG": "ENLT - English Language Teaching"
+            }
+          }
+        },
+        "EPBI": {
+          "info": {
+            "name": {
+              "ENG": "EPBI - Epidemiology & Biostatistics"
+            }
+          }
+        },
+        "EPID": {
+          "info": {
+            "name": {
+              "ENG": "EPID - Epidemiology of Infectious Dis"
+            }
+          }
+        },
+        "EPSY": {
+          "info": {
+            "name": {
+              "ENG": "EPSY - Prof Educational Psychology"
+            }
+          }
+        },
+        "ESGS": {
+          "info": {
+            "name": {
+              "ENG": "ESGS - Earth System and GeoInfo Sci"
+            }
+          }
+        },
+        "EXSC": {
+          "info": {
+            "name": {
+              "ENG": "EXSC - Exercise Science"
+            }
+          }
+        },
+        "FAAS": {
+          "info": {
+            "name": {
+              "ENG": "FAAS - Fine Arts"
+            }
+          }
+        },
+        "FINA": {
+          "info": {
+            "name": {
+              "ENG": "FINA - Finance"
+            }
+          }
+        },
+        "FNSC": {
+          "info": {
+            "name": {
+              "ENG": "FNSC - Food & Nutritional Sciences"
+            }
+          }
+        },
+        "FTEC": {
+          "info": {
+            "name": {
+              "ENG": "FTEC - Financial Technology"
+            }
+          }
+        },
+        "GAST": {
+          "info": {
+            "name": {
+              "ENG": "GAST - Gastroenterology"
+            }
+          }
+        },
+        "GDRS": {
+          "info": {
+            "name": {
+              "ENG": "GDRS - Gender Studies"
+            }
+          }
+        },
+        "GISM": {
+          "info": {
+            "name": {
+              "ENG": "GISM - Geoinformation Science"
+            }
+          }
+        },
+        "GNBF": {
+          "info": {
+            "name": {
+              "ENG": "GNBF - Genomics and Bioinformatics"
+            }
+          }
+        },
+        "GPEC": {
+          "info": {
+            "name": {
+              "ENG": "GPEC - Global Political Economy"
+            }
+          }
+        },
+        "GPGC": {
+          "info": {
+            "name": {
+              "ENG": "GPGC - Govt & Poli (Greater Chi)"
+            }
+          }
+        },
+        "HIST": {
+          "info": {
+            "name": {
+              "ENG": "HIST - History"
+            }
+          }
+        },
+        "HPSB": {
+          "info": {
+            "name": {
+              "ENG": "HPSB - Master of Public Health"
+            }
+          }
+        },
+        "HSGS": {
+          "info": {
+            "name": {
+              "ENG": "HSGS - Housing Studies"
+            }
+          }
+        },
+        "HSOC": {
+          "info": {
+            "name": {
+              "ENG": "HSOC - Health Sociomedical Sciences"
+            }
+          }
+        },
+        "HSYS": {
+          "info": {
+            "name": {
+              "ENG": "HSYS - Health Systems"
+            }
+          }
+        },
+        "HTMG": {
+          "info": {
+            "name": {
+              "ENG": "HTMG - Hotel And Tourism Management"
+            }
+          }
+        },
+        "IEMS": {
+          "info": {
+            "name": {
+              "ENG": "IEMS - Information Engineering (TPg)"
+            }
+          }
+        },
+        "INFD": {
+          "info": {
+            "name": {
+              "ENG": "INFD - Infectious Diseases"
+            }
+          }
+        },
+        "JASP": {
+          "info": {
+            "name": {
+              "ENG": "JASP - Japanese Studies"
+            }
+          }
+        },
+        "LAWS": {
+          "info": {
+            "name": {
+              "ENG": "LAWS - Law"
+            }
+          }
+        },
+        "LING": {
+          "info": {
+            "name": {
+              "ENG": "LING - Linguistics"
+            }
+          }
+        },
+        "MAED": {
+          "info": {
+            "name": {
+              "ENG": "MAED - Mathematics Education"
+            }
+          }
+        },
+        "MAEG": {
+          "info": {
+            "name": {
+              "ENG": "MAEG - Mechanical & Automation Engg"
+            }
+          }
+        },
+        "MBAC": {
+          "info": {
+            "name": {
+              "ENG": "MBAC - MBA Programmes"
+            }
+          }
+        },
+        "MCLE": {
+          "info": {
+            "name": {
+              "ENG": "MCLE - Chinese Lang Education (TPg)"
+            }
+          }
+        },
+        "MCNS": {
+          "info": {
+            "name": {
+              "ENG": "MCNS - Stroke & Clinical Neuroscience"
+            }
+          }
+        },
+        "MECM": {
+          "info": {
+            "name": {
+              "ENG": "MECM - Early Childhood Education"
+            }
+          }
+        },
+        "MEDM": {
+          "info": {
+            "name": {
+              "ENG": "MEDM - Endo, Diabetes & Metabolism"
+            }
+          }
+        },
+        "MGNT": {
+          "info": {
+            "name": {
+              "ENG": "MGNT - Management"
+            }
+          }
+        },
+        "MHLS": {
+          "info": {
+            "name": {
+              "ENG": "MHLS - Mental Health"
+            }
+          }
+        },
+        "MKTG": {
+          "info": {
+            "name": {
+              "ENG": "MKTG - Marketing"
+            }
+          }
+        },
+        "MLSC": {
+          "info": {
+            "name": {
+              "ENG": "MLSC - Medical Laboratory Sciences"
+            }
+          }
+        },
+        "MMAT": {
+          "info": {
+            "name": {
+              "ENG": "MMAT - Mathematics (TPg)"
+            }
+          }
+        },
+        "MPUP": {
+          "info": {
+            "name": {
+              "ENG": "MPUP - Public Policy"
+            }
+          }
+        },
+        "MRGO": {
+          "info": {
+            "name": {
+              "ENG": "MRGO - Musculo Med, Rehab & Ger Orth"
+            }
+          }
+        },
+        "MUSC": {
+          "info": {
+            "name": {
+              "ENG": "MUSC - Music"
+            }
+          }
+        },
+        "NURS": {
+          "info": {
+            "name": {
+              "ENG": "NURS - Nursing"
+            }
+          }
+        },
+        "OBSC": {
+          "info": {
+            "name": {
+              "ENG": "OBSC - Obstetric Care"
+            }
+          }
+        },
+        "OENV": {
+          "info": {
+            "name": {
+              "ENG": "OENV - Occupational & Environmental H"
+            }
+          }
+        },
+        "ORTY": {
+          "info": {
+            "name": {
+              "ENG": "ORTY - Orthopaedics & Traumatology"
+            }
+          }
+        },
+        "PBHT": {
+          "info": {
+            "name": {
+              "ENG": "PBHT - Public Heatlh (TPg)"
+            }
+          }
+        },
+        "PEDU": {
+          "info": {
+            "name": {
+              "ENG": "PEDU - Education (PG)"
+            }
+          }
+        },
+        "PHAR": {
+          "info": {
+            "name": {
+              "ENG": "PHAR - Pharmacy"
+            }
+          }
+        },
+        "PHEC": {
+          "info": {
+            "name": {
+              "ENG": "PHEC - Prehospital and Emergency Care"
+            }
+          }
+        },
+        "PHIL": {
+          "info": {
+            "name": {
+              "ENG": "PHIL - Philosophy"
+            }
+          }
+        },
+        "PHYS": {
+          "info": {
+            "name": {
+              "ENG": "PHYS - Physics"
+            }
+          }
+        },
+        "POPG": {
+          "info": {
+            "name": {
+              "ENG": "POPG - Public Heatlh (TPg)"
+            }
+          }
+        },
+        "POPN": {
+          "info": {
+            "name": {
+              "ENG": "POPN - Perio Care of Min Acc Sur"
+            }
+          }
+        },
+        "PSYC": {
+          "info": {
+            "name": {
+              "ENG": "PSYC - Psychology"
+            }
+          }
+        },
+        "RELS": {
+          "info": {
+            "name": {
+              "ENG": "RELS - Religious Studies & Theology"
+            }
+          }
+        },
+        "RMCE": {
+          "info": {
+            "name": {
+              "ENG": "RMCE - Reprod Med & Clin Embry"
+            }
+          }
+        },
+        "RMED": {
+          "info": {
+            "name": {
+              "ENG": "RMED - Research Medicine"
+            }
+          }
+        },
+        "RMSC": {
+          "info": {
+            "name": {
+              "ENG": "RMSC - Risk Management Science"
+            }
+          }
+        },
+        "SEEM": {
+          "info": {
+            "name": {
+              "ENG": "SEEM - Systems Engineering & Engg Mgt"
+            }
+          }
+        },
+        "SGCL": {
+          "info": {
+            "name": {
+              "ENG": "SGCL - School Guidance & Counselling"
+            }
+          }
+        },
+        "SILP": {
+          "info": {
+            "name": {
+              "ENG": "SILP - School Improvement and Leaders"
+            }
+          }
+        },
+        "SLPA": {
+          "info": {
+            "name": {
+              "ENG": "SLPA - Speech-Language Pathology"
+            }
+          }
+        },
+        "SOCI": {
+          "info": {
+            "name": {
+              "ENG": "SOCI - Sociology"
+            }
+          }
+        },
+        "SOWK": {
+          "info": {
+            "name": {
+              "ENG": "SOWK - Social Work"
+            }
+          }
+        },
+        "SPSY": {
+          "info": {
+            "name": {
+              "ENG": "SPSY - Sports Studies"
+            }
+          }
+        },
+        "SSPE": {
+          "info": {
+            "name": {
+              "ENG": "SSPE - Sports Sci & Phy Edu (TPg)"
+            }
+          }
+        },
+        "STAT": {
+          "info": {
+            "name": {
+              "ENG": "STAT - Statistics"
+            }
+          }
+        },
+        "SUTM": {
+          "info": {
+            "name": {
+              "ENG": "SUTM - Sustainable Tourism"
+            }
+          }
+        },
+        "THEO": {
+          "info": {
+            "name": {
+              "ENG": "THEO - Theology"
+            }
+          }
+        },
+        "TRAN": {
+          "info": {
+            "name": {
+              "ENG": "TRAN - Translation"
+            }
+          }
+        },
+        "URBD": {
+          "info": {
+            "name": {
+              "ENG": "URBD - Urban Design"
+            }
+          }
+        }
+      }
+    }
+  },
+  "info": {
+    "name": {
+      "ENG": "2019-20 Term 4"
+    }
+  }
+}
