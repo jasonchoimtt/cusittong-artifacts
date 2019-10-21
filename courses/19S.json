@@ -19,21 +19,6 @@
     },
     "RPG": {
       "courses": {
-        "": {
-          "groups": {},
-          "info": {
-            "course_components": {},
-            "description": {
-              "ENG": ""
-            },
-            "grading_basis": "",
-            "requirement": "For students in MPhil-PhD Ind-Organizational Psychology",
-            "title": {
-              "ENG": ""
-            },
-            "units": ""
-          }
-        },
         "ENGG5700": {
           "groups": {
             "-": {
@@ -134,7 +119,18 @@
               "short_title": "Eng. Entrepreneurship 工程創業"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The aim of this course is to turn innovative, creative, and inquisitive engineering and applied science students into entrepreneurs through multi-disciplinary, fully-immersive, hands-on, and project-based learning.  The course covers topics in engineering, law, leadership, marketing and finance, etc. in order to equip participants to become entrepreneurs.  During the course, it is expected for the participants to:•Learn the basic knowledge on patents, intellectual property, contracts, copyright, and trademarks•Acquire refined communication, organizational, and leadership skills for entrepreneurs•Conduct case-study research on how engineering entrepreneurship plays an important role in the development of the high-tech industry•Participate in a field-trip to visit organizations in the Bay Area on various high-tech and bio-tech industries for a close-up on the operation of these organizations•Take part in a class group project on the research finding and the learning outcome from the field trip on engineering entrepreneurshipGrade Descriptors:‘A’ and ‘A-’: EXCELLENT – exceptionally good performance and far exceeding expectation in all or most of the course learning outcomes; demonstration of superior understanding of the subject matter, the ability to analyze problems and apply extensive knowledge, and skillful use of concepts and materials to derive proper solutions.‘B+’, ‘B’, and ‘B-’: GOOD – good performance in all course learning outcomes and exceeding expectation in some of them; demonstration of good understanding of the subject matter and the ability to use proper concepts and materials to solve most of the problems encountered.‘C+’, ‘C’, and ‘C-’: FAIR – adequate performance and meeting expectation in all course learning outcomes; demonstration of adequate understanding of the subject matter and the ability to solve simple problems.‘D+’ and ‘D’: MARGINAL – performance barely meets the expectation in the essential course learning outcomes; demonstration of partial understanding of the subject matter and the ability to solve simple problems.‘F’: FAILURE – performance does not meet the expectation in the essential course learning outcomes; demonstration of serious deficiencies and the need to retake the course."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For Year 3 and Year 4 undergraduate students, MPhil or PhD students. Priority will be given to ELITE students and engineering students.",
+            "title": {
+              "ENG": "Engineering Entrepreneurship"
+            },
+            "units": "3.00"
+          }
         },
         "FINA6272": {
           "groups": {
@@ -178,7 +174,18 @@
               "short_title": "Empirical Corporate Finance 公司金融實證研究方法"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides rigorous treatment of current empirical research in applied corporate finance. It introduces three approaches to empirical analysis: reduced form regression, structural estimation, and experimental design. It teaches the students how to use methods like event study, differences-in-differences estimation, regression discontinuity design to empirically test important topics in contract theory, corporate governance, capital structure.Grade descriptors: A / A- Outstanding performance on all learning outcomes. B+ / B / B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C+ / C / C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D+ / D Barely satisfactory performance on a number of learning outcomes F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MPhil-PhD Finance",
+            "title": {
+              "ENG": "Empirical Methods in Corporate Finance"
+            },
+            "units": "3.00"
+          }
         },
         "PSYC6540": {
           "groups": {
@@ -222,7 +229,18 @@
               "short_title": "Organizational Placement I 實習 (一)"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students will be placed to major organizations for internship training for 500 hours. They will work on a specific project in the organization under the joint supervision of a field supervisor of the host organization and a teacher from the Division.Grade Descriptors:A: Outstanding performance on all learning outcomes.A-: Generally very strong performance on all (or almost all) learning outcomes.B: Solid performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall solid performance.B-: Barely satisfactory performance on most learning outcomes C: Unsatisfactory performance on nearly all learning outcomes, OR failure to meet specified assessment requirements, resulting in overall failure."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MPhil-PhD Ind-Organizational Psychology",
+            "title": {
+              "ENG": "Organizational Placement I"
+            },
+            "units": "2.00"
+          }
         },
         "PSYC6541": {
           "groups": {
@@ -266,7 +284,18 @@
               "short_title": "Organizational Placement II 實習 (二)"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students will be placed to major organizations for internship training for 500 hours. They will work on a specific project in the organization under the joint supervision of a field supervisor of the host organization and a teacher from the Division.Grade Descriptors:A: Outstanding performance on all learning outcomes.A-: Generally very strong performance on all (or almost all) learning outcomes.B: Solid performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall solid performance.B-: Barely satisfactory performance on most learning outcomes C: Unsatisfactory performance on nearly all learning outcomes, OR failure to meet specified assessment requirements, resulting in overall failure."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MPhil-PhD Ind-Organizational Psychology",
+            "title": {
+              "ENG": "Organizational Placement II"
+            },
+            "units": "2.00"
+          }
         },
         "PSYC6542": {
           "groups": {
@@ -310,7 +339,18 @@
               "short_title": "Organizational Placement III 實習 (三)"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students will be placed to major organizations for internship training for 500 hours. They will work on a specific project in the organization under the joint supervision of a field supervisor of the host organization and a teacher from the Division.Grade Descriptors:A: Outstanding performance on all learning outcomes.A-: Generally very strong performance on all (or almost all) learning outcomes.B: Solid performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall solid performance.B-: Barely satisfactory performance on most learning outcomes C: Unsatisfactory performance on nearly all learning outcomes, OR failure to meet specified assessment requirements, resulting in overall failure."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MPhil-PhD Ind-Organizational Psychology",
+            "title": {
+              "ENG": "Organizational Placement III"
+            },
+            "units": "2.00"
+          }
         },
         "PSYC6580": {
           "groups": {
@@ -354,7 +394,18 @@
               "short_title": "Seminar in Professional Issues 專業問題研討"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course will focus on the general professional codes of practice and ethical dilemmas for the practice of industrial-organizational psychology. It also explores the role of industrial-organizational psychologists in general practice, and in team work with other related professionals.Grade Descriptors:A: Outstanding performance on all learning outcomes.A-: Generally very strong performance on all (or almost all) learning outcomes.B: Solid performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall solid performance.B-: Barely satisfactory performance on most learning outcomesC: Unsatisfactory performance on nearly all learning outcomes, OR failure to meet specified assessment requirements, resulting in overall failure."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MPhil-PhD Ind-Organizational Psychology",
+            "title": {
+              "ENG": "Seminar in Professional Issues"
+            },
+            "units": "1.00"
+          }
         }
       },
       "info": {
@@ -878,21 +929,6 @@
     },
     "TPG": {
       "courses": {
-        "": {
-          "groups": {},
-          "info": {
-            "course_components": {},
-            "description": {
-              "ENG": ""
-            },
-            "grading_basis": "",
-            "requirement": "For students of MSc in Urban Design.Prerequisite: URBD5720 Urban Design Studio II",
-            "title": {
-              "ENG": ""
-            },
-            "units": ""
-          }
-        },
         "ACCT6111": {
           "groups": {
             "W": {
@@ -952,7 +988,18 @@
               "short_title": "Business Valuation & Analysis 企業估價與分析"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces a framework for business valuation analysis using corporate disclosure and financial statement data. The framework identifies four key components of valuation: business strategy analysis, accounting analysis, financial analysis, and prospective analysis. Employing a case methodology, applications of this framework in a variety of decision-making contexts including securities analysis, credit analysis, and merger and acquisition decisions are examined.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Accountancy; or Executive Master of Professional Accountancy; or MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Business Valuation and Analysis"
+            },
+            "units": "3.00"
+          }
         },
         "ACCT6141": {
           "groups": {
@@ -1030,7 +1077,18 @@
               "short_title": "Acct Data Analyt & Bus Intell 會計數據分析與商業智慧"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "While the production of data is expanding at an astonishing pace, companies are on average using only a fraction of the data out there. Recent survey by IMA (Institute of Management Accountants) in 2016 reveals significant skill gaps in many areas employers need most, especially identifying key data trends, data mining and extraction, operational analysis, technological acumen, statistical modeling and data analysis. This course targets towards accounting students who are interested in getting hands-on experience with data analytics and rising to the challenges and opportunities big data presents to the profession. The course will provide a basis for handling and analyzing large-scale data stored within and outside an organization and finding business insights from analyses. In the first two-thirds of the course, we will study the basic concepts and techniques related to data preprocessing, data exploration, model building and results interpretation. Instead of digging deep into technical details, the course will provide a broad survey of common approaches and focus on the pragmatic implementation of data analytics. In the latter one-third of the course, we will discuss the emerging trends in big data and their applications in the accounting profession as well as other industries. The course will try to utilize real datasets related to accounting and finance and enable students to “learn by doing” through hands-on experience with data.Prerequisites: Students who take the course need a basic background of statistics. Having a passion for learning new things is important for the course.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Accountancy",
+            "title": {
+              "ENG": "Accounting Data Analytics and Business Intelligence"
+            },
+            "units": "3.00"
+          }
         },
         "AEPT5102": {
           "groups": {
@@ -1074,7 +1132,18 @@
               "short_title": "Topical Studies in Sus. Urban. 國際可持續城市化專題研習"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Course DesriptionThis course is intended to consolidate students' learning and to enable them to apply the knowledge they accumulated throughout the programme. Students will conduct a focused and practical study on current issues and important developments of sustainable urbanism in an international and inter-disciplinary context. Students may go on a two-week overseas study trip led by a teacher, attending seminars and site visits hosted by distinguished overseas planning or design schools or institutions. Alternatively, if available, students may choose to participate in a compact topical workshop hosted in Hong Kong.Grade DescriptorsADemonstrates the ability to comprehensively synthesize and apply the principles or subject matter learnt in the course. Has the ability to express the synthesis of ideas or application in a clear and cogent manner.A-Demonstrates the ability to state and apply the principles or subject matter learnt in the course to familiar and standard situations in a manner that is logical and comprehensive.BDemonstrates the ability to state and partially apply the principles or subject matter learnt in the course to most (but not all) familiar and standard situations.CDemonstrates the ability to state and apply the principles or subject matter learnt in the course to most (but not all) familiar and standard situations in a manner that is not incorrect but is somewhat fragmented.DDemonstrates the ability to state and sometimes apply the principles or subject matter learnt in the course to some simple and familiar situations in a manner that is broadly correct in its essentials.FUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Advanced Environmental Planning Technologies",
+            "title": {
+              "ENG": "International Topical Studies in Sustainable Urbanism"
+            },
+            "units": "3.00"
+          }
         },
         "AEPT6100": {
           "groups": {
@@ -1118,7 +1187,18 @@
               "short_title": "Dissertation/Planning Project 專題研究/規劃設計項目"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Course DescriptionThis course is devised as a consummation of the entire programme study. Students are required to demonstrate their learning and apply their knowledge and advanced technological skills acquired throughout the programme in this final dissertation/planning design project of a subject of their own choice. Research should be conducted on selected topics in urban/environmental planning or this could be an urban/environmental planning or design project under the supervision and guidance of a supervisor. Students should select a format of project according to their own capability and interest.Grade DescriptorsAClearly demonstrating the continuity thought the term.All content clearly and directly related to course purpose and dissertation sections.Clear evidence of critical thinking and problem solving ability.BDemonstrating the continuity thought the term.Most content clearly and directly related to course purpose and dissertation sections.Good evidence of critical thinking and problem solving ability.CSome continuity thought the term.Little content related to course purpose and dissertation sections.Some indication on why the content is chosen and reflect on the ideas behind.DDemonstrating minimal knowledge of exercise science concepts.The content is generally incompletely or unclearly perceived and analyzed, with little evidence of relevant reading.Very little evidence, why content is chosen the reflections are too general and don't make an attempt to explain complexity of issues presented.FNo continuity.Content has little or no relevance to the study, with no evidence of relevant reading.Did not show any meaningful reflective statements; no evidence of critical analysis."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Advanced Environmental Planning Technologies",
+            "title": {
+              "ENG": "Dissertation/Planning Design Project"
+            },
+            "units": "6.00"
+          }
         },
         "BCME6211": {
           "groups": {
@@ -1191,7 +1271,18 @@
               "short_title": "Chi Med Clinical Attachment I 中醫臨床實習(一)"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Clinical Practice Training is an important part of the TCM teaching. Through clinical practice, the students may improve deep learning of basic theory, and enhance the clinical knowledge and skills. The clinical practice training will last for one year and a half. The students will go to different training sites by stages in mainland and Hong Kong, and receive clinical training on various specialties of Chinese medicine, including internal medicine, surgery, gynecology, pediatric, acupuncture, surgery, bone setting, ophthalmology and otolaryngology, and dermatology. The students are anticipated to have the ability to appropriately treat the common diseases after completing the training.A/A-Outstanding performance on all learning outcomes.Students demonstrate an excellent ability to master the clinical knowledge and skills. They are able to clearly recognize the fundamental knowledge of Chinese medicine and the related knowledge of western medicine.. Students have the ability to appropriately treat the common diseases in various specialties, including internal medicine, gynecology, pediatric, acupuncture, surgery, bone setting, ophthalmology and otolaryngology, and dermatology. Students have good medical ethics and are compassionate and empathetic to patients. Students show responsibility to their duty and complete the clinical practice without absence.  BSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.  Students demonstrate a good ability to recognize the clinical knowledge and skills. They are able to recognize the fundamental knowledge of Chinese medicine and the related knowledge of western medicine. Students understand the general treatment of the common diseases in various specialties, including internal medicine, gynecology, pediatric, acupuncture, surgery, bone setting, ophthalmology and otolaryngology, and dermatology. Students have good medical ethics and are compassionate and empathetic to patients. Students show responsibility to their duty and complete the clinical practice without absence.  CDemonstrates the ability to state and apply the principles or subject matter learnt in the course to most (but not all) familiar and standard situations in a manner that is not incorrect but is somewhat fragmented.  Students demonstrate an ability to partially understand the clinical knowledge and skills. They are able to understand the fundamental knowledge of Chinese medicine and the related knowledge of western medicine. Students understand part of the knowledge of the treatment of the common diseases in various specialties, including internal medicine, gynecology, pediatric, acupuncture, surgery, bone setting, ophthalmology and otolaryngology, and dermatology. Students understand the importance of good medical ethics and are compassionate and empathetic to patients. Students are able to complete the clinical practice.  D Demonstrates the ability to state and sometimes apply the principles or subject matter learnt in the course to some simple and familiar situations in a manner that is broadly correct in its essentials and has the ability to state the knowledge or application in simple terms.  Students fairly recall and understand the knowledge of the clinical knowledge and skills. They have limited understandings of the fundamental knowledge of Chinese medicine and the related knowledge of western medicine. Students know a very few of the knowledge of the treatment of the common diseases in various specialties, including internal medicine, gynecology, pediatric, acupuncture, surgery, bone setting, ophthalmology and otolaryngology, and dermatology. Students understand the importance of good medical ethics and are compassionate and empathetic to patients. Students are able to complete the clinical practice.  F\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirement. Students barely recall and understand the knowledge of the clinical knowledge and skills, the fundamental knowledge of Chinese medicine, the related knowledge of western medicine and the treatment of the common diseases in various specialties. Students are not able to complete the clinical practice."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MChi.Med.",
+            "title": {
+              "ENG": "Chinese Medicine Clinical Attachment I"
+            },
+            "units": "10.00"
+          }
         },
         "CHEM5515": {
           "groups": {
@@ -1252,7 +1343,18 @@
               "short_title": "Research Project 研究項目"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This optional course aims to provide an opportunity for student to undertake a research project relevant to the accreditation chemistry, such as development and validation of a test, verification of reference materials and performance checks and calibration of measuring devices; and/or experimental evaluation of measurement uncertainty. The research work will be conducted on one weekday and Saturdays of the term time. Students with free time on Saturdays are encouraged to take this course and to acquire practical experience.Grade ADemonstrates comprehensive command of the research project relevant to accreditation chemistry required for attaining all the course learning outcomes. Displays evidence of original thoughts and the ability of use of data or results thoroughly to draw insightful conclusions, in a manner that would surpass the normal expectation at this level, and typical of standards that may be common at higher levels of study or research.  Shows the ability to express the knowledge or synthesis of ideas in a clear and cogent manner.Grade A-Demonstrates substantial command of the research project relevant to accreditation chemistry required for attaining almost all the course learning outcomes. Displays the ability of use of data or results with a high level of competence to draw meaningful conclusions, in a manner that is usually logical and comprehensive. Shows the ability to express the knowledge or application with clarity.Grade BDemonstrates general and sufficient command of the research project relevant to accreditation chemistry required for attaining most of the course learning outcomes.  Displays the ability of use of data or results competently to draw mostly correct conclusions, in a manner that is usually logically persuasive. Shows the ability to express the knowledge or application in a satisfactory and unambiguous way.Grade CDemonstrates general command of the research project relevant to accreditation chemistry required for attaining some of the course learning outcomes. Displays the ability of use of data or results to draw conclusions, but with occasional errors. Shows the ability to express the separate pieces of knowledge in an unambiguous way.Grade DDemonstrates partial command the research project relevant to accreditation chemistry required for attaining some of the course learning outcomes. Displays limited ability to use data or results to draw conclusions. Shows the ability to state the knowledge in simple terms.Grade FDemonstrates little or no evidence of command of subject studied in the research project required for attaining the course learning outcomes, OR failures to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "Students from MSc of Accreditation Chemistry only.",
+            "title": {
+              "ENG": "Research Project"
+            },
+            "units": "3.00"
+          }
         },
         "CHEM5516": {
           "groups": {
@@ -1313,7 +1415,18 @@
               "short_title": "Risk Management 化驗所的風險管理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course aims to provide a comprehensive understanding of the environment, health and safety issues, regulations and standards for risk management in chemical testing laboratories. Important topics will include local regulations and international standards for environmental protection and occupational health and safety, as well as the respective international management systems such as ISO 17025, ISO 14001 and OHSAS 18001 (or ISO 45001) standards. Grade ADemonstrates comprehensive command of principles and subject matter in the course required for attaining all the course learning outcomes. Demonstrates the ability to apply the principles or subject matter learnt in the course to a wide range of complex, familiar and unfamiliar situations, in a manner that would surpass the normal expectation at this level, and typical of standards that may be common at higher levels of study or research.  Shows the ability to express the knowledge or synthesis of ideas in a clear and cogent manner.Grade A-Demonstrates substantial command of principles and subject matter in the course required for attaining almost all the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to familiar and some unfamiliar situations, in a manner that is usually logical and comprehensive. Shows the ability to express the knowledge or application with clarity.Grade BDemonstrates general and sufficient command of principles and subject matter in the course required for attaining most of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course accurately to most (but not necessarily all) familiar and standard situations, in a manner that is usually logically persuasive. Shows the ability to express the knowledge or application in a satisfactory and unambiguous way.Grade CDemonstrates general command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to most (but not necessarily all) familiar and standard situations, but with occasional errors and/or in a manner that may be somewhat fragmented. Shows the ability to express the separate pieces of knowledge in an unambiguous way.Grade DDemonstrates partial command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to some simple situations only. Shows the ability to state the knowledge or application in simple terms.Grade FDemonstrates little or no evidence of command of principles and subject matter in the course required for attaining the course learning outcomes, OR failures to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "Students from MSc of Accreditation Chemistry only.",
+            "title": {
+              "ENG": "Risk Management in Chemical Testing Laboratories"
+            },
+            "units": "3.00"
+          }
         },
         "CHEM5523": {
           "groups": {
@@ -1374,7 +1487,18 @@
               "short_title": "Surface Finish & Coating Tests 表面處理和塗層測試"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides a comprehensive coverage of analytical methods used for characterization of surface finishing and coatings on different substrate materials used in various types of industrial and commercial products. Topics include basic science and analytic techniques for various type of surface finishing technology, such as electroplating, vacuum deposition, anodizing and coatings, etc. Grade ADemonstrates comprehensive command of principles and subject matter in the course required for attaining all the course learning outcomes. Demonstrates the ability to apply the principles or subject matter learnt in the course to a wide range of complex, familiar and unfamiliar situations, in a manner that would surpass the normal expectation at this level, and typical of standards that may be common at higher levels of study or research. Shows the ability to express the knowledge or synthesis of ideas in a clear and cogent manner.Grade A-Demonstrates substantial command of principles and subject matter in the course required for attaining almost all the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to familiar and some unfamiliar situations, in a manner that is usually logical and comprehensive. Shows the ability to express the knowledge or application with clarity.Grade BDemonstrates general and sufficient command of principles and subject matter in the course required for attaining most of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course accurately to most (but not necessarily all) familiar and standard situations, in a manner that is usually logically persuasive. Shows the ability to express the knowledge or application in a satisfactory and unambiguous way.Grade CDemonstrates general command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to most (but not necessarily all) familiar and standard situations, but with occasional errors and/or in a manner that may be somewhat fragmented. Shows the ability to express the separate pieces of knowledge in an unambiguous way.Grade DDemonstrates partial command of principles and subject matter in the course required for attaining some of the course learning outcomes. Demonstrates the ability to state and apply the principles or subject matter learnt in the course to some simple situations only. Shows the ability to state the knowledge or application in simple terms.Grade FDemonstrates little or no evidence of command of principles and subject matter in the course required for attaining the course learning outcomes, OR failures to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc of Accreditation Chemistry",
+            "title": {
+              "ENG": "Chemistry and Analytical Methods of Surface Finishing & Coatings"
+            },
+            "units": "3.00"
+          }
         },
         "CVSM5006": {
           "groups": {
@@ -1469,7 +1593,18 @@
               "short_title": "Cardiac Procedures 心臟檢查及治療"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "It will be illustrated by videos and introduces basic knowledge of various cardiac investigations and procedures, including basic techniques and precautions.Course DescriptorA: Outstanding performance on all learning outcomes.A-: Generally outstanding performance on all (or almost all) learning outcomes.B: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D:Barely satisfactory performance on a number of learning outcomes.F: Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Cardiology",
+            "title": {
+              "ENG": "Cardiac Procedures"
+            },
+            "units": "1.00"
+          }
         },
         "CVSM5008": {
           "groups": {
@@ -1988,7 +2123,18 @@
               "short_title": "Dissertation 專題論文"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "A 5,000-word dissertation in the form of topical review is required for graduation.Course DescriptorA: Outstanding performance on all learning outcomes.A-: Generally outstanding performance on all (or almost all) learning outcomes.B: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D:Barely satisfactory performance on a number of learning outcomes.F: Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Cardiology",
+            "title": {
+              "ENG": "Dissertation"
+            },
+            "units": "6.00"
+          }
         },
         "DSME6790": {
           "groups": {
@@ -2032,7 +2178,18 @@
               "short_title": "Technology Field Study 科技考察"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course consists of preparatory assignments in readings and a written study plan, followed by a five-day residential program to Silicon Valley, California or similar Science Parks in Asia.  The course is concluded with a written report and an oral presentation. The goal in taking classroom sessions abroad is to expose our graduate students to a wide spectrum of issues related to IT business, which includes research and development, company culture, and ways to manage a technology company. The issues are highlighted through lectures or seminars by university professors, and visits to world class companies or research and development centres.  Students will have chance to discuss with top executives from these companies.  Through this course, students will be able to understand the strategies companies adopted, and solutions in tackling business issues.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Information & Technology Management; or MSc Business Analytics",
+            "title": {
+              "ENG": "Technology Field Study"
+            },
+            "units": "3.00"
+          }
         },
         "ESGS6061": {
           "groups": {
@@ -2076,7 +2233,18 @@
               "short_title": "Prj in Geo-Survey & Pub. Mgt. 地理國情監測與公共管理計劃"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Each student is required to carry out an independent research project under the supervision of a teacher.Grade descriptor:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc National Geo-survey, MSc Geo-survey and Public Management",
+            "title": {
+              "ENG": "Project in Geo-Survey and Public Management"
+            },
+            "units": "4.00"
+          }
         },
         "FINA6022": {
           "groups": {
@@ -2154,7 +2322,18 @@
               "short_title": "Current Topics in Finance 當前金融專題"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Topics and issues in subfields in finance, to be selected by the finance faculty, are addressed in this course.Grade descriptors:A / A- Outstanding performance on all learning outcomes.B+ / B / B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D Barely satisfactory performance on a number of learning outcomesF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Current Topics in Finance"
+            },
+            "units": "1.50"
+          }
         },
         "FINA6222": {
           "groups": {
@@ -2198,7 +2377,18 @@
               "short_title": "Selected Topics in Finance 金融專題"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Topics and issues in subfields in finance, to be selected by the finance faculty, are addressed in this course. Students are advised to contact the department for current offerings and prerequisites.Grade descriptors:A / A- Outstanding performance on all learning outcomes.B+ / B / B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D Barely satisfactory performance on a number of learning outcomesF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or MPhil-PhD Finance; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme; or MSc Finance",
+            "title": {
+              "ENG": "Selected Topics in Finance"
+            },
+            "units": "3.00"
+          }
         },
         "FINA6362": {
           "groups": {
@@ -2259,7 +2449,18 @@
               "short_title": "Foreign Ex in Theo & Practice 外匯市場理論和運作"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course will cover exchange rate theory, exchange rate policy, and statistical work on exchange rate determination. It will also touch on important topics of the day, such as China’s exchange rate regime, global imbalances, and the problems of the Eurozone.Grade descriptors:A / A- Outstanding performance on all learning outcomes.B+ / B / B- Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C+ / C / C- Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D+ / D Barely satisfactory performance on a number of learning outcomesF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Finance",
+            "title": {
+              "ENG": "Foreign Exchange in Theory and Practice"
+            },
+            "units": "3.00"
+          }
         },
         "FTEC5540": {
           "groups": {
@@ -2303,7 +2504,18 @@
               "short_title": "FinTech Internship 金融科技實習"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The objective of the course is to allow students to acquire a basic understanding and the skills of the practical aspects of the financial technology profession.  To qualify for the award of the subject credits, the student must (a) attend regulatory workshop provided by such regulatory authorities as the Hong Kong Monetary Authority, Securities & Futures Commission, and Insurance Authority, and (b) attach to a company in a financial technology related post as approved by the Professor-in-Charge for no less than 12 weeks.  The student will have an academic supervisor as assigned by the Professor-in-Charge and an industry supervisor from the company.  There will be a mid-term company visit by the academic supervisor.  At the end of the internship, the student must give a presentation to the academic and industry supervisors, and submit a report summarizing what the student has done and learnt from the internship.  The student’s grade will be determined by (1) the presentation, (2) the student report and (3) a testimonial from the industry supervisor.The internship should normally take place in the summer term after a student has finished the first two semesters of studies.  Part-time students can decide to undertake the internship in the summer term of either the first or second year of studies.Students are recommended to seek the Professor-in-Charge's comment on potential internship opportunities before enrolling in the course.  Grade Descriptors:‘A’ and ‘A-’: EXCELLENT – exceptionally good performance and far exceeding expectation in all or most of the course learning outcomes; demonstration of superior understanding of the subject matter, the ability to analyze problems and apply extensive knowledge, and skillful use of concepts and materials to derive proper solutions.‘B+’, ‘B’, and ‘B-’: GOOD – good performance in all course learning outcomes and exceeding expectation in some of them; demonstration of good understanding of the subject matter and the ability to use proper concepts and materials to solve most of the problems encountered.‘C+’, ‘C’, and ‘C-’: FAIR – adequate performance and meeting expectation in all course learning outcomes; demonstration of adequate understanding of the subject matter and the ability to solve simple problems.‘D+’ and ‘D’: MARGINAL – performance barely meets the expectation in the essential course learning outcomes; demonstration of partial understanding of the subject matter and the ability to solve simple problems.‘F’: FAILURE – performance does not meet the expectation in the essential course learning outcomes; demonstration of serious deficiencies and the need to retake the course."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Financial Technology",
+            "title": {
+              "ENG": "Financial Technology Internship"
+            },
+            "units": "3.00"
+          }
         },
         "FTEC5920": {
           "groups": {
@@ -2347,7 +2559,18 @@
               "short_title": "FinTech Project II 金融科技論文 II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The courses, Financial Technology Project I & II, involve a significant research and/or development project under the supervision of an academic staff in any area of financial technology.  Unless otherwise approved by the Professor-in-Charge, the project should involve an industrial partner with a co-supervisor from the industry.  At the end of the course, the student must give a presentation to the academic and industry supervisors, and submit a report detailing the findings and deliverables.  The student’s grade will be determined by the presentation and the report.Unless otherwise approved by the Programme Director, the credits for Financial Technology Project I are recognized if and only if the student takes also Financial Technology Project II in a subsequent semester.If a student has prior industrial background and has already secured a project topic with an industrial practitioner and the agreement of an academic staff, Financial Technology Project I can be taken in the first semester of studies.  Otherwise, the two project courses can be taken in any consecutive semesters, including the summer term.Students are encouraged to find industrial projects by themselves and talk to various academic staffs for project ideas before enrolling in the courses.  Grade Descriptors:‘A’ and ‘A-’: EXCELLENT – exceptionally good performance and far exceeding expectation in all or most of the course learning outcomes; demonstration of superior understanding of the subject matter, the ability to analyze problems and apply extensive knowledge, and skillful use of concepts and materials to derive proper solutions.‘B+’, ‘B’, and ‘B-’: GOOD – good performance in all course learning outcomes and exceeding expectation in some of them; demonstration of good understanding of the subject matter and the ability to use proper concepts and materials to solve most of the problems encountered.‘C+’, ‘C’, and ‘C-’: FAIR – adequate performance and meeting expectation in all course learning outcomes; demonstration of adequate understanding of the subject matter and the ability to solve simple problems.‘D+’ and ‘D’: MARGINAL – performance barely meets the expectation in the essential course learning outcomes; demonstration of partial understanding of the subject matter and the ability to solve simple problems.‘F’: FAILURE – performance does not meet the expectation in the essential course learning outcomes; demonstration of serious deficiencies and the need to retake the course."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Financial Technology;Pre-requisite: FTEC5910",
+            "title": {
+              "ENG": "Financial Technology Project II"
+            },
+            "units": "3.00"
+          }
         },
         "GAST5007": {
           "groups": {
@@ -2391,7 +2614,18 @@
               "short_title": "Psy. Int., Coun. & Comp. Med."
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "(1) To introduce the concept of biopsychosocial model in development of functional gastrointestinal disorders(2) To provide an understanding on the relationship between psychological disorders and gastrointestinal diseases(3) To provide an overview of the role of psychological intervention and psychotropic therapy in management of functional gastrointestinal disorders(4) To provide basic training on the clinical skills of diagnosis and management of patients with functional gastrointestinal and psychological disorders(5) To provide an understanding on the role of complementary and alternative medicine in management of digestive diseasesGrade Descriptors Grade\tOverall course A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Gastroenterology",
+            "title": {
+              "ENG": "Psychological Intervention, Counseling and Complementary Medicine"
+            },
+            "units": "1.50"
+          }
         },
         "GAST5008": {
           "groups": {
@@ -2435,7 +2669,18 @@
               "short_title": "Interactive Workshops"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "(1) To understand about the management of common GI diseases through interactive based learning(2) To illustrate the management of common GI diseases through case discussion(3) To learn the differential diagnosis and management of common GI diseases through sessions of interactive quiz(4) To understand and expose to various devices for investigation of common GI diseases through hands-on sessionsGrade Descriptors Grade\tOverall course A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Gastroenterology",
+            "title": {
+              "ENG": "Interactive Workshops - Practical Management of Common GI Diseases"
+            },
+            "units": "1.00"
+          }
         },
         "GAST5016": {
           "groups": {
@@ -2479,7 +2724,18 @@
               "short_title": "Project"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "To develop the skills of addressing a clinical problem in a scientific and systematic approach.Through supervised clinical research, students can develop the ability to understand and criticize the evidence in the literature.Grade Descriptors Grade\tOverall course A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Gastroenterology",
+            "title": {
+              "ENG": "Project"
+            },
+            "units": "7.00"
+          }
         },
         "GISM5060": {
           "groups": {
@@ -2552,7 +2808,18 @@
               "short_title": "Statistical Analysis of Geo Da 地理數據的統計分析"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides an introduction to the basic and spatial statistical analysis methods that are commonly used to investigate geographically represented data. Topics covered include: (1) correlation analysis, (2) principal components analysis, (3) cluster analysis, (4) Geostatistical analysis, and (5) global and local spatial regression models. Students will develop their competency in using and applying GIS and statistical tools to solve real-world geographical problems through hands-on lab exercises and course projects.Grade descriptorsGrade A:Demonstrates the ability to synthesize and apply the statistical concepts and subject knowledge learnt in the course with outstanding performance on all required assignments and learning outcomes.Has the ability to express the synthesis of statistical concepts and their geographical applications in a clear and cogent manner.Grade A-:Demonstrates the ability to state and apply the statistical concepts and subject knowledge learnt in the course with generally outstanding performance on all (or almost all) required assignments and learning outcomes.Has the ability to express the knowledge of statistical concepts and their geographical applications with clarity.Grade B:Demonstrates the ability to state and apply the statistical concepts and subject knowledge learnt in the course with substantial performance on all required assignments and learning outcomes, or high performance on some required assignments and learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.Has the ability to express the knowledge of statistical concepts and their geographical applications in a satisfactory and unambiguous way.Grade C:Demonstrates the ability to state and apply the statistical concepts and subject knowledge learnt in the course with satisfactory performance on the majority of required assignments and learning outcomes, possibly with a few weaknesses.Has the ability to express the separate pieces of knowledge of statistical concepts and their geographical applications in an unambiguous way.Grade D:Demonstrates the ability to state and sometimes apply the statistical concepts and subject knowledge learnt in the course with barely satisfactory performance on a number of required assignments and learning outcomes.Has the ability to state the knowledge of statistical and their geographical applications in simple terms.Grade F:Unsatisfactory performance on a number of required assignments and learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Geoinformation Science",
+            "title": {
+              "ENG": "Statistical Analysis of Geographical Data"
+            },
+            "units": "3.00"
+          }
         },
         "GISM6061": {
           "groups": {
@@ -2596,7 +2863,18 @@
               "short_title": "Thesis 研究論文"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The master thesis project is a compulsory course of the GISM program. It is not a regular course with modules and exercises, but an individual research project where you present your work in an oral presentation and a scientific written report. Students are required to carry out independent studies of selected topics relevant to Geoinformation Science on a variety of problems under staff supervision. Evaluation is based on the oral presentation and written report.Grade descriptorsGrade A: Outstanding performance on all learning outcomes.Grade A-: Generally outstanding performance on all or (almost all) learning outcomes.Grade B: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.Grade C: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.Grade D: Barely satisfactory performance on a number of learning outcomes.Grade F: Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Geoinformation Science",
+            "title": {
+              "ENG": "Thesis"
+            },
+            "units": "4.00"
+          }
         },
         "HIST5507": {
           "groups": {
@@ -2669,7 +2947,18 @@
               "short_title": "Spec Topics in Public History 公眾歷史特別專題"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course examines the theoretical and empirical dimensions of a special topic on public history. Focus and scope of inquiry will be designed by the respective instructor.Grade Descriptors Grade A   Outstanding performance on all learning outcomes. Grade A-  Generally outstanding performance on all (or almost all) learning outcomes. Grade B   Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. Grade C   Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. Grade D   Barely satisfactory performance on a number of learning outcomes. Grade F   Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For postgraduate students under Division of History and undergraduate History Major & Minor students",
+            "title": {
+              "ENG": "Special Topics in Public History"
+            },
+            "units": "3.00"
+          }
         },
         "HPSB5004": {
           "groups": {
@@ -2764,7 +3053,18 @@
               "short_title": "Healthy Settings 健康場所"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The United Nation Sustainable Development Goals (SDGs) for 2015-30 30 were adopted to strive for a world that is ‘just, equitable and inclusive’.  Those priority risk behaviours causing global burden of diseases are often established early in life and research findings have also confirmed the existence of common determinants (e.g., pathways in the brain) and the inter-relationships between the determinants of risk behaviours and behaviours themselves.  Improvement of behaviours and well-being of citizens would not naturally occur without a specific “intentional intervention”.  The concept of Healthy Setting is to cultivate a healthy physical/psycho-social environment in the setting where people spend most of the time for working, studying, enjoyment of life, or for specific purposes. It is a very effective “intentional intervention” in achieving improvements in both health and well-being of citizens as it would penetrate into the wide arrays of their daily experiences. The whole concept of healthy setting is also based on striving the principles of ‘just, equitable and inclusive’ for citizen development.  The key to successful implementation is engagement of key stakeholders in strategic way.Grade DescriptorsA                   Exceptional student A‐                 High performanceB+/ B/ B-      AVERAGE STUDENTC+/C/C-         Below average but demonstrating an acceptable grasp of main conceptsD+/D            Barely Passing          F                   UnacceptableP                    Pass"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For TPg students under School of Public Health",
+            "title": {
+              "ENG": "Healthy Settings"
+            },
+            "units": "2.00"
+          }
         },
         "HSGS5107": {
           "groups": {
@@ -2808,7 +3108,18 @@
               "short_title": "Int'l Sch Prj in Hous Studies 海外交流學習課程"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Course Description:This course is intended to consolidate students' learning and to enable them to apply the knowledge they accumulated throughout the programme. Within this course students will do a work on urban housing, exploring the socio-economic issues and environmental matters. Students will conduct a focused and practical study on current issues and important developments of sustainable urbanism in an international and inter-disciplinary context. Participants may go on a two-week overseas study trip led by a teacher, attending seminars and site visits hosted by distinguished overseas planning or design schools or institutions. Within this trip, teamwork and team spirit will be forced by elaborating the project in a multidisciplinary group of students; a situation very close to the operations and working environment of their future field of work.Grade Descriptors:ADemonstrates the ability to comprehensively synthesize and apply the principles or subject matter learnt in the course. Has the ability to express the synthesis of ideas or application in a clear and cogent manner.A-Demonstrates the ability to state and apply the principles or subject matter learnt in the course to familiar and standard situations in a manner that is logical and comprehensive.BDemonstrates the ability to state and partially apply the principles or subject matter learnt in the course to most (but not all) familiar and standard situations.CDemonstrates the ability to state and apply the principles or subject matter learnt in the course to most (but not all) familiar and standard situations in a manner that is not incorrect but is somewhat fragmented.DDemonstrates the ability to state and sometimes apply the principles or subject matter learnt in the course to some simple and familiar situations in a manner that is broadly correct in its essentials.FUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSSc Housing Studies",
+            "title": {
+              "ENG": "International Schools Project in Housing Studies"
+            },
+            "units": "3.00"
+          }
         },
         "HSGS6100": {
           "groups": {
@@ -2852,7 +3163,18 @@
               "short_title": "Ind. Research (Dissertation) 專題研究（畢業論文）"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Course DescriptionThis course is devised as a consummation of the entire programme study. Students are required to demonstrate their learning and apply their knowledge and advanced technological skills acquired throughout the programme in this final dissertation/planning design project of a subject of their own choice. Research should be conducted on selected topics in housing studies or this could be an design project under the supervision and guidance of a supervisor. Students should select a format of project according to their own capability and interest.Grade DescriptorsAClearly demonstrating the continuity thought the term.All content clearly and directly related to course purpose and dissertation sections.Clear evidence of critical thinking and problem solving ability.BDemonstrating the continuity thought the term.Most content clearly and directly related to course purpose and dissertation sections.Good evidence of critical thinking and problem solving ability.CSome continuity thought the term.Little content related to course purpose and dissertation sections.Some indication on why the content is chosen and reflect on the ideas behind.DDemonstrating minimal knowledge of exercise science concepts.The content is generally incompletely or unclearly perceived and analyzed, with little evidence of relevant reading.Very little evidence, why content is chosen the reflections are too general and don't make an attempt to explain complexity of issues presented.FNo continuity.Content has little or no relevance to the study, with no evidence of relevant reading.Did not show any meaningful reflective statements; no evidence of critical analysis."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSSc Housing Studies",
+            "title": {
+              "ENG": "Independent Research (Dissertation)"
+            },
+            "units": "6.00"
+          }
         },
         "HSYS5020": {
           "groups": {
@@ -2896,7 +3218,18 @@
               "short_title": "Corp.Communication & Marketing 企業傳訊及市場學"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces students to the principles and practices of today’s corporate communication and marketing in healthcare. Examples and case studies, from healthcare where appropriate, are used to illustrate the up-to-date treatment of the key aspects of corporate communication and marketing.Grade DescriptorsA \t        Exceptional student A‐ \t        High performanceB+/ B/ B- AVERAGE STUDENTC+/C/C-   Below average but demonstrating an acceptable grasp of main conceptsD+/D \tBarely Passing\tF \t        UnacceptableP\t        Pass"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Public Health, Master of Science in Health Services Management and Postgraduate diploma in Health Services Management",
+            "title": {
+              "ENG": "Corporate Communication and Marketing"
+            },
+            "units": "1.00"
+          }
         },
         "HSYS5021": {
           "groups": {
@@ -2940,7 +3273,18 @@
               "short_title": "Advanced Organization Mgt 醫療機構管理學進階課程"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course aims to equip students with a more in-depth knowledge in organizational management by going into areas of organizational health and organizational culture.  Organizational health and organizational culture are important and related concepts affecting the performance of the organization with respect to external and internal stakeholders. The course emphasizes on learning through reflection and practical application of key concepts in organizational health and culture supported by case studies.Grade DescriptorsA \t        Exceptional student A‐ \t        High performanceB+/ B/ B- AVERAGE STUDENTC+/C/C-   Below average but demonstrating an acceptable grasp of main conceptsD+/D \tBarely Passing\tF \t        UnacceptableP\t        Pass"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Public Health, Master of Science in Health Services Management and Postgraduate diploma in Health Services Management",
+            "title": {
+              "ENG": "Advanced Organization Management"
+            },
+            "units": "1.00"
+          }
         },
         "HSYS5022": {
           "groups": {
@@ -3001,7 +3345,18 @@
               "short_title": "Patient-Centred Health System 人本醫療"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The course will introduce students to the principles and practices of patient-centred care, and application of design thinking concepts in the development towards a patient-centred health system.   Grade DescriptorsA \t        Exceptional student A‐ \t        High performanceB+/B/ B-  AVERAGE STUDENTC+/C/C-   Below average but demonstrating an acceptable grasp of main conceptsD+/D \tBarely Passing\tF \t        UnacceptableP\t        Pass"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Public Health, Master of Science in Health Services Management and Postgraduate diploma in Health Services Management",
+            "title": {
+              "ENG": "Patient-Centred Health System"
+            },
+            "units": "1.00"
+          }
         },
         "INFD5007": {
           "groups": {
@@ -3113,7 +3468,18 @@
               "short_title": "Appli of GIS in Public Health 地理訊息系統與公共衛生"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The course is designed to enable participants to understand the principles and capabilities of GIS, acquire knowledge in the application of GIS in public health practice and research, develop basic skills in the organisation and utilization of spatial data for epidemiology and other public health applications.Grade DescriptorsA                   Exceptional student A‐                 High performanceB+/ B/ B-      AVERAGE STUDENTC+/C/C-         Below average but demonstrating an acceptable grasp of main conceptsD+/D            Barely Passing          F                   UnacceptableP                    Pass"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For TPg students in Master of Public Health / Postgraduate Diploma in Public Health",
+            "title": {
+              "ENG": "Application of Geographic Information System in Public Health"
+            },
+            "units": "2.00"
+          }
         },
         "JASP5501": {
           "groups": {
@@ -3191,7 +3557,18 @@
               "short_title": "Teaching Jap As a Second Lang 以日語為第二語言的日語教學"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces and discusses various concepts in teaching Japanese as a second language which include course design, the procedures of handling classroom activities, the proper usage of teaching materials and teaching tools, method of assessment of students, etc. These discussions are essential to students who will pursue their career goals in Japanese language teaching upon graduation. Moreover, the course will also examine methods used in teaching foreign language with a focus on Japanese language education.Grade Descriptors:A    Outstanding performance on all learning outcomes.A-   Generally outstanding performance on all (or almost all) learning outcomes.B    Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C    Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D    Barely satisfactory performance on a number of learning outcomes.F    Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Articulated M.Phil-Ph.D in Japanese Studies or MA in Japanese Studies",
+            "title": {
+              "ENG": "Teaching Japanese as a Second Language"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS5020": {
           "groups": {
@@ -3235,7 +3612,18 @@
               "short_title": "Trial Advocacy"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "In this intensive course, students will learn the skills necessary to prepare, manage and present a case or legal argument, both orally and in writing, before a court or other tribunal. Students will be taught how to become effective advocates, whilst at all times understanding and maintaining the highest standards of professional conduct and observing appropriate court room etiquette. Students will learn all the key aspects of trial advocacy, including opening and closing speeches, examination in chief, cross-examination and re-examination."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in PCLL",
+            "title": {
+              "ENG": "Trial Advocacy"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6006": {
           "groups": {
@@ -3408,7 +3796,18 @@
               "short_title": "Comparative Legal Studies"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Hong Kong is at the crossroads of many legal traditions. The practice of law in Hong Kong is marked not only by the common law tradition but also by socialist law and the civil law tradition. There are even traces left of the pre-colonial indigenous Chinese legal practices in Hong Kong. Globalization has increased the volume of cross-border activities beyond Hong Kong and mainland China, requiring lawyers to become familiar with multi-jurisdictional issues. Consequently, comparative legal work is gaining in importance both globally and in Hong Kong. This course is designed to prepare students to practice law in an international setting and to give credit to the growing practical significance of comparative legal work. Students will examine the meaning and instrumental benefits of comparative law, explore how various legal systems and traditions are adapting to change, learn about academic debates within comparative law, and critically analyse traditional concepts of comparative law. They will also learn to appreciate the insights of approaching legal systems through a comparative perspective. This course has an emphasis on Asian legal systems and the law of the People’s Republic of China, in particular.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/CUHK_Faculty_of_Law_Grade_Descriptors.pdf."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, JD/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental Law",
+            "title": {
+              "ENG": "Comparative Legal Studies"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6016": {
           "groups": {
@@ -3581,7 +3980,18 @@
               "short_title": "Principles of Conveyancing"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course examines the law relating to the creation and transfer of interests in land and provides a foundation for conveyancing practice. The course will focus on the principles of conveyancing including land tenure, the ownership and management of multi-storey buildings, the formal requirements of agreements for the sale and purchase of land, remedies, the registration of interests in land and special features of Hong Kong conveyancing including the small house policy. The course will also take a contextual and practical approach: students will consider the importance of land transactions in economic development, the conveyancing process and current issues relating to conveyancing including title registration and the role of lawyers.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/CUHK_Faculty_of_Law_Grade_Descriptors.pdf."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, Juris Doctor/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental Law",
+            "title": {
+              "ENG": "Principles of Conveyancing"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6040": {
           "groups": {
@@ -3642,7 +4052,18 @@
               "short_title": "Conflict of Laws"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Hong Kong is a small, but highly international, jurisdiction. Many legal disputes between private parties in Hong Kong involve legal rules, principles, and issues from other jurisdictions in China and abroad. These foreign laws are frequently inconsistent with the laws in Hong Kong. For instance, a contract concluded between a Hong Kong company and a US company in Japan may contain clauses that are enforceable in Japanese law but not in Hong Kong law. This course involves a study of the rules and principles for resolving conflicts that arise between Hong Kong law and the law of other jurisdictions. By incorporating a more extended range of mandatory readings than undergraduate courses of similar length and a more research-focused assessment regime, this course is designed specifically for students at the postgraduate level who have not previously studied the conflict of laws as it applies in a common law jurisdiction. The rules of Conflict of Laws (sometimes known as Private International Law) are orientated to answering three questions: (i) Which law applies in the event of a conflict? (ii) Do Hong Kong courts have jurisdiction to determine the dispute and should they exercise jurisdiction? (iii) Should a Hong Kong court recognise and enforce a foreign court’s judgment? These questions are examined in a few selected areas of law such as contracts, torts, family law, criminal law, and property.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/CUHK_Faculty_of_Law_Grade_Descriptors.pdf."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, Juris Doctor/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental Law",
+            "title": {
+              "ENG": "Conflict of Laws"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6056": {
           "groups": {
@@ -3703,7 +4124,18 @@
               "short_title": "Principles of Revenue Law"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students will be exposed to tax law and policy through readings, lectures, and interactive tutorials. Fundamental concepts will be introduced first, followed by study of the history and current state of Hong Kong tax law and administration, including Profits Tax, Salaries Tax, Property Tax, Personal Assessment, Stamp Duty, and Hong Kong’s comprehensive double tax agreements with other jurisdictions. Students will be asked to apply the law to specific fact patterns and discuss issues arising in situations in which the application of current law is unclear. The last segments of the course will be devoted to consideration of new and evolving tax policy issues in Hong Kong. The course is intended to provide students with broad awareness of tax issues and practical aspects of tax administration in Hong Kong, as well as an appreciation of tax policy issues and possible alternatives to the current system.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/CUHK_Faculty_of_Law_Grade_Descriptors.pdf."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, Juris Doctor/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental Law",
+            "title": {
+              "ENG": "Principles of Revenue Law"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6057": {
           "groups": {
@@ -3764,7 +4196,18 @@
               "short_title": "Issues in Tort"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course builds upon LAWS6023 Principles of Tort. By incorporating a more extended range of mandatory readings than undergraduate courses of similar length and a more research-focused assessment regime, this course is designed specifically for students at the postgraduate level who, apart from SLW9503  LAWS6023, have not previously studied the law of tort as it applies in a common law jurisdiction. Throughout the course students will be expected to continue evaluating and discussing the part played by torts in maintaining and promoting (i) social and economic order; and (ii) responsible and respectful conduct, based on the community’s own customs, traditions, and expectations. Students will: extend and deepen their understanding of several areas of tort law to which they were introduced in LAWS6023 while being further introduced to the common law’s methods, techniques, and core values; and develop their problem-solving, research, writing, and advocacy skills to a level appropriate for postgraduate study. This course involves a more extensive and in-depth exploration of the following topics: defamation; breach of statutory duty; nuisance; trespass (to persons, to land, and to goods); detinue; conversion; defences to intentional torts; and remedies for intentional torts.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/CUHK_Faculty_of_Law_Grade_Descriptors.pdf."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, Juris Doctor/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental LawPre-requisite: LAWS6023",
+            "title": {
+              "ENG": "Issues in Tort"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6216": {
           "groups": {
@@ -3825,7 +4268,18 @@
               "short_title": "Comparative Constitutional Law"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course will: - provide a methodological framework for comparing constitutional architectures and to provide an understanding of  the basic concepts of constitutional law; - introduce with the various types of political regimes by studying their principal institutions and their functioning (Great- Britain and German-Italy and Japan-Mainland China and Hong Kong-USA and France); - analyze the various forms of relationship between the executive authority, the legislative power and the judiciary and how they affect the nature of the political regime and protection of human rights; - finally, in support of practical examples (e.g. individual liberty and abortion - religious freedom and conscience in education...), analyze the importance of the constitutional norm in the protection of human rights, the various; methods of protecting this norm and their impact on the political power.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/CUHK_Faculty_of_Law_Grade_Descriptors.pdf."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, Juris Doctor/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental Law",
+            "title": {
+              "ENG": "Comparative Constitutional Law"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6316": {
           "groups": {
@@ -3886,7 +4340,18 @@
               "short_title": "Shipping Law"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course explains legal principles governing the transport of goods to international or national consignees. It explains the various forms of shipping by sea, land, and air (mono-modal and multi-modal) and related domestic and public international legal regimes. It discusses in detail topics that are crucial for legal practitioners such as different types of contracts of carriage and their major contents, freight-related issues, bills of lading and other carriage documents, the liability of carriers, specifics of container transport arrangements, special issues regarding transport-related dispute settlement as well as topical issues regarding the insurance of goods in transit. Students will have acquired an advanced understanding of the practical impact of shipping law related issues. The course will be taught in an interactive manner with many in-class and take-home exercises, thus allowing students to develop their problem-solving, research, writing, and presentation skills to an appropriate postgraduate level.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/CUHK_Faculty_of_Law_Grade_Descriptors.pdf."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, Juris Doctor/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental Law",
+            "title": {
+              "ENG": "Shipping Law"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6334": {
           "groups": {
@@ -3947,7 +4412,18 @@
               "short_title": "Merger Control"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Mergers are the largest commercial transactions, and merger control is a fundamental part of competition law which regularly affects businesses in Hong Kong.  Mergers between companies are frequent in the business world, and more than 100 countries around the world have merger control laws that must be observed. Globalization inevitably implies that merger operations can bear effects on the conditions of competition in multiple jurisdictions, and therefore companies will have to ensure that their operations comply with the laws of every jurisdiction that comes into play. The large transactions are often subject to scrutiny by several regimes simultaneously. As a consequence, companies need to be aware of the implications of the principal merger control regimes to avoid delays and uncertainty. Firms in Hong Kong whose operations might affect other markets regularly seek legal advice on merger control rules in jurisdictions such as the US, the EU and Mainland China.This course aims to provide students with a solid theoretical and practical understanding of the principal merger control regimes that affect companies in Hong Kong. On December 14, 2015, Hong Kong’s very own merger regime entered into force. For the time being, it only affects the telecommunications sector. The course will analyse local merger control rules as well as the rules of those regimes which most frequently apply to merger transactions involving local firms. Both procedural and substantive aspects are covered, and the principal focus of the course will be on substance.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/CUHK_Faculty_of_Law_Grade_Descriptors.pdf."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, Juris Doctor/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental Law",
+            "title": {
+              "ENG": "Merger Control"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6901": {
           "groups": {
@@ -3991,7 +4467,18 @@
               "short_title": "Independent Research"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This activity allows a student to undertake a programme of independent research in an area of significant personal interest to the student. On the basis of a research plan, the student must obtain approval from the Faculty of Law for the proposed programme of research, which should result in an original research paper of between 5,000 to 7,500 words. The Faculty will give approval to the student’s research plan only if satisfied that: the student is capable of completing the planned programme; and that there is a member of Faculty qualified to assess the results of the research. The programme of research may include an element of ‘study abroad’ activities.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/LAWS6901_LAWS6902_Independent_Research_Paper.pdf"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, Juris Doctor/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental Law",
+            "title": {
+              "ENG": "Independent Research"
+            },
+            "units": "3.00"
+          }
         },
         "LAWS6902": {
           "groups": {
@@ -4035,7 +4522,18 @@
               "short_title": "Independent Res Dissertation"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This activity gives students an opportunity to undertake an extended programme of independent research in an area of significant personal interest to the student. On the basis of a research plan, the student must obtain approval from the Faculty of Law for the proposed programme of research, which should result in an original research paper of around 10,000 to 15,000 words. The Faculty will give approval to the student’s research plan only if the student is capable of completing the planned programme; and that there is a member of Faculty qualified to assess the results of the research. The programme of research may include an element of ‘study abroad’ activities.For details of grade descriptors, please refer to http://www.law.cuhk.edu.hk/download/LAWS6901_LAWS6902_Independent_Research_Paper.pdf"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Juris Doctor, Juris Doctor/MBA Double Degree, LLM Chinese Business Law, LLM Common Law, LLM International Economic Law, LLM Energy and Environmental Law",
+            "title": {
+              "ENG": "Independent Research Dissertation"
+            },
+            "units": "6.00"
+          }
         },
         "LING5201": {
           "groups": {
@@ -4096,7 +4594,18 @@
               "short_title": "Topics in 2nd Lang Acquisition 第二語言獲得專題"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The course introduces major issues in the field of second language acquisition: how is a second language acquired by children and adults? In what ways is acquiring a second language different from acquiring a first language? Different theoretical perspectives on second language acquisition will be reviewed and methodologies will be surveyed. Data will be drawn mainly from English and Chinese as target languages.Grade Descriptors----------------------------Grade A Demonstration of a thorough understanding of basic concepts in second language acquisitionand the topics covered with respect to theories, input, crosslinguistic influence, and a highdegree of competency in comparing different approaches and analyzing acquisition data,showing(i) outstanding ability to understand major theoretical and methodological issues insecond language acquisition;(ii) ability to conduct an original term project and produce an outstanding paper.Grade A- Demonstration of a thorough understanding of basic concepts in second language acquisitionand the topics covered with respect to theories, input, crosslinguistic influence, and a highdegree of competency in comparing different approaches and analyzing acquisition data,showing(i) excellent ability to understand major theoretical and methodological issues inbilingual acquisition;(ii) ability to conduct an original term project and produce an excellent paper.Grade B Demonstration of a good understanding of basic concepts in second language acquisition andthe topics covered with respect to theories, input, crosslinguistic influence, and some degree ofcompetency in comparing different approaches and analyzing acquisition data, showing(i) good ability to understand major theoretical and methodological issues inbilingual acquisition;(ii) ability to conduct a systematic term project and produce a well-organizedpaper.Grade C Demonstration of an adequate understanding of basic concepts in second language acquisitionand the topics covered with respect to theories, input, crosslinguistic influence, and somedegree of competency in comparing different approaches and analyzing acquisition data,showing(i) adequate ability to understand major theoretical and methodological issues inbilingual acquisition;(ii) adequate ability to conduct a systematic term project and produce a well- organizedpaper.Grade D Demonstration of some understanding of basic concepts in second language acquisition andthe topics covered with respect to theories, input, crosslinguistic influence, and some degree ofcompetency in comparing different approaches and analyzing acquisition data, showing(i) weak ability to understand major theoretical and methodological issues in inbilingual acquisition;(ii) weak ability to conduct a systematic term project and produce a satisfactorypaper.Grade F Demonstration of minimal understanding of basic concepts in second language acquisition andthe topics covered with respect to theories, input, crosslinguistic influence, and a lack ofcompetency in comparing different approaches and analyzing acquisition data, showing(i) inability to understand major theoretical and methodological issues in bilingualacquisition;(ii) inability to conduct a systematic project and produce a satisfactory paper."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MA Linguistics or MA Chi Linguis & Language Acq",
+            "title": {
+              "ENG": "Topics in Second Language Acquisition"
+            },
+            "units": "3.00"
+          }
         },
         "MBAC6082": {
           "groups": {
@@ -4140,7 +4649,18 @@
               "short_title": "Bus Field Stud - Europe 實地考察－歐洲商務"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course consists of preparatory reading assignments followed by a week-long residential program in Europe, concluding with a written report and oral presentation or other assignments. The goal in taking classroom sessions in Europe is to provide MBA students first-hand exposure to some of the issues related to doing business in the EU, European business practices, and the influence of culture. This course may also focus on a particular business topic of relevance to the location such as marketing, entrepreneurship, or globalization. Course learning activities include lectures provided by top academic partner schools, seminars and discussions with local business professionals and/or government officials, and site visits to European enterprises.(Eligible for recognition toward concentration requirements depending on course content)Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Business Field Study - Europe"
+            },
+            "units": "3.00"
+          }
         },
         "MBAC6083": {
           "groups": {
@@ -4184,7 +4704,18 @@
               "short_title": "Bus Field Stud - US 實地考察－美國商務"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course consists of preparatory reading assignments followed by a week-long residential program in the US, concluding with a written report and oral presentation or other assignments. The goal in taking classroom sessions in the US is to provide MBA students first-hand exposure to some of the issues related to doing business in US, American business practices, and the influence of culture. This course may also focus on a particular business topic of relevance to the location such as marketing, entrepreneurship, or globalization. Course learning activities include lectures provided by top academic partner schools, seminars and discussions with local business professionals and/or government officials, and site visits to US enterprises. (Eligible for recognition toward concentration requirements depending on course content)Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Business Field Study - US"
+            },
+            "units": "3.00"
+          }
         },
         "MBAC6100": {
           "groups": {
@@ -4262,7 +4793,18 @@
               "short_title": "Current Topics in Business 當前商業專題"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides students with an opportunity to further their knowledge in selected areas of business. Topics and issues of current and emerging interest are discussed and explored.  Throughout this course, student initiative and participation in discussion and projects related to the selected topics will be emphasized.Blended-mode class section is available for this course.  Please refer to the “Class Notes” of the blended-mode class section for details.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Current Topics in Business"
+            },
+            "units": "1.50"
+          }
         },
         "MCNS5102": {
           "groups": {
@@ -4323,7 +4865,18 @@
               "short_title": "Chin Med & Alternati Therapies 中醫及另類療法"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course will help students to acquire basic knowledge of traditional Chinese medicine, such as Yin-Yang, five elements, properties and flavors of herbal medicine and differentiation of syndromes according to the eight principles; the classification of stroke in traditional Chinese medicine, subsequent treatment and prescription; common acupuncture points, 12 regular meridians, Governor and Conception vessels; techniques of acupuncture and common sites. Alternative therapies including Tai Chi exercise will be covered. This course will also look into integrative medicine for neurological diseases.The grade descriptors are shown as follows.A: Outstanding performance on all learning outcomes.A-: Generally outstanding performance on all (or almost all) learning outcomes.B: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D: Barely satisfactory performance on a number of learning outcomesF: Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Stroke and Clinical Neurosciences",
+            "title": {
+              "ENG": "Chinese Medicine and Alternative Therapies"
+            },
+            "units": "1.00"
+          }
         },
         "MCNS5103": {
           "groups": {
@@ -4418,7 +4971,18 @@
               "short_title": "Practical Management 互動工作坊-常見神經性疾病的實踐管理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course adopts a “case-study” format to analyze the clinical decision in stroke, epilepsy, dementia and neuromuscular diseases; from diagnosis to management, key investigations and differential diagnosis, grading of disability, skills in patient screening and assessment will be covered. This course will equip students with the practical knowledge and approach in the evaluation and management of common neurological diseases.The grade descriptors are shown as follows.A: Outstanding performance on all learning outcomes.A-: Generally outstanding performance on all (or almost all) learning outcomes.B: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D: Barely satisfactory performance on a number of learning outcomesF: Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Stroke and Clinical Neurosciences",
+            "title": {
+              "ENG": "Interactive Workshops â Practical Management of Common Neurological Diseases"
+            },
+            "units": "1.50"
+          }
         },
         "MCNS5202": {
           "groups": {
@@ -4496,7 +5060,18 @@
               "short_title": "Specialty Stroke Nursing 中風專科護理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides knowledge and skills for nurses in the assessment and management of stroke patients. It will cover nursing management in hyperacute stroke, stroke care planning, protocol making and stroke education, selected nursing topics on mattress assignment, fall prevention, dysphagia screening, incontinent care and NIHSS grading.The grade descriptors are shown as follows.A: Outstanding performance on all learning outcomes.A-: Generally outstanding performance on all (or almost all) learning outcomes.B: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D: Barely satisfactory performance on a number of learning outcomesF: Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Stroke and Clinical Neurosciences",
+            "title": {
+              "ENG": "Specialty Stroke Nursing"
+            },
+            "units": "1.00"
+          }
         },
         "MCNS6361": {
           "groups": {
@@ -4540,7 +5115,18 @@
               "short_title": "Practicum 實習"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students will be assigned to have practicum sessions in Chinese medicine acupuncture, cognitive and behavioral assessment in neurological setting, electroencephalogram, imaging, nerve conduction study, speech therapy, and transcranial Doppler ultrasound. The practicum will provide students with clinical exposure to the above areas that have been covered in lectures of other courses. This will enhance and consolidate students’ knowledge on these areas.The grade descriptors are shown as follows.A: Outstanding performance on all learning outcomes.A-: Generally outstanding performance on all (or almost all) learning outcomes.B: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D: Barely satisfactory performance on a number of learning outcomesF: Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Stroke and Clinical Neurosciences",
+            "title": {
+              "ENG": "Practicum"
+            },
+            "units": "0.50"
+          }
         },
         "MCNS6381": {
           "groups": {
@@ -4584,7 +5170,18 @@
               "short_title": "Project 研究項目"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students have to write an individual report on topics relevant to stroke and clinical neurosciences. This course aims to deepen students’ knowledge in a particular neurological area that is of interest to him/her and is relevant to his/ her work. This course will also develop students’ skills in creative and analytical thinking, research methods, and research writing.The grade descriptors are shown as follows.A: Outstanding performance on all learning outcomes.A-: Generally outstanding performance on all (or almost all) learning outcomes.B: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D: Barely satisfactory performance on a number of learning outcomesF: Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Stroke and Clinical Neurosciences",
+            "title": {
+              "ENG": "Project"
+            },
+            "units": "7.00"
+          }
         },
         "MGNT6024": {
           "groups": {
@@ -4645,7 +5242,18 @@
               "short_title": "Managing Family Business 家族企業管理"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Family business is a puzzling topic that fascinates academics, investors, and managers. These businesses are ridiculed, especially in Hong Kong, as unprofessional and cronyism-driven. But one cannot ignore their importance: families started many of the most successful firms in the world; families owned the majority of listed firms; many family firms uphold the best innovation, quality and brand value; and family funds constitute some largest philanthropic and investment projects. This course takes a family enterprising approach to discuss the importance, diversity, complexity, and more importantly continuous entrepreneurship of business family (as opposed to family business). Apart from lectures and case analysis, students should interact with family members and associated professionals to understand the types, life cycle, conflict, succession, characteristics of business families. For sustaining their growth, practical approaches, such as structures and procedures as advisory boards, family councils, family venture funds and spin-offs, and family philanthropy, will also be discussed. This course shall benefit family business members, managers in family-owned firms, and professionals.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomes.F Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme",
+            "title": {
+              "ENG": "Managing Family Business"
+            },
+            "units": "3.00"
+          }
         },
         "MKTG6026": {
           "groups": {
@@ -4774,7 +5382,18 @@
               "short_title": "Behavioral Decision Making 行為策略"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Making decisions, from the trivial to the fundamental, is part of the everyday life of every manager and investor. For the last 30 years, psychologists — and more recently also economists — have studied how people process information and make decisions. This research program has provided an insightful understanding of how people’s decisions deviate from “optimal” ones, and the consequences of such biases in financial and personal terms. This course is devoted to understanding the nature, causes and managerial implications of these limitations. It will help the students discover a series of serious yet often overlooked mistakes that most people would commit in a variety of decision contexts, including investment decisions, hiring decisions, purchase decisions and even marital decisions. At the same time, this course will also teach them how to correct these mistakes and how to reach optimal solutions. Instead of overwhelming the students with mathematic models or academic theories, this course will use many in-class exercises and questionnaires to convey the concepts.Blended-mode class section is available for this course.  Please refer to the “Class Notes” of the blended-mode class section for details.Grade descriptors:A Outstanding performance on all learning outcomes.A- Generally outstanding performance on all (or almost all) learning outcomes.B Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D Barely satisfactory performance on a number of learning outcomesF Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MBA; or Full-time MBA; or MBA (Evening Mode); or MBA (Weekend Mode); or JD/MBA Double Degree Programme; or EMBA (Chinese); or MSc in Marketing; or MSc in Management of Real Estate and Hospitality Assets",
+            "title": {
+              "ENG": "Behavioral Decision Making"
+            },
+            "units": "3.00"
+          }
         },
         "NURS6120": {
           "groups": {
@@ -4818,7 +5437,18 @@
               "short_title": "Scholarly Inquiry Project 學術研究計劃"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course facilitates students to undertake a scholarly inquiry project for knowledge development and transfer. Students are required to complete a research or service innovation project, and are expected to integrate the knowledge that have been obtained from Scholarly Inquiry I & II into this project.Grade DescriptorsA: Outstanding performance on all or almost all learning outcomes.B: Good performance on the majority of learning outcomes.C: Satisfactory performance on the majority of learning outcomes with some notable weaknesses or omissions. D: Barely satisfactory performance on a number of learning outcomes. F: Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Nursing",
+            "title": {
+              "ENG": "Scholarly Inquiry Project"
+            },
+            "units": "9.00"
+          }
         },
         "NURS8212": {
           "groups": {
@@ -4978,7 +5608,18 @@
               "short_title": "DNurs Project Series I: Nursin 護理博士項目系列 I：護理探究II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course covers the foundational principles of evidence-based practice and the critical scientific appraisal of evidence to guide advanced evidence-based reasoning and decision making for translation and application to practice. Students are expected to summarise the evidence to address the identified practice issue and to guide development of their project management plan. In this course, each student is required to regularly meet with his/her supervisor who will provide necessary guidance and supervision in thesis writing and monitor the student’s academic progress. Grade Descriptors:A:\tOutstanding performance on all or almost all learning outcomes.B:\tGood performance on the majority of learning outcomes.C:\tSatisfactory performance on the majority of learning outcomes with some notable weaknesses or omissions.D:\tBarely satisfactory performance on a number of learning outcomes.F:\tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Doctor of Nursing",
+            "title": {
+              "ENG": "DNurs Project Series I: Nursing Inquiry II"
+            },
+            "units": "2.00"
+          }
         },
         "OENV5006": {
           "groups": {
@@ -5090,7 +5731,18 @@
               "short_title": "Air Pollution 空氣污染與健康"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course introduces the current state of knowledge in the key areas in which air pollutants impact on the health of the general population. Topics include the health impacts of gaseous air pollutants such as sulfur dioxide, nitrogen dioxide, carbon monoxide and ozone; mechanism of lung injury by airborne particulate matter; epidemiological evidence of the risk from particulate matter exposure; airborne chemical carcinogens; health effects of indoor air pollution; and setting health-based air quality standards.Grade DescriptorsA\t          Exceptional student A‐\t          High performanceB+/ B/ B-\t  AVERAGE STUDENTC+/C/C-\t  Below average but demonstrating an acceptable grasp of main conceptsD+/D\t  Barely Passing          F\t          UnacceptableP\t          Pass"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For TPg students in Master of Public Health / Postgraduate Diploma in Public Health",
+            "title": {
+              "ENG": "Air Pollution"
+            },
+            "units": "2.00"
+          }
         },
         "PBHT5801": {
           "groups": {
@@ -5185,7 +5837,18 @@
               "short_title": "Climate Change&Planetary Healt 氣候變化與全球衞生"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Climate change is an important topic for public health practice. As the frequency and severity of climate-related disasters increase, in order to protect health and well-being, the need to understand and prepare for unforeseeable events is rapidly growing. This course provides an overview of issues in relation to climate change and health in the context of public health practice. It introduces important concepts of how to tackle climate change related health impacts and how to support community preparedness, response, policy formulation and implementation.Grade DescriptorsA\t          Exceptional student A‐\t          High performanceB+/ B/ B-\t  AVERAGE STUDENTC+/C/C-\t  Below average but demonstrating an acceptable grasp of main conceptsD+/D\t  Barely Passing          F\t          UnacceptableP\t          Pass"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For TPg students in Master of Public Health / Postgraduate Diploma in Public Health",
+            "title": {
+              "ENG": "Climate Change and Planetary Health"
+            },
+            "units": "2.00"
+          }
         },
         "PHAR5888": {
           "groups": {
@@ -5297,7 +5960,18 @@
               "short_title": "Pharmacothpy: Neurolo&Ped Diso 藥物治療:神經系統疾病及兒科病篇"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides students with therapeutic knowledge on neurologic and pediatric disorders. Treatment guidelines and considerations in therapy selection will be discussed. Emphasis will be placed on solving therapy-related problems with the knowledge acquired.Grade Descriptors:Grade\tA  = Outstanding performance on all learning outcomes.A- = Generally outstanding performance on all (or almost all) learning outcomesB  = Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C  = Satisfactory performance on the majority of learning outcomes with some notable weaknesses or omissionsD  = Barely satisfactory performance on a number of learning outcomesF = Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Clinical Pharmacy",
+            "title": {
+              "ENG": "Pharmacotherapy: Neurologic and Paediatric Disorders"
+            },
+            "units": "2.50"
+          }
         },
         "PHAR5891": {
           "groups": {
@@ -5426,7 +6100,18 @@
               "short_title": "Pharmcothpy: Oncol & Haematol 藥物治療: 癌症及血科病篇"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides students with therapeutic knowledge on oncologic and haematologic disorders. Treatment guidelines and considerations in therapy selection will be discussed. Emphasis will be placed on solving therapy-related problems with the knowledge acquired.Grade Descriptors:Grade\tA  = Outstanding performance on all learning outcomes.A- = Generally outstanding performance on all (or almost all) learning outcomesB  = Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C  = Satisfactory performance on the majority of learning outcomes with some notable weaknesses or omissionsD  = Barely satisfactory performance on a number of learning outcomesF = Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Clinical Pharmacy",
+            "title": {
+              "ENG": "Pharmacotherapy: Oncologic and Haematologic Disorders"
+            },
+            "units": "2.00"
+          }
         },
         "PHAR5924": {
           "groups": {
@@ -5470,7 +6155,18 @@
               "short_title": "Graduation Project II 畢業專題研究二"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course consists of independent and teamwork with supervision. Students are required to implement a predetermined practice-based project of interest in their work settings. The project should demonstrate pharmacists' impact on patient care, pharmaceutical research and development or administrative management. Students are expected to be involved in project implementation, outcome measurement, result analysis, report writing and presentation. Pre-requisite: PHAR5824.Grade Descriptors:Grade\tA  = Outstanding performance on all learning outcomes.A- = Generally outstanding performance on all (or almost all) learning outcomesB  = Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.C  = Satisfactory performance on the majority of learning outcomes with some notable weaknesses or omissionsD  = Barely satisfactory performance on a number of learning outcomesF = Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Clinical Pharmacy; Prerequisite: PHAR5824",
+            "title": {
+              "ENG": "Graduation Project II"
+            },
+            "units": "5.00"
+          }
         },
         "PHYS5710": {
           "groups": {
@@ -5553,7 +6249,18 @@
               "short_title": "Guided Study 導修"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "To study designated sections of textbook, reviews or literature. To make periodical reports to the supervisor.Grade DescriptorsA : Demonstrate thorough mastery of knowledge in assigned topics.  Has the ability to express the knowledge and synthesis of ideas in a clear and cogent manner. Enlightening and meaningful discussion with the teacher.A- : Demonstrate substantial command of knowledge in assigned topics. Has the ability to express the knowledge or application with clarity and accuracy. Meaningful discussion with the teacher.B : Demonstrate general and sufficient command of knowledge in assigned topics. Has the ability to express the knowledge or application in a satisfactory and unambiguous way. General and sufficient discussion with the teacher.C : Demonstrate general command of knowledge in assigned topics. Has the ability to express the separate pieces of knowledge in an unambiguous way. General discussion with the teacher.D : Demonstrate partial command of knowledge in assigned topics. Has the ability to state the knowledge in simple terms. General but insufficient discussion with the teacher.F : Demonstrate little or no evidence of command of knowledge in assigned topics, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Physics; For students in MPhil-PhD Physics; For students in MPhil-PhD Materials Sci & Erg",
+            "title": {
+              "ENG": "Guided Study"
+            },
+            "units": "3.00"
+          }
         },
         "PHYS5720": {
           "groups": {
@@ -5636,7 +6343,18 @@
               "short_title": "Guided Study 導修"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "To study designated sections of textbook, reviews or literature. To make periodical reports to the supervisor.Grade DescriptorsA : Demonstrate thorough mastery of knowledge in assigned topics.  Has the ability to express the knowledge and synthesis of ideas in a clear and cogent manner. Enlightening and meaningful discussion with the teacher.A- : Demonstrate substantial command of knowledge in assigned topics. Has the ability to express the knowledge or application with clarity and accuracy. Meaningful discussion with the teacher.B : Demonstrate general and sufficient command of knowledge in assigned topics. Has the ability to express the knowledge or application in a satisfactory and unambiguous way. General and sufficient discussion with the teacher.C : Demonstrate general command of knowledge in assigned topics. Has the ability to express the separate pieces of knowledge in an unambiguous way. General discussion with the teacher.D : Demonstrate partial command of knowledge in assigned topics. Has the ability to state the knowledge in simple terms. General but insufficient discussion with the teacher.F : Demonstrate little or no evidence of command of knowledge in assigned topics, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Physics; For students in MPhil-PhD Physics; For students in MPhil-PhD Materials Sci & Erg",
+            "title": {
+              "ENG": "Guided Study"
+            },
+            "units": "3.00"
+          }
         },
         "PHYS5730": {
           "groups": {
@@ -5719,7 +6437,18 @@
               "short_title": "Guided Study 導修"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "To study designated sections of textbook, reviews or literature. To make periodical reports to the supervisor.Grade DescriptorsA : Demonstrate thorough mastery of knowledge in assigned topics.  Has the ability to express the knowledge and synthesis of ideas in a clear and cogent manner. Enlightening and meaningful discussion with the teacher.A- : Demonstrate substantial command of knowledge in assigned topics. Has the ability to express the knowledge or application with clarity and accuracy. Meaningful discussion with the teacher.B : Demonstrate general and sufficient command of knowledge in assigned topics. Has the ability to express the knowledge or application in a satisfactory and unambiguous way. General and sufficient discussion with the teacher.C : Demonstrate general command of knowledge in assigned topics. Has the ability to express the separate pieces of knowledge in an unambiguous way. General discussion with the teacher.D : Demonstrate partial command of knowledge in assigned topics. Has the ability to state the knowledge in simple terms. General but insufficient discussion with the teacher.F : Demonstrate little or no evidence of command of knowledge in assigned topics, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For MSc Physics",
+            "title": {
+              "ENG": "Guided Study"
+            },
+            "units": "3.00"
+          }
         },
         "PHYS5990": {
           "groups": {
@@ -5802,7 +6531,18 @@
               "short_title": "Project III 物理專題研究（三）"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "A project in physics for M.Sc. students. The project provides a challenge for students to apply their knowledge acquired in lecture courses to carry out independent projects. A project report has to be written under the supervision of the teaching staff.Grade DescriptorsA : Demonstrate thorough mastery of the subject (of the project or seminar) required for attaining all the course learning outcomes. Demonstrate evidence of original thoughts and the ability of critical use of data or results to draw insightful conclusions, in a manner that would surpass the normal expectation at this level and standards that may be required at higher levels of study or research.  Has the ability to express the knowledge and synthesis of ideas in a clear and cogent manner.A- : Demonstrate substantial command of the subject (of the project or seminar) required for attaining almost all the course learning outcomes. Demonstrate the ability of critical use of data or results to draw meaningful conclusions, in a manner that is logical and comprehensive. Has the ability to express the knowledge or application with clarity and accuracy.B : Demonstrate general and sufficient command of the subject (of the project or seminar) required for attaining most of the course learning outcomes.  Demonstrate the ability of the use of data or results to draw mostly correct conclusions, in a manner that is logical and persuasive. Has the ability to express the knowledge or application in a satisfactory and unambiguous way.C : Demonstrate general command of the subject (of the project or seminar) required for attaining some of the course learning outcomes. Demonstrate the ability of the use of data or results to draw conclusions, but with occasional errors. Has the ability to express the separate pieces of knowledge in an unambiguous way.D : Demonstrate partial command the subject (of the project or seminar) required for attaining some of the course learning outcomes. Has limited ability to use data or results to draw conclusions. Has the ability to state the knowledge in simple terms.F : Demonstrate little or no evidence of command of subject (of the project or seminar) required for attaining the course learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSc Physics",
+            "title": {
+              "ENG": "Project III"
+            },
+            "units": "3.00"
+          }
         },
         "POPN5103": {
           "groups": {
@@ -5863,7 +6603,18 @@
               "short_title": "Orthopaedics Surgery 骨科外科"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This Module will cover the fundamental knowledge and surgical practice in different specialties of Orthopaedics & Traumatology, including Spine, Foot & Ankle, Paediatrics, Tumor, Infection, Hand, Trauma, Sports Medicine & Joint Replacement Surgery. Particular coverage will be on those recent advances in Orthopaedics Surgery, like Minimal Invasive Surgeries, Navigation & Computer Assisted Surgeries, Robotic Surgery, Microvascular surgery, as well as Arthroscopy surgery. Other components of this module will include the different clinical workflow and management protocol of important disease in inpatient, as well as the rehabilitation strategies for some of the commonly performed operation."
+            },
+            "grading_basis": "Graded",
+            "requirement": "Msc in Perioperative Care of Minimal Access Surgery",
+            "title": {
+              "ENG": "Orthopaedics Surgery"
+            },
+            "units": "2.00"
+          }
         },
         "POPN5200": {
           "groups": {
@@ -5907,7 +6658,18 @@
               "short_title": "Dissertation 專題論文"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students are required to submit dissertation which could demonstrate their knowledge and views in some aspect of the courses in the programme such as operating theatre management, operation, efficiency or utilization. Oral presentation of the dissertation is required."
+            },
+            "grading_basis": "Graded",
+            "requirement": "Msc in Perioperative Care of Minimal Access Surgery",
+            "title": {
+              "ENG": "Dissertation"
+            },
+            "units": "8.00"
+          }
         },
         "PSYC5160": {
           "groups": {
@@ -5968,7 +6730,18 @@
               "short_title": "Social Psychology 社會心理學"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course provides a broad survey of the field of social psychology. After reviewing key theoretical and methodological approaches in the field, students will be exposed to different topic areas in social psychology, such as the self, group processes, interpersonal relationship, social influence, social cognition, aggression, and altruism. The course also incorporates cross-cultural perspective in discussing these topics.Grade Descriptors:A:  Outstanding performance on all learning outcomes.A-: Generally outstanding performance on all (or almost all) learning outcomes.B:  Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C:  Satisfactory performance on the majority of learning outcomes , possibly with a few weakness.D:  Barely satisfactory performance on a number of learning outcomes.F:   Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MA Psychology",
+            "title": {
+              "ENG": "Social Psychology"
+            },
+            "units": "3.00"
+          }
         },
         "PSYC5170": {
           "groups": {
@@ -6029,7 +6802,18 @@
               "short_title": "Abnormal Psychology 異常心理學"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Dramatic advances have occurred in the past two decades in the study of psychopathology.  Human genome has been fully sequenced, the technologies of neuroimaging have made it possible for researchers to observe a brain in action in living people, and psychology has entered the Decade of the Mind.  In this new decade, psychology has been re-defined as a science examining how human mind works in general.  Abnormal psychology, on the other hand, specializes in understanding how human mind works when it goes haywire. This course is designed to provide you with the most updated knowledge in the field of psychopathology.  You will learn about the key concepts of mental disorders, how mental  predispositions and upbringing experience interact in the development of various mental disorders, how human mind works in different mental disorders, and more importantly, how you can continue to learn about the science of psychopathology on your own after you have completed the course.  After all, learning is about “learning how to learn.”Grade Descriptors:A:  Outstanding performance on all learning outcomes.A-: Generally outstanding performance on all (or almost all) learning outcomes.B:  Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C:  Satisfactory performance on the majority of learning outcomes , possibly with a few weakness.D:  Barely satisfactory performance on a number of learning outcomes.F:   Unsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MA Psychology",
+            "title": {
+              "ENG": "Abnormal Psychology"
+            },
+            "units": "3.00"
+          }
         },
         "PSYC6231": {
           "groups": {
@@ -6073,7 +6857,18 @@
               "short_title": "Thesis II 碩士論文(二)"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Research on an approved topic for writing a thesis under individualized supervision.Grade Descriptors:Grade A :  Outstanding performance on all (or almost all) learning outcomes.Grade A-:\t Generally excellent performance on almost all learning outcomes.Grade B:\t Satisfactory performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall satisfactory performance.Grade C:\tBarely satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.Grade D:\tUnsatisfactory performance on a number of learning outcomesGrade F:\tUnsatisfactory performance on a substantial number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSSc Clinical Psychology; Prerequisite: PSYC6230",
+            "title": {
+              "ENG": "Thesis II"
+            },
+            "units": "1.00"
+          }
         },
         "PSYC6850": {
           "groups": {
@@ -6117,7 +6912,18 @@
               "short_title": "Clinical Placement V 臨床實習（五）"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students receive comprehensive clinical training under the supervision of experienced clinical psychologists in various setting, e.g., hospitals, clinics, social welfare settings, child assessment centres, Correctional Services Department, Hong Kong Police Force.Grade Descriptors:Grade A:\t Outstanding performance on all (or almost all) learning outcomes.Grade A-:\t Generally excellent performance on almost all learning outcomes.Grade B:\tSatisfactory performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall satisfactory performance.Grade C:\tBarely satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.Grade D:\tUnsatisfactory performance on a number of learning outcomes.Grade F:\tUnsatisfactory performance on a substantial number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSSc Clinical Psychology",
+            "title": {
+              "ENG": "Clinical Placement V"
+            },
+            "units": "2.00"
+          }
         },
         "SOWK6210": {
           "groups": {
@@ -6161,7 +6967,18 @@
               "short_title": "Smnr on Sel Tpc: Spec Tpcs II 專題研討：特選專題 (II)"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course is designed in response to changing needs of families in view of the rapid social changes and transformation in family functions and structures. This course aims to provide students with an opportunity of acquiring updated and advanced clinical skills and theories on family interventions. Other issues and new developments related to family education and family counselling may be added to meet the training needs of the students.Grade Descriptor (Grade/ Overall Performance):A: Outstanding performance on all learning outcomesA-: Generally Outstanding performance on all (or almost all) learning outcomesB: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others,resulting in overall substantial performanceC: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D: Barely satisfactory performance on a number of learning outcomesF: Unsatisfactory performance on a number of learning outcomes, OR failure to meetspecified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MPhil-PhD in Social Welfare, MSSc in Social Work, Mater of Social Work and MA in Family Counselling and Family Education",
+            "title": {
+              "ENG": "Seminar on Selected Topics: Special Topics (II)"
+            },
+            "units": "3.00"
+          }
         },
         "SOWK6510": {
           "groups": {
@@ -6205,7 +7022,18 @@
               "short_title": "Seminar on Selected Topics III 專題研討：特選專題 (III)"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The course strengthens students' knowledge related to social work, social service management or social welfare. Topics of this course depend on expertise of the instructor.Grade Descriptor (Grade/ Overall Performance):A: Outstanding performance on all learning outcomesA-: Generally Outstanding performance on all (or almost all) learning outcomesB: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others,resulting in overall substantial performanceC: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D: Barely satisfactory performance on a number of learning outcomesF: Unsatisfactory performance on a number of learning outcomes, OR failure to meetspecified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students of MPhil-PhD Programme in Social Welfare, MSSc Programme in Social Work, Master of Social Work Programme, MA Programme in Family Counselling and Family Education, MA Programme in Social Policy and MA Programme in Social Service Management.",
+            "title": {
+              "ENG": "Seminar on Selected Topics: Special Topics (III)"
+            },
+            "units": "3.00"
+          }
         },
         "SOWK6924": {
           "groups": {
@@ -6249,7 +7077,18 @@
               "short_title": "U of Art,Dan&Exp Learn in Sw P 社會工作實務：藝術舞蹈及體驗學習的應用"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course is designed to provide students with an understanding in using different creative media to enhance awareness, instill cognitive changes and facilitate personal growth of clients. The course utilizes the experiential learning theories to equip students with skills and knowledge in using arts, movement and creative media in various social service settings. Critical reflection about cultural implications in practice is emphasized.Grade Descriptor (Grade/ Overall Performance):A: Outstanding performance on all learning outcomesA-: Generally Outstanding performance on all (or almost all) learning outcomesB: Substantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others,resulting in overall substantial performanceC: Satisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.D: Barely satisfactory performance on a number of learning outcomesF: Unsatisfactory performance on a number of learning outcomes, OR failure to meetspecified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students of MSSc Programme in Social Work, Master of Social Work Programme and MA Programme in Family Counselling and Family Education.",
+            "title": {
+              "ENG": "Use of Arts, Dance and Experiential Learning in Social Work Practice"
+            },
+            "units": "3.00"
+          }
         },
         "SUTM5012": {
           "groups": {
@@ -6293,7 +7132,18 @@
               "short_title": "Dissertation 論文"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students are required to carry out independent studies of selected topics in sustainable tourism under staff supervision. Evaluation will be based on project presentations and written reports.Grade descriptorsGrade A:Outstanding performance on all learning outcomes in the process of dissertation research, in terms of theoretical basis, knowledge, research skills and value generationCompletion of outstandingly high quality of research and academic writingVery active participation in the process of dissertation research, including interactions and communications with supervisor, presence in all relevant learning activities, individual or group discussions and presentationsDemonstration of very positive and engaging learning attitudeGrade A-:Generally outstanding performance on all (or almost all) learning outcomes in the process of dissertation research, in terms of theoretical basis, knowledge, research skills and value generationCompletion of high quality of research and academic writingGenerally active participation in the process of dissertation research, including interactions and communications with supervisor, presence in most of relevant learning activities, individual or group discussions and presentationsDemonstration of positive and engaging learning attitudeGrade B+:Substantial performance on all learning outcomes or high performance on some learning outcomes in the process of dissertation research, in terms of theoretical basis, knowledge, research skills and value generation, which compensates for less satisfactory performance on a few others, resulting in overall substantial performanceCompletion of satisfactory and up-to-standard quality of research and academic writingActive participation in a large part of the whole process of dissertation research, including interactions and communications with supervisor, presence in many relevant learning activities, individual or group discussions and presentationsDemonstration of generally positive and engaging learning attitudeGrade B/B-:Substantial performance on some of the learning outcomes, in the process of dissertation research, in terms of theoretical basis, knowledge, research skills and value generation, or high performance on a few of them, which compensates for less satisfactory performance on others, resulting in a generally satisfactory performanceCompletion of medium standard quality of research and academic writing, with clear areas for improvementParticipation in some parts of the whole process of dissertation research, including interactions and communications with supervisor, presence in some relevant learning activities, individual or group discussions and presentationsDemonstration of generally positive learning attitudeGrade C+:Average performance on the majority of learning outcomes, in the process of dissertation research, in terms of theoretical basis, knowledge, research skills and value generation, possibly with some areas of weaknessesCompletion of low quality of research and academic writing, with some areas for improvementParticipation in limited parts of the whole process of dissertation research, including interactions and communications with supervisor, presence in some relevant learning activities, individual or group discussions and presentationsDemonstration of positive learning attitude occasionallyGrade C/C-: Average performance on some of the learning outcomes, in the process of dissertation research, in terms of theoretical basis, knowledge, research skills and value generation, possibly with more weaknesses in some of the learning outcomesCompletion of unsatisfactory and low quality of research and academic writing, with many areas for improvementParticipation in very limited parts of the whole process of dissertation research, including interactions and communications with supervisor, presence in only very limited relevant learning activities, individual or group discussions and presentationsDemonstration of positive learning attitude rarelyGrade D:Barely satisfactory performance on a number of learning outcomes, in the process of dissertation research, in terms of theoretical basis, knowledge, research skills and value generationCompletion of unsatisfactory and low quality of research and academic writing, with many areas for improvement and incomprehensive understanding of research problem and other key aspects of the dissertationNo participation in most parts of the whole process of dissertation research, including interactions and communications with supervisor, almost no presence in relevant learning activities, individual or group discussions and presentationsDemonstration of unsatisfactory learning attitude Grade F:Unsatisfactory performance on a number of learning outcomes, in the process of dissertation research, in terms of theoretical basis, knowledge, research skills and value generation, or failure to meet specified assessment requirementsUnacceptable quality of research and academic writing, and poor understanding of research problem and other key aspects of the dissertationNo participation in the whole process of dissertation research, including interactions and communications with supervisor, absence in relevant learning activities, individual or group discussions and presentationsUnacceptable learning attitude"
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MSSc Sustainable Tourism",
+            "title": {
+              "ENG": "Dissertation"
+            },
+            "units": "6.00"
+          }
         },
         "THEO5001": {
           "groups": {
@@ -6337,7 +7187,18 @@
               "short_title": "Theological Research 神學研究"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students are required to write a substantial research paper on an approved topic in their area of concentration under the supervision of an instructor at their final term of study.In this course, a student is required to meet with his/her supervisor regularly who provides necessary guidance and supervision to write up a thesis and monitors the student’s academic progress.Grade DescriptorsA \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MA Theological Studies",
+            "title": {
+              "ENG": "Theological Research"
+            },
+            "units": "3.00"
+          }
         },
         "THEO5004": {
           "groups": {
@@ -6420,7 +7281,18 @@
               "short_title": "Graduate Thesis III 畢業生論文III"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "The purpose of this course is to prepare Master’s degree (M.Div.) students for their graduate thesis writing under the supervision of their individual supervisors.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Divinity",
+            "title": {
+              "ENG": "Graduate Thesis III"
+            },
+            "units": "2.00"
+          }
         },
         "THEO5301": {
           "groups": {
@@ -6481,7 +7353,18 @@
               "short_title": "Biblical Hebrew I 聖經希伯來文（一）"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course, and the sequel Biblical Hebrew II in the next semester, are designed to enable students to read Biblical Hebrew. In this course, Biblical Hebrew I, students learn the alphabets to the basic forms of Hebrew sentences. Students not only learn how to read simple sentences from the Hebrew bible, but also learn to identify different parts of speech, and basic grammar. Students will also learn some Hebrew songs which accompany the lessons. This course follows closely to its textbook, Learn Biblical Hebrew by John H. Dobson (2005). Biblical Hebrew I will cover Lessons 1-13.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Divinity, MA in Christian Studies or MA in Theological Studies",
+            "title": {
+              "ENG": "Biblical Hebrew I"
+            },
+            "units": "3.00"
+          }
         },
         "THEO5501": {
           "groups": {
@@ -6525,7 +7408,18 @@
               "short_title": "Independent Research 獨立研究"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Students are provided an opportunity to conduct a research on a chosen topic within the area of study with the agreement of a faculty member.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in MA in Theological Studies",
+            "title": {
+              "ENG": "Independent Research"
+            },
+            "units": "3.00"
+          }
         },
         "THEO5940": {
           "groups": {
@@ -6569,7 +7463,18 @@
               "short_title": "Theological Studies: Seminar I 神學研究︰專題研討I"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Discussion in seminar setting on specific issues related to Theological Studies. Students are allowed to take these courses for more than once, and gain the units each time they pass the course. The specific content will be designed by the teacher who offers the courses. Students are allowed to take these courses for more than once.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Divinity",
+            "title": {
+              "ENG": "Theological Studies: Seminar I"
+            },
+            "units": "3.00"
+          }
         },
         "THEO5949": {
           "groups": {
@@ -6613,7 +7518,18 @@
               "short_title": "Theological Studies: Sem II 神學研究︰專題研討II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "Discussion in seminar setting on specific issues related to Theological Studies. Students are allowed to take these courses for more than once, and gain the units each time they pass the course. The specific content will be designed by the teacher who offers the courses. Students are allowed to take these courses for more than once.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Divinity",
+            "title": {
+              "ENG": "Theological Studies: Seminar II"
+            },
+            "units": "3.00"
+          }
         },
         "THEO5955": {
           "groups": {
@@ -6657,7 +7573,18 @@
               "short_title": "Sp Top on X'ianity & Soci II 基督教與社會:專題研究 II"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course will focus on topics and issues related to Christianity and Society, such as Christian Ethics and Liberation Theologies. Students are allowed to take these courses for more than once.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Divinity or MA Christian Studies or MA Theological Studies",
+            "title": {
+              "ENG": "Special Topics on Christianity and Society II"
+            },
+            "units": "3.00"
+          }
         },
         "THEO6943": {
           "groups": {
@@ -6701,7 +7628,18 @@
               "short_title": "Field Education III 實習（三）"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "(a) 2 units per term representing a minimum of eight hours supervised field work per week; or (b) 4 units for full-time supervised field work for at least eight weeks during the summer vacation.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Divinity",
+            "title": {
+              "ENG": "Field Education III"
+            },
+            "units": "2.00"
+          }
         },
         "THEO6944": {
           "groups": {
@@ -6745,7 +7683,18 @@
               "short_title": "Field Education IV 實習（四）"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "(a) 2 units per term representing a minimum of eight hours supervised field work per week; or (b) 4 units for full-time supervised field work for at least eight weeks during the summer vacation.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Divinity",
+            "title": {
+              "ENG": "Field Education IV"
+            },
+            "units": "2.00"
+          }
         },
         "THEO6945": {
           "groups": {
@@ -6789,7 +7738,18 @@
               "short_title": "Field Education V 實習（五）"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "(a) 2 units per term representing a minimum of eight hours supervised field work per week; or (b) 4 units for full-time supervised field work for at least eight weeks during the summer vacation.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Divinity",
+            "title": {
+              "ENG": "Field Education V"
+            },
+            "units": "2.00"
+          }
         },
         "THEO6946": {
           "groups": {
@@ -6833,7 +7793,18 @@
               "short_title": "Field Education VI 實習（六）"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "(a) 2 units per term representing a minimum of eight hours supervised field work per week; or (b) 4 units for full-time supervised field work for at least eight weeks during the summer vacation.Grade Descriptors:A \tOutstanding performance on all learning outcomes. A- \tGenerally outstanding performance on all (or almost all) learning outcomes. B \tSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance. C \tSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses. D \tBarely satisfactory performance on a number of learning outcomes F \tUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students in Master of Divinity",
+            "title": {
+              "ENG": "Field Education VI"
+            },
+            "units": "2.00"
+          }
         },
         "URBD5734": {
           "groups": {
@@ -6935,7 +7906,18 @@
               "short_title": "Top Studies in Urban Design 4 城市設計專題(四) — 國際工作坊"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course is organized as an intensive workshop and allows students to explore in teams with students and advisors from various international universities a specific issue of urban design. Different international urban conditions are explored through comparative analyses and design. Students can benefit from the exposure to different urban cultures and design approaches. The course also prepares students for a working practice in diverse teams and in different cultural contexts.Grade DescriptorsGrade AOutstanding performance on all learning outcomes.Grade A-Generally outstanding performance on all (or almost all) learning outcomes.Grade BSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.Grade CSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.Grade DBarely satisfactory performance on a number of learning outcomes.Grade FUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students of MSc in Urban Design.",
+            "title": {
+              "ENG": "Topical Studies in Urban Design 4 - International Workshop"
+            },
+            "units": "3.00"
+          }
         },
         "URBD6701": {
           "groups": {
@@ -7018,7 +8000,18 @@
               "short_title": "Urban Design Thesis 城市設計論文"
             }
           },
-          "info": {}
+          "info": {
+            "course_components": {},
+            "description": {
+              "ENG": "This course covers the general procedures of theoretical inquiry as it relates to urban design, from scoping the research terrain, identifying and focusing on conceptual frameworks and research questions, to determining the techniques, scope and phasing of investigations, as well as criteria for the development of interpretations and paradigms. For the dissertation, students will develop a proposal and produce intellectually rigorous piece of written or designed work. The topic will be defined in discussion with advisors, either in relationship with the design studio, or as an independent research on a topic related to urban design.Grade DescriptorsGrade AOutstanding performance on all learning outcomes.Grade A-Generally outstanding performance on all (or almost all) learning outcomes.Grade BSubstantial performance on all learning outcomes, OR high performance on some learning outcomes which compensates for less satisfactory performance on others, resulting in overall substantial performance.Grade CSatisfactory performance on the majority of learning outcomes, possibly with a few weaknesses.Grade DBarely satisfactory performance on a number of learning outcomes.Grade FUnsatisfactory performance on a number of learning outcomes, OR failure to meet specified assessment requirements."
+            },
+            "grading_basis": "Graded",
+            "requirement": "For students of MSc in Urban Design.Prerequisite: URBD5720 Urban Design Studio II",
+            "title": {
+              "ENG": "Urban Design Thesis"
+            },
+            "units": "6.00"
+          }
         }
       },
       "info": {
@@ -8589,7 +9582,9 @@
   },
   "info": {
     "name": {
-      "ENG": "2019-20 Summer Session"
+      "ENG": "2019-20 Summer Session",
+      "ZHS": "2019-20 Summer Session",
+      "ZHT": "2019-20 學年暑期課程"
     }
   }
 }
